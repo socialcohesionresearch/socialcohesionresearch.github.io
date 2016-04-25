@@ -1,0 +1,146 @@
+---
+layout: default
+title: Social Cohesion Research
+section_id: home
+services:
+  -
+    - title: Web design
+      icon: layout
+      desc:
+        Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia vitae id enim omnis perspiciatis. modi maxime eos.
+      color:
+    - title: Web design
+      icon: layout
+      desc:
+        Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia vitae id enim omnis perspiciatis. modi maxime eos.
+      color:
+    - title: Web design
+      icon: layout
+      desc:
+        Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia vitae id enim omnis perspiciatis. modi maxime eos.
+      color:
+  -
+    - title: Web design
+      icon: layout
+      desc:
+        Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia vitae id enim omnis perspiciatis. modi maxime eos.
+      color: yellow
+    - title: Web design
+      icon: layout
+      desc:
+        Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia vitae id enim omnis perspiciatis. modi maxime eos.
+      color: yellow
+    - title: Web design
+      icon: layout
+      desc:
+        Accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia vitae id enim omnis perspiciatis. modi maxime eos.
+      color: yellow
+
+milestones:
+  - from: 0
+    to: 15
+    title: Research Projects Completed
+  - from: 0
+    to: 150
+    title: Tweets Analysed A Minute
+  - from: 0
+    to: 8
+    title: Tweets a day per person 
+  - from: 0
+    to: 30
+    title: Percentage of time spent on Social Media
+
+works:
+  - image: work-1.jpg
+    title: Beautiful Girl
+    category: Design &amp; Development
+  - image: work-2.jpg
+    title: Look at me
+    category: Design &amp; Development
+  - image: work-3.jpg
+    title: Am I cute
+    category: Design &amp; Development
+  - image: work-4.jpg
+    title: Umbrella
+    category: Design &amp; Development
+---
+
+{% include slider.html %}
+
+<div class='full' style='background: #ffffff'>
+  <div class='row'>
+    <div class='large-6 columns'>
+      <img class='fadeinleft' src='{{site.url}}/images/who.png'>
+    </div>
+    <div class='large-6 columns'>
+      <h2>Who are we?</h2>
+      <p>
+        Quibusdam ea excepturi repudiandae. voluptates voluptatem quam quod quaerat sed in praesentium sint. ipsum accusamus provident debitis cupiditate labore at voluptate qui ab dolore corporis itaque et ea. accusamus laborum totam omnis inventore et error aut et eos aut. fuga mollitia vitae id enim omnis perspiciatis. modi maxime eos adipisci dolorem aut id ipsam quis sit et ut odio dolores.
+      </p>
+      <a href="who-are-we.html" class='button_dark boxed'>Learn More</a>
+    </div>
+  </div>
+</div>
+<div class='full bg-4 no-padding'>
+  <div class='two spacing'></div>
+  <div class='row'>
+    {% for milestone in page.milestones %}
+      <div class='medium-3 large-3 columns'>
+        <div class='milestone light'>
+          <strong data-from='{{milestone.from}}' data-to='{{milestone.to}}'></strong>
+          <span>{{milestone.title}}</span>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <div class='two spacing'></div>
+</div>
+
+<div class='full' style='background: #ffffff'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h2>Our recent research releases</h2>
+      <div class='two spacing'></div>
+    </div>
+  </div>
+
+  <div class='row'>
+    {% for post in site.posts %}
+      {% if forloop.index > 3 %}
+        {% break %}
+      {% endif %}
+
+      <div class='large-4 medium-4 columns'>
+        <div class='mod modBlogPost'>
+          {% for image in post.images %}
+            {% unless forloop.first %}
+              {% break %}
+            {% endunless %}
+            <a href="{{post.url}}"><img alt="" src="{{image}}" /></a>
+          {% endfor %}
+          <div class='content'>
+		  <h4><a href="{{post.url}}"">{{post.title}}</a></h4>
+            <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
+            <p>{{post.excerpt}}</p>
+            <!--
+              <div class="tags">
+                {% for cat in post.categories %}
+                  <a href="#">{{cat | capitalize}}</a>
+                  {% unless forloop.last %}
+                    ,
+                  {% endunless %}
+                {% endfor %}
+              </div>
+            -->
+          </div>
+        </div>
+      </div>
+	  {% endfor %}
+	  </div>
+	<div class='row'>
+	<div class="two spacing"></div>
+<div class='centered-text'><a href="{{ site.url }}/releases" class='button_dark boxed'>View All Releases</a></div>
+<div class='two spacing'></div>
+  </div>
+  </div>
+{% include get-in-touch.html %}
