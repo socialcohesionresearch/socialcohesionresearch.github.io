@@ -1,0 +1,36 @@
+- name: Home
+  path: index.html
+  section_id: home
+- name: Projects
+  path: what-we-do.html
+  section_id: projects
+  children:
+    - name: What we do
+      path: what-we-do.html
+    - name: How we do it
+      path: how-we-do-it.html  
+- name: Twitter Index
+  path: twitter-index.html
+  section_id: twitter index
+- name: Social Cohesion Index
+  path: social-cohesion-index.html
+  section_id: social cohesion index
+- name: Our Research
+  path: releases.html
+  section_id: our research
+  children:
+    - name: Releases
+      path: releases.html
+    - name: Publicly Available Reports
+      path: public-reports.html
+    - name: Funding
+      path: funding.html
+    - name: Bespoke Research
+      path: bespoke-research.html
+- name: About us
+  path: who-are-we.html
+  children:
+    - name: Who are we?
+      path: who-are-we.html
+    - name: Contact Us
+      path: contact.html

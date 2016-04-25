@@ -1,0 +1,35 @@
+- image: home-slide/guys.jpg
+  desc_location: center
+  desc:
+    <h2>Text Goes Here</h2>
+    <h4 class="white_text">text goes here too</h4>
+    <div class='two spacing'></div>
+    <a class='button boxed'>View Features</a>
+- image: home-slide/twitter.jpg
+  desc_location: left
+  desc:
+    <h2>Text Goes Here</h2>
+    <h4 class="white_text">text goes here too</h4>
+    <div class='two spacing'></div>
+    <a class='button boxed'>Learn More</a>
+- image: home-slide/war.jpg
+  desc_location: right
+  desc: 
+    <h2>Text Goes Here</h2>
+    <h4 class="white_text">text goes here too</h4>
+    <div class='two spacing'></div>
+    <a class='button boxed'>Learn More</a>
+- image: home-slide/hands2.jpg
+  desc_location: right
+  desc:
+    <h2>Text Goes Here</h2>
+    <h4 class="white_text">text goes here too</h4>
+    <div class='two spacing'></div>
+    <a class='button boxed'>Learn More</a>
+- image: home-slide/smoke.jpg
+  desc_location: right
+  desc:
+    <h2>Text Goes Here</h2>
+    <h4 class="white_text">text goes here too</h4>
+    <div class='two spacing'></div>
+    <a class='button boxed'>Purchase Now</a>
