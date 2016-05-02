@@ -20,7 +20,7 @@
   section_id: our research
   children:
     - name: Releases
-      path: releases.html
+      path: /releases/
     - name: Publicly Available Reports
       path: public-reports.html
     - name: Funding
