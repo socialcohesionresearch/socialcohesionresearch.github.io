@@ -28,9 +28,9 @@
     - name: Bespoke Research
       path: bespoke-research.html
 - name: About us
-  path: who-are-we.html
+  path: about.html
   children:
-    - name: Who are we?
-      path: who-are-we.html
+    - name: About us
+      path: about.html
     - name: Contact Us
       path: contact.html
