@@ -117,13 +117,10 @@ Social Cohesion Research was born of <a href="www.vibrand.co.za">Vibrand Researc
   </div>
 
   <div class='row'>
-    {% for post in site.posts %}
+    {% for post in site.posts limit:3 %}
+{% for post in site.posts %}
   {% if post.categories contains 'releases' %}
-      {% if forloop.index > 3 %}
-        {% break %}
-      {% endif %}
-
-      <div class='large-4 medium-4 columns'>
+          <div class='large-4 medium-4 columns'>
         <div class='mod modBlogPost'>
           {% for image in post.images %}
             {% unless forloop.first %}
@@ -148,6 +145,10 @@ Social Cohesion Research was born of <a href="www.vibrand.co.za">Vibrand Researc
           </div>
         </div>
       </div>
+  {% endif %}
+{% endfor %}
+{% endfor %}
+
 	  {% endfor %}
 	  </div>
 	<div class='row'>
