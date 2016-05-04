@@ -20,7 +20,7 @@ section_id: releases
           {% endfor %}
           <div class='content'>
 		  <h4><a href="{{post.url}}"">{{post.title}}</a></h4>
-            <p class='date_small'>{{post.date | date: "%B %d, %Y" }}</p>
+            <p class='date'>{{post.date | date: "%B %d, %Y" }}</p>
             <p>{{post.excerpt}}</p>
 			<p><a href="{{post.url}}">Read More</a></p>
             <!--

@@ -744,11 +744,8 @@ ul.info i:hover {
   color: #F9A61C;
   display: block;
   padding: 20px 0;
-  font-size: 20px;
+  font-size: 36px;
   font-weight: bold;
-}
-.date_small {
-	font-size: 0.8rem;
 }
 
 .comments-wrapper {
@@ -785,4 +782,3 @@ ul.info i:hover {
 .white_text {
 	color: #fff;
 }
-
