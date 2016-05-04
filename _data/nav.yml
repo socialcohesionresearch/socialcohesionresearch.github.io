@@ -16,11 +16,11 @@
   path: social-cohesion-index.html
   section_id: social cohesion index
 - name: Our Research
-  path: releases.html
+  path: public-reports.html
   section_id: our research
   children:
     - name: Releases
-      path: releases/index.html
+      path: releases.html
     - name: Publicly Available Reports
       path: public-reports.html
     - name: Funding
