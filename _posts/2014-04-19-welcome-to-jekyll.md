@@ -5,6 +5,7 @@ date:   2014-04-19 16:49:53
 author: jekyll
 excerpt: A short excerpt goes here, it needs to be around 50 words to keep a standard look and feel between each blog "box". It is best to make is impactful without giving too much content away. You are looking to entice to reader to click read more.
 images: images/blog-people.jpg
+categories: releases
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
