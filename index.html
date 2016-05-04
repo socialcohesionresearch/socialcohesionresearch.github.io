@@ -131,7 +131,7 @@ Social Cohesion Research was born of <a href="www.vibrand.co.za">Vibrand Researc
           {% endfor %}
           <div class='content'>
 		  <h4 style="margin-bottom: 0px; margin-top: 0px; padding: 5px; background-color: #333;"><a href="{{post.url}}"">{{post.title}}</a></h4>
-            <p style="font-size: 11px; padding: 5px; background-color: #333; color: 333; margin: 0px;" class='date'>{{post.date | date: "%B %d, %Y" }}</p>
+            {{post.date | date: "%B %d, %Y" }}
             <p>{{post.excerpt}}</p>
             <!--
               <div class="tags">
