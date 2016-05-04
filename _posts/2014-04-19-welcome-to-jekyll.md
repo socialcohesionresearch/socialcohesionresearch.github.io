@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  Press Release Headline 1
 date:   2014-04-19 16:49:53
-author: jekyll
+author: Social Cohesion Research
 excerpt: A short excerpt goes here, it needs to be around 50 words to keep a standard look and feel between each blog "box". It is best to make is impactful without giving too much content away. You are looking to entice to reader to click read more.
-images: images/blog-people.jpg
+images: images/blog-images/info.jpg
 categories: releases
 ---
 

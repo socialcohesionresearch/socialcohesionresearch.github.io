@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Design need to be better"
+title:  Public Research Release Example
 date:   2014-05-05 20:37:53 +0800
 author: Andy Budd
 excerpt: A short excerpt goes here, it needs to be around 50 words to keep a standard look and feel between each blog "box". It is best to make is impactful without giving too much content away. You are looking to entice to reader to click read more.
-images: images/blog-people.jpg
+images: images/blog-images/clash.jpg
 categories: public_research
 ---
 
