@@ -5,7 +5,7 @@
     <h4 class="white_text">text goes here too</h4>
     <div class='two spacing'></div>
     <a class='button boxed'>View Features</a>
-- image: home-slide/twitter.jpg
+- image: home-slide/mobile.jpg
   desc_location: left
   desc:
     <h2>Text Goes Here</h2>
@@ -19,14 +19,14 @@
     <h4 class="white_text">text goes here too</h4>
     <div class='two spacing'></div>
     <a class='button boxed'>Learn More</a>
-- image: home-slide/hands2.jpg
+- image: home-slide/sky.jpg
   desc_location: right
   desc:
     <h2>Text Goes Here</h2>
     <h4 class="white_text">text goes here too</h4>
     <div class='two spacing'></div>
     <a class='button boxed'>Learn More</a>
-- image: home-slide/smoke.jpg
+- image: home-slide/protest.jpg
   desc_location: right
   desc:
     <h2>Text Goes Here</h2>
