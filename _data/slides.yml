@@ -12,22 +12,22 @@
     <h4 class="white_text">text goes here too</h4>
     <div class='two spacing'></div>
     <a class='button boxed'>Learn More</a>
-- image: home-slide/war.jpg
-  desc_location: right
+- image: home-slide/refuge.jpg
+  desc_location: left
   desc: 
     <h2>Text Goes Here</h2>
     <h4 class="white_text">text goes here too</h4>
     <div class='two spacing'></div>
     <a class='button boxed'>Learn More</a>
 - image: home-slide/sky.jpg
-  desc_location: right
+  desc_location: center
   desc:
     <h2>Text Goes Here</h2>
     <h4 class="white_text">text goes here too</h4>
     <div class='two spacing'></div>
     <a class='button boxed'>Learn More</a>
 - image: home-slide/protest.jpg
-  desc_location: right
+  desc_location: left
   desc:
     <h2>Text Goes Here</h2>
     <h4 class="white_text">text goes here too</h4>
