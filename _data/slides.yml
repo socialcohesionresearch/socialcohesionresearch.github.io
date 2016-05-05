@@ -25,11 +25,11 @@
     <h2>Indepth Research</h2>
     <h4 class="white_text">on the Global Social Condition</h4>
     <div class='two spacing'></div>
-    <a class='button boxed'>Learn More</a>
+    <a href="public-reports.html" class='button boxed'>Read Research Reports</a>
 - image: home-slide/protest.jpg
   desc_location: left
   desc:
     <h2>Understanding Conflict</h2>
     <h4 class="white_text">and its deep social roots</h4>
     <div class='two spacing'></div>
-    <a class='button boxed'>Purchase Now</a>
+    <a href="contact.html" class='button boxed'>Contact Us</a>
