@@ -5,13 +5,6 @@
     <h4 class="white_text">The Complexity of Global Society</h4>
     <div class='two spacing'></div>
     <a href="what-we-do.html" class='button boxed'>Find Out More</a>
-- image: home-slide/mobile.jpg
-  desc_location: left
-  desc:
-    <h2>Global Voices</h2>
-    <h4 class="white_text">Unpacked and Dissected</h4>
-    <div class='two spacing'></div>
-    <a href="twitter-index.html" class='button boxed'>Learn More</a>
 - image: home-slide/refuge.jpg
   desc_location: left
   desc: 
@@ -19,6 +12,13 @@
     <h4 class="white_text">Designed for Evolving Global Events</h4>
     <div class='two spacing'></div>
     <a href="how-we-do-it.html" class='button boxed'>Learn More</a>
+- image: home-slide/mobile.jpg
+  desc_location: left
+  desc:
+    <h2>Global Voices</h2>
+    <h4 class="white_text">Unpacked and Dissected</h4>
+    <div class='two spacing'></div>
+    <a href="twitter-index.html" class='button boxed'>Learn More</a>
 - image: home-slide/sky.jpg
   desc_location: center
   desc:
