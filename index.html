@@ -132,8 +132,10 @@ The Citizen Research Centre was born of <a href="www.vibrand.co.za">Vibrand Rese
           <div class='content'>
 		  <div style="margin-bottom: 0px; margin-top: 0px; padding: 0px; background-color: #fff;">
 		  <h4 style="padding: 10px; background-color: #212121;"><a href="{{post.url}}"">{{post.title}}</a></h4>
-            <p style="font-size: 11px; color: #212121; padding: 10px; border: 1px solid #212121;" class='date'>{{post.date | date: "%B %d, %Y" }}</p>
-            <p style="color: #fff;">{{post.excerpt}}</p>
+            <div style="margin-top: 0px; padding: 0px; margin: 0px; border: 1px solid #212121;">
+			<p style="font-size: 11px; color: #212121; padding: 10px;" class='date'>{{post.date | date: "%B %d, %Y" }}</p>
+            <p style="color: #212121;">{{post.excerpt}}</p>
+			</div>
             <!--
               <div class="tags">
                 {% for cat in post.categories %}
