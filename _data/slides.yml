@@ -1,35 +1,35 @@
 - image: home-slide/watch.jpg
   desc_location: center
   desc:
-    <h2>Text Goes Here</h2>
-    <h4 class="white_text">text goes here too</h4>
+    <h2>Understanding</h2>
+    <h4 class="white_text">Societies</h4>
     <div class='two spacing'></div>
-    <a class='button boxed'>View Features</a>
+    <a href="what-we-do.html" class='button boxed'>Find Out More</a>
 - image: home-slide/mobile.jpg
   desc_location: left
   desc:
-    <h2>Text Goes Here</h2>
-    <h4 class="white_text">text goes here too</h4>
+    <h2>Global Voices</h2>
+    <h4 class="white_text">Unpacked and Dissected</h4>
     <div class='two spacing'></div>
-    <a class='button boxed'>Learn More</a>
+    <a href="twitter-index.html" class='button boxed'>Learn More</a>
 - image: home-slide/refuge.jpg
   desc_location: left
   desc: 
-    <h2>Text Goes Here</h2>
-    <h4 class="white_text">text goes here too</h4>
+    <h2>Fluid Research</h2>
+    <h4 class="white_text">Designed for Evolving Global Events</h4>
     <div class='two spacing'></div>
-    <a class='button boxed'>Learn More</a>
+    <a href="how-we-do-it.html" class='button boxed'>Learn More</a>
 - image: home-slide/sky.jpg
   desc_location: center
   desc:
-    <h2>Text Goes Here</h2>
-    <h4 class="white_text">text goes here too</h4>
+    <h2>Indepth Research</h2>
+    <h4 class="white_text">on the Global Social Condition</h4>
     <div class='two spacing'></div>
     <a class='button boxed'>Learn More</a>
 - image: home-slide/protest.jpg
   desc_location: left
   desc:
-    <h2>Text Goes Here</h2>
-    <h4 class="white_text">text goes here too</h4>
+    <h2>Understanding Conflict</h2>
+    <h4 class="white_text">and its deep social roots</h4>
     <div class='two spacing'></div>
     <a class='button boxed'>Purchase Now</a>
