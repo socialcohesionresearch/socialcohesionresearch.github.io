@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: releases
 title:  Press Release 2
 date:   2014-05-01 20:37:53 +0800
 author: Andy Budd

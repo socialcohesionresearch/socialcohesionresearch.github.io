@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: releases
 title:  Press Release Headline 1
 date:   2014-04-19 16:49:53
 author: Social Cohesion Research
