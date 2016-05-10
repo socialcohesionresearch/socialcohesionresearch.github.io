@@ -1,12 +1,14 @@
 ---
 layout: public_reports
-title:  Public Research Release 2
-date:   2014-05-05 20:37:53 +0800
+title: Public Research Release 2
+date: "2014-05-05 20:37:53 +0800"
 author: Andy Budd
-excerpt: A short excerpt goes here, it needs to be around 50 words to keep a standard look and feel between each blog "box". It is best to make is impactful without giving too much content away. You are looking to entice to reader to click read more.
-images: images/blog-images/rise.jpg
+excerpt: "A short excerpt goes here, it needs to be around 50 words to keep a standard look and feel between each blog \"box\". It is best to make is impactful without giving too much content away. You are looking to entice to reader to click read more."
+images: "images/blog-images/rise.jpg"
 categories: public_research
+published: true
 ---
+![township]({{site.baseurl}}/_posts/township.jpg)![township.jpg]({{site.baseurl}}/_posts/township.jpg)
 
 Deleniti laboriosam soluta animi non corrupti. labore est quasi omnis ducimus. facere pariatur molestiae eum vel dignissimos debitis quam et id
 
