@@ -146,7 +146,7 @@ input:focus {
     visibility: visible;
 }</style>
 <div id="users">
-  <h3>Filter Table by:</h3><button class="sort" data-sort="country">Country</button> | <button class="sort" data-sort="population">Population</button> | <button class="sort" data-sort="numbertweets">No of Tweets (2015)</button> | <button class="sort" data-sort="countryvol">ountry Volume Ranking</button> | <button class="sort" data-sort="engper">Percentage of English Tweets</button> | <button class="sort" data-sort="araper">Percentage of Arabic Tweets</button> | <button class="sort" data-sort="freper">Percentage of French Tweets</button> | <button class="sort" data-sort="porper">Percentage of Portuguese Tweets</button> | <button class="sort" data-sort="indper">Percentage of Indigenous Tweets</button> | <button class="sort" data-sort="tpp">TPP per annum</button> | <button class="sort" data-sort="tai">TAI deviation from African mean:</button> | <button class="sort" data-sort="tairank">TAI deviation from African mean ranking:</button>
+  <h3>Filter Table by:</h3><button class="sort" data-sort="tairank">TAI deviation from African mean ranking:</button>
   <table>
     <!-- IMPORTANT, class="list" have to be at tbody -->
     <tbody>
@@ -154,37 +154,37 @@ input:focus {
        <th><div class="tooltip sort" data-sort="country">Country
   <span class="tooltiptext tooltip-top">Data for Coutnry</span>
 </div></th>
-       <th><div class="tooltip">Pop
+       <th><div class="tooltip sort" data-sort="population">Pop
   <span class="tooltiptext tooltip-top">Population</span>
 </div></th>
-       <th><div class="tooltip">Tweets
+       <th><div class="tooltip sort" data-sort="numbertweets">Tweets
   <span class="tooltiptext tooltip-top">No of Tweets (2015)</span>
 </div></th>
-      <th><div class="tooltip">CVR
+      <th><div class="tooltip sort" data-sort="countryvol">CVR
   <span class="tooltiptext tooltip-top">Country volume ranking</span>
 </div></th>
-      <th><div class="tooltip">% ENG
+      <th><div class="tooltip sort" data-sort="engper">% ENG
   <span class="tooltiptext tooltip-top">Percentage of 2015 tweets in English</span>
 </div></th>
-      <th><div class="tooltip">% ARA
+      <th><div class="tooltip sort" data-sort="araper">% ARA
   <span class="tooltiptext tooltip-top">Percentage of 2015 tweets in Arabic</span>
 </div></th>
-      <th><div class="tooltip">% FRE
+      <th><div class="tooltip sort" data-sort="freper">% FRE
   <span class="tooltiptext tooltip-top">Percentage of 2015 tweets in French</span>
 </div></th>
-      <th><div class="tooltip">% POR
+      <th><div class="tooltip sort" data-sort="porper">% POR
   <span class="tooltiptext tooltip-top">Percentage of 2015 tweets in Portuguese:</span>
 </div></th>
-      <th><div class="tooltip">% IND or Other
+      <th><div class="tooltip sort" data-sort="indper">% IND or Other
   <span class="tooltiptext tooltip-top">Percentage of 2015 tweets in Indigenous or other languages</span>
 </div></th>
-      <th><div class="tooltip">TPP
+      <th><div class="tooltip sort" data-sort="tpp">TPP
   <span class="tooltiptext tooltip-top">TPP per annum</span>
 </div></th>
-      <th><div class="tooltip">TAI
+      <th><div class="tooltip sort" data-sort="tai">TAI
   <span class="tooltiptext tooltip-top">TAI deviation from African mean:</span>
 </div></th>
-      <th><div class="tooltip">TAI Rank
+      <th><div class="tooltip sort" data-sort="tairank">TAI Rank
   <span class="tooltiptext tooltip-top">TAI deviation from African mean ranking:</span>
 </div></th>
       </tr>
