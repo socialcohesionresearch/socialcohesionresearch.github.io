@@ -99,42 +99,60 @@ input:focus {
   right:-5px;
 }</style>
 <div id="users">
-  <h3>Filter Table by:</h3><button class="sort" data-sort="name">Name</button> | <button class="sort" data-sort="born">Year</button> | <button class="sort" data-sort="number">Number</button>
+  <h3>Filter Table by:</h3><button class="sort" data-sort="country">Country</button> | <button class="sort" data-sort="population">Population</button> | <button class="sort" data-sort="numbertweets">No of Tweets (2015)</button> | <button class="sort" data-sort="countryvol">ountry Volume Ranking</button> | <button class="sort" data-sort="engper">Percentage of English Tweets</button> | <button class="sort" data-sort="eraper">Percentage of Arabic Tweets</button> | <button class="sort" data-sort="freper">Percentage of French Tweets</button> | <button class="sort" data-sort="porper">Percentage of Portuguese Tweets</button> | <button class="sort" data-sort="indper">Percentage of Indigenous Tweets</button> | <button class="sort" data-sort="tpp">TPP per annum</button> | <button class="sort" data-sort="tai">TAI deviation from African mean:</button> | <button class="sort" data-sort="tairank">TAI deviation from African mean ranking:</button>
   <table>
     <!-- IMPORTANT, class="list" have to be at tbody -->
     <tbody>
       <tr>
        <th>Country</th>
        <th>Year Formed</th>
-       <th>Number</th>
+       <th>No of Tweets (2015)</th>
+      <th>Country volume ranking</th>
+      <th>Percentage of 2015 tweets in English</th>
+      <th>Percentage of 2015 tweets in Arabic</th>
+      <th>Percentage of 2015 tweets in French</th>
+      <th>Percentage of 2015 tweets in Portuguese:</th>
+      <th>Percentage of 2015 tweets in Indigenous or other languages:</th>
+      <th>TPP per annum</th>
+      <th>TAI deviation from African mean:</th>
+      <th>TAI deviation from African mean ranking:</th>
       </tr>
     </tbody>
     <tbody class="list">
       <tr>
-        <td class="name">Jonny Stromberg</td>
-        <td class="born">1986</td>
-        <td class="number">10</td>
+        <td class="country">Angola</td>
+        <td class="population">198612312</td>
+        <td class="numbertweets">100</td>
+        <td class="countryvol">200000001</td>
+        <td class="engper">10%</td>
+        <td class="araper">20%</td>
+        <td class="freper">80%</td>
+        <td class="porper">30%</td>
+        <td class="indper">15%</td>
+        <td class="tpp">100</td>
+        <td class="tai">200</td>
+        <td class="tairank">1</td>
       </tr>
-      <tr>
-        <td class="name">Jonas Arnklint</td>
-        <td class="born">1985</td>
-        <td class="number">200</td>
+       <tr>
+        <td class="country">South Africa</td>
+        <td class="population">1986232323</td>
+        <td class="numbertweets">200</td>
+        <td class="countryvol">20000000</td>
+        <td class="engper">20%</td>
+        <td class="araper">30%</td>
+        <td class="freper">50%</td>
+        <td class="porper">10%</td>
+        <td class="indper">25%</td>
+        <td class="tpp">200</td>
+        <td class="tai">300</td>
+        <td class="tairank">2</td>
       </tr>
-      <tr>
-        <td class="name">Martina Elm</td>
-        <td class="born">1986</td>
-        <td class="number">100123123</td>
-      </tr>
-      <tr>
-        <td class="name">Gustaf Lindqvist</td>
-        <td class="born">1983</td>
-        <td class="number">10123123123123</td>
-      </tr>
+      
     </tbody>
   </table>
 
 </div><script src="http://listjs.com/no-cdn/list.js"></script><script>var options = {
-  valueNames: [ 'name', 'born', 'number' ]
+  valueNames: [ 'country', 'born', 'number' ]
 };
 
 var userList = new List('users', options);</script></p>
