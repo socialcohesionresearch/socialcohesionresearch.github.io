@@ -99,15 +99,16 @@ input:focus {
   right:-5px;
 }</style>
 <div id="users">
-   <button class="sort" data-sort="name">Name</button>
-        <button class="sort" data-sort="born">Year</button>
+  <h3>Filter Table by:</h3><button class="sort" data-sort="name">Name</button> | <button class="sort" data-sort="born">Year</button>
   <table>
     <!-- IMPORTANT, class="list" have to be at tbody -->
-    <tbody class="list">
+    <tbody>
       <tr>
        <th>Country</th>
        <th>Year Formed</th>
       </tr>
+    </tbody>
+    <tbody class="list">
       <tr>
         <td class="name">Jonny Stromberg</td>
         <td class="born">1986</td>
