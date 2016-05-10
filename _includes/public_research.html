@@ -1,6 +1,6 @@
 {% for post in site.posts %}
   {% if post.categories contains 'public_research' %}
-    <div class='large-6 medium-6 columns'>
+    <div class='large-6 medium-6 columns' style="margin-top: 40px;">
         <div class='mod modBlogPost'>
           {% for image in post.images %}
             {% unless forloop.first %}
