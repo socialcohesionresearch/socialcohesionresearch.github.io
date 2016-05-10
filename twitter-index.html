@@ -98,6 +98,32 @@ input:focus {
   position: relative;
   top:-4px;
   right:-5px;
+}
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+ 
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
 }</style>
 <div id="users">
   <h3>Filter Table by:</h3><button class="sort" data-sort="country">Country</button> | <button class="sort" data-sort="population">Population</button> | <button class="sort" data-sort="numbertweets">No of Tweets (2015)</button> | <button class="sort" data-sort="countryvol">ountry Volume Ranking</button> | <button class="sort" data-sort="engper">Percentage of English Tweets</button> | <button class="sort" data-sort="araper">Percentage of Arabic Tweets</button> | <button class="sort" data-sort="freper">Percentage of French Tweets</button> | <button class="sort" data-sort="porper">Percentage of Portuguese Tweets</button> | <button class="sort" data-sort="indper">Percentage of Indigenous Tweets</button> | <button class="sort" data-sort="tpp">TPP per annum</button> | <button class="sort" data-sort="tai">TAI deviation from African mean:</button> | <button class="sort" data-sort="tairank">TAI deviation from African mean ranking:</button>
@@ -105,7 +131,9 @@ input:focus {
     <!-- IMPORTANT, class="list" have to be at tbody -->
     <tbody>
       <tr>
-       <th> Country</th>
+       <th><div class="tooltip">Country
+  <span class="tooltiptext">Data for Coutnry</span>
+</div></th>
        <th>Population</th>
        <th>No of Tweets (2015)</th>
       <th>Country volume ranking</th>
