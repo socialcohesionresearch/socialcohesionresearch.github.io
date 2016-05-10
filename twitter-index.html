@@ -51,16 +51,15 @@ input:focus {
 }
 .sort {
   padding: 10px;
-  margin: 10px;
+  margin: 2px;
   border:none;
   display:inline-block;
   color:#fff;
   text-decoration: none;
-  background-color: #28a8e0;
+  background-color: #fff;
 }
 .sort:hover {
-  text-decoration: none;
-  background-color:#1b8aba;
+  text-decoration: underline;
 }
 .sort:focus {
   outline:none;
@@ -151,7 +150,7 @@ input:focus {
     <!-- IMPORTANT, class="list" have to be at tbody -->
     <tbody>
       <tr>
-       <th><div class="tooltip">Country
+       <th><div class="tooltip sort" data-sort="country">Country
   <span class="tooltiptext tooltip-top">Data for Coutnry</span>
 </div></th>
        <th><div class="tooltip">Pop
