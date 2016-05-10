@@ -7,6 +7,7 @@ excerpt: "A short excerpt goes here, it needs to be around 50 words to keep a st
 images: "images/blog-images/rise.jpg"
 categories: public_research
 ---
+![]({{site.baseurl}}/images/township.jpg)![township.jpg]({{site.baseurl}}/images/township.jpg)
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
