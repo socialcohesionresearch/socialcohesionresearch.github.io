@@ -343,7 +343,7 @@ a:hover, a:focus {
         <th scope="col">Budget</th>
       </tr>
     </thead>
-    <tbody>
+    <tbody class="list">
       <tr>
         <th scope="row" class="country">South Africa</th>
         <td data-title="Released" >2013</td>
@@ -365,5 +365,10 @@ a:hover, a:focus {
      
     </tbody>
   </table>
+  <script src="http://listjs.com/no-cdn/list.js"></script><script>var options = {
+  valueNames: [ 'country', 'born', 'numbertweets', 'population', 'countryvol', 'engper', 'araper', 'freper', 'porper', 'indper', 'tpp', 'tai', 'tairank' ]
+};
+
+var userList = new List('users', options);</script>
 </div>
     <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
