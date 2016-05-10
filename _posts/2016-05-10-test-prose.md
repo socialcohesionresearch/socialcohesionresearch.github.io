@@ -7,6 +7,8 @@ excerpt: "A short excerpt goes here, it needs to be around 50 words to keep a st
 images: "images/blog-images/rise.jpg"
 categories: public_research
 ---
-## A New Post
+
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+<script id="infogram_0_bdba1306-1613-4946-a7c4-2a36a70ed5bc" title="" src="//e.infogr.am/js/embed.js?Jcj" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><br><a style="color:#989898!important;text-decoration:none!important;" href="http://charts.infogr.am/pie-chart?utm_source=embed_bottom&utm_medium=seo&utm_campaign=pie_chart" target="_blank">Create pie charts</a></div>
