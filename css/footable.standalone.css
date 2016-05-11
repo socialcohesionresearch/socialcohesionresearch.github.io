@@ -632,7 +632,7 @@ table.footable > tbody > tr.footable-detail-row > th {
 	content: "\e825";
 }
 .fooicon-plus:before {
-	content: "\e8f8";
+	content: "\e815";
 }
 .fooicon-minus:before {
 	content: "\e818";
@@ -647,7 +647,7 @@ table.footable > tbody > tr.footable-detail-row > th {
 	content: "\e852";
 }
 .fooicon-sort-asc:before {
-	content: "\e871";
+	content: "\e869";
 }
 .fooicon-sort-desc:before {
 	content: "\e86e";
