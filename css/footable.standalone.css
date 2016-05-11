@@ -629,43 +629,43 @@ table.footable > tbody > tr.footable-detail-row > th {
 	box-sizing: border-box;
 }
 .fooicon-loader:before {
-	content: "\e800";
+	content: "\e825";
 }
 .fooicon-plus:before {
-	content: "\e800";
+	content: "\e8f8";
 }
 .fooicon-minus:before {
-	content: "\e800";
+	content: "\e818";
 }
 .fooicon-search:before {
-	content: "\e800";
+	content: "\e803";
 }
 .fooicon-remove:before {
-	content: "\e800";
+	content: "\e82a";
 }
 .fooicon-sort:before {
-	content: "\e800";
+	content: "\e852";
 }
 .fooicon-sort-asc:before {
-	content: "\f160";
+	content: "\e871";
 }
 .fooicon-sort-desc:before {
-	content: "\f161";
+	content: "\e86e";
 }
 .fooicon-pencil:before {
-	content: "\f040";
+	content: "\e834";
 }
 .fooicon-trash:before {
-	content: "\f1f8";
+	content: "\e844";
 }
 .fooicon-eye-close:before {
-	content: "\f070";
+	content: "\e825";
 }
 .fooicon-flash:before {
-	content: "\f0e7";
+	content: "\e8c7";
 }
 .fooicon-cog:before {
-	content: "\f013";
+	content: "\e851";
 }
 table.footable > thead > tr.footable-filtering > th {
 	border-bottom-width: 1px;
