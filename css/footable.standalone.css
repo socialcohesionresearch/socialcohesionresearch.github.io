@@ -644,7 +644,7 @@ table.footable > tbody > tr.footable-detail-row > th {
 	content: "\e800";
 }
 .fooicon-sort:before {
-	content: "\f0dc";
+	content: "\e800";
 }
 .fooicon-sort-asc:before {
 	content: "\f160";
