@@ -58,7 +58,7 @@
 .footable.table > thead > tr > td,
 .footable-details.table > thead > tr > th,
 .footable-details.table > thead > tr > td {
-	vertical-align: bottom;
+	vertical-align: middle;
 	border-bottom: 2px solid #ddd;
 }
 .footable.table-condensed > thead > tr > th,
