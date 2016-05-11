@@ -629,19 +629,19 @@ table.footable > tbody > tr.footable-detail-row > th {
 	box-sizing: border-box;
 }
 .fooicon-loader:before {
-	content: "\f01e";
+	content: "\e800";
 }
 .fooicon-plus:before {
-	content: "\f067";
+	content: "\e800";
 }
 .fooicon-minus:before {
-	content: "\f068";
+	content: "\e800";
 }
 .fooicon-search:before {
-	content: "\f002";
+	content: "\e800";
 }
 .fooicon-remove:before {
-	content: "\f00d";
+	content: "\e800";
 }
 .fooicon-sort:before {
 	content: "\f0dc";
