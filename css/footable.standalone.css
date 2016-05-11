@@ -644,10 +644,10 @@ table.footable > tbody > tr.footable-detail-row > th {
 	content: "\e82a";
 }
 .fooicon-sort:before {
-	content: "\e852";
+	content: "\e869";
 }
 .fooicon-sort-asc:before {
-	content: "\e869";
+	content: "\e871";
 }
 .fooicon-sort-desc:before {
 	content: "\e86e";
