@@ -629,10 +629,10 @@ table.footable > tbody > tr.footable-detail-row > th {
 	box-sizing: border-box;
 }
 .fooicon-loader:before {
-	content: "\e825";
+	content: "\e815";
 }
 .fooicon-plus:before {
-	content: "\e815";
+	content: "\e8f8";
 }
 .fooicon-minus:before {
 	content: "\e818";
