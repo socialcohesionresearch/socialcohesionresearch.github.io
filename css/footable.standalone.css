@@ -613,7 +613,7 @@ table.footable > tbody > tr.footable-detail-row > th {
 .fooicon {
 	display: inline-block;
 	font-size: inherit;
-	font-family: FontAwesome !important;
+	font-family: Fontello !important;
 	font-style: normal;
 	font-weight: 400;
 	line-height: 1;
