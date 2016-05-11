@@ -29,159 +29,78 @@ It aims to answer questions such as; what is a large amount of twitter traffic i
       </div>
 	<div class='medium-6 large-6 columns'> <div class='spacing'></div></div>
   <div class='medium-12 large-12 columns'>
-      <p>
-        <style>
-        .list {
-  font-family:sans-serif;
-}
-td {
-  padding:10px; 
-  border:solid 1px #eee;
-}
+     <!-- Footable Test -->
 
-input {
-  border:solid 1px #ccc;
-  border-radius: 5px;
-  padding:7px 14px;
-  margin-bottom:10px
-}
-input:focus {
-  outline:none;
-  border-color:#aaa;
-}
-.sort {
-  padding: 10px;
-  margin: 2px;
-  border:none;
-  display:inline-block;
-  color:#fff;
-  text-decoration: none;
-  background-color: #fff;
-}
-.sort:hover {
-  text-decoration: underline;
-  border: none!important;
-  background-color: #fff;
-}
-.sort:focus {
-  outline:none;
-}
-.sort:after {
-  display:inline-block;
-  width: 0;
-  height: 0;
-  border-left: 5px solid transparent;
-  border-right: 5px solid transparent;
-  border-bottom: 5px solid transparent;
-  content:"";
-  position: relative;
-  top:-10px;
-  right:-5px;
-}
-.sort.asc:after {
-  width: 0;
-  height: 0;
-  border-left: 5px solid transparent;
-  border-right: 5px solid transparent;
-  border-top: 5px solid #fff;
-  content:"";
-  position: relative;
-  top:4px;
-  right:-5px;
-}
-.sort.desc:after {
-  width: 0;
-  height: 0;
-  border-left: 5px solid transparent;
-  border-right: 5px solid transparent;
-  border-bottom: 5px solid #fff;
-  content:"";
-  position: relative;
-  top:-4px;
-  right:-5px;
-}
+  <table id="sorting" class="table" data-sorting="true">
+  <thead>
+    <tr>
+      <th>Country</th>
+      <th data-type="number">No of Tweets (2015)</th>
+      <th data-breakpoints="xs" data-type="number">Population</th>
+      <th data-breakpoints="xs sm" data-type="number">Country volume ranking</th>
+      <th data-breakpoints="xs sm md" data-type="number">Percentage of 2015 tweets in English</th>
+      <th data-breakpoints="xs sm md" data-type="number">Percentage of 2015 tweets in Arabic</th>
+      <th data-breakpoints="xs sm md" data-type="number">Percentage of 2015 tweets in French</th>
+      <th data-breakpoints="xs sm md" data-type="number">Percentage of 2015 tweets in Portuguese</th>
+       <th data-breakpoints="xs sm md" data-type="number">Percentage of 2015 tweets in Indigenous or other languages</th>
+        <th data-breakpoints="xs sm md" data-type="number">TPP per annum</th>
+         <th data-breakpoints="xs sm md" data-type="number">TAI deviation from African mean</th>
+          <th data-breakpoints="xs sm md" data-type="number">TAI deviation from African mean ranking</th>
+          
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>South Africa</td>
+       <td>40000000</td>
+        <td>198237198</td>
+         <td>25</td>
+          <td>1</td>
+           <td>20</td>
+            <td>40</td>
+             <td>10</td>
+              <td>5</td>
+               <td>300</td>
+                <td>300</td>
+                 <td>1</td>
+    </tr>
+    <tr>
+     <td>Angola</td>
+       <td>50000000</td>
+        <td>298237198</td>
+         <td>2</td>
+          <td>20</td>
+           <td>30</td>
+            <td>30</td>
+             <td>10</td>
+              <td>10</td>
+               <td>200</td>
+                <td>250</td>
+                 <td>2</td>
+    </tr>
+     <tr>
+     <td>Botswana</td>
+       <td>10000000</td>
+        <td>98237198</td>
+         <td>3</td>
+          <td>15</td>
+           <td>10</td>
+            <td>40</td>
+             <td>10</td>
+              <td>15</td>
+               <td>5</td>
+                <td>250</td>
+                 <td>2</td>
+    </tr>
+   
+  </tbody>
+</table>
+ <script type="text/javascript">    
+    jQuery(function() {    
+     jQuery('#sorting').footable();    
+    });    
+    </script>  
 
-}</style>
-<div id="users">
-  <table>
-    <!-- IMPORTANT, class="list" have to be at tbody -->
-    <tbody>
-      <tr>
-       <th><div class="sort" data-sort="country">COUNTRY
-</div></th>
-       <th><div class="tooltip sort" data-sort="population">POPULATION
-</div></th>
-       <th><div class="tooltip sort" data-sort="numbertweets">Tweets
-  <span class="tooltiptext tooltip-top">No of Tweets (2015)</span>
-</div></th>
-      <th><div class="tooltip sort" data-sort="countryvol">CVR
-  <span class="tooltiptext tooltip-top">Country volume ranking</span>
-</div></th>
-      <th><div class="tooltip sort" data-sort="engper">% ENG
-  <span class="tooltiptext tooltip-top">Percentage of 2015 tweets in English</span>
-</div></th>
-      <th><div class="tooltip sort" data-sort="araper">% ARA
-  <span class="tooltiptext tooltip-top">Percentage of 2015 tweets in Arabic</span>
-</div></th>
-      <th><div class="tooltip sort" data-sort="freper">% FRE
-  <span class="tooltiptext tooltip-top">Percentage of 2015 tweets in French</span>
-</div></th>
-      <th><div class="tooltip sort" data-sort="porper">% POR
-  <span class="tooltiptext tooltip-top">Percentage of 2015 tweets in Portuguese:</span>
-</div></th>
-      <th><div class="tooltip sort" data-sort="indper">% IND or Other
-  <span class="tooltiptext tooltip-top">Percentage of 2015 tweets in Indigenous or other languages</span>
-</div></th>
-      <th><div class="tooltip sort" data-sort="tpp">TPP
-  <span class="tooltiptext tooltip-top">TPP per annum</span>
-</div></th>
-      <th><div class="tooltip sort" data-sort="tai">TAI
-  <span class="tooltiptext tooltip-top">TAI deviation from African mean:</span>
-</div></th>
-      <th><div class="tooltip sort" data-sort="tairank">TAI Rank
-  <span class="tooltiptext tooltip-top">TAI deviation from African mean ranking:</span>
-</div></th>
-      </tr>
-    </tbody>
-    <tbody class="list">
-      <tr>
-        <td class="country">Angola</td>
-        <td class="population">198612312</td>
-        <td class="numbertweets">100</td>
-        <td class="countryvol">2</td>
-        <td class="engper">10<span>%</span></td>
-        <td class="araper">20<span>%</span></td>
-        <td class="freper">80<span>%</span></td>
-        <td class="porper">30<span>%</span></td>
-        <td class="indper">15<span>%</span></td>
-        <td class="tpp">100</td>
-        <td class="tai">200</td>
-        <td class="tairank">1</td>
-      </tr>
-       <tr>
-        <td class="country">South Africa</td>
-        <td class="population">1232323123</td>
-        <td class="numbertweets">200</td>
-        <td class="countryvol">1</td>
-        <td class="engper">20<span>%</span></td>
-        <td class="araper">30<span>%</span></td>
-        <td class="freper">50<span>%</span></td>
-        <td class="porper">10<span>%</span></td>
-        <td class="indper">25<span>%</span></td>
-        <td class="tpp">200</td>
-        <td class="tai">300</td>
-        <td class="tairank">2</td>
-      </tr>
-      
-    </tbody>
-  </table>
-
-</div><script src="http://listjs.com/no-cdn/list.js"></script><script>var options = {
-  valueNames: [ 'country', 'born', 'numbertweets', 'population', 'countryvol', 'engper', 'araper', 'freper', 'porper', 'indper', 'tpp', 'tai', 'tairank' ]
-};
-
-var userList = new List('users', options);</script></p>
-        <img src="images/sky.jpg">
 		</div>
     
   </div>
