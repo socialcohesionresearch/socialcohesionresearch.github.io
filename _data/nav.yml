@@ -11,6 +11,9 @@
       path: how-we-do-it.html  
 - name: Twitter Index
   path: twitter-index.html
+  children:
+    - name: African Twitter Index
+      path: africa-twitter-index.html
   section_id: twitter index
 - name: Social Cohesion Index
   path: social-cohesion-index.html
