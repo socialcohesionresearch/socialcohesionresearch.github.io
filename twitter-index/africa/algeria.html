@@ -46,7 +46,7 @@ indrank: 13/52
           <strong><h3>Percentage of 2015 tweets in French:<span style="color: #F9A61C;">{{page.perfre}}</span></h3></strong>
           <strong><h3>Percentage of 2015 tweets in Portuguese:<span style="color: #F9A61C;">{{page.perpor}}</span></h3></strong>
           <strong><h3>Percentage of 2015 tweets in Indigenous or other languages:<span style="color: #F9A61C;">{{page.perindoroth}}</span></h3></strong>
-          <div id="container" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
+          <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
         </div>
       </div>
   </div>
@@ -60,7 +60,7 @@ indrank: 13/52
             type: 'pie'
         },
         title: {
-            text: 'Browser market shares January, 2015 to May, 2015'
+            text: 'Tweets by Language (2015)'
         },
         tooltip: {
             pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
@@ -79,28 +79,25 @@ indrank: 13/52
             }
         },
         series: [{
-            name: 'Brands',
+            name: 'Languages',
             colorByPoint: true,
             data: [{
-                name: 'Microsoft Internet Explorer',
-                y: 56.33
+                name: 'English',
+                y: {{page.pereng}}
             }, {
-                name: 'Chrome',
-                y: 24.03,
+                name: 'Arabic',
+                y: {{page.perara}},
                 sliced: true,
                 selected: true
             }, {
-                name: 'Firefox',
-                y: 10.38
+                name: 'French',
+                y: {{page.perfre}}
             }, {
-                name: 'Safari',
-                y: 4.77
+                name: 'Portuguese',
+                y: {{page.perpor}}
             }, {
-                name: 'Opera',
-                y: 0.91
-            }, {
-                name: 'Proprietary or Undetectable',
-                y: 0.2
+                name: 'Indigenous or other languages',
+                y: {{page.perindoroth}}
             }]
         }]
     });
