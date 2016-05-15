@@ -1,0 +1,29 @@
+---
+layout: default
+title: Citizen Research Centre
+section_id: home
+
+countrydata:
+  - name: Algeria
+  - poprank: 8/52
+  - tweets: 25 532 709
+  - volrank: 6/52
+  - volind: +8%
+  - pereng: 13.97%
+  - perara: 60.11%
+  - perfre: 18.17%
+  - perpor: 0.15%
+  - perindoroth: 7.60%
+  - tpppa: 0.654
+  - inddevfrommean: 14%
+ ---
+
+ <div class='row'>
+    {% for countrydata in page.countrydata %}
+      <div class='medium-3 large-3 columns'>
+        <div>
+          <strong> {{countrydata.name}}</strong>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
