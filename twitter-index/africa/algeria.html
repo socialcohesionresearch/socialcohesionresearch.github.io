@@ -82,7 +82,6 @@ indrank: 13/52
         series: [{
             name: 'Languages',
             colorByPoint: true,
-            {% for language in site.data.africa.algeria %}
             data: [{
                 name: 'English',
                 y: ['{{ language.PerEng | jsonify }}']
@@ -101,7 +100,7 @@ indrank: 13/52
                 name: 'Indigenous or other languages',
                 y: ['{{ language.PerEng | jsonify }}']
             }]
-        }]{% endfor %}
+        }]
     });
 });
   </script>
