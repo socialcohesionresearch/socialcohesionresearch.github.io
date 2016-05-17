@@ -6,11 +6,11 @@ poprank: 8/52
 tweets: 25 532 709
 volrank: 6/52
 volind: +8%
-pereng: 13.97
-perara: 60.11
-perfre: 18.17
-perpor: 0.15
-perindoroth: 7.60
+pereng: {{site.data.africa.algeria.PerEng}}
+perara: {{site.data.africa.algeria.PerAra}}
+perfre: {{site.data.africa.algeria.PerFre}}
+perpor: {{site.data.africa.algeria.PerPor}}
+perindoroth: {{site.data.africa.algeria.PerIndoroth}}
 tpppa: 0.654
 inddevfrommean: 14%
 indrank: 13/52
@@ -83,22 +83,22 @@ indrank: 13/52
             name: 'Languages',
             colorByPoint: true,
             data: [{
-               name: 'English',
-                y: {{site.data.africa.algeria.PerEng}}
+                name: 'English',
+                y: {{page.pereng}}
             }, {
                 name: 'Arabic',
-                y: {{site.data.africa.algeria.PerAra}}
+                y: {{page.perara}},
                 sliced: true,
                 selected: true
             }, {
                 name: 'French',
-                y: {{site.data.africa.algeria.PerFre}}
+                y: {{page.perfre}}
             }, {
                 name: 'Portuguese',
-                y: {{site.data.africa.algeria.PerPor}}
+                y: {{page.perpor}}
             }, {
                 name: 'Indigenous or other languages',
-                y: {{site.data.africa.algeria.PerIndoroth}}
+                y: {{page.perindoroth}}
             }]
         }]
     });
