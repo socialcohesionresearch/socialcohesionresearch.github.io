@@ -48,39 +48,16 @@ It aims to answer questions such as; what is a large amount of twitter traffic i
     </tr>
   </thead>
   <tbody>
+    {% for africacountry in site.data.africa %}
     <tr>
-      <td><strong>Algeria</strong> <br/> <a style="font-size: 10px;" href="twitter-index/africa/algeria.html">View Full Page</a></td>
-       <td>8</td>
-        <td>105.58</td>
-         <td>6</td>
-          <td>86</td>
-           <td>13</td>
-            
-    </tr>
-    <tr>
-      <td><strong>South Africa</strong> <br/> <a style="font-size: 10px;" href="index.html">View Full Page</a></td>
-       <td>5</td>
-        <td>1036.26</td>
-         <td>2</td>
-          <td>635</td>
-           <td>1</td>
-    </tr>
-    <tr>
-     <td><strong>Angola</strong> <br/> <a style="font-size: 10px;" href="index.html">View Full Page</a></td>
-        <td>16</td>
-        <td>21.23</td>
-         <td>20</td>
-          <td>31</td>
-           <td>28</td>
-    </tr>
-     <tr>
-     <td><strong>Botswana</strong> <br/> <a style="font-size: 10px;" href="index.html">View Full Page</a></td>
-        <td>42</td>
-        <td>31.58</td>
-         <td>14</td>
-          <td>504</td>
-           <td>4</td>
-    </tr>
+         <td>{{africacountry.countryname}} <br/> <a style="font-size: 10px;" href="twitter-index/africa/algeria.html">View Full Page</a></td>
+         <td>{{africacountry.PopRanking}}</td>
+         <td>{{africacountry.Volind}}</td>
+         <td>{{africacountry.Volrank}}</td>
+         <td>{{africacountry.ATAI}}</td>
+         <td>{{africacountry.ATAIR}}</td>
+       </tr>
+{% endfor %}
    
   </tbody>
 </table>
