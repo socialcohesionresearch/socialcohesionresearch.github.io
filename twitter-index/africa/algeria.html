@@ -30,22 +30,25 @@ indrank: 13/52
  <div class='row'>
       <div class='medium-3 large-3 columns'>
         <div>
+          <strong><h3>Population 2015:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Population2015}}</span></h3></strong>
           <strong><h3>Population Ranking:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.PopRanking}}</span></h3></strong>
           <strong><h3>Volume Ranking:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Volrank}}</span></h3></strong>
-          <strong><h3>Tweets Per Person (TPP) per annum:<span style="color: #F9A61C; display: block; font-size: 40px;">{{page.tpppa}}</span></h3></strong>
-          <strong><h3>Africa Twitter Activity Index Ranking:<span style="color: #F9A61C; display: block; font-size: 40px;">{{page.indrank}}</span></h3></strong>
+          <strong><h3>Tweets Per Person (TPP) per annum:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.TPPPA}}</span></h3></strong>
+          <strong><h3>Africa Twitter Activity Index Ranking:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Volind}}</span></h3></strong>
         </div>
       </div>
       <div class='medium-3 large-3 columns'>
         <div>
-          <strong><h3>Number of Tweets in 2015:<span style="color: #F9A61C; display: block; font-size: 40px;">{{page.tweets}}</span></h3></strong>
-         <strong><h3>Volume Index <span style="font-size: 0.9rem;">(deviation from the Africa volume mean)</span>:<span style="color: #F9A61C; display: block; font-size: 40px;">{{page.volind}}</span></h3></strong>
-          <strong><h3>Africa Twitter Activity Index <span style="font-size: 0.9rem;">(deviation from the TPP Africa mean)</span>:<span style="color: #F9A61C; display: block; font-size: 40px;">{{page.inddevfrommean}}</span></h3></strong>
+          <strong><h3>Number of Tweets in 2015:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Nooftweets}}</span></h3></strong>
+         <strong><h3>Volume Index <span style="font-size: 0.9rem;">(deviation from the Africa volume mean)</span>:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.TPPPA}}</span></h3></strong>
+          <strong><h3>Africa Twitter Activity Index <span style="font-size: 0.9rem;">(deviation from the TPP Africa mean)</span>:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.ATAI}}</span></h3></strong>
+        </div>
+        <strong><h3>Africa Twitter Activity Index Ranking <span style="font-size: 0.9rem;">(deviation from the TPP Africa mean)</span>:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.ATAIR}}</span></h3></strong>
         </div>
       </div>
        <div class='medium-6 large-6 columns'>
         <div>
-          <h3>Tweets by Language ({{page.countryname}} - 2015)</h3>
+          <h3>Tweets by Language ({{site.data.africa.algeria.countryname}} - 2015)</h3>
           <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
         </div>
       </div>
@@ -84,21 +87,21 @@ indrank: 13/52
             colorByPoint: true,
             data: [{
                 name: 'English',
-                y: {{page.pereng}}
+                y: {{site.data.africa.algeria.PerEng}}
             }, {
                 name: 'Arabic',
-                y: {{page.perara}},
+                y: {{site.data.africa.algeria.PerAra}}
                 sliced: true,
                 selected: true
             }, {
                 name: 'French',
-                y: {{page.perfre}}
+                y: {{site.data.africa.algeria.PerFre}}
             }, {
                 name: 'Portuguese',
-                y: {{page.perpor}}
+                y: {{site.data.africa.algeria.PerPor}}
             }, {
                 name: 'Indigenous or other languages',
-                y: {{page.perindoroth}}
+                y: {{site.data.africa.algeria.PerIndoroth}}
             }]
         }]
     });
