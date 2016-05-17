@@ -48,16 +48,14 @@ It aims to answer questions such as; what is a large amount of twitter traffic i
     </tr>
   </thead>
   <tbody>
-    {% for africacountry in site.data.africa %}
     <tr>
-         <td>{{ africacountry.countryname }} <br/> <a style="font-size: 10px;" href="twitter-index/africa/algeria.html">View Full Page</a></td>
-         <td>{{ africacountry.PopRanking }}</td>
-         <td>{{ africacountry.Volind }}</td>
-         <td>{{ africacountry.Volrank }}</td>
-         <td>{{ africacountry.ATAI }}</td>
-         <td>{{ africacountry.ATAIR }}</td>
+         <td>{{ site.data.africa.algeria.countryname }} <br/> <a style="font-size: 10px;" href="twitter-index/africa/{{ site.data.africa.algeria.countrylink }}.html">View Full Page</a></td>
+         <td>{{ site.data.africa.algeria.PopRanking }}</td>
+         <td>{{ site.data.africa.algeria.Volind }}</td>
+         <td>{{ site.data.africa.algeria.Volrank }}</td>
+         <td>{{ site.data.africa.algeria.ATAI }}</td>
+         <td>{{ site.data.africa.algeria.ATAIR }}</td>
        </tr>
-{% endfor %}
    
   </tbody>
 </table>
