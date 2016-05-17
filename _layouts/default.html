@@ -107,9 +107,7 @@
 <script>
   $('.count').each(function () {
     $(this).prop('Counter',0).animate({
-        Counter: $(this).text()
-        ('.count').replace(/(\d{3})(\d{4})(\d{4})/, '$1 $2 $3');
-console.log(phone);
+        Counter: $(this.replace(/(\d{3})(\d{4})(\d{4})/, '$1 $2 $3');).text()
     }, {
         duration: 4000,
         easing: 'swing',
@@ -118,7 +116,7 @@ console.log(phone);
         }
     });
 });
-
+  
   </script>
     </body>
 </html>
