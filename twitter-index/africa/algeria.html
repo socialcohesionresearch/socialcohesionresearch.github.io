@@ -6,11 +6,11 @@ poprank: 8/52
 tweets: 25 532 709
 volrank: 6/52
 volind: +8%
-pereng: 
-perara: {{site.data.africa.algeria.PerAra}}
-perfre: {{site.data.africa.algeria.PerFre}}
-perpor: {{site.data.africa.algeria.PerPor}}
-perindoroth: {{site.data.africa.algeria.PerIndoroth}}
+pereng: 13.97
+perara: 60.11
+perfre: 18.17
+perpor: 0.15
+perindoroth: 7.60
 tpppa: 0.654
 inddevfrommean: 14%
 indrank: 13/52
@@ -19,7 +19,7 @@ indrank: 13/52
   <div class='row'>
     <div class='special-title centered-text'>
       <img src="images/flags/dz.png" width="100">
-      <h2>{{site.data.africa.algeria.countryname}}</h2>
+      <h2>{{page.countryname}}</h2>
       <p class='shortline'></p>
     </div>
     <div class='spacing'></div>
@@ -52,6 +52,7 @@ indrank: 13/52
   </div>
 </div>
   <script>
+  $(function () {
     $('#container').highcharts({
         chart: {
             plotBackgroundColor: null,
@@ -83,22 +84,25 @@ indrank: 13/52
             colorByPoint: true,
             data: [{
                 name: 'English',
-                y: 12
+                y: {{page.pereng}}
             }, {
                 name: 'Arabic',
-                y: 12,
+                y: {{page.perara}},
                 sliced: true,
                 selected: true
             }, {
                 name: 'French',
-                y: 10
+                y: {{page.perfre}}
             }, {
                 name: 'Portuguese',
-                y: 20
+                y: {{page.perpor}}
             }, {
                 name: 'Indigenous or other languages',
-                y: 46
+                y: {{page.perindoroth}}
             }]
         }]
     });
+});
   </script>
+Status API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Contact 
