@@ -82,25 +82,26 @@ indrank: 13/52
         series: [{
             name: 'Languages',
             colorByPoint: true,
+            {% for language in site.data.africa.algeria %}
             data: [{
                 name: 'English',
-                y: {{site.data.africa.algeria.PerEng}}
+                y: ['{{ language.PerEng }}']
             }, {
                 name: 'Arabic',
-                y: {{site.data.africa.algeria.PerEng}},
+                y: ['{{ language.PerEng }}'],
                 sliced: true,
                 selected: true
             }, {
                 name: 'French',
-                y: {{site.data.africa.algeria.PerEng}}
+                y: ['{{ language.PerEng }}']
             }, {
                 name: 'Portuguese',
-                y: {{site.data.africa.algeria.PerEng}}
+                y: ['{{ language.PerEng }}']
             }, {
                 name: 'Indigenous or other languages',
-                y: {{site.data.africa.algeria.PerEng}}
+                y: ['{{ language.PerEng }}']
             }]
-        }]
+        }]{% endfor %}
     });
 });
   </script>
