@@ -1,15 +1,28 @@
 algeria:
-    countryname: algeria
-    name: David Smiths
-    link: /bitcoin-expert/
-    twitter: DavidSilvaSmith
-    image: http://www.gravatar.com/avatar/7bbd083ea04a3c791e878da24c08b987.png
-    bio: David is the CEO of bitcoin bulls.
-
-paul:
-    id: paul
-    name: Paul
-    link: http://www.paulsmith.com
-    twitter: PaulSmith
-    image: http://www.cs.mcgill.ca/~kry/kry-acm1.png
-    bio: Paul Smith rocks
+    Population2015: 22 819 926
+    PopRanking: 16/52
+    Nooftweets in 2015: 5 133 911
+    Volrank: 20/52
+    Volind: 0.22
+    PerEng: 18,61%
+    PerAra: 1,35%
+    PerFre: 5,65%
+    PerPor: 61,06%
+    PerIndoroth: 13,33%
+    TPPPA: 0,225
+    ATAI: 0.31
+    ATAIR: 28/52
+south africa:
+    Population2015: 22 819 926
+    PopRanking: 16/52
+    Nooftweets in 2015: 5 133 911
+    Volrank: 20/52
+    Volind: 0.22
+    PerEng: 18,61%
+    PerAra: 1,35%
+    PerFre: 5,65%
+    PerPor: 61,06%
+    PerIndoroth: 13,33%
+    TPPPA: 0,225
+    ATAI: 0.31
+    ATAIR: 28/52    
