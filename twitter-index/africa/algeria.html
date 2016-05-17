@@ -47,15 +47,28 @@ indrank: 13/52
       </div>
   </div>
 </div>
- <header class="header">
-            100
-        </header>
+<p>Fun level <span id="fun-level" style="color: red; font-size: 0px;">0 %</span>.</p>
+// animateNumber accepts same arguments, as animate does
+// it adds only 'number' and 'numberStep' params
+$('#fun-level').animateNumber(
+  {
+    number: 100,
+    color: 'green', // require jquery.color
+    'font-size': '50px',
 
-        <div class="page-bd">
-            <p>
-                
-            </p>
-        </div>
+    easing: 'easeInQuad', // require jquery.easing
+
+    // optional custom step function
+    // using here to keep '%' sign after number
+    numberStep: function(now, tween) {
+      var floored_number = Math.floor(now),
+          target = $(tween.elem);
+
+      target.text(floored_number + ' %');
+    }
+  },
+  1800
+);
   <script>
   $(function () {
     $('#container').highcharts({
