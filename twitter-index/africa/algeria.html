@@ -84,21 +84,21 @@ indrank: 13/52
             colorByPoint: true,
             data: [{
                 name: 'English',
-                y: ['{{ language.PerEng | jsonify }}']
+                y: {{data.africa.algeria.PerEng}}
             }, {
                 name: 'Arabic',
-                y: ['{{ language.PerEng | jsonify }}'],
+                y: {{data.africa.algeria.PerEng}},
                 sliced: true,
                 selected: true
             }, {
                 name: 'French',
-                y: ['{{ language.PerEng | jsonify }}']
+                y: {{data.africa.algeria.PerEng}}
             }, {
                 name: 'Portuguese',
-                y: ['{{ language.PerEng | jsonify }}']
+                y: {{data.africa.algeria.PerEng}}
             }, {
                 name: 'Indigenous or other languages',
-                y: ['{{ language.PerEng | jsonify }}']
+                y: {{data.africa.algeria.PerEng}}
             }]
         }]
     });
