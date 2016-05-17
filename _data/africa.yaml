@@ -1,30 +1,31 @@
 algeria:
-    - countryname : algeria
-    - Population2015 : 22 819 926
-    - PopRanking : 16/52
-    - Nooftweets : 5 133 911
-    - Volrank : 20/52
-    - Volind : 10
-    - PerEng : 20
-    - PerAra : 20
-    - PerFre : 10
-    - PerPor : 45
-    - PerIndoroth : 13.33
-    - TPPPA : 0,225
-    - ATAI : 0.31
-    - ATAIR: 28/52
+    countryname : algeria
+    Population2015 : 22 819 926
+    PopRanking : 16/52
+    Nooftweets : 5 133 911
+    Volrank : 20/52
+    Volind : 10
+    PerEng : 20
+    PerAra : 20
+    PerFre : 10
+    PerPor : 45
+    PerIndoroth : 13.33
+    TPPPA : 0,225
+    ATAI : 0.31
+    ATAIR: 28/52
+
 south africa:
-    - countryname : algeria
-    - Population2015 : 22 819 926
-    - PopRanking : 16/52
-    - Nooftweets : 5 133 911
-    - Volrank : 20/52
-    - Volind : 10
-    - PerEng : 20
-    - PerAra : 20
-    - PerFre : 10
-    - PerPor : 45
-    - PerIndoroth : 13.33
-    - TPPPA : 0,225
-    - ATAI : 0.31
-    - ATAIR: 28/52
+    countryname : algeria
+    Population2015 : 22 819 926
+    PopRanking : 16/52
+    Nooftweets : 5 133 911
+    Volrank : 20/52
+    Volind : 10
+    PerEng : 20
+    PerAra : 20
+    PerFre : 10
+    PerPor : 45
+    PerIndoroth : 13.33
+    TPPPA : 0,225
+    ATAI : 0.31
+    ATAIR: 28/52
