@@ -47,29 +47,19 @@ indrank: 13/52
       </div>
   </div>
 </div>
-<p>Fun level <span id="fun-level" style="color: red; font-size: 0px;">0 %</span>.</p>
-// animateNumber accepts same arguments, as animate does
-// it adds only 'number' and 'numberStep' params
+<div id="shiva"><span class="count">200</span></div>
 <script>
-$('#fun-level').animateNumber(
-  {
-    number: 100,
-    color: 'green', // require jquery.color
-    'font-size': '50px',
-
-    easing: 'easeInQuad', // require jquery.easing
-
-    // optional custom step function
-    // using here to keep '%' sign after number
-    numberStep: function(now, tween) {
-      var floored_number = Math.floor(now),
-          target = $(tween.elem);
-
-      target.text(floored_number + ' %');
-    }
-  },
-  1800
-);
+$('.count').each(function () {
+    $(this).prop('Counter',0).animate({
+        Counter: $(this).text()
+    }, {
+        duration: 4000,
+        easing: 'swing',
+        step: function (now) {
+            $(this).text(Math.ceil(now));
+        }
+    });
+});
 </script>
   <script>
   $(function () {
