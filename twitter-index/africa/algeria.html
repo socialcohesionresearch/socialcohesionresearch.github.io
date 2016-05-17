@@ -6,7 +6,7 @@ poprank: 8/52
 tweets: 25 532 709
 volrank: 6/52
 volind: +8%
-pereng: 20
+pereng: 13.97
 perara: 60.11
 perfre: 18.17
 perpor: 0.15
@@ -19,7 +19,7 @@ indrank: 13/52
   <div class='row'>
     <div class='special-title centered-text'>
       <img src="images/flags/dz.png" width="100">
-      <h2>{{site.data.africa.algeria.countryname}}</h2>
+      <h2>{{page.countryname}}</h2>
       <p class='shortline'></p>
     </div>
     <div class='spacing'></div>
@@ -30,24 +30,26 @@ indrank: 13/52
  <div class='row'>
       <div class='medium-3 large-3 columns'>
         <div>
-          <strong><h3>Population 2015:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Population2015}}</span></h3></strong>
-          <strong><h3>Population Ranking:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.PopRanking}}</span></h3></strong>
-          <strong><h3>Volume Ranking:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Volrank}}</span></h3></strong>
-          <strong><h3>Tweets Per Person (TPP) per annum:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.TPPPA}}</span></h3></strong>
-          <strong><h3>Africa Twitter Activity Index Ranking:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Volind}}</span></h3></strong>
+          <strong><h3>Population Ranking:<span style="color: #F9A61C; display: block; font-size: 40px;">{{page.poprank}}</span></h3></strong>
+          <strong><h3>Volume Ranking:<span style="color: #F9A61C; display: block; font-size: 40px;">{{page.volrank}}</span></h3></strong>
+          <strong><h3>Tweets Per Person (TPP) per annum:<span style="color: #F9A61C; display: block; font-size: 40px;">{{page.tpppa}}</span></h3></strong>
+          <strong><h3>Africa Twitter Activity Index Ranking:<span style="color: #F9A61C; display: block; font-size: 40px;">{{page.indrank}}</span></h3></strong>
         </div>
       </div>
       <div class='medium-3 large-3 columns'>
-          <strong><h3>Number of Tweets in 2015:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Nooftweets}}</span></h3></strong>
-         <strong><h3>Volume Index <span style="font-size: 0.9rem;">(deviation from the Africa volume mean)</span>:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.TPPPA}}</span></h3></strong>
-          <strong><h3>Africa Twitter Activity Index <span style="font-size: 0.9rem;">(deviation from the TPP Africa mean)</span>:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.ATAI}}</span></h3></strong>
-        <strong><h3>Africa Twitter Activity Index Ranking <span style="font-size: 0.9rem;">(deviation from the TPP Africa mean)</span>:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.ATAIR}}</span></h3></strong>
+        <div>
+          <strong><h3>Number of Tweets in 2015:<span style="color: #F9A61C; display: block; font-size: 40px;">{{page.tweets}}</span></h3></strong>
+         <strong><h3>Volume Index <span style="font-size: 0.9rem;">(deviation from the Africa volume mean)</span>:<span style="color: #F9A61C; display: block; font-size: 40px;">{{page.volind}}</span></h3></strong>
+          <strong><h3>Africa Twitter Activity Index <span style="font-size: 0.9rem;">(deviation from the TPP Africa mean)</span>:<span style="color: #F9A61C; display: block; font-size: 40px;">{{page.inddevfrommean}}</span></h3></strong>
         </div>
-       <div class='medium-6 large-6 columns'>
-          <h3>Tweets by Language ({{site.data.africa.algeria.countryname}} - 2015)</h3>
-          <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
       </div>
-</div>
+       <div class='medium-6 large-6 columns'>
+        <div>
+          <h3>Tweets by Language ({{page.countryname}} - 2015)</h3>
+          <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+        </div>
+      </div>
+  </div>
 </div>
   <script>
   $(function () {
@@ -85,18 +87,18 @@ indrank: 13/52
                 y: {{page.pereng}}
             }, {
                 name: 'Arabic',
-                y: {{page.pereng}}
+                y: {{page.perara}},
                 sliced: true,
                 selected: true
             }, {
                 name: 'French',
-                y: {{page.pereng}}
+                y: {{page.perfre}}
             }, {
                 name: 'Portuguese',
-                y: {{page.pereng}}
+                y: {{page.perpor}}
             }, {
                 name: 'Indigenous or other languages',
-                y: {{page.pereng}}
+                y: {{page.perindoroth}}
             }]
         }]
     });
