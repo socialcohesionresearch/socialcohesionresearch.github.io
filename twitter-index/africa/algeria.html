@@ -2,7 +2,7 @@
 layout: default
 title: Algeria
 countryname: Algeria
-poprank: 8/52
+poprank: 8
 tweets: <span class="count">25 532 709</span>
 volrank: 6/52
 volind: +8%
@@ -47,8 +47,20 @@ indrank: 13/52
       </div>
   </div>
 </div>
-<div id="shiva"><span class="count">200</span></div>
-
+<div id="shiva"><span class="count">{{page.poprank}}</span></div>
+<script>
+$('.count').each(function () {
+    $(this).prop('Counter',0).animate({
+        Counter: $(this).text()
+    }, {
+        duration: 4000,
+        easing: 'swing',
+        step: function (now) {
+            $(this).text(Math.ceil(now));
+        }
+    });
+});
+</script>
   <script>
   $(function () {
     $('#container').highcharts({
