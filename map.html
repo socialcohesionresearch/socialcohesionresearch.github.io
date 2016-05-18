@@ -6,7 +6,7 @@
   <script src="https://code.jquery.com/jquery-1.12.3.js"></script>
   <script src="js/jvectormap/jquery-jvectormap-2.0.3.min.js"></script>
   <script src="js/jvectormap/maps/africamap.js"></script>
-  <script src="js/jvectormap/data/gdp-data.js"></script>
+  <script src="js/jvectormap/data/africatweetsdata.js"></script>
 </head>
 <body>
   <div id="africa-map" style="width: 600px; height: 400px"></div>
@@ -29,6 +29,22 @@ $('#africa-map').vectorMap( {
         }
     }
 });
+});
+  </script>
+   <div id="africa-map-tweets" style="width: 600px; height: 400px"></div>
+  <script>
+  $('#africa-map-tweets').vectorMap({
+  map: 'africa_mill',
+  series: {
+    regions: [{
+      values: tweetData,
+      scale: ['#C8EEFF', '#0071A4'],
+      normalizeFunction: 'polynomial'
+    }]
+  },
+  onRegionTipShow: function(e, el, code){
+    el.html(el.html()+' (Tweets - '+tweetData[code]+')');
+  }
 });
   </script>
 
