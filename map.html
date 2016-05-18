@@ -11,10 +11,11 @@
 <body>
   <div id="africa-map" style="width: 600px; height: 400px"></div>
   <script>
-    $(function(){
-      $('#africa-map').vectorMap {
-      map: 'africa_mill',
-      backgroundColor: 'red',
+
+  $(document).ready (function() {
+$('#africa-map').vectorMap( {
+    map: 'africa_mill',
+    backgroundColor: 'red',
     hoverColor: 'black',
     onRegionClick: function(event, code) {
         if (code === 'th') {
@@ -27,7 +28,8 @@
             window.location = 'index.php?id=4'
         }
     }
-    });
+});
+});
   </script>
 
 
