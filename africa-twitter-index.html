@@ -28,6 +28,7 @@ It aims to answer questions such as; what is a large amount of twitter traffic i
 </p>
       </div>
   <div class='medium-6 large-6 columns'><img src="images/tweet.jpg"></div></div>
+  <div id="testmap"></div>
      <!-- Footable Test -->
 <div style="margin-left: 2%; margin-right: 2%;">
   <table id="sorting" class="table" data-sorting="true">
@@ -71,7 +72,49 @@ It aims to answer questions such as; what is a large amount of twitter traffic i
     jQuery(function() {    
      jQuery('#sorting').footable();    
     });    
-    </script>  
+    </script> 
+    <script>
+    $(function () {
+
+    // Prepare demo data
+    var data = [
+        {
+            "hc-key": "eu",
+            "value": 0
+        },
+        {
+            "hc-key": "oc",
+            "value": 1
+        },
+        {
+            "hc-key": "af",
+            "value": 2
+        },
+        {
+            "hc-key": "as",
+            "value": 3
+        },
+        {
+            "hc-key": "na",
+            "value": 4
+        },
+        {
+            "hc-key": "sa",
+            "value": 5
+        }
+    ];
+
+    // Initiate the chart
+    $('#testmap').highcharts('Map', {
+
+        series : [{
+            data : data,
+            mapData: Highcharts.maps['custom/world-continents'],
+            joinBy: 'hc-key'
+        }]
+    });
+});
+    </script> 
 </div>
     
   </div>
