@@ -23,7 +23,7 @@ var tweetData = {
   "GW": 73221,
   "ZM": 5207602,
   "CI": 21295284,
-  "EH": 0,
+  "EH": "No Data Available",
   "CM": 7536419,
   "EG": 334497013,
   "SL": 724377,
