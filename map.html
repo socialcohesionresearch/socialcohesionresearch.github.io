@@ -9,28 +9,6 @@
   <script src="js/jvectormap/data/africatweetdata.js"></script>
 </head>
 <body>
-  <div id="africa-map" style="width: 600px; height: 400px"></div>
-  <script>
-
-  $(document).ready (function() {
-$('#africa-map').vectorMap( {
-    map: 'africa_mill',
-    backgroundColor: 'red',
-    hoverColor: 'black',
-    zoomOnScroll: 'false',
-    onRegionClick: function(event, code) {
-        if (code === 'th') {
-            window.location = 'index.php?id=2'
-        }
-        else if (code === 'ZA') {
-            window.location = 'http://google.co.za'
-        }
-        else if (code === 'rp') {
-            window.location = 'index.php?id=4'
-        }
-    }
-});
-});
   </script>
    <div id="africa-map-tweets" style="width: 600px; height: 400px"></div>
   <script>
@@ -41,7 +19,7 @@ $('#africa-map').vectorMap( {
   series: {
     regions: [{
       values: tweetData,
-      scale: ['#C8EEFF', '#0071A4'],
+      scale: ['#333333', '#faa61a'],
       normalizeFunction: 'polynomial'
     }]
   },
