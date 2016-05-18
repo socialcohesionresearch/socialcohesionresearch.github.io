@@ -28,6 +28,7 @@ indrank: 13/52
   </div>
    <div class='full_content_page' style='background: #ffffff' >
  <div class='row'>
+      <div id="mydivon" style="display:block">
       <div class='medium-3 large-3 columns'>
         <div>
           <strong><h4>Africa Twitter Activity Index Ranking:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.ATAIR}}</span></h4></strong>
@@ -43,10 +44,35 @@ indrank: 13/52
           <strong><h4>Number of Tweets in 2015:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Nooftweets}}</span></h4></strong>
           <strong><h4>Volume Ranking:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Volrank}}</span></h4></strong>
           <strong><h4>Volume Index:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Volind}}</span></h4></strong>
-          <strong><h2><a href="who-are-we.html" class="button_dark boxed"><i class="icon-info"> What it means</a></i></h2></strong>
-          
         </div>
       </div>
+      This is on.</div>
+    </div>
+<div id="mydivoff" style="display:none"><h1>Content About data goes here</h1></div>
+
+<strong><h2><a href="javascript:;" onmousedown="toggleDiv('mydiv');" class="button_dark boxed"><i class="icon-info"> What it means</a></i></h2></strong>
+
+
+<script language="javascript">
+  function toggleDiv(divid)
+  {
+
+    varon = divid + 'on';
+    varoff = divid + 'off';
+
+    if(document.getElementById(varon).style.display == 'block')
+    {
+    document.getElementById(varon).style.display = 'none';
+    document.getElementById(varoff).style.display = 'block';
+    }
+
+    else
+    {  
+    document.getElementById(varoff).style.display = 'none';
+    document.getElementById(varon).style.display = 'block'
+    }
+}
+</script>
        <div class='medium-6 large-6 columns'>
         <div>
           <h4>Tweets by Language ({{site.data.africa.algeria.countryname}} - 2015)</h4>
