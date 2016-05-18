@@ -12,7 +12,13 @@
   <div id="africa-map" style="width: 600px; height: 400px"></div>
   <script>
     $(function(){
-      $('#africa-map').vectorMap({map: 'africa_mill'});
+      $('#africa-map').vectorMap({map: 'africa_mill'})
+      colors: colors,
+    hoverOpacity: 0.7,
+    hoverColor: false,
+    onLabelShow: function(event, label, code){
+       label.text(label.text() + " (" + gdpData[code] + ")");
+    }
     });
   </script>
 
