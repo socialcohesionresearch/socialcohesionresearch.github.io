@@ -24,16 +24,15 @@ section_id: Twitter Index
         Citizen Research Centre we are interested in human interactions and the views that people express about on social media.
 We have looked at issues ranging from ISIS to Ebola. And in speaking to our Clients about where, when and how to run social media analysis, we realised that a benchmark was needed. In looking for it, we found it hadn’t been done, so the Twitter Activity Index was born.</p><p>
 It is an ongoing project aimed at delivering an index that measures a country’s activity on twitter.  It also breaks down the percentage of that social media that is expressed in English.  Where relevant, it also tracks that country’s social media growth over time – from 2010 to present day.</p><p>
-It aims to answer questions such as; what is a large amount of twitter traffic in an African country? How has traffic grown over the last few years? What percentage of those tweets were in English?  
+It aims to answer questions such as; what is a large amount of twitter traffic in an African country? How has traffic grown over the last few years? What percentage of those tweets were in English? 
 </p>
       </div>
 	<div class='medium-6 large-6 columns'><img src="images/tweet.jpg"></div></div>
      <div id="world-map-gdp" style="width: 720px; height: 400px"></div>
     <script>
-      //@code_start
       $(function(){
         $('#world-map-gdp').vectorMap({
-          map: 'africa_mill',
+          map: 'world_mill',
           series: {
             regions: [{
               values: gdpData,
@@ -46,5 +45,4 @@ It aims to answer questions such as; what is a large amount of twitter traffic i
           }
         });
       });
-      //@code_end
     </script>
