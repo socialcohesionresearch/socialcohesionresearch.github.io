@@ -17,6 +17,7 @@ $('#africa-map').vectorMap( {
     map: 'africa_mill',
     backgroundColor: 'red',
     hoverColor: 'black',
+    zoomOnScroll: 'false',
     onRegionClick: function(event, code) {
         if (code === 'th') {
             window.location = 'index.php?id=2'
@@ -35,6 +36,7 @@ $('#africa-map').vectorMap( {
   <script>
   $('#africa-map-tweets').vectorMap({
   map: 'africa_mill',
+  zoomOnScroll: 'false',
   series: {
     regions: [{
       values: tweetData,
