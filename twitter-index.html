@@ -28,4 +28,23 @@ It aims to answer questions such as; what is a large amount of twitter traffic i
 </p>
       </div>
 	<div class='medium-6 large-6 columns'><img src="images/tweet.jpg"></div></div>
-     
+     <div id="world-map-gdp" style="width: 720px; height: 400px"></div>
+    <script>
+      //@code_start
+      $(function(){
+        $('#world-map-gdp').vectorMap({
+          map: 'africa_mill',
+          series: {
+            regions: [{
+              values: gdpData,
+              scale: ['#C8EEFF', '#0071A4'],
+              normalizeFunction: 'polynomial'
+            }]
+          },
+          onRegionTipShow: function(e, el, code){
+            el.html(el.html()+' (GDP - '+gdpData[code]+')');
+          }
+        });
+      });
+      //@code_end
+    </script>
