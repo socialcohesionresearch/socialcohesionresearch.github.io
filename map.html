@@ -11,21 +11,33 @@
 <body>
   <div id="africa-map" style="width: 600px; height: 400px"></div>
   <script>
-    $('#africa-map-gdp').vectorMap({
-  map: 'africa_mill',
-  series: {
-    regions: [{
-      values: gdpData,
-      scale: ['#C8EEFF', '#0071A4'],
-      normalizeFunction: 'polynomial'
-    }]
-  },
-  onRegionTipShow: function(e, el, code){
-    el.html(el.html()+' (GDP - '+gdpData[code]+')');
-  }
+    $(function(){
+      $('#africa-map').vectorMap({map: 'africa_mill'});
+      backgroundColor: '#a5bfdd',
+    borderColor: '#818181',
+    borderOpacity: 0.25,
+    borderWidth: 1,
+    color: '#f4f3f0',
+    enableZoom: true,
+    hoverColor: '#c9dfaf',
+    hoverOpacity: null,
+    normalizeFunction: 'linear',
+    scaleColors: ['#b6d6ff', '#005ace'],
+    selectedColor: '#c9dfaf',
+    selectedRegions: null,
+    showTooltip: true,
+    onRegionClick: function(element, code, region)
+    {
+        var message = 'You clicked "'
+            + region
+            + '" which has the code: '
+            + code.toUpperCase();
+
+        alert(message);
+    }
     });
   </script>
 
-  
+
 </body>
 </html>
