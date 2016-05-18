@@ -27,8 +27,7 @@ indrank: 13/52
   </div>
   </div>
    <div class='full_content_page' style='background: #ffffff' >
-    <strong><h2><a href="javascript:;" onmousedown="toggleDiv('mydiv');" class="button_dark boxed"><i class="icon-info"> What it means</a></i></h2></strong>
-    <div id="mydivon" style="display:block">
+    <div class="mydivon" style="display:block">
  <div class='row'>
       <div class='medium-3 large-3 columns'>
         <div>
@@ -45,6 +44,7 @@ indrank: 13/52
           <strong><h4>Number of Tweets in 2015:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Nooftweets}}</span></h4></strong>
           <strong><h4>Volume Ranking:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Volrank}}</span></h4></strong>
           <strong><h4>Volume Index:<span style="color: #F9A61C; display: block; font-size: 40px;">{{site.data.africa.algeria.Volind}}</span></h4></strong>
+          <strong><h2><a href="javascript:;" onmousedown="toggleDiv('mydiv');" class="button_dark boxed"><i class="icon-info"> What it means</a></i></h2></strong>
         </div>
       </div>
       
@@ -54,22 +54,22 @@ indrank: 13/52
 
 
 <script language="javascript">
-  function toggleDiv(divid)
+  function toggleDiv(divclass)
   {
 
-    varon = divid + 'on';
-    varoff = divid + 'off';
+    varon = divclass + 'on';
+    varoff = divclass + 'off';
 
-    if(document.getElementById(varon).style.display == 'block')
+    if(document.getElementByClass(varon).style.display == 'block')
     {
-    document.getElementById(varon).style.display = 'none';
-    document.getElementById(varoff).style.display = 'block';
+    document.getElementsByClassName(varon).style.display = 'none';
+    document.getElementsByClassName(varoff).style.display = 'block';
     }
 
     else
     {  
-    document.getElementById(varoff).style.display = 'none';
-    document.getElementById(varon).style.display = 'block'
+    document.getElementsByClassName(varoff).style.display = 'none';
+    document.getElementsByClassName(varon).style.display = 'block'
     }
 }
 </script>
@@ -81,7 +81,7 @@ indrank: 13/52
       </div>
   </div>
 </div>
-<div id="mydivoff" style="display:none"> <div class='row'><div class='medium-12 large-12 columns'><h1>Content About data goes here</h1></div></div></div>
+<div class="mydivoff" style="display:none"> <div class='row'><div class='medium-12 large-12 columns'><h1>Content About data goes here</h1></div></div></div>
 </div>
 
   <script>
