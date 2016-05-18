@@ -1,5 +1,5 @@
 var tweetData = {
-  "BF": 102323023,
+  "BF": {{site.data.africa.burkinafaso.Nooftweets}},
   "DJ": 102323023,
   "BJ": 102323023,
   "ZA": 102323023,
