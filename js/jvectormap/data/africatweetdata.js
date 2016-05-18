@@ -1,8 +1,8 @@
 var tweetData = {
-  "BF": {{site.data.africa.burkinafaso.Nooftweets}},
-  "DJ": 102323023,
-  "BJ": 102323023,
-  "ZA": 102323023,
+  "BF": 664 849,
+  "DJ": 403 714,
+  "BJ": 876 569,
+  "ZA": 250 593 472,
   "BW": 102323023,
   "DZ": 102323023,
   "ET": 102323023,
