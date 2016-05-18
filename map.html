@@ -12,11 +12,178 @@ section_id: Twitter Index
 
 
         
-            <script>
-    $(function(){
-      $('#world-map').vectorMap({map: 'world_mill'});
-    });
-  </script>    
-           
-   <div id="world-map" style="width: 600px; height: 400px"></div>
+          <script src="/js/jquery-jvectormap-world-mill.js"></script>
+    
+      <script src="/js/gdp-data.js"></script>
+    
   
+
+  <header>
+    <div class="wrapper clearfix">
+
+      <div id="logo">
+        <a href="/"><img src="/img/logo.png" alt="Simpler"></a>
+      </div>
+
+      
+      <ul id="nav">
+        
+          
+            <li><a href="/">Home</a></li>
+          
+        
+          
+            <li><a href="/licenses-and-pricing/">Licenses and prices</a></li>
+          
+        
+          
+            <li><a href="/download/">Download</a></li>
+          
+        
+          
+            <li><a href="/maps/world/africa/">Maps</a></li>
+          
+        
+          
+            <li><a href="/documentation/">Documentation</a></li>
+          
+        
+          
+            <li class="current-menu-item"><a href="/tutorials/getting-started/">Tutorials</a></li>
+          
+        
+          
+            <li><a href="/examples/world-gdp/">Examples</a></li>
+          
+        
+          
+            <li><a href="/contacts/">Contacts</a></li>
+          
+        
+      </ul>
+
+      
+    </div>
+  </header>
+
+  <div id="main">
+    <div class="wrapper clearfix">
+      
+        <div class="masthead clearfix">
+          <h1>Getting started</h1>
+          
+        </div>
+        <div class="mh-div"></div>
+        
+          <aside id="sidebar">  
+  
+  <ul>
+    
+      <li class="cat-item">
+        
+          Getting started
+        
+        
+          <ul>
+            
+          </ul>
+        
+      </li>
+    
+      <li class="cat-item">
+        
+          <a href="/tutorials/data-visualization/">Data Visualization</a>
+        
+        
+          <ul>
+            
+          </ul>
+        
+      </li>
+    
+  </ul>
+</aside>
+          <div id="posts-list" class="clearfix">
+            <article class="format-standard">
+  <p>Once you get the code of jVectorMap from <a href="/download/">the download page</a> and one of the map from <a href="/maps/">the maps page</a> you can start experimenting with various features it provides. First of all let's create just a simple map with a world map with default parameters. Create an html containing the following:</p>
+  <ul>
+    <li>all JavaScript and CSS resources necessary to render the world map,</li>
+    <li>initialization code, which tells the browser where to put the map and what parameters to use to render it,</li>
+    <li>
+<code>&lt;div&gt;</code> element which will be a container for the map (note that map will be fitted according to the size of the container, that's why the container should have some non-zero width and height).</li>
+  </ul>
+  <pre class="syntax"><code class="language-html"><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="nt">&lt;html&gt;</span>
+<span class="nt">&lt;head&gt;</span>
+  <span class="nt">&lt;title&gt;</span>jVectorMap demo<span class="nt">&lt;/title&gt;</span>
+  <span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">href=</span><span class="s">"jquery-jvectormap-2.0.1.css"</span> <span class="na">type=</span><span class="s">"text/css"</span> <span class="na">media=</span><span class="s">"screen"</span><span class="nt">/&gt;</span>
+  <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"jquery.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+  <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"jquery-jvectormap-2.0.1.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+  <span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"jquery-jvectormap-world-mill.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+<span class="nt">&lt;/head&gt;</span>
+<span class="nt">&lt;body&gt;</span>
+  <span class="nt">&lt;div</span> <span class="na">id=</span><span class="s">"world-map"</span> <span class="na">style=</span><span class="s">"width: 600px; height: 400px"</span><span class="nt">&gt;&lt;/div&gt;</span>
+  <span class="nt">&lt;script&gt;</span>
+    <span class="nx">$</span><span class="p">(</span><span class="kd">function</span><span class="p">(){</span>
+      <span class="nx">$</span><span class="p">(</span><span class="s1">'#world-map'</span><span class="p">).</span><span class="nx">vectorMap</span><span class="p">({</span><span class="nx">map</span><span class="o">:</span> <span class="s1">'world_mill'</span><span class="p">});</span>
+    <span class="p">});</span>
+  <span class="nt">&lt;/script&gt;</span>
+<span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span></code></pre>
+  <p>If you open created page in a web-browser you should see something similar to this:</p>
+  <figure>
+    <div id="world-map" style="width: 600px; height: 400px"></div>
+    <script>
+      $(function(){
+        $('#world-map').vectorMap({map: 'world_mill'});
+      });
+    </script>
+  </figure>
+  <p>Now when you created simple test map you can provide additional parameters to change the look and behavior of the map. The supported parameters could be found on the <a href="/documentation/javascript-api/">JavaScript API page</a>. As an example let's create a <a href="http://en.wikipedia.org/wiki/Choropleth_map">choropleth map</a>. We will visualize information about GDP in 2010 for every country. At first we need some data. Let it be <a href="http://www.imf.org/external/pubs/ft/weo/2011/01/weodata/index.aspx"> site</a> of International Monetary Fond. There we can get information in xsl format, which can be easily converted first to csv with any spreadsheet software and then to json with any scripting language. Now we have file <code>gdp-data.js</code> with such a content:</p>
+  <pre class="syntax"><code class="language-javascript"><span class="kd">var</span> <span class="nx">gdpData</span> <span class="o">=</span> <span class="p">{</span>
+  <span class="s2">"AF"</span><span class="o">:</span> <span class="mf">16.63</span><span class="p">,</span>
+  <span class="s2">"AL"</span><span class="o">:</span> <span class="mf">11.58</span><span class="p">,</span>
+  <span class="s2">"DZ"</span><span class="o">:</span> <span class="mf">158.97</span><span class="p">,</span>
+  <span class="p">...</span>
+<span class="p">};</span></code></pre>
+  <p>Now if we connect this file to our page and pass the <code>gdpData</code> variable to the map initialization code we will get nice and informative map:</p>
+  <figure>
+    <div id="world-map-gdp" style="width: 600px; height: 400px"></div>
+    <script>
+      $(function(){
+        $('#world-map-gdp').vectorMap({
+          map: 'world_mill',
+          series: {
+            regions: [{
+              values: gdpData,
+              scale: ['#C8EEFF', '#0071A4'],
+              normalizeFunction: 'polynomial'
+            }]
+          },
+          onRegionTipShow: function(e, el, code){
+            el.html(el.html()+' (GDP - '+gdpData[code]+')');
+          }
+        });
+      });
+    </script>
+  </figure>
+  <p>Here is the code, which was used to initialize the map above (description of every parameter could be found on the <a href="/documentation/javascript-api/">JavaScript API page</a>):</p>
+  <pre class="syntax"><code class="language-javascript"><span class="nx">$</span><span class="p">(</span><span class="s1">'#world-map-gdp'</span><span class="p">).</span><span class="nx">vectorMap</span><span class="p">({</span>
+  <span class="nx">map</span><span class="o">:</span> <span class="s1">'world_mill'</span><span class="p">,</span>
+  <span class="nx">series</span><span class="o">:</span> <span class="p">{</span>
+    <span class="nx">regions</span><span class="o">:</span> <span class="p">[{</span>
+      <span class="nx">values</span><span class="o">:</span> <span class="nx">gdpData</span><span class="p">,</span>
+      <span class="nx">scale</span><span class="o">:</span> <span class="p">[</span><span class="s1">'#C8EEFF'</span><span class="p">,</span> <span class="s1">'#0071A4'</span><span class="p">],</span>
+      <span class="nx">normalizeFunction</span><span class="o">:</span> <span class="s1">'polynomial'</span>
+    <span class="p">}]</span>
+  <span class="p">},</span>
+  <span class="nx">onRegionTipShow</span><span class="o">:</span> <span class="kd">function</span><span class="p">(</span><span class="nx">e</span><span class="p">,</span> <span class="nx">el</span><span class="p">,</span> <span class="nx">code</span><span class="p">){</span>
+    <span class="nx">el</span><span class="p">.</span><span class="nx">html</span><span class="p">(</span><span class="nx">el</span><span class="p">.</span><span class="nx">html</span><span class="p">()</span><span class="o">+</span><span class="s1">' (GDP - '</span><span class="o">+</span><span class="nx">gdpData</span><span class="p">[</span><span class="nx">code</span><span class="p">]</span><span class="o">+</span><span class="s1">')'</span><span class="p">);</span>
+  <span class="p">}</span>
+<span class="p">});</span></code></pre>
+</article>
+          </div>
+        
+      
+    </div>
+  </div>
