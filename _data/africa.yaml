@@ -1,9 +1,9 @@
 algeria:
     countryname : Algeria
     Population2015 : 40 633 464
-    PopRanking : 8/52
+    PopRanking : 8
     Nooftweets : 25 532 709
-    Volrank : 6/52
+    Volrank : 6
     Volind : 1.08
     PerEng : 13.97
     PerAra : 60.11
@@ -12,14 +12,14 @@ algeria:
     PerIndoroth : 7.60
     TPPPA : 0.628
     ATAI : 0.86
-    ATAIR : 13/52
+    ATAIR : 13
 
 angola:
     countryname : Angola
     Population2015 : 22 819 926
-    PopRanking : 16/52
+    PopRanking : 16
     Nooftweets : 5 133 911
-    Volrank : 20/52
+    Volrank : 20
     Volind : 0.22
     PerEng : 18,61
     PerAra : 1,35
@@ -28,14 +28,14 @@ angola:
     PerIndoroth : 13,33
     TPPPA : 0,225
     ATAI : 0.31
-    ATAIR : 28/52
+    ATAIR : 28
 
 benin:
     countryname : Benin
     Population2015 : 10 879 828
-    PopRanking : 30/52
+    PopRanking : 30
     Nooftweets : 876 569
-    Volrank : 33/52
+    Volrank : 33
     Volind : 0.04
     PerEng : 41,79
     PerAra : 0,56
@@ -44,14 +44,14 @@ benin:
     PerIndoroth : 8,66
     TPPPA : 0,081
     ATAI : 0.11
-    ATAIR : 39/52
+    ATAIR : 39
 
 Botswana:
     countryname : Botswana
     Population2015 : 2 056 370
-    PopRanking : 42/52
+    PopRanking : 42
     Nooftweets : 7 636 454
-    Volrank : 14/52
+    Volrank : 14
     Volind : 0.32
     PerEng : 83,58
     PerAra : 0,17
@@ -60,14 +60,14 @@ Botswana:
     PerIndoroth : 15,39
     TPPPA : 3.714
     ATAI : 5.09
-    ATAIR : 4/52
+    ATAIR : 4
 
 burundi:
     countryname : Burundi
     Population2015 : 10 812 619
-    PopRanking : 31/52
+    PopRanking : 31
     Nooftweets : 514552
-    Volrank : 41/52
+    Volrank : 41
     Volind : 0.02
     PerEng : 41,57
     PerAra : 0,00
@@ -76,14 +76,14 @@ burundi:
     PerIndoroth : 25,00
     TPPPA :  0.048
     ATAI : 0.07
-    ATAIR : 46/52
+    ATAIR : 46
 
 burkinafaso: 
     countryname : Burkino Faso
     Population2015 : 17 914 625
-    PopRanking : 19/52
+    PopRanking : 19
     Nooftweets : 664 849
-    Volrank : 37/52
+    Volrank : 37
     Volind : 0.03
     PerEng : 12,57
     PerAra : 1,12
@@ -92,14 +92,14 @@ burkinafaso:
     PerIndoroth : 30,84
     TPPPA : 0.037
     ATAI : 0.05
-    ATAIR : 48/52
+    ATAIR : 48
 
 cameroon:
     countryname : Cameroon
     Population2015 : 23 393 129
-    PopRanking : 15/52
+    PopRanking : 15
     Nooftweets : 7 536 419
-    Volrank : 15/52
+    Volrank : 15
     Volind : 0.32
     PerEng : 23,11
     PerAra : 0,52
@@ -108,14 +108,14 @@ cameroon:
     PerIndoroth : 6,39
     TPPPA : 0.322
     ATAI : 0.44
-    ATAIR : 23/52
+    ATAIR : 23
 
 centralafricanrepublic:
     countryname : Central African Republic
     Population2015 : 4 803 082
-    PopRanking : 36/52
+    PopRanking : 36
     Nooftweets : 1 792 118
-    Volrank : 28/52
+    Volrank : 28
     Volind : 0.08
     PerEng : 28,27
     PerAra : 0,50
@@ -124,14 +124,14 @@ centralafricanrepublic:
     PerIndoroth : 64,77
     TPPPA : 0,373
     ATAI : 0.51
-    ATAIR : 19/52
+    ATAIR : 19
 
 chad:
     countryname : Chad
     Population2015 : 13 605 625
-    PopRanking : 25/52
+    PopRanking : 25
     Nooftweets : 337 828
-    Volrank : 46/52
+    Volrank : 46
     Volind : 0.01
     PerEng : 70,22
     PerAra : 2,35
@@ -140,15 +140,15 @@ chad:
     PerIndoroth : 21,05
     TPPPA : 0.025
     ATAI : 0.03
-    ATAIR : 50/52
+    ATAIR : 50
 
 comores:
     countryname : Comoros
     Note: population under 1 million
     Population2015 : 770 058
-    PopRanking : 50/52
+    PopRanking : 50
     Nooftweets : 75 450
-    Volrank : 49/52
+    Volrank : 49
     Volind : 0.0032
     PerEng : 45,14
     PerAra : 0,00
@@ -157,15 +157,15 @@ comores:
     PerIndoroth : 28,09
     TPPPA : 0.098
     ATAI : 0.13
-    ATAIR : 36/52
+    ATAIR : 36
 
 cotedivoire:
     countryname : Cote D'Ivoire
     Population2015 : 21 295 284
-    PopRanking : 17/52
+    PopRanking : 17
     Volind : 0.13
     Nooftweets : 8 227 271
-    Volrank : 35/52
+    Volrank : 35
     PerEng : 14,96
     PerAra : 1,13
     PerFre : 77,30
@@ -178,9 +178,9 @@ cotedivoire:
 demrepcongo:
     countryname : Democractic Republic of Congo
     Population2015 : 71 246 355
-    PopRanking : 4/52
+    PopRanking : 4
     Nooftweets : 2 349 402
-    Volrank : 24/52
+    Volrank : 24
     Volind : 0.10
     PerEng : 25,55
     PerAra : 0,80
@@ -189,15 +189,15 @@ demrepcongo:
     PerIndoroth : 12,73
     TPPPA : 0.033
     ATAI : 0.05
-    ATAIR : 49/52
+    ATAIR : 49
 
 djibouti:
     countryname : Djibouti
     Note: population under 1 million
     Population2015 : 899 658
-    PopRanking : 48/52
+    PopRanking : 48
     Nooftweets : 403 714
-    Volrank : 44/52
+    Volrank : 44
     Volind : 0.02
     PerEng : 54.03
     PerAra : 4,64
@@ -206,14 +206,14 @@ djibouti:
     PerIndoroth : 24,36
     TPPPA :  0.449
     ATAI : 0.61
-    ATAIR : 15/52
+    ATAIR : 15
 
 egypt:
     countryname : Egypt
     Population2015 : 84 705 681
-    PopRanking : 3/52
+    PopRanking : 3
     Nooftweets : 334 497 013
-    Volrank : 1/52
+    Volrank : 1
     Volind : 14.10
     PerEng : 18,39
     PerAra : 76,19
@@ -222,15 +222,15 @@ egypt:
     PerIndoroth : 4,89
     TPPPA : 3,95
     ATAI : 5.41
-    ATAIR : 2/52
+    ATAIR : 2
 
 EquatorialGuinea:
     countryname : Equatorial Guinea
     Note: population under 1 million
     Population2015 : 799 372
-    PopRanking : 49/52
+    PopRanking : 49
     Nooftweets : 7 470
-    Volrank : 52/52
+    Volrank : 52
     Volind : 0.0031
     PerEng : NA
     PerAra : NA
@@ -239,14 +239,14 @@ EquatorialGuinea:
     PerIndoroth : NA
     TPPPA :  0.009
     ATAI : 0.01
-    ATAIR : 52/52
+    ATAIR : 52
 
 Eritrea:
     countryname : Eritrea
     Population2015 : 6 737 634
-    PopRanking : 33/52
+    PopRanking : 33
     Nooftweets : 407 359
-    Volrank : 43/52
+    Volrank : 43
     Volind : 0.02
     PerEng : 41,61
     PerAra : 2,11
@@ -255,14 +255,14 @@ Eritrea:
     PerIndoroth : 55,29
     TPPPA :  0.060
     ATAI : 0.08
-    ATAIR : 43/52
+    ATAIR : 43
 
 Ethiopia:
     countryname : Ethiopia
     Population2015 : 98 942 102
-    PopRanking : 2/52
+    PopRanking : 2
     Nooftweets : 6 613 395
-    Volrank : 16/52
+    Volrank : 16
     Volind : 0.28
     PerEng : 74,55
     PerAra : 1,97
@@ -271,15 +271,15 @@ Ethiopia:
     PerIndoroth : 15,22
     TPPPA :  0.067
     ATAI : 0.09
-    ATAIR : 42/52
+    ATAIR : 42
 
 Gambia:
     countryname : The Gambia
     Note: population under 2 million
     Population2015 : 1 970 081
-    PopRanking : 43/52
+    PopRanking : 43
     Nooftweets : 367 969
-    Volrank : 45/52
+    Volrank : 45
     Volind : 0.02
     PerEng : 84,85
     PerAra : 1,38
@@ -288,14 +288,14 @@ Gambia:
     PerIndoroth : 12,64
     TPPPA :  0.187
     ATAI : 0.26
-    ATAIR : 29/52
+    ATAIR : 29
 
 Ghana:
     countryname : Ghana
     Population2015 : 26 984 328
-    PopRanking : 13/52
+    PopRanking : 13
     Nooftweets : 34 719 648
-    Volrank : 5/52
+    Volrank : 5
     Volind : 1.46
     PerEng : 88,86
     PerAra : 0,64
@@ -304,14 +304,14 @@ Ghana:
     PerIndoroth : 8,99
     TPPPA : 1.287
     ATAI : 1.76
-    ATAIR : 10/52
+    ATAIR : 10
 
 Gabon:
     countryname : Gabon
     Population2015 : 1 751 199
-    PopRanking : 45/52
+    PopRanking : 45
     Nooftweets : 643 413
-    Volrank : 38/52
+    Volrank : 38
     Volind : 0.03
     PerEng : 16.93
     PerAra : 1.77
@@ -320,14 +320,14 @@ Gabon:
     PerIndoroth : 12.7
     TPPPA : 0.367
     ATAI : 0.50
-    ATAIR : 20/52
+    ATAIR : 20
 
 Guinea:
     countryname : Guinea
     Population2015 : 12 347 766
-    PopRanking : 27/52
+    PopRanking : 27
     Nooftweets : 734 506
-    Volrank : 35/52
+    Volrank : 35
     Volind : 0.03
     PerEng : 19.26
     PerEng : 19,26
@@ -337,15 +337,15 @@ Guinea:
     PerIndoroth : 18,41
     TPPPA :  0.059
     ATAI : 0.08
-    ATAIR : 44/52
+    ATAIR : 44
 
 Guinea-Bissau:
     countryname : Guinea-Bissau
     Note: population under 2 million
     Population2015 : 1 787 793
-    PopRanking : 44/52
+    PopRanking : 44
     Nooftweets : 73 221
-    Volrank : 50/52
+    Volrank : 50
     Volind : 0.003
     PerEng : 28.67
     PerAra : NA
@@ -354,14 +354,14 @@ Guinea-Bissau:
     PerIndoroth : NA
     TPPPA :  0.041
     ATAI : 0.06
-    ATAIR : 47/52
+    ATAIR : 47
 
 Kenya:
     countryname : Kenya
     Population2015 : 46 748 617
-    PopRanking : 7/52
+    PopRanking : 7
     Nooftweets : 173 785 414
-    Volrank : 4/52
+    Volrank : 4
     Volind : 7.32
     PerEng : 55,23
     PerAra : 29,95
@@ -370,15 +370,15 @@ Kenya:
     PerIndoroth : 14,39
     TPPPA :  3,717
     ATAI : 5.09
-    ATAIR : 3/52
+    ATAIR : 3
 
 Lesotho:
     countryname : Lesotho
     Note: population under 3 million
     Population2015 : 2 120 116
-    PopRanking : 41/52
+    PopRanking : 41
     Nooftweets : 1 150 583
-    Volrank : 31/52
+    Volrank : 31
     Volind : 0.05
     PerEng : 81,08
     PerAra : 0,00
@@ -387,14 +387,14 @@ Lesotho:
     PerIndoroth : 13,31
     TPPPA : 0,543
     ATAI : 0.74
-    ATAIR : 14/52
+    ATAIR : 14
 
 Liberia:
     countryname : Liberia
     Population2015 : 4 503 439
-    PopRanking : 38/52
+    PopRanking : 38
     Nooftweets : 426 505
-    Volrank : 42/52
+    Volrank : 42
     Volind : 0.02
     PerEng : 79,67
     PerAra : 5,98
@@ -403,14 +403,14 @@ Liberia:
     PerIndoroth : 13,19
     TPPPA : 0,095
     ATAI : 0.13
-    ATAIR : 37/52
+    ATAIR : 37
 
 Libya:
     countryname : Libya
     Population2015 : 6 317 080
-    PopRanking : 35/52
+    PopRanking : 35
     Nooftweets : 18 566 310
-    Volrank : 8/52
+    Volrank : 8
     Volind : 0.78
     PerEng : 11,89
     PerAra : 83,93
@@ -419,14 +419,14 @@ Libya:
     PerIndoroth : 3,61
     TPPPA : 2,939
     ATAI : 4.03
-    ATAIR : 6/52
+    ATAIR : 6
 
 Madagascar:
     countryname : Madagascar
     Population2015 : 24 235 390
-    PopRanking : 14/52
+    PopRanking : 14
     Nooftweets : 1 675 435
-    Volrank : 29/52
+    Volrank : 29
     Volind : 0.07
     PerEng : 31,27
     PerAra : 0,49
@@ -435,14 +435,14 @@ Madagascar:
     PerIndoroth : 26,38
     TPPPA : 0,069
     ATAI : 0.09
-    ATAIR : 41/52
+    ATAIR : 41
 
 Malawi:
     countryname : Malawi
     Population2015 : 17 308 685
-    PopRanking : 20/52
+    PopRanking : 20
     Nooftweets : 2 536 531
-    Volrank : 23/52
+    Volrank : 23
     Volind : 0.11
     PerEng : 79,62
     PerAra : 1,08
@@ -451,14 +451,14 @@ Malawi:
     PerIndoroth : 17,97
     TPPPA : 0,147
     ATAI : 0.20
-    ATAIR : 32/52
+    ATAIR : 32
 
 Mali:
     countryname : Mali
     Population2015 : 16 258 587
-    PopRanking : 21/52
+    PopRanking : 21
     Nooftweets : 1 485 857
-    Volrank : 30/52
+    Volrank : 30
     Volind : 0.06
     PerEng : 23,00
     PerAra : 1,43
@@ -467,14 +467,14 @@ Mali:
     PerIndoroth : 20,41
     TPPPA : 0,091
     ATAI : 0.13
-    ATAIR : 38/52
+    ATAIR : 38
 
 Mauritania:
     countryname : Mauritania
     Population2015 : 4 080 224
-    PopRanking : 39/52
+    PopRanking : 39
     Nooftweets : 559 114
-    Volrank : 39/52
+    Volrank : 39
     Volind : 0.02
     PerEng : 20,97
     PerAra : 48,42
@@ -483,15 +483,15 @@ Mauritania:
     PerIndoroth : 5,88
     TPPPA : 0,137
     ATAI : 0.19
-    ATAIR : 33/52
+    ATAIR : 33
 
 Mauritius:
     countryname : Mauritius
     Note: population under 2 million
     Population2015 : 1 253 581
-    PopRanking : 47/52
+    PopRanking : 47
     Nooftweets : 2 002 042
-    Volrank : 26/52
+    Volrank : 26
     Volind : 0.08
     PerEng : 75,30
     PerAra : 0,20
@@ -500,14 +500,14 @@ Mauritius:
     PerIndoroth : 9,54
     TPPPA : 1,597
     ATAI : 2.19
-    ATAIR : 8/52
+    ATAIR : 8
 
 Morocco:
     countryname : Morocco
     Population2015 : 33 955 157
-    PopRanking : 11/52
+    PopRanking : 11
     Nooftweets : 22 610 106
-    Volrank : 7/52
+    Volrank : 7
     Volind : 0.95
     PerEng : 23,32
     PerAra : 39,01
@@ -516,14 +516,14 @@ Morocco:
     PerIndoroth : 11,92
     TPPPA : 0,666
     ATAI : 0.91
-    ATAIR : 12/52
+    ATAIR : 12
 
 Mozambique:
     countryname : Mozambique
     Population2015 : 27 121 827
-    PopRanking : 12/52
+    PopRanking : 12
     Nooftweets : 2 165 989
-    Volrank : 25/52
+    Volrank : 25
     Volind : 0.09
     PerEng : 37,61
     PerAra : 3,06
@@ -532,15 +532,15 @@ Mozambique:
     PerIndoroth : 17,63
     TPPPA : 0,080
     ATAI : 0.11
-    ATAIR : 40/52
+    ATAIR : 40
 
 Namibia:
     countryname : Namibia
     Note: population under 3 million
     Population2015 : 2 392 370
-    PopRanking : 40/52
+    PopRanking : 40
     Nooftweets : 5 001 500
-    Volrank : 21/52
+    Volrank : 21
     Volind : 0.21
     PerEng : 87,08
     PerAra : 0,41
@@ -549,14 +549,14 @@ Namibia:
     PerIndoroth : 10,04
     TPPPA : 2,091
     ATAI : 2.86
-    ATAIR : 7/52
+    ATAIR : 7
 
 Niger: 
     countryname : Niger
     Population2015 : 19 268 380
-    PopRanking : 18/52
+    PopRanking : 18
     Nooftweets : 246 056
-    Volrank : 48/52
+    Volrank : 48
     Volind : 0.01
     PerEng : 68,17
     PerAra : 1,74
@@ -565,14 +565,14 @@ Niger:
     PerIndoroth : 6,25
     TPPPA : 0,013
     ATAI : 0.02
-    ATAIR : 51/52
+    ATAIR : 51
 
 Nigeria:
     countryname : Nigeria
     Population2015 : 183 523 432
-    PopRanking : 1/52
+    PopRanking : 1
     Nooftweets : 242 840 161
-    Volrank : 3/52
+    Volrank : 3
     Volind : 10.23
     PerEng : 91,07
     PerAra : 0,47
@@ -581,14 +581,14 @@ Nigeria:
     PerIndoroth : 7,21
     TPPPA : 1,323
     ATAI : 1.81
-    ATAIR : 9/52
+    ATAIR : 9
 
 RepublicofCongo:
     countryname : Republic of Congo
     Population2015 : 4 671 142
-    PopRanking : 37/52
+    PopRanking : 37
     Nooftweets : 775 570
-    Volrank : 34/52
+    Volrank : 34
     Volind : 0.03
     PerEng : 15,61
     PerAra : 3,08
@@ -597,14 +597,14 @@ RepublicofCongo:
     PerIndoroth : 12,95
     TPPPA : 0,166
     ATAI : 0.23
-    ATAIR : 30/52
+    ATAIR : 30
 
 Rwanda: 
     countryname : Rwanda
     Population2015 : 12 428 005
-    PopRanking : 26/52
+    PopRanking : 26
     Nooftweets : 1 989 890
-    Volrank : 27/52
+    Volrank : 27
     Volind : 0.08
     PerEng : 73,03
     PerAra : 0,64
@@ -613,14 +613,14 @@ Rwanda:
     PerIndoroth : 19,37
     TPPPA : 0,160
     ATAI : 0.22
-    ATAIR : 31/52
+    ATAIR : 31
 
 SaoTomeandPrincipe:
     countryname : Sao Tome and Principe
     Note: population under 300 000
     Population2015 : 202 781
     Nooftweets : 11 546
-    Volrank : 51/52
+    Volrank : 51
     Volind : 0.005
     PerEng : 39,81
     PerAra : 0,00
@@ -629,14 +629,14 @@ SaoTomeandPrincipe:
     PerIndoroth : 24,69
     TPPPA : 0,057
     ATAI : 0.08
-    ATAIR : 45/52
+    ATAIR : 45
 
 Senegal:
     countryname : Senegal
     Population2015 : 14 967 446
-    PopRanking : 24/52
+    PopRanking : 24
     Nooftweets : 5 172 433
-    Volrank : 19/52
+    Volrank : 19
     Volind : 0.22
     PerEng : 19,35
     PerAra : 0,87
@@ -645,15 +645,15 @@ Senegal:
     PerIndoroth : 16,85
     TPPPA : 0,346
     ATAI : 0.47
-    ATAIR : 21/52
+    ATAIR : 21
 
 Seychelles: 
     countryname : Seychelles
     Note: population below 100 000
     Population2015 : 93 574
-    PopRanking : 52/52
+    PopRanking : 52
     Nooftweets : 296 896
-    Volrank : 47/52
+    Volrank : 47
     Volind : 0.01
     PerEng : 70,77
     PerAra : 1,34
@@ -662,14 +662,14 @@ Seychelles:
     PerIndoroth : 24,92
     TPPPA : 3,173
     ATAI : 4.35
-    ATAIR : 5/52
+    ATAIR : 5
 
 SierraLeone:
     countryname : Sierra Leone
     Population2015 : 6 318 575
-    PopRanking : 34/52
+    PopRanking : 34
     Nooftweets : 724 377
-    Volrank : 36/52
+    Volrank : 36
     Volind : .03
     PerEng : 89,26
     PerAra : 0,00
@@ -678,14 +678,14 @@ SierraLeone:
     PerIndoroth : 7,74
     TPPPA : 0,115
     ATAI : 0.16
-    ATAIR : 35/52
+    ATAIR : 35
 
 Somalia:
     countryname : Somalia
     Population2015 : 11 122 711
-    PopRanking : 29/52
+    PopRanking : 29
     Nooftweets : 2 803 882
-    Volrank : 22/52
+    Volrank : 22
     Volind : 0.12
     PerEng : 31,54
     PerAra : 4,87
@@ -694,14 +694,14 @@ Somalia:
     PerIndoroth : 38,40
     TPPPA : 0,252
     ATAI : 0.35
-    ATAIR : 25/52
+    ATAIR : 25
 
 SouthAfrica:
     countryname : South Africa
     Population2015 : 53 491 333
-    PopRanking : 5/52
+    PopRanking : 5
     Nooftweets : 250 593 472
-    Volrank : 2/52
+    Volrank : 2
     Volind : 10.56
     PerEng : 89,61
     PerAra : 0,52
@@ -710,14 +710,14 @@ SouthAfrica:
     PerIndoroth : 8,93
     TPPPA : 4,685
     ATAI : 6.42
-    ATAIR : 1/52
+    ATAIR : 1
 
 Sudan:
     countryname : Sudan
     Population2015 : 39 613 217
-    PopRanking : 10/52
+    PopRanking : 10
     Nooftweets : 9 021 030
-    Volrank : 12/52
+    Volrank : 12
     Volind : 0.38
     PerEng : 24,42
     PerAra : 70,29
@@ -726,14 +726,14 @@ Sudan:
     PerIndoroth : 4,77
     TPPPA : 0,228
     ATAI : 0.31
-    ATAIR : 27/52
+    ATAIR : 27
 
 Swaziland:
     countryname : Swaziland
     Population2015 : 1 285 519
-    PopRanking : 46/52
+    PopRanking : 46
     Nooftweets : 556 689
-    Volrank : 40/52
+    Volrank : 40
     Volind : 0.02
     PerEng : 89,12
     PerAra : 1,40
@@ -742,14 +742,14 @@ Swaziland:
     PerIndoroth : 7,18
     TPPPA : 0,433
     ATAI : 0.59
-    ATAIR : 16/52
+    ATAIR : 16
 
 Tanzania:
     countryname : Tanzania
     Population2015 : 52 290 796
-    PopRanking : 6/52
+    PopRanking : 6
     Nooftweets : 12 116 150
-    Volrank : 10/52
+    Volrank : 10
     Volind : 0.51
     PerEng : 43,45
     PerAra : 1,00
@@ -758,14 +758,14 @@ Tanzania:
     PerIndoroth : 46,49
     TPPPA : 0,232
     ATAI : 0.32
-    ATAIR : 26/52
+    ATAIR : 26
 
 Togo:
     countryname : Togo
     Population2015 : 7 170 797
-    PopRanking : 32/52
+    PopRanking : 32
     Nooftweets : 900 244
-    Volrank : 32/52
+    Volrank : 32
     Volind : 0.04
     PerEng : 31,34
     PerAra : 0,45
@@ -774,14 +774,14 @@ Togo:
     PerIndoroth : 10,99
     TPPPA : 0,126
     ATAI : 0.17
-    ATAIR : 34/52
+    ATAIR : 34
 
 Tunisia:
     countryname : Tunisia
     Population2015 : 11 235 248
-    PopRanking : 28/52
+    PopRanking : 28
     Nooftweets : 11 137 350
-    Volrank : 11/52
+    Volrank : 11
     Volind : 0.47
     PerEng : 26,07
     PerAra : 37,54
@@ -790,14 +790,14 @@ Tunisia:
     PerIndoroth : 8,20
     TPPPA : 0,991
     ATAI : 1.36
-    ATAIR : 11/52
+    ATAIR : 11
 
 Uganda:
     countryname : Uganda
     Population2015 : 40 141 262
-    PopRanking : 9/52
+    PopRanking : 9
     Nooftweets : 12 160 800
-    Volrank : 9/52
+    Volrank : 9
     Volind : 0. 51
     PerEng : 90,73
     PerAra : 0,22
@@ -806,14 +806,14 @@ Uganda:
     PerIndoroth : 8,54
     TPPPA : 0,303
     ATAI : 0.41
-    ATAIR : 24/52
+    ATAIR : 24
 
 Zambia:
     countryname : Zambia
     Population2015 : 15 519 604
-    PopRanking : 22/52
+    PopRanking : 22
     Nooftweets : 5 207 602
-    Volrank : 18/52
+    Volrank : 18
     Volind : 0. 22
     PerEng : 87,73
     PerAra : 1,10
@@ -827,9 +827,9 @@ Zambia:
 Zimbabwe:
     countryname : Zimbabwe
     Population2015 : 15 046 102
-    PopRanking : 23/52
+    PopRanking : 23
     Nooftweets : 6 275 705
-    Volrank : 17/52
+    Volrank : 17
     Volind : 0.26
     PerEng : 85,23
     PerAra : 0,74
@@ -838,5 +838,5 @@ Zimbabwe:
     PerIndoroth : 11,60
     TPPPA : 0,417
     ATAI : 0.57
-    ATAIR : 17/52
+    ATAIR : 17
 
