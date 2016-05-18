@@ -1,15 +1,9 @@
----
-layout: default
-title: Twitter Index
-section_id: Twitter Index
----
-
 <div class='full_content_page bg-7' >
   <div class='row'>
     <div class='special-title centered-text'>
       <i class='icon-twitter'></i>
-      <h2>Twitter Index</h2>
-      <p>Social Discourse on Twitter</p>
+      <h2>Africa Twitter Index</h2>
+      <p>Understanding African Twitter Usage</p>
       <p class='shortline'></p>
     </div>
     <div class='spacing'></div>
@@ -27,22 +21,53 @@ It is an ongoing project aimed at delivering an index that measures a country’
 It aims to answer questions such as; what is a large amount of twitter traffic in an African country? How has traffic grown over the last few years? What percentage of those tweets were in English? 
 </p>
       </div>
-	<div class='medium-6 large-6 columns'><img src="images/tweet.jpg"></div></div>
-     <div id="world-map-gdp" style="width: 720px; height: 400px"></div>
-    <script>
-      $(function(){
-        $('#world-map-gdp').vectorMap({
-          map: 'world_mill',
-          series: {
-            regions: [{
-              values: gdpData,
-              scale: ['#C8EEFF', '#0071A4'],
-              normalizeFunction: 'polynomial'
-            }]
-          },
-          onRegionTipShow: function(e, el, code){
-            el.html(el.html()+' (GDP - '+gdpData[code]+')');
-          }
-        });
-      });
-    </script>
+  <div class='medium-6 large-6 columns'><img src="images/tweet.jpg"></div></div>
+
+<div id="world-map" style="width: 600px; height: 400px"></div>
+  <script>
+    $(function(){
+      $('#world-map').vectorMap({map: 'world_mill'});
+    });
+  </script>
+  
+     <!-- Footable Test -->
+<div style="margin-left: 2%; margin-right: 2%;">
+  <table id="sorting" class="table" data-sorting="true">
+  <thead>
+    <tr>
+      <th data-type="html" data-sort-use="text">Country</th>
+      <th data-type="number"><div class="tooltip">POP Rank
+  <span class="tooltiptext">Population Ranking:</span>
+</div></th>
+ <th data-breakpoints="xs" data-type="volind">Volume Index</th>
+      <th data-breakpoints="xs sm" data-type="number">Country Volume Index Ranking</th>
+      <th data-breakpoints="xs sm" data-type="number">Twitter Activity Index:</th>
+      <th data-breakpoints="xs sm" data-type="number">Twitter Activity Index Ranking:</th>
+
+
+
+          
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+         <td>{{ site.data.africa.algeria.countryname }} <br/> <a style="font-size: 10px;" href="twitter-index/africa/{{ site.data.africa.algeria.countrylink }}.html">View Full Page</a></td>
+         <td>{{ site.data.africa.algeria.PopRanking }}</td>
+         <td>{{ site.data.africa.algeria.Volind }}</td>
+         <td>{{ site.data.africa.algeria.Volrank }}</td>
+         <td>{{ site.data.africa.algeria.ATAI }}</td>
+         <td>{{ site.data.africa.algeria.ATAIR }}</td>
+       </tr>
+
+   
+  </tbody>
+</table>
+ <script type="text/javascript">    
+    jQuery(function() {    
+     jQuery('#sorting').footable();    
+    });    
+    </script>  
+</div>
+    
+  </div>
+</div>
