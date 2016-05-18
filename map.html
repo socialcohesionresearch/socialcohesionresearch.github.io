@@ -1,56 +1,18 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>JQVMap - World Map</title>
-    <link href=".css/jqvmap.css" media="screen" rel="stylesheet" type="text/css">
-
-    <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script type="text/javascript" src="js/jquery.vmap.js"></script>
-    <script type="text/javascript" src="js/maps/jquery.vmap.africa.js" charset="utf-8"></script>
-
-    <script type="text/javascript">
-    jQuery(document).ready(function() {
-      jQuery('#vmap').vectorMap(
-{
-    map: 'africa_en',
-    backgroundColor: '#a5bfdd',
-    borderColor: '#818181',
-    borderOpacity: 0.25,
-    borderWidth: 1,
-    color: '#f4f3f0',
-    enableZoom: true,
-    hoverColor: '#c9dfaf',
-    hoverOpacity: null,
-    normalizeFunction: 'linear',
-    scaleColors: ['#b6d6ff', '#005ace'],
-    selectedColor: '#c9dfaf',
-    selectedRegions: null,
-    showTooltip: true,
-    onRegionClick: function (event, code, region) {
-        switch (code) {
-        case "za":
-            window.location.replace("http://www.google.com");
-            break;
-        case "ca":
-            window.location.replace("http://www.yahoo.com");
-            break;
-        case "tx":
-            window.location.replace("http://www.bing.com");
-            break;
-            }
-        },
-    onRegionOver: function (event, code, region) {
-       document.body.style.cursor = "pointer";
-        },
-    onRegionOut: function (element, code, region) {
-           document.body.style.cursor = "default";
-        }
-});
+<head>
+  <title>jVectorMap demo</title>
+  <link rel="stylesheet" href="js/jvectormap/css/jquery-jvectormap-2.0.3.css" type="text/css" media="screen"/>
+  <script src="https://code.jquery.com/jquery-1.12.3.js"></script>
+  <script src="js/jvectormap/jquery-jvectormap-2.0.3.min.js"></script>
+  <script src="jquery-jvectormap-africa-mill.js"></script>
+</head>
+<body>
+  <div id="world-map" style="width: 600px; height: 400px"></div>
+  <script>
+    $(function(){
+      $('#world-map').vectorMap({map: 'world_mill'});
     });
-    </script>
-  </head>
-  <body>
-    <div id="vmap" style="width: 500px; height: 500px; -moz-transform: scale(5);
-  -webkit-transform: scale(5);
-  transform: scale(5);"></div>
-  </body>
+  </script>
+</body>
 </html>
