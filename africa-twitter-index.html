@@ -28,7 +28,7 @@ It aims to answer questions such as; what is a large amount of twitter traffic i
 </p>
       </div>
   <div class='medium-6 large-6 columns'><img src="images/tweet.jpg"></div></div>
-  <div id="container"></div>
+<div id="mapdiv" style="width: 600px; height: 400px;"></div>
      <!-- Footable Test -->
 <div style="margin-left: 2%; margin-right: 2%;">
   <table id="sorting" class="table" data-sorting="true">
@@ -74,71 +74,40 @@ It aims to answer questions such as; what is a large amount of twitter traffic i
     });    
     </script> 
     <script>
-    $(function () {
+    AmCharts.makeChart( "mapdiv", {
+  /**
+   * this tells amCharts it's a map
+   */
+  "type": "map",
 
-    $.getJSON('https://www.highcharts.com/samples/data/jsonp.php?filename=world-population-density.json&callback=?', function (data) {
+  /**
+   * create data provider object
+   * map property is usually the same as the name of the map file.
+   * getAreasFromMap indicates that amMap should read all the areas available
+   * in the map data and treat them as they are included in your data provider.
+   * in case you don't set it to true, all the areas except listed in data
+   * provider will be treated as unlisted.
+   */
+  "dataProvider": {
+    "map": "worldLow",
+    "getAreasFromMap": true
+  },
 
-        // Add lower case codes to the data set for inclusion in the tooltip.pointFormat
-        $.each(data, function () {
-            this.flag = this.code.replace('UK', 'GB').toLowerCase();
-        });
+  /** 
+   * create areas settings
+   * autoZoom set to true means that the map will zoom-in when clicked on the area
+   * selectedColor indicates color of the clicked area.
+   */
+  "areasSettings": {
+    "autoZoom": true,
+    "selectedColor": "#CC0000"
+  },
 
-        // Initiate the chart
-        $('#container').highcharts('Map', {
-
-            title: {
-                text: 'Fixed tooltip with HTML'
-            },
-
-            legend: {
-                title: {
-                    text: 'Population density per km²',
-                    style: {
-                        color: (Highcharts.theme && Highcharts.theme.textColor) || 'black'
-                    }
-                }
-            },
-
-            mapNavigation: {
-                enabled: true,
-                buttonOptions: {
-                    verticalAlign: 'bottom'
-                }
-            },
-
-            tooltip: {
-                backgroundColor: 'none',
-                borderWidth: 0,
-                shadow: false,
-                useHTML: true,
-                padding: 0,
-                pointFormat: '<span class="f32"><span class="flag {point.flag}"></span></span>' +
-                    ' {point.name}: <b>{point.value}</b>/km²',
-                positioner: function () {
-                    return { x: 0, y: 250 };
-                }
-            },
-
-            colorAxis: {
-                min: 1,
-                max: 1000,
-                type: 'logarithmic'
-            },
-
-            series : [{
-                data : data,
-                mapData: Highcharts.maps['custom/world'],
-                joinBy: ['iso-a2', 'code'],
-                name: 'Population density',
-                states: {
-                    hover: {
-                        color: '#BADA55'
-                    }
-                }
-            }]
-        });
-    });
-});
+  /**
+   * let's say we want a small map to be displayed, so let's create it
+   */
+  "smallMap": {}
+} );
     </script> 
 </div>
     
