@@ -1,4 +1,4 @@
-var tweetsData = {
+var tweetData = {
   "BF": 102323023,
   "DJ": 102323023,
   "BJ": 102323023,
