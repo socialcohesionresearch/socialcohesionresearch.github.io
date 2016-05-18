@@ -154,7 +154,6 @@ chad:
 comores:
     countryname : Comoros
     countrylink : comoros
-    Note: population under 1 million
     Population2015 : 770 058
     PopRanking : 50
     Nooftweets : 75 450
@@ -168,6 +167,7 @@ comores:
     TPPPA : 0.098
     ATAI : 0.13
     ATAIR : 36
+    Note: population under 1 million
 
 cotedivoire:
     countryname : Cote D'Ivoire
@@ -206,7 +206,6 @@ demrepcongo:
 djibouti:
     countryname : Djibouti
     countrylink : djibouti
-    Note: population under 1 million
     Population2015 : 899 658
     PopRanking : 48
     Nooftweets : 403 714
@@ -220,6 +219,7 @@ djibouti:
     TPPPA :  0.449
     ATAI : 0.61
     ATAIR : 15
+    Note: population under 1 million
 
 egypt:
     countryname : Egypt
@@ -241,7 +241,6 @@ egypt:
 EquatorialGuinea:
     countryname : Equatorial Guinea
     countrylink : equatorial-guinea
-    Note: population under 1 million
     Population2015 : 799 372
     PopRanking : 49
     Nooftweets : 7 470
@@ -255,6 +254,7 @@ EquatorialGuinea:
     TPPPA :  0.009
     ATAI : 0.01
     ATAIR : 52
+    Note: population under 1 million
 
 Eritrea:
     countryname : Eritrea
@@ -293,7 +293,6 @@ Ethiopia:
 Gambia:
     countryname : The Gambia
     countrylink : the-gambia
-    Note: population under 2 million
     Population2015 : 1 970 081
     PopRanking : 43
     Nooftweets : 367 969
@@ -307,6 +306,7 @@ Gambia:
     TPPPA :  0.187
     ATAI : 0.26
     ATAIR : 29
+    Note: population under 2 million
 
 Ghana:
     countryname : Ghana
@@ -363,7 +363,6 @@ Guinea:
 GuineaBissau:
     countryname : Guinea-Bissau
     countrylink : guinea-bissau
-    Note: population under 2 million
     Population2015 : 1 787 793
     PopRanking : 44
     Nooftweets : 73 221
@@ -377,6 +376,7 @@ GuineaBissau:
     TPPPA :  0.041
     ATAI : 0.06
     ATAIR : 47
+    Note: population under 2 million
 
 Kenya:
     countryname : Kenya
@@ -656,7 +656,6 @@ Rwanda:
 SaoTomeandPrincipe:
     countryname : Sao Tome and Principe
     countrylink : sao-tome-and-principe
-    Note: population under 300 000
     Population2015 : 202 781
     Nooftweets : 11 546
     Volrank : 51
@@ -669,6 +668,7 @@ SaoTomeandPrincipe:
     TPPPA : 0,057
     ATAI : 0.08
     ATAIR : 45
+    Note: population under 300 000
 
 Senegal:
     countryname : Senegal
@@ -690,7 +690,6 @@ Senegal:
 Seychelles: 
     countryname : Seychelles
     countrylink : seychelles
-    Note: population below 100 000
     Population2015 : 93 574
     PopRanking : 52
     Nooftweets : 296 896
@@ -704,6 +703,7 @@ Seychelles:
     TPPPA : 3,173
     ATAI : 4.35
     ATAIR : 5
+    Note: population below 100 000
 
 SierraLeone:
     countryname : Sierra Leone
