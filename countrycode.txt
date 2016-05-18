@@ -1,4 +1,4 @@
-BF	Burkina Faso
+BF	BurkinaFaso
 DJ	Djibouti
 BI	Burundi
 BJ	Benin
