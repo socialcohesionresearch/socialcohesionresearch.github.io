@@ -1,5 +1,6 @@
 algeria:
     countryname : Algeria
+    countrylink : algeria    
     Population2015 : 40 633 464
     PopRanking : 8
     Nooftweets : 25 532 709
@@ -16,6 +17,7 @@ algeria:
 
 angola:
     countryname : Angola
+    countrylink : angola
     Population2015 : 22 819 926
     PopRanking : 16
     Nooftweets : 5 133 911
@@ -32,6 +34,7 @@ angola:
 
 benin:
     countryname : Benin
+    countrylink : benin
     Population2015 : 10 879 827
     PopRanking : 30
     Nooftweets : 876 569
@@ -48,6 +51,7 @@ benin:
 
 Botswana:
     countryname : Botswana
+    countrylink : botswana
     Population2015 : 2 056 370
     PopRanking : 42
     Nooftweets : 7 636 454
@@ -64,6 +68,7 @@ Botswana:
 
 burundi:
     countryname : Burundi
+    countrylink : burundi
     Population2015 : 10 812 619
     PopRanking : 31
     Nooftweets : 514552
@@ -80,6 +85,7 @@ burundi:
 
 burkinafaso: 
     countryname : Burkino Faso
+    countrylink : burkino-faso
     Population2015 : 17 914 625
     PopRanking : 19
     Nooftweets : 664 849
@@ -96,6 +102,7 @@ burkinafaso:
 
 cameroon:
     countryname : Cameroon
+    countrylink : cameroon
     Population2015 : 23 393 129
     PopRanking : 15
     Nooftweets : 7 536 419
@@ -112,6 +119,7 @@ cameroon:
 
 centralafricanrepublic:
     countryname : Central African Republic
+    countrylink : central-african-republic
     Population2015 : 4 803 082
     PopRanking : 36
     Nooftweets : 1 792 118
@@ -128,6 +136,7 @@ centralafricanrepublic:
 
 chad:
     countryname : Chad
+    countrylink : chad
     Population2015 : 13 605 625
     PopRanking : 25
     Nooftweets : 337 828
@@ -144,6 +153,7 @@ chad:
 
 comores:
     countryname : Comoros
+    countrylink : comoros
     Note: population under 1 million
     Population2015 : 770 058
     PopRanking : 50
@@ -161,6 +171,7 @@ comores:
 
 cotedivoire:
     countryname : Cote D'Ivoire
+    countrylink : cote-di-voire
     Population2015 : 21 295 284
     PopRanking : 17
     Volind : 0.13
@@ -177,6 +188,7 @@ cotedivoire:
 
 demrepcongo:
     countryname : Democractic Republic of Congo
+    countrylink : democratic-republic-of-congo
     Population2015 : 71 246 355
     PopRanking : 4
     Nooftweets : 2 349 402
@@ -193,6 +205,7 @@ demrepcongo:
 
 djibouti:
     countryname : Djibouti
+    countrylink : djibouti
     Note: population under 1 million
     Population2015 : 899 658
     PopRanking : 48
@@ -210,6 +223,7 @@ djibouti:
 
 egypt:
     countryname : Egypt
+    countrylink : egypy
     Population2015 : 84 705 681
     PopRanking : 3
     Nooftweets : 334 497 013
@@ -226,6 +240,7 @@ egypt:
 
 EquatorialGuinea:
     countryname : Equatorial Guinea
+    countrylink : equatorial-guinea
     Note: population under 1 million
     Population2015 : 799 372
     PopRanking : 49
@@ -243,6 +258,7 @@ EquatorialGuinea:
 
 Eritrea:
     countryname : Eritrea
+    countrylink : eritrea
     Population2015 : 6 737 634
     PopRanking : 33
     Nooftweets : 407 359
@@ -259,6 +275,7 @@ Eritrea:
 
 Ethiopia:
     countryname : Ethiopia
+    countrylink : ethiopia
     Population2015 : 98 942 102
     PopRanking : 2
     Nooftweets : 6 613 395
@@ -275,6 +292,7 @@ Ethiopia:
 
 Gambia:
     countryname : The Gambia
+    countrylink : the-gambia
     Note: population under 2 million
     Population2015 : 1 970 081
     PopRanking : 43
@@ -292,6 +310,7 @@ Gambia:
 
 Ghana:
     countryname : Ghana
+    countrylink : ghana
     Population2015 : 26 984 328
     PopRanking : 13
     Nooftweets : 34 719 648
@@ -308,6 +327,7 @@ Ghana:
 
 Gabon:
     countryname : Gabon
+    countrylink : gabon
     Population2015 : 1 751 199
     PopRanking : 45
     Nooftweets : 643 413
@@ -324,6 +344,7 @@ Gabon:
 
 Guinea:
     countryname : Guinea
+    countrylink : guinea
     Population2015 : 12 347 766
     PopRanking : 27
     Nooftweets : 734 506
@@ -341,6 +362,7 @@ Guinea:
 
 Guinea-Bissau:
     countryname : Guinea-Bissau
+    countrylink : guinea-bissau
     Note: population under 2 million
     Population2015 : 1 787 793
     PopRanking : 44
@@ -358,6 +380,7 @@ Guinea-Bissau:
 
 Kenya:
     countryname : Kenya
+    countrylink : kenya
     Population2015 : 46 748 617
     PopRanking : 7
     Nooftweets : 173 785 414
@@ -374,6 +397,7 @@ Kenya:
 
 Lesotho:
     countryname : Lesotho
+    countrylink : lesotho
     Note: population under 3 million
     Population2015 : 2 120 116
     PopRanking : 41
@@ -391,6 +415,7 @@ Lesotho:
 
 Liberia:
     countryname : Liberia
+    countrylink : liberia
     Population2015 : 4 503 439
     PopRanking : 38
     Nooftweets : 426 505
@@ -407,6 +432,7 @@ Liberia:
 
 Libya:
     countryname : Libya
+    countrylink : libya
     Population2015 : 6 317 080
     PopRanking : 35
     Nooftweets : 18 566 310
@@ -423,6 +449,7 @@ Libya:
 
 Madagascar:
     countryname : Madagascar
+    countrylink : madagascar
     Population2015 : 24 235 390
     PopRanking : 14
     Nooftweets : 1 675 435
@@ -439,6 +466,7 @@ Madagascar:
 
 Malawi:
     countryname : Malawi
+    countrylink : malawi
     Population2015 : 17 308 685
     PopRanking : 20
     Nooftweets : 2 536 531
@@ -455,6 +483,7 @@ Malawi:
 
 Mali:
     countryname : Mali
+    countrylink : mali
     Population2015 : 16 258 587
     PopRanking : 21
     Nooftweets : 1 485 857
@@ -471,6 +500,7 @@ Mali:
 
 Mauritania:
     countryname : Mauritania
+    countrylink : mauritania
     Population2015 : 4 080 224
     PopRanking : 39
     Nooftweets : 559 114
@@ -487,6 +517,7 @@ Mauritania:
 
 Mauritius:
     countryname : Mauritius
+    countrylink : mauritius
     Note: population under 2 million
     Population2015 : 1 253 581
     PopRanking : 47
@@ -504,6 +535,7 @@ Mauritius:
 
 Morocco:
     countryname : Morocco
+    countrylink : morocco
     Population2015 : 33 955 157
     PopRanking : 11
     Nooftweets : 22 610 106
@@ -520,6 +552,7 @@ Morocco:
 
 Mozambique:
     countryname : Mozambique
+    countrylink : mozambique
     Population2015 : 27 121 827
     PopRanking : 12
     Nooftweets : 2 165 989
@@ -536,6 +569,7 @@ Mozambique:
 
 Namibia:
     countryname : Namibia
+    countrylink : namibia
     Note: population under 3 million
     Population2015 : 2 392 370
     PopRanking : 40
@@ -553,6 +587,7 @@ Namibia:
 
 Niger: 
     countryname : Niger
+    countrylink : niger
     Population2015 : 19 268 380
     PopRanking : 18
     Nooftweets : 246 056
@@ -569,6 +604,7 @@ Niger:
 
 Nigeria:
     countryname : Nigeria
+    countrylink : nigeria
     Population2015 : 183 523 432
     PopRanking : 1
     Nooftweets : 242 840 161
@@ -585,6 +621,7 @@ Nigeria:
 
 RepublicofCongo:
     countryname : Republic of Congo
+    countrylink : republic-of-congo
     Population2015 : 4 671 142
     PopRanking : 37
     Nooftweets : 775 570
@@ -601,6 +638,7 @@ RepublicofCongo:
 
 Rwanda: 
     countryname : Rwanda
+    countrylink : rwanda
     Population2015 : 12 428 005
     PopRanking : 26
     Nooftweets : 1 989 890
@@ -617,6 +655,7 @@ Rwanda:
 
 SaoTomeandPrincipe:
     countryname : Sao Tome and Principe
+    countrylink : sao-tome-and-principe
     Note: population under 300 000
     Population2015 : 202 781
     Nooftweets : 11 546
@@ -633,6 +672,7 @@ SaoTomeandPrincipe:
 
 Senegal:
     countryname : Senegal
+    countrylink : senegal
     Population2015 : 14 967 446
     PopRanking : 24
     Nooftweets : 5 172 433
@@ -649,6 +689,7 @@ Senegal:
 
 Seychelles: 
     countryname : Seychelles
+    countrylink : seychelles
     Note: population below 100 000
     Population2015 : 93 574
     PopRanking : 52
@@ -666,6 +707,7 @@ Seychelles:
 
 SierraLeone:
     countryname : Sierra Leone
+    countrylink : sierra-leone
     Population2015 : 6 318 575
     PopRanking : 34
     Nooftweets : 724 377
@@ -682,6 +724,7 @@ SierraLeone:
 
 Somalia:
     countryname : Somalia
+    countrylink : somalia
     Population2015 : 11 122 711
     PopRanking : 29
     Nooftweets : 2 803 882
@@ -698,6 +741,7 @@ Somalia:
 
 SouthAfrica:
     countryname : South Africa
+    countrylink : south-africa
     Population2015 : 53 491 333
     PopRanking : 5
     Nooftweets : 250 593 472
@@ -714,6 +758,7 @@ SouthAfrica:
 
 Sudan:
     countryname : Sudan
+    countrylink : sudan
     Population2015 : 39 613 217
     PopRanking : 10
     Nooftweets : 9 021 030
@@ -730,6 +775,7 @@ Sudan:
 
 Swaziland:
     countryname : Swaziland
+    countrylink : swaziland
     Population2015 : 1 285 519
     PopRanking : 46
     Nooftweets : 556 689
@@ -746,6 +792,7 @@ Swaziland:
 
 Tanzania:
     countryname : Tanzania
+    countrylink : tanzania
     Population2015 : 52 290 796
     PopRanking : 6
     Nooftweets : 12 116 150
@@ -762,6 +809,7 @@ Tanzania:
 
 Togo:
     countryname : Togo
+    countrylink : togo
     Population2015 : 7 170 797
     PopRanking : 32
     Nooftweets : 900 244
@@ -778,6 +826,7 @@ Togo:
 
 Tunisia:
     countryname : Tunisia
+    countrylink : tunisia
     Population2015 : 11 235 248
     PopRanking : 28
     Nooftweets : 11 137 350
@@ -794,6 +843,7 @@ Tunisia:
 
 Uganda:
     countryname : Uganda
+    countrylink : uganda
     Population2015 : 40 141 262
     PopRanking : 9
     Nooftweets : 12 160 800
@@ -810,6 +860,7 @@ Uganda:
 
 Zambia:
     countryname : Zambia
+    countrylink : zambia
     Population2015 : 15 519 604
     PopRanking : 22
     Nooftweets : 5 207 602
@@ -826,6 +877,7 @@ Zambia:
 
 Zimbabwe:
     countryname : Zimbabwe
+    countrylink : zimbabwe
     Population2015 : 15 046 102
     PopRanking : 23
     Nooftweets : 6 275 705
