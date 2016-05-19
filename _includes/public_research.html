@@ -9,12 +9,12 @@
             <a href="{{post.url}}"><img alt="" src="{{site.url}}/{{image}}" /></a>
           {% endfor %}
           <div class='content'>
-		  <div style="border: 1px solid #fcbf31; padding: 10px;">
+		  <div style="border: 1px solid #fcbf31; border-top: none; padding: 10px;">
 		  <h4><a style="color: #333;" href="{{post.url}}">{{post.title}}</a></h4>
+    </div>
 			<p class="centered-text"><a class="button_dark boxed"  href="{{post.url}}">Read More</a></p>
           </div>
 		  </div>
-        </div>
       </div>
   {% endif %}
 {% endfor %}
