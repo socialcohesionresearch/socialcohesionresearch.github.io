@@ -18,6 +18,8 @@ published: true
 
 <p>The Top 4 countries by volume of tweets were Egypt, South Africa, Nigeria and Kenya – sending out just over 1 billion tweets between them in 2015. The remaining 48 countries sent ‘just’ 232 million tweets.</p>
 
+<div id="voltweets" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
 {Bar Graph:
 Egypt, SA, Nigeria, Kenya and ‘the other 48 countries}
 
@@ -55,3 +57,71 @@ We run primary face-to-face research - both quantitative and qualitative - in 54
 We run analytical research on social media globally through our partnership with Crimson Hexagon, arguably the best social media analysis platform in the world.
 
 Go to the <a href="">Twitter Activity Index page</a> to view the data by country.
+Egypt: 334 497 013
+
+SA: 250 593
+
+Nigeria: 242 840 161
+
+Kenya: 173 785 414
+
+Total: 1 001 716 060 81.18% of total
+
+Remaining volume (46 countries): 232 224 419
+
+<script>
+$(function () {
+    $('#voltweets').highcharts({
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: 'Volume of Tweets Top 5 Countries vs Rest of Africa'
+        },
+        xAxis: {
+            categories: [
+                'Countries'
+            ],
+            crosshair: true
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Volume of Tweets'
+            }
+        },
+        tooltip: {
+            valueSuffix: ''
+        },
+        plotOptions: {
+            column: {
+                pointPadding: 0.2,
+                borderWidth: 0
+            }
+        },
+        series: [{
+            name: 'Egypt',
+            data: [334497013]
+
+        }, {
+            name: 'South Africa',
+            data: [250593472]
+
+        }, {
+            name: 'Nigeria',
+            data: [242840161]
+
+        },
+        {
+            name: 'Kenya',
+            data: [173785414]
+
+        },
+        {
+            name: 'Rest of Africa (46 Countries)',
+            data: [232224419]
+
+        }]
+    });
+});
+</script>
