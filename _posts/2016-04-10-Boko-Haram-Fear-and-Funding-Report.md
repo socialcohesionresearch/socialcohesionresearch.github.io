@@ -41,11 +41,21 @@ We found that the breakdown of concerns expressed on social media over this time
 </div>
 </div>
 
-### Funding of Boko Haram
-Turning our attention to Funding of Boko Haram, we identified 47 205 English posts emanating from Nigeria relating to the funding of Boko Haram over the time frame.  In social media data terms this is a small data set, but still represents, of course, 47 205 individual pieces of  data. In alanalsyi9ng this data set we found the following – given that ‘wealthy Nigerians’ inevitably refers to men of power, fully 54% of all Nigerian social media opinion points the finger at various levels of government or official power.
-
-In order to understand why this opinion was so overwhelmingly held, we conducted a retrospective analysis of relevant social media conversation from 2011 till 2015.
-The results showed persistent reports – ranging from rumour to arrests – of government or official involvement in Boko Haram funding.  We show below the timelines for 2011,2012,2013,2014 and 2015:
+<div class="row">
+<div class='medium-6 large-6 columns'>
+<h3>Funding of Boko Haram</h3>
+</div>
+</div>
+<div class="row">
+<div class='medium-6 large-6 columns'>
+<p>Turning our attention to Funding of Boko Haram, we identified 47 205 English posts emanating from Nigeria relating to the funding of Boko Haram over the time frame.  In social media data terms this is a small data set, but still represents, of course, 47 205 individual pieces of  data. In alanalsyi9ng this data set we found the following – given that ‘wealthy Nigerians’ inevitably refers to men of power, fully 54% of all Nigerian social media opinion points the finger at various levels of government or official power.
+</p>
+</div>
+<div class='medium-6 large-6 columns'>
+<p>In order to understand why this opinion was so overwhelmingly held, we conducted a retrospective analysis of relevant social media conversation from 2011 till 2015.
+The results showed persistent reports – ranging from rumour to arrests – of government or official involvement in Boko Haram funding.  We show below the timelines for 2011,2012,2013,2014 and 2015:</p>
+</div>
+</div>
 
 ### Funding of Boko Haram: 2011
 <img src="{{site.url}}/images/blog-images/funding2011.jpg" alt="Funding of Boko Haram: 2011">
