@@ -37,26 +37,20 @@ Turning our attention to Funding of Boko Haram, we identified 47 205 English pos
 In order to understand why this opinion was so overwhelmingly held, we conducted a retrospective analysis of relevant social media conversation from 2011 till 2015.
 The results showed persistent reports – ranging from rumour to arrests – of government or official involvement in Boko Haram funding.  We show below the timelines for 2011,2012,2013,2014 and 2015:
 
+### Funding of Boko Haram: 2011
+<img src="images/blog-images/funding2011.jpg">
 
+### Funding of Boko Haram: 2012
+<img src="images/blog-images/funding2012.jpg">
 
+### Funding of Boko Haram: 2013
+<img src="images/blog-images/funding2013.jpg">
 
+### Funding of Boko Haram: 2014 (note the rise in volume)
+<img src="images/blog-images/funding2014.jpg">
 
-
-Funding of Boko Haram: 2011
-
-
-
-Funding of Boko Haram: 2012
-
-
-
-Funding of Boko Haram: 2013
-
-Funding of Boko Haram: 2014 (note the rise in volume)
-
-
-
-Funding of Boko Haram: 2015 (note the rise in volume)
+### Funding of Boko Haram: 2015 (note the rise in volume)
+<img src="images/blog-images/funding2015.jpg">
 
 <script>
 $(function () {
