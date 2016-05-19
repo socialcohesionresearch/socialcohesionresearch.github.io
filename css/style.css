@@ -858,4 +858,7 @@ border: 0;
 box-shadow: 0;
 display: inline;
 }
-
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+}
