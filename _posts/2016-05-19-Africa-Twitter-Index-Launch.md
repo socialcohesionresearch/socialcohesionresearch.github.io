@@ -248,3 +248,64 @@ $(function () {
     });
 });
   </script>
+  <script>
+$(function () {
+    $('#voltweetstop').highcharts({
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: 'Volume of Tweets - Top 5 Countries'
+        },
+        xAxis: {
+            categories: [
+                'Countries'
+            ],
+            crosshair: true
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Volume of Tweets - Top 5 North Africa'
+            }
+        },
+        tooltip: {
+            valueSuffix: ''
+        },
+        plotOptions: {
+            column: {
+                pointPadding: 0.2,
+                borderWidth: 0
+            }
+        },
+        series: [{
+            name: 'Egypt',
+            data: [334497013],
+            color: '#F9A61C'
+
+        }, {
+            name: 'Algeria',
+            data: [25532709],
+            color: '#333333'
+
+        }, {
+            name: 'Morocco',
+            data: [22610106],
+            color: '#26B8EB'
+
+        },
+        {
+            name: 'Libya',
+            data: [18566310],
+            color: '#868686'
+
+        },
+        {
+            name: 'Tunisia',
+            color: '#33ff71',
+            data: [11137350]
+
+        }]
+    });
+});
+</script>
