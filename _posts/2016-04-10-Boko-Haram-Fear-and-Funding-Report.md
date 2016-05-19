@@ -60,7 +60,7 @@ Funding of Boko Haram: 2015 (note the rise in volume)
 
 <script>
 $(function () {
-    $('#container').highcharts({
+    $('#socialconcern').highcharts({
         chart: {
             type: 'column'
         },
