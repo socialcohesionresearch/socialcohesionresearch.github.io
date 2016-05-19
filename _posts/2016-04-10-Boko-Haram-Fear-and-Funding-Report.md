@@ -38,19 +38,19 @@ In order to understand why this opinion was so overwhelmingly held, we conducted
 The results showed persistent reports – ranging from rumour to arrests – of government or official involvement in Boko Haram funding.  We show below the timelines for 2011,2012,2013,2014 and 2015:
 
 ### Funding of Boko Haram: 2011
-<img src="{{site.url}}/images/blog-images/funding2011.jpg">
+<img src="{{site.url}}/images/blog-images/funding2011.jpg" alt="Funding of Boko Haram: 2011">
 
 ### Funding of Boko Haram: 2012
-<img src="{{site.url}}/images/blog-images/funding2012.jpg">
+<img src="{{site.url}}/images/blog-images/funding2012.jpg" alt="Funding of Boko Haram: 2012">
 
 ### Funding of Boko Haram: 2013
-<img src="{{site.url}}/images/blog-images/funding2013.jpg">
+<img src="{{site.url}}/images/blog-images/funding2013.jpg" alt="Funding of Boko Haram: 2013">
 
 ### Funding of Boko Haram: 2014 (note the rise in volume)
-<img src="{{site.url}}/images/blog-images/funding2014.jpg">
+<img src="{{site.url}}/images/blog-images/funding2014.jpg" alt="Funding of Boko Haram: 2014">
 
 ### Funding of Boko Haram: 2015 (note the rise in volume)
-<img src="{{site.url}}/images/blog-images/funding2015.jpg">
+<img src="{{site.url}}/images/blog-images/funding2015.jpg" alt="Funding of Boko Haram: 2015">
 
 <script>
 $(function () {
