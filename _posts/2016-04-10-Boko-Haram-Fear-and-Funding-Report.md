@@ -2,7 +2,7 @@
 layout: public_reports
 title: Boko Haram Fear and Funding Report
 subtitle: Tracking Social Media Voices
-date: "2014-05-05 20:37:53 +0800"
+date: "2016-04-10 20:37:53 +0800"
 author: The Citizen Research Centre
 excerpt: "A report showing social media data on the Fear and Funding of Boko Haram from 2009 to 2015"
 images: "images/blog-images/rise.jpg"
@@ -71,6 +71,8 @@ The results showed persistent reports – ranging from rumour to arrests – of 
 
 ### Funding of Boko Haram: 2015 (note the rise in volume)
 <img src="{{site.url}}/images/blog-images/funding2015.jpg" alt="Funding of Boko Haram: 2015">
+
+
 
 <script>
 $(function () {
