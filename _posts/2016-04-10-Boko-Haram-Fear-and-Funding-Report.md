@@ -10,11 +10,13 @@ categories: public_research
 published: true
 ---
 
-We used Crimson Hexagon to answer three key questions of the social media conversation in Nigeria regarding Boko Haram:
-- What issues of social concern are Nigerians talking about on social media?
-- How has the level of fear risen over the years?
-- How do people that are active on social media in Nigeria think Boko Haram is funded?
-
+<p>We used Crimson Hexagon to answer three key questions of the social media conversation in Nigeria regarding Boko Haram:</p>
+<ul>
+<li>What issues of social concern are Nigerians talking about on social media?</li>
+<li>How has the level of fear risen over the years?</li>
+<li>How do people that are active on social media in Nigeria think Boko Haram is funded?
+</li>
+</ul>
 Our research timelines were January 2009 to November 2015
 <div class="row">
 <div class='medium-6 large-6 columns'>
