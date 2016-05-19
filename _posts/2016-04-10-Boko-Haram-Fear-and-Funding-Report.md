@@ -22,10 +22,9 @@ Our research timelines were January 2009 to November 2015
 <p>We identified areas of socio-economic concern to Nigerians , and then identified and analysed 1,060,647,786 relevant social media posts coming out of Nigeria between January 2009 and November 2015.
 We found that the breakdown of concerns expressed on social media over this time frame was as follows:</p>
 </div>
-<div>
+</div>
 	<div class="row">
 <div id="socialconcern" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-</div>
 <div class="row">
 <div class='medium-6 large-6 columns'>
 <h3>The Rise of Fear</h3>
