@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Boko Haram Fear and Funding Report
 
@@ -48,28 +48,3 @@ Funding of Boko Haram: 2014 (note the rise in volume)
 
 
 Funding of Boko Haram: 2015 (note the rise in volume)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
