@@ -11,6 +11,7 @@ published: true
 ---
 <div class="row">
 	<div class='medium-2 large-2 columns'>
+		<div class='spacing'></div>
 	</div>
 <div class='medium-8 large-8 columns'>
 <p>The Citizen Research Centre has just released its 2015 Africa Twitter Activity Index – studying twitter volume and activity levels in 52 of the 54 African states. The Index has been compiled in collaboration with Crimson Hexagon, a world leading social media monitoring platform.</p>
@@ -59,6 +60,7 @@ published: true
 <p>Go to the <a href="">Twitter Activity Index page</a> to view the data by country.</p>
 </div>
 <div class='medium-2 large-2 columns'>
+	<div class='spacing'></div>
 	</div>
 </div>
 
