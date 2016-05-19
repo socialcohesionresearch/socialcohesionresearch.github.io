@@ -9,7 +9,10 @@ images: "images/blog-images/rise.jpg"
 categories: public_research
 published: true
 ---
-
+<div class="row">
+	<div class='medium-2 large-2 columns'>
+	</div>
+<div class='medium-8 large-8 columns'>
 <p>The Citizen Research Centre has just released its 2015 Africa Twitter Activity Index – studying twitter volume and activity levels in 52 of the 54 African states. The Index has been compiled in collaboration with Crimson Hexagon, a world leading social media monitoring platform.</p>
 
 <h3>Volume</h3>
@@ -32,30 +35,32 @@ published: true
 
 <div id="language" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 
-In terms of volume, North African countries are prominent in the top 15 – with all of Egypt (1st), Algeria (6th), Morocco (7th), Libya (8th) and Tunisia (11th) represented in the top 15 countries by volume.
+<p>In terms of volume, North African countries are prominent in the top 15 – with all of Egypt (1st), Algeria (6th), Morocco (7th), Libya (8th) and Tunisia (11th) represented in the top 15 countries by volume.</p><p>Highlighting the growth of social media in North African countries – Arabic has grown from comprising 9% of the total African conversation in 2013 to 29% of the total in 2015.</p>
 
 <div id="voltweetstopnorth" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 
-
-Highlighting the growth of social media in North African countries – Arabic has grown from comprising 9% of the total African conversation in 2013 to 29% of the total in 2015.
-
 <h3>Activity</h3>
 
-Activity levels are different to volume levels in that they look at the number of tweets sent per member of the population. Here South Africa emerged as the most active African country on twitter, with South Africans sending 4.7 tweets per member of the population in 2015. Egypt ranked second with 3.9 and Kenya third with 3.7 tweets per citizen. 
+<p>Activity levels are different to volume levels in that they look at the number of tweets sent per member of the population. Here South Africa emerged as the most active African country on twitter, with South Africans sending 4.7 tweets per member of the population in 2015. Egypt ranked second with 3.9 and Kenya third with 3.7 tweets per citizen.</p>
 
-Botswana, the Seychelles, Namibia and Mauritius all performed well on an activity level.  They ranked 4th, 5th, 7th and 8th respectively. All have populations under three million with relatively concentrated urban populations. All also have well developed tourist economies, which also helps explain their high levels of activity relative to their populations. Crimson Hexagon identifies where tweets come from, so any tweets sent by tourists while in these countries would register as tweets sent from that country.
+<p>Botswana, the Seychelles, Namibia and Mauritius all performed well on an activity level.  They ranked 4th, 5th, 7th and 8th respectively. All have populations under three million with relatively concentrated urban populations. All also have well developed tourist economies, which also helps explain their high levels of activity relative to their populations. Crimson Hexagon identifies where tweets come from, so any tweets sent by tourists while in these countries would register as tweets sent from that country.</p>
 
-The difference between viewing twitter by activity rather than volume is best illustrated by Nigeria – which ranks 3rd on volume, but given its huge population of 183 million ranks 9th on activity.
+<p>The difference between viewing twitter by activity rather than volume is best illustrated by Nigeria – which ranks 3rd on volume, but given its huge population of 183 million ranks 9th on activity.</p>
 
-All of these numbers pale in comparison when compared to European figures.  The Citizen Research Centre will release its European Index shortly. But a sneak preview shows that the highest volume European country is the United Kingdom, which sent in excess of 5.5 billion tweets in 2015. This is a rate of 87 tweets per member of the population in 2015. This makes citizens in the UK almost 20 times as active as the most active African country (South Africa).
+<p>All of these numbers pale in comparison when compared to European figures.  The Citizen Research Centre will release its European Index shortly. But a sneak preview shows that the highest volume European country is the United Kingdom, which sent in excess of 5.5 billion tweets in 2015. This is a rate of 87 tweets per member of the population in 2015. This makes citizens in the UK almost 20 times as active as the most active African country (South Africa).</p>
 
-The Citizen Research Centre is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy. 
+<p>The Citizen Research Centre is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p>
 
-We run primary face-to-face research - both quantitative and qualitative - in 54 countries in Africa and the Middle East.
+<p>We run primary face-to-face research - both quantitative and qualitative - in 54 countries in Africa and the Middle East.</p>
 
-We run analytical research on social media globally through our partnership with Crimson Hexagon, arguably the best social media analysis platform in the world.
+<p>We run analytical research on social media globally through our partnership with Crimson Hexagon, arguably the best social media analysis platform in the world.
+</p>
 
-Go to the <a href="">Twitter Activity Index page</a> to view the data by country.
+<p>Go to the <a href="">Twitter Activity Index page</a> to view the data by country.</p>
+</div>
+<div class='medium-2 large-2 columns'>
+	</div>
+</div>
 
 
 <script>
