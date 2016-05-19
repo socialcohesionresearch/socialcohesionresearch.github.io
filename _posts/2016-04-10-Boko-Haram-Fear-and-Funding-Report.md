@@ -16,7 +16,7 @@ We used Crimson Hexagon to answer three key questions of the social media conver
 - How do people that are active on social media in Nigeria think Boko Haram is funded?
 
 Our research timelines were January 2009 to November 2015
-<div class="row"
+<div class="row">
 <div class='medium-6 large-6 columns'>
 ### Social Concerns 
 We identified areas of socio-economic concern to Nigerians , and then identified and analysed 1,060,647,786 relevant social media posts coming out of Nigeria between January 2009 and November 2015.
@@ -24,7 +24,7 @@ We found that the breakdown of concerns expressed on social media over this time
 </div>
 <div id="socialconcern" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 </div>
-<div class="row"
+<div class="row">
 <div class='medium-6 large-6 columns'>
 ### The Rise of Fear
 In looking at ‘Threat’ more closely, we found dramatic change over time. Threat here refers to threat to life or property – largely as a result of (but not limited to) Boko Haram activity.
