@@ -1,6 +1,6 @@
 ---
 layout: public_reports
-title: Africa Twitter Index 2015 Launched
+title: Africa Twitter Index 2015
 subtitle: Unpacking Social Media in Africa
 date: "2016-05-19 20:37:53 +0800"
 author: The Citizen Research Centre
