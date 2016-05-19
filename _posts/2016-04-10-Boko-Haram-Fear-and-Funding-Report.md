@@ -27,6 +27,10 @@ We found that the breakdown of concerns expressed on social media over this time
 <div class="row">
 <div class='medium-6 large-6 columns'>
 <h3>The Rise of Fear</h3>
+</div>
+</div>
+<div class="row">
+<div class='medium-6 large-6 columns'>
 <p>In looking at ‘Threat’ more closely, we found dramatic change over time. Threat here refers to threat to life or property – largely as a result of (but not limited to) Boko Haram activity.</p>
 
 <p>In the years preceding Bok Haram’s increased level of activity (July 2010 to December 2013), we found Threat levels to be low to the point of insignificance. Throughout the period below, Threat comprised less than 1% of the total conversation on social media in Nigeria:</p>
