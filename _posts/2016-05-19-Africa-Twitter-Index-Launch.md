@@ -57,7 +57,7 @@ published: true
 <p>We run analytical research on social media globally through our partnership with Crimson Hexagon, arguably the best social media analysis platform in the world.
 </p>
 
-<p>Go to the <a href="">Twitter Activity Index page</a> to view the data by country.</p>
+<p>Go to the <a href="{{site.url}}/africa-twitter-index.html">Twitter Activity Index page</a> to view the data by country.</p>
 </div>
 <div class='medium-2 large-2 columns'>
 	<div class='spacing'></div>
