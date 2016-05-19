@@ -18,22 +18,22 @@ We used Crimson Hexagon to answer three key questions of the social media conver
 Our research timelines were January 2009 to November 2015
 <div class="row">
 <div class='medium-6 large-6 columns'>
-### Social Concerns 
-We identified areas of socio-economic concern to Nigerians , and then identified and analysed 1,060,647,786 relevant social media posts coming out of Nigeria between January 2009 and November 2015.
-We found that the breakdown of concerns expressed on social media over this time frame was as follows:
+<h3>Social Concerns</h3> 
+<p>We identified areas of socio-economic concern to Nigerians , and then identified and analysed 1,060,647,786 relevant social media posts coming out of Nigeria between January 2009 and November 2015.
+We found that the breakdown of concerns expressed on social media over this time frame was as follows:</p>
 </div>
 <div id="socialconcern" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 </div>
 <div class="row">
 <div class='medium-6 large-6 columns'>
-### The Rise of Fear
-In looking at ‘Threat’ more closely, we found dramatic change over time. Threat here refers to threat to life or property – largely as a result of (but not limited to) Boko Haram activity.
+<h3>The Rise of Fear</h3>
+<p>In looking at ‘Threat’ more closely, we found dramatic change over time. Threat here refers to threat to life or property – largely as a result of (but not limited to) Boko Haram activity.</p>
 
-In the years preceding Bok Haram’s increased level of activity (July 2010 to December 2013), we found Threat levels to be low to the point of insignificance. Throughout the period below, Threat comprised less than 1% of the total conversation on social media in Nigeria:
+<p>In the years preceding Bok Haram’s increased level of activity (July 2010 to December 2013), we found Threat levels to be low to the point of insignificance. Throughout the period below, Threat comprised less than 1% of the total conversation on social media in Nigeria:</p>
 </div><div class='medium-6 large-6 columns'>
-Once Boko Haram became more active, this level increased dramatically. The graph below shows how Threat, between  January 2014 and October 2015, grew to comprise fully 22% of the total Nigerian social media conversation on topics of socio-economic/ social interest. This is by far the greatest single contributor to the national conversation around socio economic issues in this timeframe.  Of interest too, is how education as a concern grew from 8 to 13% of the conversation over this time frame.
+<p>Once Boko Haram became more active, this level increased dramatically. The graph below shows how Threat, between  January 2014 and October 2015, grew to comprise fully 22% of the total Nigerian social media conversation on topics of socio-economic/ social interest. This is by far the greatest single contributor to the national conversation around socio economic issues in this timeframe.  Of interest too, is how education as a concern grew from 8 to 13% of the conversation over this time frame.</p>
 
-Social Cohesion Research employs a mixture of technological excellence and years of research experience to deliver some of the most innovative and informative research available.
+<p>Social Cohesion Research employs a mixture of technological excellence and years of research experience to deliver some of the most innovative and informative research available.</p>
 </div>
 </div>
 
