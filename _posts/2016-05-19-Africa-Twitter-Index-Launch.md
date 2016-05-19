@@ -20,12 +20,11 @@ published: true
 
 <div id="voltweets" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
-{Bar Graph:
-Egypt, SA, Nigeria, Kenya and ‘the other 48 countries}
-
 <p>The variance between the top and bottom countries is stark – Egypt sent out 344 397 013 tweets in 2015, with the bottom ranked country by volume – Equatorial Guinea – sending out just 7 470 tweets in the same period.</p>
 
 <p>Even in the Top 5 countries by volume the fall off is dramatic.  The fourth highest country by volume – Kenya – sent 173 785 414 tweets in 2015.  The fifth highest country by volume – Ghana – sent less than a 5th of that number - 34 719 648.</p>  
+
+<div id="voltweetstop" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
 {{Bar Graph:
 Egypt, SA, Nigeria, Kenya and Ghana}}
@@ -76,7 +75,7 @@ $(function () {
             type: 'column'
         },
         title: {
-            text: 'Volume of Tweets Top 5 Countries vs Rest of Africa'
+            text: 'Volume of Tweets - Top 4 Countries vs Rest of Africa'
         },
         xAxis: {
             categories: [
@@ -120,6 +119,62 @@ $(function () {
         {
             name: 'Rest of Africa (46 Countries)',
             data: [232224419]
+
+        }]
+    });
+});
+</script>
+<script>
+$(function () {
+    $('#voltweetstop').highcharts({
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: 'Volume of Tweets - Top 5 Countries'
+        },
+        xAxis: {
+            categories: [
+                'Countries'
+            ],
+            crosshair: true
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Volume of Tweets'
+            }
+        },
+        tooltip: {
+            valueSuffix: ''
+        },
+        plotOptions: {
+            column: {
+                pointPadding: 0.2,
+                borderWidth: 0
+            }
+        },
+        series: [{
+            name: 'Egypt',
+            data: [334497013]
+
+        }, {
+            name: 'South Africa',
+            data: [250593472]
+
+        }, {
+            name: 'Nigeria',
+            data: [242840161]
+
+        },
+        {
+            name: 'Kenya',
+            data: [173785414]
+
+        },
+        {
+            name: 'Ghana',
+            data: [34719648]
 
         }]
     });
