@@ -37,7 +37,7 @@ We found that the breakdown of concerns expressed on social media over this time
 </div><div class='medium-6 large-6 columns'>
 <p>Once Boko Haram became more active, this level increased dramatically. The graph below shows how Threat, between  January 2014 and October 2015, grew to comprise fully 22% of the total Nigerian social media conversation on topics of socio-economic/ social interest. This is by far the greatest single contributor to the national conversation around socio economic issues in this timeframe.  Of interest too, is how education as a concern grew from 8 to 13% of the conversation over this time frame.</p>
 
-<p>Social Cohesion Research employs a mixture of technological excellence and years of research experience to deliver some of the most innovative and informative research available.</p>
+<p>The Citizen Research Centre employs a mixture of technological excellence and years of research experience to deliver some of the most innovative and informative research available.</p>
 </div>
 </div>
 
