@@ -31,7 +31,7 @@ Egypt, SA, Nigeria, Kenya and Ghana}}
 
 <p>Of all tweets sent out by Africans in 2015, 58% were in English, 29% in Arabic, only 3.5 % in French and less than 1 percent in Portuguese. Crimson Hexagon does not ‘read’ any indigenous African languages, but we can assume that they comprise most of the 9% of tweets that could be characterised as ‘other’. These languages have grown in use from 2% of the conversation in 2011 to 9% in 2015.</p>
 
-Graph (pie): breakdown of language
+<div id="language" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
 In terms of volume, North African countries are prominent in the top 15 – with all of Egypt (1st), Algeria (6th), Morocco (7th), Libya (8th) and Tunisia (11th) represented in the top 15 countries by volume.
 
@@ -180,3 +180,61 @@ $(function () {
     });
 });
 </script>
+<script>
+  $(function () {
+    $('#language').highcharts({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+        },
+        title: {
+            text: 'Breakdown of Language - Africa Twitter (2015)'
+        },
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.2f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    style: {
+                        color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                    }
+                }
+            }
+        },
+        series: [{
+            name: 'Languages',
+            colorByPoint: true,
+            data: [{
+                color: '#F9A61C',
+                name: 'English',
+                y: 58
+            }, {
+                color: '#333333',
+                name: 'Arabic',
+                y: 29,
+                sliced: true,
+                selected: true
+            }, {
+                color: '#26B8EB',
+                name: 'French',
+                y: 3.5
+            }, {
+                color: '#868686',
+                name: 'Portuguese',
+                y: 0.6
+            }, {
+                color: '#33ff71',
+                name: 'Indigenous or other languages',
+                y: 8.96
+            }]
+        }]
+    });
+});
+  </script>
