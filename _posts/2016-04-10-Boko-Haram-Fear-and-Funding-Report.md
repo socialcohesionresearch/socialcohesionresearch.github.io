@@ -60,19 +60,19 @@ Funding of Boko Haram: 2015 (note the rise in volume)
 
 <script>
 $(function () {
-    $('#socialconcern').highcharts({
+    $('#container').highcharts({
         chart: {
             type: 'column'
         },
         title: {
-            text: 'Monthly Average Rainfall'
+            text: 'Concerns Expressed on Social Media '
         },
         subtitle: {
-            text: 'Source: WorldClimate.com'
+            text: '2009 - 2015'
         },
         xAxis: {
             categories: [
-                '2009-2015'
+                'Areas of Concern'
             ],
             crosshair: true
         },
