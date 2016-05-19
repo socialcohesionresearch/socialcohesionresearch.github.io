@@ -9,7 +9,11 @@ images: "images/blog-images/rise.jpg"
 categories: public_research
 published: true
 ---
-
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
 <p>We used Crimson Hexagon to answer three key questions of the social media conversation in Nigeria regarding Boko Haram:</p>
 <ul>
 <li>What issues of social concern are Nigerians talking about on social media?</li>
@@ -74,7 +78,11 @@ The results showed persistent reports – ranging from rumour to arrests – of 
 ### Funding of Boko Haram: 2015 (note the rise in volume)
 <img src="{{site.url}}/images/blog-images/funding2015.jpg" alt="Funding of Boko Haram: 2015">
 
-
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+    </div>
 
 <script>
 $(function () {
