@@ -851,14 +851,11 @@ input:focus {
   top:-4px;
   right:-5px;
 }
-#share-buttons img {
-width: 50px;
-padding: 5px;
-border: 0;
-box-shadow: 0;
-display: inline;
-}
+
 ul.share-buttons {
   list-style: none!important;
   padding: 0;
+}
+ul.share-buttons li {
+  display: inline;
 }
