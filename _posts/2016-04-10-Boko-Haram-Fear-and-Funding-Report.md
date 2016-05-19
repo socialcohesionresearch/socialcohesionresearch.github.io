@@ -1,6 +1,7 @@
 ---
 layout: public_reports
 title: Boko Haram Fear and Funding Report
+subtitle: Tracking Social Media Voices
 date: "2014-05-05 20:37:53 +0800"
 author: The Citizen Research Centre
 excerpt: "A report showing social media data on the Fear and Funding of Boko Haram from 2009 to 2015"
@@ -29,7 +30,7 @@ Once Boko Haram became more active, this level increased dramatically. The graph
 
 Social Cohesion Research employs a mixture of technological excellence and years of research experience to deliver some of the most innovative and informative research available.
 
-###Funding of Boko Haram
+### Funding of Boko Haram
 Turning our attention to Funding of Boko Haram, we identified 47 205 English posts emanating from Nigeria relating to the funding of Boko Haram over the time frame.  In social media data terms this is a small data set, but still represents, of course, 47 205 individual pieces of  data. In alanalsyi9ng this data set we found the following – given that ‘wealthy Nigerians’ inevitably refers to men of power, fully 54% of all Nigerian social media opinion points the finger at various levels of government or official power.
 
 In order to understand why this opinion was so overwhelmingly held, we conducted a retrospective analysis of relevant social media conversation from 2011 till 2015.
