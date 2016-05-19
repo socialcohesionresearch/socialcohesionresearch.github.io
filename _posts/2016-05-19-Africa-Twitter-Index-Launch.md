@@ -26,20 +26,25 @@ published: true
 
 <div id="voltweetstop" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
-{{Bar Graph:
-Egypt, SA, Nigeria, Kenya and Ghana}}
-
+<h3>Language</h3>
+<div class="row">
+<div class='medium-6 large-6 columns'>
 <p>Of all tweets sent out by Africans in 2015, 58% were in English, 29% in Arabic, only 3.5 % in French and less than 1 percent in Portuguese. Crimson Hexagon does not ‘read’ any indigenous African languages, but we can assume that they comprise most of the 9% of tweets that could be characterised as ‘other’. These languages have grown in use from 2% of the conversation in 2011 to 9% in 2015.</p>
-
+</div>
+<div class='medium-6 large-6 columns'>
 <div id="language" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+</div>
+</div>
+<div class="row">
+<div class='medium-6 large-6 columns'>
+In terms of volume, North African countries are prominent in the top 15 – with all of Egypt (1st), Algeria (6th), Morocco (7th), Libya (8th) and Tunisia (11th) represented in the top 15 countries by volume. Highlighting the growth of social media in North African countries – Arabic has grown from comprising 9% of the total African conversation in 2013 to 29% of the total in 2015.
+</div>
+<div class='medium-6 large-6 columns'>
+<div id="voltweetstopnorth" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+</div>
+</div>
 
-In terms of volume, North African countries are prominent in the top 15 – with all of Egypt (1st), Algeria (6th), Morocco (7th), Libya (8th) and Tunisia (11th) represented in the top 15 countries by volume.
-
-Graph: showing the volume of Egypt, Algeria, Morocco, Libya and Tunisia.
-
-Highlighting the growth of social media in North African countries – Arabic has grown from comprising 9% of the total African conversation in 2013 to 29% of the total in 2015.
-
-Activity
+<h3>Activity</h3>
 
 Activity levels are different to volume levels in that they look at the number of tweets sent per member of the population. Here South Africa emerged as the most active African country on twitter, with South Africans sending 4.7 tweets per member of the population in 2015. Egypt ranked second with 3.9 and Kenya third with 3.7 tweets per citizen. 
 
@@ -56,17 +61,6 @@ We run primary face-to-face research - both quantitative and qualitative - in 54
 We run analytical research on social media globally through our partnership with Crimson Hexagon, arguably the best social media analysis platform in the world.
 
 Go to the <a href="">Twitter Activity Index page</a> to view the data by country.
-Egypt: 334 497 013
-
-SA: 250 593
-
-Nigeria: 242 840 161
-
-Kenya: 173 785 414
-
-Total: 1 001 716 060 81.18% of total
-
-Remaining volume (46 countries): 232 224 419
 
 <script>
 $(function () {
@@ -250,7 +244,7 @@ $(function () {
   </script>
   <script>
 $(function () {
-    $('#voltweetstop').highcharts({
+    $('#voltweetstopnorth').highcharts({
         chart: {
             type: 'column'
         },
