@@ -27,7 +27,7 @@ indrank: 13/52
   </div>
   </div>
    <div class='full_content_page' style='background: #ffffff' >
-    <strong><h2><a id="element1" onClick="javascript:changeText(1)" href="javascript:;" onmousedown="toggleDiv('mydiv');" class="button_dark boxed"><i class="icon-info"> What it means</a></i></h2></strong>
+    <strong><h2><a id="element1" onClick="javascript:changeText(1)" href="javascript:;" onmousedown="toggleDiv('mydiv');" class="button_dark boxed"><i class="icon-info">Understand our data</a></i></h2></strong>
     <div id="mydivon" style="display:block">
  <div class='row'>
       <div class='medium-3 large-3 columns'>
@@ -54,9 +54,9 @@ indrank: 13/52
 function changeText(idElement) {
     var element = document.getElementById('element' + idElement);
     if (idElement === 1 || idElement === 2) {
-        if (element.innerHTML === 'Read More...') element.innerHTML = 'Close';
+        if (element.innerHTML === '<i class="icon-info">Understand our data</a></i>') element.innerHTML = '<i class="icon-info">View our data</a></i>';
         else {
-            element.innerHTML = 'Read More...';
+            element.innerHTML = '<i class="icon-info">Understand our data</a></i>';
         }
     }
 }
