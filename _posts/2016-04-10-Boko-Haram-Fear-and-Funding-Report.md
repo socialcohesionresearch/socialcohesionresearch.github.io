@@ -23,7 +23,6 @@ Our research timelines were January 2009 to November 2015
 We found that the breakdown of concerns expressed on social media over this time frame was as follows:</p>
 </div>
 </div>
-	<div class="row">
 <div id="socialconcern" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 <div class="row">
 <div class='medium-6 large-6 columns'>
