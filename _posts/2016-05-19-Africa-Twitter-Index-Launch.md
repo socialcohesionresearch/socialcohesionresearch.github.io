@@ -252,7 +252,7 @@ $(function () {
             type: 'column'
         },
         title: {
-            text: 'Volume of Tweets - Top 5 Countries'
+            text: 'Volume of Tweets - Top 5 North African Countries'
         },
         xAxis: {
             categories: [
@@ -263,7 +263,7 @@ $(function () {
         yAxis: {
             min: 0,
             title: {
-                text: 'Volume of Tweets - Top 5 North Africa'
+                text: 'Volume of Tweets'
             }
         },
         tooltip: {
