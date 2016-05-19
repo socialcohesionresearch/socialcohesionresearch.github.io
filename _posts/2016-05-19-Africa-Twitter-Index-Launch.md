@@ -18,31 +18,26 @@ published: true
 
 <p>The Top 4 countries by volume of tweets were Egypt, South Africa, Nigeria and Kenya – sending out just over 1 billion tweets between them in 2015. The remaining 48 countries sent ‘just’ 232 million tweets.</p>
 
-<div id="voltweets" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+<div id="voltweets" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 
 <p>The variance between the top and bottom countries is stark – Egypt sent out 344 397 013 tweets in 2015, with the bottom ranked country by volume – Equatorial Guinea – sending out just 7 470 tweets in the same period.</p>
 
 <p>Even in the Top 5 countries by volume the fall off is dramatic.  The fourth highest country by volume – Kenya – sent 173 785 414 tweets in 2015.  The fifth highest country by volume – Ghana – sent less than a 5th of that number - 34 719 648.</p>  
 
-<div id="voltweetstop" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+<div id="voltweetstop" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 
 <h3>Language</h3>
-<div class="row">
-<div class='medium-4 large-4 columns'>
+
 <p>Of all tweets sent out by Africans in 2015, 58% were in English, 29% in Arabic, only 3.5 % in French and less than 1 percent in Portuguese. Crimson Hexagon does not ‘read’ any indigenous African languages, but we can assume that they comprise most of the 9% of tweets that could be characterised as ‘other’. These languages have grown in use from 2% of the conversation in 2011 to 9% in 2015.</p>
-</div>
-<div class='medium-8 large-8 columns'>
-<div id="language" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-</div>
-</div>
-<div class="row">
-<div class='medium-6 large-6 columns'>
-<p>In terms of volume, North African countries are prominent in the top 15 – with all of Egypt (1st), Algeria (6th), Morocco (7th), Libya (8th) and Tunisia (11th) represented in the top 15 countries by volume. Highlighting the growth of social media in North African countries – Arabic has grown from comprising 9% of the total African conversation in 2013 to 29% of the total in 2015.</p>
-</div>
-<div class='medium-6 large-6 columns'>
-<div id="voltweetstopnorth" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
-</div>
-</div>
+
+<div id="language" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
+
+In terms of volume, North African countries are prominent in the top 15 – with all of Egypt (1st), Algeria (6th), Morocco (7th), Libya (8th) and Tunisia (11th) represented in the top 15 countries by volume.
+
+<div id="voltweetstopnorth" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
+
+
+Highlighting the growth of social media in North African countries – Arabic has grown from comprising 9% of the total African conversation in 2013 to 29% of the total in 2015.
 
 <h3>Activity</h3>
 
@@ -61,6 +56,7 @@ We run primary face-to-face research - both quantitative and qualitative - in 54
 We run analytical research on social media globally through our partnership with Crimson Hexagon, arguably the best social media analysis platform in the world.
 
 Go to the <a href="">Twitter Activity Index page</a> to view the data by country.
+
 
 <script>
 $(function () {
