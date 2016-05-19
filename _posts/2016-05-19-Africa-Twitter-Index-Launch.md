@@ -100,24 +100,29 @@ $(function () {
         },
         series: [{
             name: 'Egypt',
-            data: [334497013]
+            data: [334497013],
+            color: '#F9A61C'
 
         }, {
             name: 'South Africa',
-            data: [250593472]
+            data: [250593472],
+            color: '#333333'
 
         }, {
             name: 'Nigeria',
-            data: [242840161]
+            data: [242840161],
+            color: '#26B8EB'
 
         },
         {
             name: 'Kenya',
-            data: [173785414]
+            data: [173785414],
+            color: '#868686'
 
         },
         {
             name: 'Rest of Africa (46 Countries)',
+            color: '#33ff71',
             data: [232224419]
 
         }]
@@ -156,24 +161,29 @@ $(function () {
         },
         series: [{
             name: 'Egypt',
-            data: [334497013]
+            data: [334497013],
+            color: '#F9A61C'
 
         }, {
             name: 'South Africa',
-            data: [250593472]
+            data: [250593472],
+            color: '#333333'
 
         }, {
             name: 'Nigeria',
-            data: [242840161]
+            data: [242840161],
+            color: '#26B8EB'
 
         },
         {
             name: 'Kenya',
-            data: [173785414]
+            data: [173785414],
+            color: '#868686'
 
         },
         {
             name: 'Ghana',
+            color: '#33ff71',
             data: [34719648]
 
         }]
