@@ -9,7 +9,6 @@ images: "images/blog-images/rise.jpg"
 categories: public_research
 published: true
 ---
-## Boko Haram Fear and Funding Report
 
 We used Crimson Hexagon to answer three key questions of the social media conversation in Nigeria regarding Boko Haram:
 - What issues of social concern are Nigerians talking about on social media?
@@ -21,6 +20,8 @@ Our research timelines were January 2009 to November 2015
 ### Social Concerns 
 We identified areas of socio-economic concern to Nigerians , and then identified and analysed 1,060,647,786 relevant social media posts coming out of Nigeria between January 2009 and November 2015.
 We found that the breakdown of concerns expressed on social media over this time frame was as follows:
+
+<div id="socialconcern" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
 ### The Rise of Fear
 In looking at ‘Threat’ more closely, we found dramatic change over time. Threat here refers to threat to life or property – largely as a result of (but not limited to) Boko Haram activity.
@@ -56,3 +57,102 @@ Funding of Boko Haram: 2014 (note the rise in volume)
 
 
 Funding of Boko Haram: 2015 (note the rise in volume)
+
+<script>
+$(function () {
+    $('#socialconcern').highcharts({
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: 'Monthly Average Rainfall'
+        },
+        subtitle: {
+            text: 'Source: WorldClimate.com'
+        },
+        xAxis: {
+            categories: [
+                '2009-2015'
+            ],
+            crosshair: true
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Total Conversation (%)'
+            }
+        },
+        tooltip: {
+            headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+            pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+                '<td style="padding:0"><b>{point.y:.0f} %</b></td></tr>',
+            footerFormat: '</table>',
+            shared: true,
+            useHTML: true
+        },
+        plotOptions: {
+            column: {
+                pointPadding: 0.2,
+                borderWidth: 0
+            }
+        },
+        series: [{
+            name: 'Education',
+            data: [8]
+
+        }, {
+            name: 'Threat',
+            data: [11]
+
+        }, {
+            name: 'Water',
+            data: [13]
+
+        }, {
+            name: 'Poverty / Money',
+            data: [10]
+
+        },
+        {
+            name: 'Addiction',
+            data: [18]
+
+        },
+        {
+            name: 'Fuel (Petrol, Diesel, Gas)',
+            data: [18]
+
+        },
+        {
+            name: 'Electricity',
+            data: [3]
+
+        },
+        {
+            name: 'Communication',
+            data: [6]
+
+        },
+          {
+            name: 'Corruption',
+            data: [1]
+
+        },
+          {
+            name: 'Government',
+            data: [2]
+
+        },
+          {
+            name: 'Employment',
+            data: [4]
+
+        },
+          {
+            name: 'Ebola',
+            data: [8]
+
+        }]
+    });
+});
+</script>
