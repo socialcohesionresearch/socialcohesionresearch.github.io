@@ -1,4 +1,11 @@
 ---
+layout: public_reports
+title: Boko Haram Fear and Funding Report
+date: "2014-05-05 20:37:53 +0800"
+author: The Citizen Research Centre
+excerpt: "A report showing social media data on the Fear and Funding of Boko Haram from 2009 to 2015"
+images: "images/blog-images/rise.jpg"
+categories: public_research
 published: true
 ---
 ## Boko Haram Fear and Funding Report
