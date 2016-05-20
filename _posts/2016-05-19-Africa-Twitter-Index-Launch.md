@@ -36,7 +36,7 @@ published: true
 
 <div id="language" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 
-<p>In terms of volume, North African countries are prominent in the top 15 – with all of Egypt (1st), Algeria (6th), Morocco (7th), Libya (8th) and Tunisia (11th) represented in the top 15 countries by volume.</p><p>Highlighting the growth of social media in North African countries – Arabic has grown from comprising 9% of the total African conversation in 2013 to 29% of the total in 2015.</p>
+<p>In terms of volume, North African countries are prominent in the top 15 – with all of Egypt (1st), Algeria (6th), Morocco (7th), Libya (8th) and Tunisia (11th) represented in the top 15 countries by volume.</p>
 
 <div id="voltweetstopnorth" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 
@@ -45,6 +45,8 @@ published: true
 <p>Activity levels are different to volume levels in that they look at the number of tweets sent per member of the population. Here South Africa emerged as the most active African country on twitter, with South Africans sending 4.7 tweets per member of the population in 2015. Egypt ranked second with 3.9 and Kenya third with 3.7 tweets per citizen.</p>
 
 <p>Botswana, the Seychelles, Namibia and Mauritius all performed well on an activity level.  They ranked 4th, 5th, 7th and 8th respectively. All have populations under three million with relatively concentrated urban populations. All also have well developed tourist economies, which also helps explain their high levels of activity relative to their populations. Crimson Hexagon identifies where tweets come from, so any tweets sent by tourists while in these countries would register as tweets sent from that country.</p>
+
+<div id="top10activity" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 
 <p>The difference between viewing twitter by activity rather than volume is best illustrated by Nigeria – which ranks 3rd on volume, but given its huge population of 183 million ranks 9th on activity.</p>
 
@@ -118,7 +120,7 @@ $(function () {
 
         },
         {
-            name: 'Rest of Africa (46 Countries)',
+            name: 'Rest of Africa (48 Countries)',
             color: '#33ff71',
             data: [232224419]
 
@@ -300,6 +302,90 @@ $(function () {
         {
             name: 'Tunisia',
             color: '#33ff71',
+            data: [11137350]
+
+        }]
+    });
+});
+</script>
+ <script>
+$(function () {
+    $('#voltweetstopnorth').highcharts({
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: 'Volume of Tweets - Top 5 North African Countries'
+        },
+        xAxis: {
+            categories: [
+                'Countries'
+            ],
+            crosshair: true
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Volume of Tweets'
+            }
+        },
+        tooltip: {
+            valueSuffix: ''
+        },
+        plotOptions: {
+            column: {
+                pointPadding: 0.2,
+                borderWidth: 0
+            }
+        },
+        series: [{
+            name: 'South Africa',
+            data: [334497013],
+            color: '#F9A61C'
+
+        }, {
+            name: 'Egypt',
+            data: [25532709],
+            color: '#333333'
+
+        }, {
+            name: 'Kenya',
+            data: [22610106],
+            color: '#26B8EB'
+
+        },
+        {
+            name: 'Botswana',
+            data: [18566310],
+            color: '#868686'
+
+        },
+        {
+            name: 'Seychelles',
+            color: '#33ff71',
+            data: [11137350]
+
+        },
+        {
+            name: 'Libya',
+            data: [334497013]
+
+        }, {
+            name: 'Namibia',
+            data: [25532709]
+
+        }, {
+            name: 'Mauritius',
+            data: [22610106]
+
+        },
+        {
+            name: 'Nigeria',
+            data: [18566310]
+
+        },
+        {
+            name: 'Ghana',
             data: [11137350]
 
         }]
