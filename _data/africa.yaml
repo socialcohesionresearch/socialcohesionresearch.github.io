@@ -23,12 +23,12 @@ angola:
     Nooftweets : 5 133 911
     Volrank : 20
     Volind : 0.22
-    PerEng : 18,61
-    PerAra : 1,35
-    PerFre : 5,65
-    PerPor : 61,06
-    PerIndoroth : 13,33
-    TPPPA : 0,225
+    PerEng : 18.61
+    PerAra : 1.35
+    PerFre : 5.65
+    PerPor : 61.06
+    PerIndoroth : 13.33
+    TPPPA : 0.225
     ATAI : 0.31
     ATAIR : 28
 
@@ -40,12 +40,12 @@ benin:
     Nooftweets : 876 569
     Volrank : 33
     Volind : 0.04
-    PerEng : 41,79
-    PerAra : 0,56
-    PerFre : 48,99
-    PerPor : 0,00
-    PerIndoroth : 8,66
-    TPPPA : 0,081
+    PerEng : 41.79
+    PerAra : 0.56
+    PerFre : 48.99
+    PerPor : 0.00
+    PerIndoroth : 8.66
+    TPPPA : 0.081
     ATAI : 0.11
     ATAIR : 39
 
@@ -57,11 +57,11 @@ Botswana:
     Nooftweets : 7 636 454
     Volrank : 14
     Volind : 0.32
-    PerEng : 83,58
-    PerAra : 0,17
-    PerFre : 0,50
-    PerPor : 0,36
-    PerIndoroth : 15,39
+    PerEng : 83.58
+    PerAra : 0.17
+    PerFre : 0.50
+    PerPor : 0.36
+    PerIndoroth : 15.39
     TPPPA : 3.714
     ATAI : 5.09
     ATAIR : 4
@@ -74,11 +74,11 @@ burundi:
     Nooftweets : 514552
     Volrank : 41
     Volind : 0.02
-    PerEng : 41,57
-    PerAra : 0,00
-    PerFre : 26,78
-    PerPor : 6,65
-    PerIndoroth : 25,00
+    PerEng : 41.57
+    PerAra : 0.00
+    PerFre : 26.78
+    PerPor : 6.65
+    PerIndoroth : 25.00
     TPPPA :  0.048
     ATAI : 0.07
     ATAIR : 46
@@ -91,11 +91,11 @@ burkinafaso:
     Nooftweets : 664 849
     Volrank : 37
     Volind : 0.03
-    PerEng : 12,57
-    PerAra : 1,12
-    PerFre : 54,42
-    PerPor : 1,04
-    PerIndoroth : 30,84
+    PerEng : 12.57
+    PerAra : 1.12
+    PerFre : 54.42
+    PerPor : 1.04
+    PerIndoroth : 30.84
     TPPPA : 0.037
     ATAI : 0.05
     ATAIR : 48
@@ -108,11 +108,11 @@ cameroon:
     Nooftweets : 7 536 419
     Volrank : 15
     Volind : 0.32
-    PerEng : 23,11
-    PerAra : 0,52
-    PerFre : 69,77
-    PerPor : 0,21
-    PerIndoroth : 6,39
+    PerEng : 23.11
+    PerAra : 0.52
+    PerFre : 69.77
+    PerPor : 0.21
+    PerIndoroth : 6.39
     TPPPA : 0.322
     ATAI : 0.44
     ATAIR : 23
@@ -125,12 +125,12 @@ centralafricanrepublic:
     Nooftweets : 1 792 118
     Volrank : 28
     Volind : 0.08
-    PerEng : 28,27
-    PerAra : 0,50
-    PerFre : 4,70
-    PerPor : 1,76
-    PerIndoroth : 64,77
-    TPPPA : 0,373
+    PerEng : 28.27
+    PerAra : 0.50
+    PerFre : 4.70
+    PerPor : 1.76
+    PerIndoroth : 64.77
+    TPPPA : 0.373
     ATAI : 0.51
     ATAIR : 19
 
@@ -142,11 +142,11 @@ chad:
     Nooftweets : 337 828
     Volrank : 46
     Volind : 0.01
-    PerEng : 70,22
-    PerAra : 2,35
-    PerFre : 6,38
-    PerPor : 0,00
-    PerIndoroth : 21,05
+    PerEng : 70.22
+    PerAra : 2.35
+    PerFre : 6.38
+    PerPor : 0.00
+    PerIndoroth : 21.05
     TPPPA : 0.025
     ATAI : 0.03
     ATAIR : 50
@@ -159,11 +159,11 @@ comores:
     Nooftweets : 75 450
     Volrank : 49
     Volind : 0.0032
-    PerEng : 45,14
-    PerAra : 0,00
-    PerFre : 26,77
-    PerPor : 0,00
-    PerIndoroth : 28,09
+    PerEng : 45.14
+    PerAra : 0.00
+    PerFre : 26.77
+    PerPor : 0.00
+    PerIndoroth : 28.09
     TPPPA : 0.098
     ATAI : 0.13
     ATAIR : 36
@@ -177,12 +177,12 @@ cotedivoire:
     Volind : 0.13
     Nooftweets : 8 227 271
     Volrank : 35
-    PerEng : 14,96
-    PerAra : 1,13
-    PerFre : 77,30
-    PerPor : 0,20
-    PerIndoroth : 6,42
-    TPPPA :  0,386
+    PerEng : 14.96
+    PerAra : 1.13
+    PerFre : 77.30
+    PerPor : 0.20
+    PerIndoroth : 6.42
+    TPPPA :  0.386
     ATAI : 0.53
     ATAIR : 18
 
@@ -194,11 +194,11 @@ demrepcongo:
     Nooftweets : 2 349 402
     Volrank : 24
     Volind : 0.10
-    PerEng : 25,55
-    PerAra : 0,80
-    PerFre : 59,97
-    PerPor : 0,96
-    PerIndoroth : 12,73
+    PerEng : 25.55
+    PerAra : 0.80
+    PerFre : 59.97
+    PerPor : 0.96
+    PerIndoroth : 12.73
     TPPPA : 0.033
     ATAI : 0.05
     ATAIR : 49
@@ -212,10 +212,10 @@ djibouti:
     Volrank : 44
     Volind : 0.02
     PerEng : 54.03
-    PerAra : 4,64
-    PerFre : 14,88
-    PerPor : 2,09
-    PerIndoroth : 24,36
+    PerAra : 4.64
+    PerFre : 14.88
+    PerPor : 2.09
+    PerIndoroth : 24.36
     TPPPA :  0.449
     ATAI : 0.61
     ATAIR : 15
@@ -229,12 +229,12 @@ egypt:
     Nooftweets : 334 497 013
     Volrank : 1
     Volind : 14.10
-    PerEng : 18,39
-    PerAra : 76,19
-    PerFre : 0,33
-    PerPor : 0,20
-    PerIndoroth : 4,89
-    TPPPA : 3,95
+    PerEng : 18.39
+    PerAra : 76.19
+    PerFre : 0.33
+    PerPor : 0.20
+    PerIndoroth : 4.89
+    TPPPA : 3.95
     ATAI : 5.41
     ATAIR : 2
 
@@ -264,11 +264,11 @@ Eritrea:
     Nooftweets : 407 359
     Volrank : 43
     Volind : 0.02
-    PerEng : 41,61
-    PerAra : 2,11
-    PerFre : 0,99
-    PerPor : 
-    PerIndoroth : 55,29
+    PerEng : 41.61
+    PerAra : 2.11
+    PerFre : 0.99
+    PerPor : 0.00
+    PerIndoroth : 55.29
     TPPPA :  0.060
     ATAI : 0.08
     ATAIR : 43
@@ -281,11 +281,11 @@ Ethiopia:
     Nooftweets : 6 613 395
     Volrank : 16
     Volind : 0.28
-    PerEng : 74,55
-    PerAra : 1,97
-    PerFre : 6,99
-    PerPor : 1,27
-    PerIndoroth : 15,22
+    PerEng : 74.55
+    PerAra : 1.97
+    PerFre : 6.99
+    PerPor : 1.27
+    PerIndoroth : 15.22
     TPPPA :  0.067
     ATAI : 0.09
     ATAIR : 42
@@ -298,11 +298,11 @@ Gambia:
     Nooftweets : 367 969
     Volrank : 45
     Volind : 0.02
-    PerEng : 84,85
-    PerAra : 1,38
-    PerFre : 1,14
-    PerPor : 0,00
-    PerIndoroth : 12,64
+    PerEng : 84.85
+    PerAra : 1.38
+    PerFre : 1.14
+    PerPor : 0.00
+    PerIndoroth : 12.64
     TPPPA :  0.187
     ATAI : 0.26
     ATAIR : 29
@@ -316,11 +316,11 @@ Ghana:
     Nooftweets : 34 719 648
     Volrank : 5
     Volind : 1.46
-    PerEng : 88,86
-    PerAra : 0,64
-    PerFre : 1,13
-    PerPor : 0,38
-    PerIndoroth : 8,99
+    PerEng : 88.86
+    PerAra : 0.64
+    PerFre : 1.13
+    PerPor : 0.38
+    PerIndoroth : 8.99
     TPPPA : 1.287
     ATAI : 1.76
     ATAIR : 10
@@ -351,11 +351,11 @@ Guinea:
     Volrank : 35
     Volind : 0.03
     PerEng : 19.26
-    PerEng : 19,26
-    PerAra : 1,22
-    PerFre : 59,48
-    PerPor : 1,63
-    PerIndoroth : 18,41
+    PerEng : 19.26
+    PerAra : 1.22
+    PerFre : 59.48
+    PerPor : 1.63
+    PerIndoroth : 18.41
     TPPPA :  0.059
     ATAI : 0.08
     ATAIR : 44
@@ -386,12 +386,12 @@ Kenya:
     Nooftweets : 173 785 414
     Volrank : 4
     Volind : 7.32
-    PerEng : 55,23
-    PerAra : 29,95
-    PerFre : 0,34
-    PerPor : 0,09
-    PerIndoroth : 14,39
-    TPPPA :  3,717
+    PerEng : 55.23
+    PerAra : 29.95
+    PerFre : 0.34
+    PerPor : 0.09
+    PerIndoroth : 14.39
+    TPPPA :  3.717
     ATAI : 5.09
     ATAIR : 3
 
@@ -404,12 +404,12 @@ Lesotho:
     Nooftweets : 1 150 583
     Volrank : 31
     Volind : 0.05
-    PerEng : 81,08
-    PerAra : 0,00
-    PerFre : 0,63
-    PerPor : 4,97
-    PerIndoroth : 13,31
-    TPPPA : 0,543
+    PerEng : 81.08
+    PerAra : 0.00
+    PerFre : 0.63
+    PerPor : 4.97
+    PerIndoroth : 13.31
+    TPPPA : 0.543
     ATAI : 0.74
     ATAIR : 14
 
@@ -421,12 +421,12 @@ Liberia:
     Nooftweets : 426 505
     Volrank : 42
     Volind : 0.02
-    PerEng : 79,67
-    PerAra : 5,98
-    PerFre : 1,16
-    PerPor : 0,00
-    PerIndoroth : 13,19
-    TPPPA : 0,095
+    PerEng : 79.67
+    PerAra : 5.98
+    PerFre : 1.16
+    PerPor : 0.00
+    PerIndoroth : 13.19
+    TPPPA : 0.095
     ATAI : 0.13
     ATAIR : 37
 
@@ -438,12 +438,12 @@ Libya:
     Nooftweets : 18 566 310
     Volrank : 8
     Volind : 0.78
-    PerEng : 11,89
-    PerAra : 83,93
-    PerFre : 0,57
-    PerPor :  0,00
-    PerIndoroth : 3,61
-    TPPPA : 2,939
+    PerEng : 11.89
+    PerAra : 83.93
+    PerFre : 0.57
+    PerPor :  0.00
+    PerIndoroth : 3.61
+    TPPPA : 2.939
     ATAI : 4.03
     ATAIR : 6
 
@@ -455,12 +455,12 @@ Madagascar:
     Nooftweets : 1 675 435
     Volrank : 29
     Volind : 0.07
-    PerEng : 31,27
-    PerAra : 0,49
-    PerFre : 34,85
-    PerPor : 7,02
-    PerIndoroth : 26,38
-    TPPPA : 0,069
+    PerEng : 31.27
+    PerAra : 0.49
+    PerFre : 34.85
+    PerPor : 7.02
+    PerIndoroth : 26.38
+    TPPPA : 0.069
     ATAI : 0.09
     ATAIR : 41
 
@@ -472,12 +472,12 @@ Malawi:
     Nooftweets : 2 536 531
     Volrank : 23
     Volind : 0.11
-    PerEng : 79,62
-    PerAra : 1,08
-    PerFre : 1,06
-    PerPor : 0,26
-    PerIndoroth : 17,97
-    TPPPA : 0,147
+    PerEng : 79.62
+    PerAra : 1.08
+    PerFre : 1.06
+    PerPor : 0.26
+    PerIndoroth : 17.97
+    TPPPA : 0.147
     ATAI : 0.20
     ATAIR : 32
 
@@ -489,12 +489,12 @@ Mali:
     Nooftweets : 1 485 857
     Volrank : 30
     Volind : 0.06
-    PerEng : 23,00
-    PerAra : 1,43
-    PerFre : 52,77
-    PerPor : 2,40
-    PerIndoroth : 20,41
-    TPPPA : 0,091
+    PerEng : 23.00
+    PerAra : 1.43
+    PerFre : 52.77
+    PerPor : 2.40
+    PerIndoroth : 20.41
+    TPPPA : 0.091
     ATAI : 0.13
     ATAIR : 38
 
@@ -506,12 +506,12 @@ Mauritania:
     Nooftweets : 559 114
     Volrank : 39
     Volind : 0.02
-    PerEng : 20,97
-    PerAra : 48,42
-    PerFre : 24,73
-    PerPor : 0,00
-    PerIndoroth : 5,88
-    TPPPA : 0,137
+    PerEng : 20.97
+    PerAra : 48.42
+    PerFre : 24.73
+    PerPor : 0.00
+    PerIndoroth : 5.88
+    TPPPA : 0.137
     ATAI : 0.19
     ATAIR : 33
 
@@ -524,12 +524,12 @@ Mauritius:
     Nooftweets : 2 002 042
     Volrank : 26
     Volind : 0.08
-    PerEng : 75,30
-    PerAra : 0,20
-    PerFre : 14,97
-    PerPor : 0,00
-    PerIndoroth : 9,54
-    TPPPA : 1,597
+    PerEng : 75.30
+    PerAra : 0.20
+    PerFre : 14.97
+    PerPor : 0.00
+    PerIndoroth : 9.54
+    TPPPA : 1.597
     ATAI : 2.19
     ATAIR : 8
 
@@ -541,12 +541,12 @@ Morocco:
     Nooftweets : 22 610 106
     Volrank : 7
     Volind : 0.95
-    PerEng : 23,32
-    PerAra : 39,01
-    PerFre : 25,24
-    PerPor : 0,51
-    PerIndoroth : 11,92
-    TPPPA : 0,666
+    PerEng : 23.32
+    PerAra : 39.01
+    PerFre : 25.24
+    PerPor : 0.51
+    PerIndoroth : 11.92
+    TPPPA : 0.666
     ATAI : 0.91
     ATAIR : 12
 
@@ -558,12 +558,12 @@ Mozambique:
     Nooftweets : 2 165 989
     Volrank : 25
     Volind : 0.09
-    PerEng : 37,61
-    PerAra : 3,06
-    PerFre : 1,29
-    PerPor : 40,40
-    PerIndoroth : 17,63
-    TPPPA : 0,080
+    PerEng : 37.61
+    PerAra : 3.06
+    PerFre : 1.29
+    PerPor : 40.40
+    PerIndoroth : 17.63
+    TPPPA : 0.080
     ATAI : 0.11
     ATAIR : 40
 
@@ -576,12 +576,12 @@ Namibia:
     Nooftweets : 5 001 500
     Volrank : 21
     Volind : 0.21
-    PerEng : 87,08
-    PerAra : 0,41
-    PerFre : 1,05
-    PerPor : 1,42
-    PerIndoroth : 10,04
-    TPPPA : 2,091
+    PerEng : 87.08
+    PerAra : 0.41
+    PerFre : 1.05
+    PerPor : 1.42
+    PerIndoroth : 10.04
+    TPPPA : 2.091
     ATAI : 2.86
     ATAIR : 7
 
@@ -593,12 +593,12 @@ Niger:
     Nooftweets : 246 056
     Volrank : 48
     Volind : 0.01
-    PerEng : 68,17
-    PerAra : 1,74
-    PerFre : 23,84
-    PerPor : 0,00
-    PerIndoroth : 6,25
-    TPPPA : 0,013
+    PerEng : 68.17
+    PerAra : 1.74
+    PerFre : 23.84
+    PerPor : 0.00
+    PerIndoroth : 6.25
+    TPPPA : 0.013
     ATAI : 0.02
     ATAIR : 51
 
@@ -610,12 +610,12 @@ Nigeria:
     Nooftweets : 242 840 161
     Volrank : 3
     Volind : 10.23
-    PerEng : 91,07
-    PerAra : 0,47
-    PerFre : 0,98
-    PerPor : 0,27
-    PerIndoroth : 7,21
-    TPPPA : 1,323
+    PerEng : 91.07
+    PerAra : 0.47
+    PerFre : 0.98
+    PerPor : 0.27
+    PerIndoroth : 7.21
+    TPPPA : 1.323
     ATAI : 1.81
     ATAIR : 9
 
@@ -627,12 +627,12 @@ RepublicofCongo:
     Nooftweets : 775 570
     Volrank : 34
     Volind : 0.03
-    PerEng : 15,61
-    PerAra : 3,08
-    PerFre : 68,37
-    PerPor : 0,00
-    PerIndoroth : 12,95
-    TPPPA : 0,166
+    PerEng : 15.61
+    PerAra : 3.08
+    PerFre : 68.37
+    PerPor : 0.00
+    PerIndoroth : 12.95
+    TPPPA : 0.166
     ATAI : 0.23
     ATAIR : 30
 
@@ -644,12 +644,12 @@ Rwanda:
     Nooftweets : 1 989 890
     Volrank : 27
     Volind : 0.08
-    PerEng : 73,03
-    PerAra : 0,64
-    PerFre : 6,75
-    PerPor : 0,21
-    PerIndoroth : 19,37
-    TPPPA : 0,160
+    PerEng : 73.03
+    PerAra : 0.64
+    PerFre : 6.75
+    PerPor : 0.21
+    PerIndoroth : 19.37
+    TPPPA : 0.160
     ATAI : 0.22
     ATAIR : 31
 
@@ -661,12 +661,12 @@ SaoTomeandPrincipe:
     Nooftweets : 11 546
     Volrank : 51
     Volind : 0.005
-    PerEng : 39,81
-    PerAra : 0,00
-    PerFre : 0,00
-    PerPor : 35,49
-    PerIndoroth : 24,69
-    TPPPA : 0,057
+    PerEng : 39.81
+    PerAra : 0.00
+    PerFre : 0.00
+    PerPor : 35.49
+    PerIndoroth : 24.69
+    TPPPA : 0.057
     ATAI : 0.08
     ATAIR : 45
     Note: population under 300 000
@@ -679,12 +679,12 @@ Senegal:
     Nooftweets : 5 172 433
     Volrank : 19
     Volind : 0.22
-    PerEng : 19,35
-    PerAra : 0,87
-    PerFre : 62,17
-    PerPor : 0,76
-    PerIndoroth : 16,85
-    TPPPA : 0,346
+    PerEng : 19.35
+    PerAra : 0.87
+    PerFre : 62.17
+    PerPor : 0.76
+    PerIndoroth : 16.85
+    TPPPA : 0.346
     ATAI : 0.47
     ATAIR : 21
 
@@ -696,12 +696,12 @@ Seychelles:
     Nooftweets : 296 896
     Volrank : 47
     Volind : 0.01
-    PerEng : 70,77
-    PerAra : 1,34
-    PerFre : 2,96
-    PerPor : 0,00
-    PerIndoroth : 24,92
-    TPPPA : 3,173
+    PerEng : 70.77
+    PerAra : 1.34
+    PerFre : 2.96
+    PerPor : 0.00
+    PerIndoroth : 24.92
+    TPPPA : 3.173
     ATAI : 4.35
     ATAIR : 5
     Note: population below 100 000
@@ -714,12 +714,12 @@ SierraLeone:
     Nooftweets : 724 377
     Volrank : 36
     Volind : .03
-    PerEng : 89,26
-    PerAra : 0,00
-    PerFre : 1,80
-    PerPor : 1,20
-    PerIndoroth : 7,74
-    TPPPA : 0,115
+    PerEng : 89.26
+    PerAra : 0.00
+    PerFre : 1.80
+    PerPor : 1.20
+    PerIndoroth : 7.74
+    TPPPA : 0.115
     ATAI : 0.16
     ATAIR : 35
 
@@ -731,12 +731,12 @@ Somalia:
     Nooftweets : 2 803 882
     Volrank : 22
     Volind : 0.12
-    PerEng : 31,54
-    PerAra : 4,87
-    PerFre : 24,91
-    PerPor : 0,28
-    PerIndoroth : 38,40
-    TPPPA : 0,252
+    PerEng : 31.54
+    PerAra : 4.87
+    PerFre : 24.91
+    PerPor : 0.28
+    PerIndoroth : 38.40
+    TPPPA : 0.252
     ATAI : 0.35
     ATAIR : 25
 
@@ -748,12 +748,12 @@ SouthAfrica:
     Nooftweets : 250 593 472
     Volrank : 2
     Volind : 10.56
-    PerEng : 89,61
-    PerAra : 0,52
-    PerFre : 0,72
-    PerPor : 0,23
-    PerIndoroth : 8,93
-    TPPPA : 4,685
+    PerEng : 89.61
+    PerAra : 0.52
+    PerFre : 0.72
+    PerPor : 0.23
+    PerIndoroth : 8.93
+    TPPPA : 4.685
     ATAI : 6.42
     ATAIR : 1
 
@@ -765,12 +765,12 @@ Sudan:
     Nooftweets : 9 021 030
     Volrank : 12
     Volind : 0.38
-    PerEng : 24,42
-    PerAra : 70,29
-    PerFre : 0,05
-    PerPor : 0,47
-    PerIndoroth : 4,77
-    TPPPA : 0,228
+    PerEng : 24.42
+    PerAra : 70.29
+    PerFre : 0.05
+    PerPor : 0.47
+    PerIndoroth : 4.77
+    TPPPA : 0.228
     ATAI : 0.31
     ATAIR : 27
 
@@ -782,12 +782,12 @@ Swaziland:
     Nooftweets : 556 689
     Volrank : 40
     Volind : 0.02
-    PerEng : 89,12
-    PerAra : 1,40
-    PerFre : 1,53
-    PerPor : 0,77
-    PerIndoroth : 7,18
-    TPPPA : 0,433
+    PerEng : 89.12
+    PerAra : 1.40
+    PerFre : 1.53
+    PerPor : 0.77
+    PerIndoroth : 7.18
+    TPPPA : 0.433
     ATAI : 0.59
     ATAIR : 16
 
@@ -799,12 +799,12 @@ Tanzania:
     Nooftweets : 12 116 150
     Volrank : 10
     Volind : 0.51
-    PerEng : 43,45
-    PerAra : 1,00
-    PerFre : 1,12
-    PerPor : 7,93
-    PerIndoroth : 46,49
-    TPPPA : 0,232
+    PerEng : 43.45
+    PerAra : 1.00
+    PerFre : 1.12
+    PerPor : 7.93
+    PerIndoroth : 46.49
+    TPPPA : 0.232
     ATAI : 0.32
     ATAIR : 26
 
@@ -816,12 +816,12 @@ Togo:
     Nooftweets : 900 244
     Volrank : 32
     Volind : 0.04
-    PerEng : 31,34
-    PerAra : 0,45
-    PerFre : 57,22
-    PerPor : 0,00
-    PerIndoroth : 10,99
-    TPPPA : 0,126
+    PerEng : 31.34
+    PerAra : 0.45
+    PerFre : 57.22
+    PerPor : 0.00
+    PerIndoroth : 10.99
+    TPPPA : 0.126
     ATAI : 0.17
     ATAIR : 34
 
@@ -833,12 +833,12 @@ Tunisia:
     Nooftweets : 11 137 350
     Volrank : 11
     Volind : 0.47
-    PerEng : 26,07
-    PerAra : 37,54
-    PerFre : 27,95
-    PerPor : 0,24
-    PerIndoroth : 8,20
-    TPPPA : 0,991
+    PerEng : 26.07
+    PerAra : 37.54
+    PerFre : 27.95
+    PerPor : 0.24
+    PerIndoroth : 8.20
+    TPPPA : 0.991
     ATAI : 1.36
     ATAIR : 11
 
@@ -850,12 +850,12 @@ Uganda:
     Nooftweets : 12 160 800
     Volrank : 9
     Volind : 0. 51
-    PerEng : 90,73
-    PerAra : 0,22
-    PerFre : 0,40
-    PerPor : 0,10
-    PerIndoroth : 8,54
-    TPPPA : 0,303
+    PerEng : 90.73
+    PerAra : 0.22
+    PerFre : 0.40
+    PerPor : 0.10
+    PerIndoroth : 8.54
+    TPPPA : 0.303
     ATAI : 0.41
     ATAIR : 24
 
@@ -867,12 +867,12 @@ Zambia:
     Nooftweets : 5 207 602
     Volrank : 18
     Volind : 0. 22
-    PerEng : 87,73
-    PerAra : 1,10
-    PerFre : 0,86
-    PerPor : 0,63
-    PerIndoroth : 9,69
-    TPPPA : 0,336
+    PerEng : 87.73
+    PerAra : 1.10
+    PerFre : 0.86
+    PerPor : 0.63
+    PerIndoroth : 9.69
+    TPPPA : 0.336
     ATAI : 0.46
     ATAIR : 22
 
@@ -884,12 +884,12 @@ Zimbabwe:
     Nooftweets : 6 275 705
     Volrank : 17
     Volind : 0.26
-    PerEng : 85,23
-    PerAra : 0,74
-    PerFre : 0,98
-    PerPor : 1,45
-    PerIndoroth : 11,60
-    TPPPA : 0,417
+    PerEng : 85.23
+    PerAra : 0.74
+    PerFre : 0.98
+    PerPor : 1.45
+    PerIndoroth : 11.60
+    TPPPA : 0.417
     ATAI : 0.57
     ATAIR : 17
 
