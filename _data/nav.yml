@@ -20,7 +20,7 @@
 - name: Social Cohesion Index
   path: social-cohesion-index.html
   section_id: social cohesion index
-- name: Our Public Reports
+- name: Public Reports
   path: public-reports.html
   section_id: Public Reports
   children:
