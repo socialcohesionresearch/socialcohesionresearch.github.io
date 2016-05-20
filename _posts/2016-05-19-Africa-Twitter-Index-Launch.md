@@ -310,7 +310,7 @@ $(function () {
 </script>
  <script>
 $(function () {
-    $('#voltweetstopnorth').highcharts({
+    $('#top10activity').highcharts({
         chart: {
             type: 'column'
         },
