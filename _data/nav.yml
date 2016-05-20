@@ -14,6 +14,8 @@
 - name: Twitter Index
   path: twitter-index.html
   children:
+    - name: Twitter Index
+      path: twitter-index.html
     - name: Africa Twitter Index
       path: africa-twitter-index.html
   section_id: twitter index
