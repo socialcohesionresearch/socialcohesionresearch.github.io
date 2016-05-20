@@ -22,7 +22,7 @@
 - image: home-slide/sky.jpg
   desc_location: center
   desc:
-    <h2>Indepth Research</h2>
+    <h2>In-depth Research</h2>
     <h4 class="white_text">on the Global Social Condition</h4>
     <div class='two spacing'></div>
     <a href="public-reports.html" class='button boxed'>Read Research Reports</a>
