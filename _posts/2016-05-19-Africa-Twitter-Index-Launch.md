@@ -151,6 +151,7 @@ $(function () {
         },
         tooltip: {
             valueSuffix: ''
+            format: '<b>{point.name}</b>: {point.percentage:.3f} %'
         },
         plotOptions: {
             column: {
@@ -315,7 +316,7 @@ $(function () {
             type: 'column'
         },
         title: {
-            text: 'Volume of Tweets - Top 5 North African Countries'
+            text: 'Twitter Activity - Top 10'
         },
         xAxis: {
             categories: [
@@ -326,7 +327,7 @@ $(function () {
         yAxis: {
             min: 0,
             title: {
-                text: 'Volume of Tweets'
+                text: 'Tweets per Person per Annum'
             }
         },
         tooltip: {
@@ -340,53 +341,53 @@ $(function () {
         },
         series: [{
             name: 'South Africa',
-            data: [334497013],
+            data: [4.685],
             color: '#F9A61C'
 
         }, {
             name: 'Egypt',
-            data: [25532709],
+            data: [3.95],
             color: '#333333'
 
         }, {
             name: 'Kenya',
-            data: [22610106],
+            data: [3.717],
             color: '#26B8EB'
 
         },
         {
             name: 'Botswana',
-            data: [18566310],
+            data: [3.714],
             color: '#868686'
 
         },
         {
             name: 'Seychelles',
             color: '#33ff71',
-            data: [11137350]
+            data: [3.173]
 
         },
         {
             name: 'Libya',
-            data: [334497013]
+            data: [2.939]
 
         }, {
             name: 'Namibia',
-            data: [25532709]
+            data: [2.091]
 
         }, {
             name: 'Mauritius',
-            data: [22610106]
+            data: [1.597]
 
         },
         {
             name: 'Nigeria',
-            data: [18566310]
+            data: [1.323]
 
         },
         {
             name: 'Ghana',
-            data: [11137350]
+            data: [1.287]
 
         }]
     });
