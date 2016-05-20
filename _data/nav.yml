@@ -8,7 +8,9 @@
     - name: What we do
       path: what-we-do.html
     - name: How we do it
-      path: how-we-do-it.html  
+      path: how-we-do-it.html
+    - name: Where we work
+      path: where-we-work.html    
 - name: Twitter Index
   path: twitter-index.html
   children:
@@ -18,22 +20,21 @@
 - name: Social Cohesion Index
   path: social-cohesion-index.html
   section_id: social cohesion index
-- name: Our Research
+- name: Our Public Reports
   path: public-reports.html
-  section_id: our research
+  section_id: Public Reports
   children:
-    - name: Releases
-      path: releases.html
     - name: Publicly Available Reports
       path: public-reports.html
-    - name: Funding
+    - name: Funding and Partnership
       path: funding.html
-    - name: Bespoke Research
-      path: bespoke-research.html
-- name: About us
-  path: about.html
+    
+- name: Contact Us
+  path: contact.html
   children:
-    - name: About us
-      path: about.html
     - name: Contact Us
       path: contact.html
+    - name: Bespoke Research
+      path: bespoke-research.html
+    - name: About us
+      path: about.html
