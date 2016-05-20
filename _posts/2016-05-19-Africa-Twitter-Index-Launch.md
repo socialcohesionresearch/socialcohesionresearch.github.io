@@ -151,7 +151,6 @@ $(function () {
         },
         tooltip: {
             valueSuffix: ''
-            format: '<b>{point.name}</b>: {point.percentage:.3f} %'
         },
         plotOptions: {
             column: {
