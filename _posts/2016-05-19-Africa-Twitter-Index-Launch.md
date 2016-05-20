@@ -315,7 +315,7 @@ $(function () {
             type: 'column'
         },
         title: {
-            text: 'Twitter Activity per Person - Top 10 Africa Activity Index'
+            text: 'Twitter Activity per Person per Annum - Top 10 Africa Activity Index'
         },
         xAxis: {
             categories: [
