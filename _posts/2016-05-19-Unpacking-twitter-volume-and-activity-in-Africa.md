@@ -1,10 +1,10 @@
 ---
 layout: public_reports
-title: Africa Twitter Index 2015
-subtitle: Unpacking Social Media in Africa
+title: Unpacking twitter volume and activity in Africa
+subtitle: Volume & Activity 
 date: "2016-05-19 20:37:53 +0800"
 author: The Citizen Research Centre
-excerpt: "Better understand the biggest winners and losers on the African continent when it comes to Twitter. Find out who ranks number one on our African Twitter Index."
+excerpt: "Analysis on the top contributors to twitter conversation in Africa"
 images: "images/blog-images/rise.jpg"
 categories: public_research
 published: true
