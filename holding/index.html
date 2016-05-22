@@ -1,0 +1,108 @@
+---
+layout: default
+title: Citizen Research Centre
+section_id: home
+
+milestones:
+  - from: 0
+    to: 54
+    title: Countries we work in face to face
+  - from: 0
+    to: 1
+    title: Trillion pieces of Social Media Data
+  - from: 0
+    to: 200
+    title: countries social media analysed 
+---
+
+{% include slider.html %}
+
+<div class='full' style='background: #ffffff'>
+  <div class='row'>
+    <div class='large-10 columns'>
+      <h2>Who are we?</h2>
+	  </div>
+	  </div>
+	  <div class='row'>
+	   <div class='large-6 columns'>
+      <p>The Citizen Research Centre is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p>
+<p>We describe what we do as social research. This is research done in order to improve and expand on our knowledge of the world by providing decision makers in social policy and intervention projects with the best data possible.</p>
+<p>We run primary face-to-face research - both quantitative and qualitative - in 54 countries in Africa and the Middle East. <a href="{{site.url}}/where-we-work.html">Click here</a> for a list of countries in which we run face-to-face research.</p>
+<p>We run analytical research on social media globally through our partnership with <a href="http://www.crimsonhexagon.com/" target="_blank">Crimson Hexagon</a>, arguably the best social media analysis platform in the world.
+We work for a variety of clients but are also committed to generating our own projects for public distribution. These are exclusively generated through mining and reporting on our social media data base, which currently holds almost 1 trillion pieces of social media data.</p>
+
+    </div>
+	<div class='large-6 columns'>
+<p>Our primary self-developed products are the <a href="{{site.url}}/twitter-activity-index.html">Twitter Activity Index</a> and the <a href="{{site.url}}/social-cohesion-index.html">Social Cohesion Index</a>.</p>
+<p>Our primary research tools are <a href="{{site.url}}/how-we-do-it/reach.html">Reach</a> (face-to-face) and <a href="{{site.url}}/how-we-do-it/opinion.html">Opinion</a> (social media analysis).</p>
+<p>We run ad hoc projects for our clients, delving deeply into citizen opinions in all their multi-faceted nuance. We also actively seek funding to keep producing reports that are of interest to decision makers and policy makers across the world. If you would like to fund a project, scope the viability of a project or run ad hoc research please drop us a mail at info@citizenresearchcentre.org<p>
+<p>The Citizen Research Centre was born of <a href="vibrand.co.za" target="_blank">Vibrand Research</a>, a market research firm with a reputation for intelligent, innovative work.  Vibrand has been running projects in the social field for several years, and the Citizen Research Centre has been established as her socially based sister organisation.</p> 
+    </div>
+  </div>
+</div>
+<div class='full bg-4 no-padding'>
+  <div class='two spacing'></div>
+  <div class='row'>
+    {% for milestone in page.milestones %}
+      <div class='medium-4 large-4 columns'>
+        <div class='milestone light'>
+          <strong data-from='{{milestone.from}}' data-to='{{milestone.to}}'></strong>
+          <span>{{milestone.title}}</span>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <div class='two spacing'></div>
+</div>
+
+<div class='full' style='background: #ffffff'>
+  <div class='row'>
+    <div class='large-12 columns'>
+      <h2>Our recent releases</h2>
+      <div class='two spacing'></div>
+    </div>
+  </div>
+
+  <div class='row'>
+    {% for post in site.posts %}
+      {% if forloop.index > 3 %}
+        {% break %}
+      {% endif %}
+      <div class='large-4 medium-4 columns'>
+        <div class='mod modBlogPost'>
+          {% for image in post.images %}
+            {% unless forloop.first %}
+              {% break %}
+            {% endunless %}
+            <a href="{{post.url}}"><img alt="" src="{{image}}" /></a>
+          {% endfor %}
+          <div class='content'>
+		  <div style="margin-bottom: 0px; margin-top: 0px; padding: 0px; background-color: #fff;">
+		  <h4 style="padding: 10px; background-color: #212121; margin: 0px; min-height: 65px;"><a href="{{post.url}}"">{{post.title}}</a></h4>
+            <div style="margin-top: 0px; padding: 0px; margin: 0px; border: 1px solid #212121;">
+			<p style="font-size: 11px; color: #212121; padding: 10px; margin: 0px;" class='date'>{{post.date | date: "%B %d, %Y" }}</p>
+            <p style="color: #212121; padding: 10px; margin: 0px;">{{post.excerpt}}</p>
+			</div>
+            <!--
+              <div class="tags">
+                {% for cat in post.categories %}
+                  <a href="#">{{cat | capitalize}}</a>
+                  {% unless forloop.last %}
+                    ,
+                  {% endunless %}
+                {% endfor %}
+              </div>
+            -->
+          </div>
+		  </div>
+        </div>
+      </div>
+	  {% endfor %}
+	  </div>
+	<div class='row'>
+	<div class="two spacing"></div>
+<div class='centered-text'><a href="{{ site.url }}/public-reports.html" class='button_dark boxed'>View All Releases</a></div>
+<div class='two spacing'></div>
+  </div>
+  </div>
+{% include get-in-touch.html %}
