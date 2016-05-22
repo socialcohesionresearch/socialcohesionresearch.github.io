@@ -1,7 +1,0 @@
-name: Citizen Research Centre
-	markdown: kramdown
-page_gen:
-  - data: 'africa'
-    template: 'country'
-    name: 'name'
-    dir: 'countries'
