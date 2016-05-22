@@ -512,6 +512,9 @@ textarea {
     position: relative;
     top: -50px;
   }
+  .orbit-container .orbit-slides-container li .orbit-caption {
+top: 20px;
+  }
 }
 
 .testimonials .orbit-container .orbit-bullets-container {
