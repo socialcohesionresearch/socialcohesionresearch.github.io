@@ -23,9 +23,8 @@
   children:
     - name: Publicly Available Reports
       path: public-reports.html
-    - name: Funding and Partnership
-      path: funding.html
-    
+- name: Funding and Partnership
+  path: funding.html
 - name: Contact Us
   path: contact.html
   children:
