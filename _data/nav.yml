@@ -25,8 +25,10 @@
       path: public-reports.html
 - name: Funding
   path: funding.html
+  section_id: Funding
 - name: Contact Us
   path: contact.html
+  section_id: Contact Us
   children:
     - name: Contact Us
       path: contact.html
