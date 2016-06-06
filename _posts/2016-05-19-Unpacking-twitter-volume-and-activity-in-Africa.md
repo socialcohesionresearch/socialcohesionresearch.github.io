@@ -5,8 +5,9 @@ subtitle: Volume & Activity
 date: "2016-05-19 20:37:53 +0800"
 author: The Citizen Research Centre
 excerpt: "Analysis on the top contributors to twitter conversation in Africa"
-images: "images/blog-images/rise.jpg"
+images: "images/sky.jpg"
 categories: public_research
+ogimage: sky.jpg
 published: true
 ---
 <div class="row">
