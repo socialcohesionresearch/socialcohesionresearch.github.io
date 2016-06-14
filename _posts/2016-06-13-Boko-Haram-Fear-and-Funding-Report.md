@@ -8,7 +8,7 @@ excerpt: "Analysis on the Fear and Funding of Boko Haram"
 images: "images/boko.jpg"
 categories: public_research
 ogimage: boko.jpg
-published: false
+published: true
 ---
 <div class="row">
 	<div class='medium-2 large-2 columns'>
@@ -48,9 +48,9 @@ In the years preceding Bok Haram’s increased level of activity (July 2010 to D
 <h3>Funding of Boko Haram</h3>
 <p>Turning our attention to Funding of Boko Haram, we identified 47 205 English posts emanating from Nigeria relating to the funding of Boko Haram over the time frame.  In social media data terms this is a small data set, but still represents, of course, 47 205 individual pieces of  data. In alanalsyi9ng this data set we found the following – given that ‘wealthy Nigerians’ inevitably refers to men of power, fully <strong>54% of all Nigerian social media opinion points the finger at various levels of government or official power.</strong></p>
 
+<div id="funders" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
 
-
-
+<img alt="" src="{{site.url}}/images/blog-images/funding2011.jpg" />
 </div>
 <div class='medium-2 large-2 columns'>
 	<div class='spacing'></div>
@@ -156,6 +156,88 @@ $(function() {
       data: [8]
 
     },]
+  });
+});
+
+</script>
+<script>
+$(function() {
+  $('#funders').highcharts({
+    chart: {
+      type: 'column'
+    },
+    title: {
+      text: 'Public Belief On Who Is Funding Boko Haram'
+    },
+    subtitle: {
+      text: 'Source: Crimson Hexagon'
+    },
+    xAxis: {
+      categories: [
+        'Funders'
+
+      ],
+      crosshair: true
+    },
+    yAxis: {
+      min: 0,
+      title: {
+        text: 'Percentage of Conversation'
+      }
+    },
+    tooltip: {
+      headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+      pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+        '<td style="padding:0"><b>{point.y:.1f} %</b></td></tr>',
+      footerFormat: '</table>',
+      shared: false,
+      useHTML: true
+    },
+    plotOptions: {
+      column: {
+        pointPadding: 0.2,
+        borderWidth: 0
+      }
+    },
+    series: [{
+      name: 'Wealthy Nigerians',
+      data: [8]
+
+    }, {
+      name: 'Nigerian Government',
+      data: [30]
+
+    },
+    {
+      name: 'Borno State Leaders (Elrufai)',
+      data: [16]
+
+    },
+    {
+      name: 'Banks and Prisons',
+      data: [14]
+
+    },
+    {
+      name: 'Oil',
+      data: [9]
+
+    },
+     {
+      name: 'Kidnapping',
+      data: [7]
+
+    },
+     {
+      name: 'The West',
+      data: [9]
+
+    },
+     {
+      name: 'Other Terror Groups',
+      data: [8]
+
+    }]
   });
 });
 
