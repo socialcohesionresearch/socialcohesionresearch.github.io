@@ -8,7 +8,7 @@ excerpt: "Analysis on the Fear and Funding of Boko Haram"
 images: "images/boko.jpg"
 categories: public_research
 ogimage: boko.jpg
-published: true
+published: false
 ---
 <div class="row">
 	<div class='medium-2 large-2 columns'>
