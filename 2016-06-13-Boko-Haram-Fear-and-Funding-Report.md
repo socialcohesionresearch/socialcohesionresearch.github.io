@@ -90,7 +90,7 @@ We work for a variety of clients, but are also committed to generating our own d
 $(function() {
   $('#concerns').highcharts({
     chart: {
-      type: 'column'
+      type: 'column',
       panning: false,
       pinchType: false
     },
