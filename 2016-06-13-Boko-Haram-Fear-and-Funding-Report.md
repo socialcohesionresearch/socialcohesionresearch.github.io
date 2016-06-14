@@ -21,7 +21,7 @@ published: true
 <li>How do people that are active on social media in Nigeria think Boko Haram is funded?</li>
 </ul>
 Our research timelines were January 2009 to November 2015</p>
-
+<div class='spacing'></div>
 <h3>Social Concerns</h3>
 <p>We identified areas of socio-economic concern to Nigerians, and then identified and analysed 1,060,647,786 relevant social media posts coming out of Nigeria between January 2009 and November 2015.
 
