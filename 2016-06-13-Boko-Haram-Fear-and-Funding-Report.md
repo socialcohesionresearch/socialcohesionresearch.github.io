@@ -91,6 +91,8 @@ $(function() {
   $('#concerns').highcharts({
     chart: {
       type: 'column'
+      panning: false,
+      pinchType: false
     },
     title: {
       text: 'Social Media Concerns'
