@@ -67,16 +67,16 @@ In the years preceding Bok Haram’s increased level of activity (July 2010 to D
 <div class='spacing'></div>
 <h3>About The Citizen Research Centre</h3>
 
-<p><a href="{{site.url}}">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.
+<p><a href="{{site.url}}">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p>
 
-We describe what we do as social research. This is research done in order to improve and expand on our knowledge of the world by providing decision makers in social policy and intervention projects with the best data possible.
+<p>We describe what we do as social research. This is research done in order to improve and expand on our knowledge of the world by providing decision makers in social policy and intervention projects with the best data possible.</p>
 
-We run primary face-to-face research - both quantitative and qualitative - in 54 countries in Africa and the Middle East. Click here for a list of countries in which we run face-to-face research.
+<p>We run primary face-to-face research - both quantitative and qualitative - in 54 countries in Africa and the Middle East. Click here for a list of countries in which we run face-to-face research.</p>
 
-We run analytical research on social media globally through our partnership with Crimson Hexagon, arguably the best social media analysis platform in the world. We work for a variety of clients but are also committed to generating our own projects for public distribution. These are exclusively generated through mining and reporting on our social media data base, which currently holds almost 1 trillion pieces of social media data.
-We work for a variety of clients, but are also committed to generating our own data for public distribution – on this website, and through traditional, online and social media.
+<p>We run analytical research on social media globally through our partnership with Crimson Hexagon, arguably the best social media analysis platform in the world. We work for a variety of clients but are also committed to generating our own projects for public distribution. These are exclusively generated through mining and reporting on our social media data base, which currently holds almost 1 trillion pieces of social media data.
+We work for a variety of clients, but are also committed to generating our own data for public distribution – on this website, and through traditional, online and social media.</p>
 
-The Citizen Research Centre is a sister company to <a href="http://vibrand.co.za/">Vibrand Research (www.vibrand.co.za)</a> , a longstanding market research firm with a reputation for intelligent, innovative work. 
+<p>The Citizen Research Centre is a sister company to <a href="http://vibrand.co.za/">Vibrand Research (www.vibrand.co.za)</a> , a longstanding market research firm with a reputation for intelligent, innovative work. </p>
 
 </p>
 </div>
