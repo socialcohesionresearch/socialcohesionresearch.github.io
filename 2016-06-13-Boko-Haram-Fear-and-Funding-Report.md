@@ -48,7 +48,7 @@ In the years preceding Bok Haram’s increased level of activity (July 2010 to D
 <h3>Funding of Boko Haram</h3>
 <p>Turning our attention to Funding of Boko Haram, we identified 47 205 English posts emanating from Nigeria relating to the funding of Boko Haram over the time frame.  In social media data terms this is a small data set, but still represents, of course, 47 205 individual pieces of  data. In analyising this data set we found the following – given that ‘wealthy Nigerians’ inevitably refers to men of power, fully <strong>54% of all Nigerian social media opinion points the finger at various levels of government or official power.</strong></p>
 <div class='spacing'></div>
-<div id="funders" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+<div id="funders" style="width: 80%; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
 <h3>Funding of Boko Haram 2011</h3>
 <p><img alt="" src="{{site.url}}/images/blog-images/funding2011.jpg" /></p>
