@@ -14,6 +14,8 @@ algeria:
     TPPPA : 0.628
     ATAI : 0.86
     ATAIR : 13
+    INTPEN: 27.8
+    INTAFR: 3.3
 
 angola:
     countryname : Angola
