@@ -499,6 +499,9 @@ Mali:
     TPPPA : 0.091
     ATAI : 0.13
     ATAIR : 38
+    INTPEN: 27.8
+    INTAFR: 3.3
+    FBPER: 4.54
 
 Mauritania:
     countryname : Mauritania
