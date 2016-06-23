@@ -86,11 +86,12 @@ h1, h2, h3, h4 {
   font-size: 14px;
   padding: 13px 30px 10px;
   background: #fff;
-  text-decoration: underline;
+  border-bottom: 1px solid #000;
 }
 
 .button_dark:hover {
   background-color: rgba(252, 191, 49, 0.8);
+  
 }
 
 .button.white {
