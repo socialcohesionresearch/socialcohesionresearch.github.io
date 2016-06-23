@@ -76,7 +76,6 @@ We work for a variety of clients, but are also committed to generating our own d
 
 <p>The Citizen Research Centre is a sister company to <a href="http://vibrand.co.za/">Vibrand Research (www.vibrand.co.za)</a> , a longstanding market research firm with a reputation for intelligent, innovative work. </p>
 
-</p>
 </div>
 <div class='medium-2 large-2 columns'>
 	<div class='spacing'></div>
