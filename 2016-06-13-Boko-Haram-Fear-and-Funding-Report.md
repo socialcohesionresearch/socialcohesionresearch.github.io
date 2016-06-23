@@ -37,14 +37,14 @@ We found that the breakdown of concerns expressed on social media over this time
 <div class='spacing'></div>
 <div id="before_concerns" style="width: 80%; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
-<p>Once Boko Haram became more active, this level increased dramatically. The graph below shows how Threat, between January 2014 and October 2015, grew to comprise fully 22% of the total Nigerian social media conversation on topics of socio-economic/ social interest. This is by far the greatest single contributor to the national conversation around socio economic issues in this timeframe.  Of interest too, is how education as a concern grew from 8 to 13% of the conversation over this time frame. </p>
+<p>Once Boko Haram became more active, this level increased dramatically. The graph below shows how Threat, between January 2014 and October 2015, grew to comprise fully 22% of the total Nigerian social media conversation on topics of socio-economic/ social interest. This is by far the greatest single contributor to the national conversation around socio economic issues in this timeframe. </p>
 <div class='spacing'></div>
 <div id="after_concerns" style="width: 80%; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
 <div id="concerns_increase_14_15" style="width: 80%; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
 <h3>Funding of Boko Haram</h3>
-<p>Turning our attention to Funding of Boko Haram, we identified 47 205 English posts emanating from Nigeria relating to the funding of Boko Haram over the time frame. It’s very important to note that this data was almost exclusively drawn from the time frame before President Buhari came to power. As such, the results represent people feelings about the old, rather than the new administration.  In social media data terms this is a small data set, but still represents, of course, 47 205 individual pieces of  data. In analyising this data set we found the following – given that ‘wealthy Nigerians’ inevitably refers to men of power, fully <strong>54% of all Nigerian social media opinion points the finger at various levels of government or official power.</strong></p>
+<p>Turning our attention to Funding of Boko Haram, we identified 47 205 English posts emanating from Nigeria relating to the funding of Boko Haram over the time frame. It’s very important to note that this data was almost exclusively drawn from the time frame before President Buhari came to power. As such, the results represent people feelings about the old, rather than the new administration. In analysing this data set we found the following – given that ‘wealthy Nigerians’ inevitably refers to men of power, fully <strong>54% of all Nigerian social media opinion points the finger at various levels of government or official power.</strong></p>
 <div class='spacing'></div>
 <div id="funders" style="width: 80%; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
@@ -180,7 +180,7 @@ $(function() {
      {
       name: 'Ebola',
       data: [8],
-      color: '#ff3232'
+      color: '#FFAE19'
 
     },]
   });
@@ -365,7 +365,7 @@ $(function() {
      {
       name: 'Ebola',
       data: [2],
-      color: '#ff3232'
+      color: '#FFAE19'
 
     },]
   });
@@ -469,7 +469,7 @@ $(function() {
      {
       name: 'Ebola',
       data: [14],
-      color: '#ff3232'
+      color: '#FFAE19'
 
     },]
   });
@@ -571,7 +571,7 @@ $(function() {
      {
       name: 'Ebola',
       data: [25],
-      color: '#ff3232'
+      color: '#FFAE19'
 
     },]
   });
@@ -673,7 +673,7 @@ $(function() {
      {
       name: 'Ebola',
       data: [2],
-      color: '#ff3232'
+      color: '#FFAE19'
 
     },]
   });
