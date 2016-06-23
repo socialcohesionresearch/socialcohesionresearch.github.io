@@ -86,6 +86,7 @@ h1, h2, h3, h4 {
   font-size: 14px;
   padding: 13px 30px 10px;
   background: #fff;
+  text-decoration: underline;
 }
 
 .button_dark:hover {
