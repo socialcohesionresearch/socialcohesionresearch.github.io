@@ -113,6 +113,7 @@ h1, h2, h3, h4 {
   color: #333;
 }
 .button_dark.boxed:hover {
+  border: 1px solid rgb(249, 166, 28);
   background: #F9A61C;
   color: white;
   border: none;
