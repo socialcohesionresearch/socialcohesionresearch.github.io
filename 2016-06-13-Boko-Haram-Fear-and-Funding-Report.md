@@ -49,19 +49,19 @@ We found that the breakdown of concerns expressed on social media over this time
 <div id="funders" style="width: 80%; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
 <h3>Funding of Boko Haram 2011</h3>
-<p><img alt="" src="{{site.url}}/images/blog-images/funding2011.jpg" /></p>
+<p><img alt="Funding of Boko Haram 2011" src="{{site.url}}/images/blog-images/funding2011.jpg" /></p>
 <div class='spacing'></div>
 <h3>Funding of Boko Haram 2012</h3>
-<p><img alt="" src="{{site.url}}/images/blog-images/funding2012.jpg" /></p>
+<p><img alt="Funding of Boko Haram 2012" src="{{site.url}}/images/blog-images/funding2012.jpg" /></p>
 <div class='spacing'></div>
 <h3>Funding of Boko Haram 2013</h3>
-<p><img alt="" src="{{site.url}}/images/blog-images/funding2013.jpg" /></p>
+<p><img alt="Funding of Boko Haram 2013" src="{{site.url}}/images/blog-images/funding2013.jpg" /></p>
 <div class='spacing'></div>
 <h3>Funding of Boko Haram 2014 (note the rise in volume)</h3>
-<p><img alt="" src="{{site.url}}/images/blog-images/funding2014.jpg" /></p>
+<p><img alt="Funding of Boko Haram 2014" src="{{site.url}}/images/blog-images/funding2014.jpg" /></p>
 <div class='spacing'></div>
 <h3>Funding of Boko Haram 2015 (note the rise in volume)</h3>
-<p><img alt="" src="{{site.url}}/images/blog-images/funding2015.jpg" /></p>
+<p><img alt="Funding of Boko Haram 2015" src="{{site.url}}/images/blog-images/funding2015.jpg" /></p>
 <div class='spacing'></div>
 <h3>About The Citizen Research Centre</h3>
 
