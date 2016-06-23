@@ -23,7 +23,7 @@ published: true
 Our research timelines were January 2009 to November 2015</p>
 <div class='spacing'></div>
 <h3>Social Concerns</h3>
-<p>We identified areas of socio-economic concern to Nigerians, and then identified and analysed 1,060,647,786 relevant social media posts coming out of Nigeria between January 2009 and November 2015.
+<p>We identified areas of socio-economic concern to Nigerians, and then identified and analysed 1,060,647,786 relevant social media posts coming out of Nigeria between January 2009 and November 2015. Note that corruption tends to have a low level of mention on social media in countries where it is endemic.  Note also that addiction refers to drug and alcohol addiction and related concerns.
 
 We found that the breakdown of concerns expressed on social media over this time frame was as follows:</p>
 <div class='spacing'></div>
@@ -33,9 +33,7 @@ We found that the breakdown of concerns expressed on social media over this time
 <div class='spacing'></div>
 
 <h3>The Rise of Fear</h3>
-<p>In looking at ‘Threat’ more closely, we found dramatic change over time. Threat here refers to threat to life or property – largely as a result of (but not limited to) Boko Haram activity.
-
-In the years preceding Bok Haram’s increased level of activity (July 2010 to December 2013), we found Threat levels to be low to the point of insignificance. Throughout the period below, Threat comprised less than 1% of the total conversation on social media in Nigeria:</p>
+<p>In looking at ‘Threat’ more closely, we found dramatic change over time. Threat here refers to threat to life or property – largely as a result of (but not limited to) Boko Haram activity. In the years preceding Bok Haram’s increased level of activity (July 2010 to December 2013), we found Threat levels to be low to the point of insignificance. Throughout the period below, Threat comprised less than 1% of the total conversation on social media in Nigeria:</p>
 <div class='spacing'></div>
 <div id="before_concerns" style="width: 80%; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
@@ -46,7 +44,7 @@ In the years preceding Bok Haram’s increased level of activity (July 2010 to D
 <div id="concerns_increase_14_15" style="width: 80%; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
 <h3>Funding of Boko Haram</h3>
-<p>Turning our attention to Funding of Boko Haram, we identified 47 205 English posts emanating from Nigeria relating to the funding of Boko Haram over the time frame.  In social media data terms this is a small data set, but still represents, of course, 47 205 individual pieces of  data. In analyising this data set we found the following – given that ‘wealthy Nigerians’ inevitably refers to men of power, fully <strong>54% of all Nigerian social media opinion points the finger at various levels of government or official power.</strong></p>
+<p>Turning our attention to Funding of Boko Haram, we identified 47 205 English posts emanating from Nigeria relating to the funding of Boko Haram over the time frame. It’s very important to note that this data was almost exclusively drawn from the time frame before President Buhari came to power. As such, the results represent people feelings about the old, rather than the new administration.  In social media data terms this is a small data set, but still represents, of course, 47 205 individual pieces of  data. In analyising this data set we found the following – given that ‘wealthy Nigerians’ inevitably refers to men of power, fully <strong>54% of all Nigerian social media opinion points the finger at various levels of government or official power.</strong></p>
 <div class='spacing'></div>
 <div id="funders" style="width: 80%; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
