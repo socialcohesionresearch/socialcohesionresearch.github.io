@@ -570,7 +570,8 @@ $(function() {
     },
      {
       name: 'Ebola',
-      data: [25]
+      data: [25],
+      color: '#f07'
 
     },]
   });
@@ -671,7 +672,8 @@ $(function() {
     },
      {
       name: 'Ebola',
-      data: [2]
+      data: [2],
+      color: '#f07'
 
     },]
   });
