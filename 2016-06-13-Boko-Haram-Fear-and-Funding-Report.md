@@ -180,7 +180,7 @@ $(function() {
      {
       name: 'Ebola',
       data: [8],
-      color: '#f07'
+      color: 'red'
 
     },]
   });
@@ -365,7 +365,7 @@ $(function() {
      {
       name: 'Ebola',
       data: [2],
-      color: '#f07'
+      color: 'red'
 
     },]
   });
@@ -469,7 +469,7 @@ $(function() {
      {
       name: 'Ebola',
       data: [14],
-      color: '#f07'
+      color: 'red'
 
     },]
   });
@@ -571,7 +571,7 @@ $(function() {
      {
       name: 'Ebola',
       data: [25],
-      color: '#f07'
+      color: 'red'
 
     },]
   });
@@ -673,7 +673,7 @@ $(function() {
      {
       name: 'Ebola',
       data: [2],
-      color: '#f07'
+      color: 'red'
 
     },]
   });
