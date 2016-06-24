@@ -107,7 +107,7 @@ $(function() {
     yAxis: {
       min: 0,
       title: {
-        text: 'Percentage of Socio-economic Concerns'
+        text: '% of Socio-economic Concerns'
       }
     },
     tooltip: {
@@ -210,7 +210,7 @@ $(function() {
     yAxis: {
       min: 0,
       title: {
-        text: 'Percentage of Socio-economic Concerns'
+        text: '% of Belief around Funders'
       }
     },
     tooltip: {
@@ -292,7 +292,7 @@ $(function() {
     yAxis: {
       min: 0,
       title: {
-        text: 'Percentage of Socio-economic Concerns'
+        text: '% of Socio-economic Concerns'
       }
     },
     tooltip: {
@@ -396,7 +396,7 @@ $(function() {
     yAxis: {
       min: 0,
       title: {
-        text: 'Percentage of Socio-economic Concerns'
+        text: '% of Socio-economic Concerns'
       }
     },
     tooltip: {
@@ -498,7 +498,7 @@ $(function() {
     },
     yAxis: {
       title: {
-        text: 'Percentage Change in Conversation Area'
+        text: '% Change in Socio-Economic concerns'
       }
     },
     tooltip: {
@@ -600,7 +600,7 @@ $(function() {
     },
     yAxis: {
       title: {
-        text: 'Percentage Change in Socio-economix concerns'
+        text: '% Change in Socio-economic concerns'
       }
     },
     tooltip: {
