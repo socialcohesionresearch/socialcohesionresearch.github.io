@@ -498,7 +498,7 @@ $(function() {
     },
     yAxis: {
       title: {
-        text: '% Change in Socio-Economic concerns'
+        text: '% Change in Socio-economic concerns'
       }
     },
     tooltip: {
