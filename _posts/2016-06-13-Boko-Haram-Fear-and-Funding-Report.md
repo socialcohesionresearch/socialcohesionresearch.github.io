@@ -107,7 +107,7 @@ $(function() {
     yAxis: {
       min: 0,
       title: {
-        text: 'Percentage of Conversation'
+        text: 'Percentage of Socio-economic Concerns'
       }
     },
     tooltip: {
@@ -210,7 +210,7 @@ $(function() {
     yAxis: {
       min: 0,
       title: {
-        text: 'Percentage of Conversation'
+        text: 'Percentage of Socio-economic Concerns'
       }
     },
     tooltip: {
@@ -292,7 +292,7 @@ $(function() {
     yAxis: {
       min: 0,
       title: {
-        text: 'Percentage of Conversation'
+        text: 'Percentage of Socio-economic Concerns'
       }
     },
     tooltip: {
@@ -396,7 +396,7 @@ $(function() {
     yAxis: {
       min: 0,
       title: {
-        text: 'Percentage of Conversation'
+        text: 'Percentage of Socio-economic Concerns'
       }
     },
     tooltip: {
@@ -586,7 +586,7 @@ $(function() {
       type: 'column'
     },
     title: {
-      text: 'Change in Conversation Concerns (January 2014 - October 2015)'
+      text: 'Change in Socio-Economic Concerns (January 2014 - October 2015)'
     },
     subtitle: {
       text: 'Source: Crimson Hexagon'
@@ -600,7 +600,7 @@ $(function() {
     },
     yAxis: {
       title: {
-        text: 'Percentage Change in Conversation Area'
+        text: 'Percentage Change in Socio-economix concerns'
       }
     },
     tooltip: {
