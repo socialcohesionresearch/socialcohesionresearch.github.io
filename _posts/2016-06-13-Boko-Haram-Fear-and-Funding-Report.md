@@ -33,7 +33,7 @@ We found that the breakdown of concerns expressed on social media over this time
 <div class='spacing'></div>
 
 <h3>The Rise of Fear</h3>
-<p>In looking at ‘Threat’ more closely, we found dramatic change over time. Threat here refers to threat to life or property – largely as a result of (but not limited to) Boko Haram activity. In the years preceding Bok Haram’s increased level of activity (July 2010 to December 2013), we found Threat levels to be low to the point of insignificance. Throughout the period below, Threat comprised less than 1% of the total conversation on social media in Nigeria:</p>
+<p>In looking at ‘Threat’ more closely, we found dramatic change over time. Threat here refers to threat to life or property – largely as a result of (but not limited to) Boko Haram activity. In the years preceding Boko Haram’s increased level of activity (July 2010 to December 2013), we found Threat levels to be low to the point of insignificance. Throughout the period below, Threat comprised less than 1% of the total conversation on social media in Nigeria:</p>
 <div class='spacing'></div>
 <div id="before_concerns" style="width: 80%; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
@@ -46,6 +46,8 @@ We found that the breakdown of concerns expressed on social media over this time
 <h3>Funding of Boko Haram</h3>
 <p>Turning our attention to Funding of Boko Haram, we identified 47 205 English posts emanating from Nigeria relating to the funding of Boko Haram over the time frame. It’s very important to note that this data was almost exclusively drawn from the time frame before President Buhari came to power. As such, the results represent people feelings about the old, rather than the new administration. In analysing this data set we found the following – given that ‘wealthy Nigerians’ inevitably refers to men of power, fully <strong>54% of all Nigerian social media opinion points the finger at various levels of government or official power.</strong></p>
 <div class='spacing'></div>
+<h3>Timelines 2011-2015</h3>
+<p>In the timelines below we draw on tweets and news articles to explain spikes in volume in the discussion around Boko Haram funding.  This to illustrate perceptions expressed on social media year by year.</p>
 <div id="funders" style="width: 80%; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
 <h3>Funding of Boko Haram 2011</h3>
@@ -90,14 +92,14 @@ $(function() {
       type: 'column'
     },
     title: {
-      text: 'Social Media Concerns'
+      text: 'Socio-Economic Concerns'
     },
     subtitle: {
       text: 'Source: Crimson Hexagon'
     },
     xAxis: {
       categories: [
-        'Conversation Areas'
+        'Socio-economic Concerns'
 
       ],
       crosshair: true
@@ -275,14 +277,14 @@ $(function() {
       type: 'column'
     },
     title: {
-      text: 'Social Media Concerns before Boko Haram Threat (July 2010 - December 2013)'
+      text: 'Socio-Economic Concerns before Boko Haram Threat (July 2010 - December 2013)'
     },
     subtitle: {
       text: 'Source: Crimson Hexagon'
     },
     xAxis: {
       categories: [
-        'Conversation Areas'
+        'Socio-economic Concerns'
 
       ],
       crosshair: true
@@ -379,14 +381,14 @@ $(function() {
       type: 'column'
     },
     title: {
-      text: 'Social Media Concerns (January 2014 - October 2015)'
+      text: 'Socio-Economic Concerns (January 2014 - October 2015)'
     },
     subtitle: {
       text: 'Source: Crimson Hexagon'
     },
     xAxis: {
       categories: [
-        'Conversation Areas'
+        'Socio-economic Concerns'
 
       ],
       crosshair: true
@@ -482,14 +484,14 @@ $(function() {
       type: 'column'
     },
     title: {
-      text: 'Change in Conversation Concerns from 2009-2015'
+      text: 'Change in Socio-Economic Concerns from 2009-2015'
     },
     subtitle: {
       text: 'Source: Crimson Hexagon'
     },
     xAxis: {
       categories: [
-        'Conversation Areas'
+        'Socio-economic Concerns'
 
       ],
       crosshair: true
@@ -591,7 +593,7 @@ $(function() {
     },
     xAxis: {
       categories: [
-        'Conversation Areas'
+        'Socio-economic Concerns'
 
       ],
       crosshair: true
