@@ -15,7 +15,7 @@ published: true
 		<div class='spacing'></div>
 	</div>
 <div class='medium-8 large-8 columns'>
-<p>We used Crimson Hexagon to answer three key questions of the social media conversation in Nigeria regarding Boko Haram:
+<p>We used <a href="http://www.crimsonhexagon.com/" target="_blank">Crimson Hexagon</a> to answer three key questions of the social media conversation in Nigeria regarding Boko Haram:
 <ul><li>What issues of social concern are Nigerians talking about on social media?</li>
 <li>How has the level of fear risen over the years?</li>
 <li>How do people that are active on social media in Nigeria think Boko Haram is funded?</li>
