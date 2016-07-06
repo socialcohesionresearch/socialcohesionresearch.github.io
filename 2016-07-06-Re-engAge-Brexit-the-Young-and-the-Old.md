@@ -123,8 +123,8 @@ From the 297 million posts generated during  June of 2016 in the UK, we identifi
             type: 'pie'
         },
         title: {
-            text: 'The period June 1- June 22nd (the day before the referendum) shows:
-Total: 677 900 posts of identifiable age'
+            text: 'The period June 1- June 22nd (the day before the referendum) shows -
+Total = 677 900 posts of identifiable age'
         },
         tooltip: {
             pointFormat: '{series.name}: <b>{point.percentage:.2f}%</b>'
