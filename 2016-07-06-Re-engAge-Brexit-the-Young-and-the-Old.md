@@ -49,7 +49,7 @@ One of the more popular theories in this debate is that the younger generation h
   </tr>
   <tr>
     <td>Remain</td>
-    <td bgcolor="##fcbf31">75</td>
+    <td bgcolor="#fcbf31">75</td>
     <td>56</td>
     <td>44</td>
     <td>39</td>
@@ -59,7 +59,7 @@ One of the more popular theories in this debate is that the younger generation h
     <td>25</td>
     <td>44</td>
     <td>56</td>
-    <td bgcolor="##fcbf31">61</td>
+    <td bgcolor="#fcbf31">61</td>
   </tr>
   <tr>
     <td><strong>After Voting Closed</strong></td>
@@ -84,7 +84,7 @@ One of the more popular theories in this debate is that the younger generation h
   </tr>
   <tr>
     <td>Did not Vote</td>
-    <td bgcolor="##fcbf31">10</td>
+    <td bgcolor="#fcbf31">10</td>
     <td>7</td>
     <td>5</td>
     <td>2</td>
