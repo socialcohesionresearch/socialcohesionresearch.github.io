@@ -298,7 +298,7 @@ And in amongst all of this were the various sentiments. Before the referendum, r
 });
   </script>
 
-      <script>
+<script>
   $(function () {
 
     $(document).ready(function () {
