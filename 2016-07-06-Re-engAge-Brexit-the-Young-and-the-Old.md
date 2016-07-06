@@ -15,8 +15,12 @@ published: true
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
-
-
+<h3>Overview</h3>
+<p>Post-Brexit Britain is in a state of political and social fracture – and there was widespread disbelief when the results were announced. Bookies had stay at 3-10 and leave at 5-2; polls suggested it was close to a foregone conclusion that the stay vote would win. There was jubilation in the Leave camp, coupled with a rising sense of unease at the inevitable question – what now?</p><p>
+This paper examines what the young and the old were saying on social media before and after the Brexit vote, and attempts to answer the question on the lips of Remain supporters – how did it come to this?</p><p>
+One of the more popular theories in this debate is that the younger generation have been let down by an out of touch, disengaged older generation. That younger citizens desperately wanted to stay, but were voted down by their parents and grandparents; that the ambitions of the young and hopeful were eaten by the old and fearful.
+</p>
+<p><img src="images/blog-images/old-negative.png"></p>
 <div id="language" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 
 
