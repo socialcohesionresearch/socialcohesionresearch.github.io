@@ -23,7 +23,9 @@ One of the more popular theories in this debate is that the younger generation h
 <p style="text-align: center;" ><img src="images/blog-images/old_negative.png" widht="80%"></p>
 <p>According to a YouGov.co.uk poll of 554 registered voters aged of 18 to 24, 75% of the age group intended to vote to remain. Of interest to us was the 10% of these voters that didn’t vote - against only 2% of voters over the age of 65 that chose not to vote.  If these figures could be extrapolated out, would that 10% of voters have been enough to swing the vote to a decision to stay? Need attribution link</p>
 
-<table>
+<table style="margin-left:auto; 
+    margin-right:auto;">
+     <caption>YouGov.co.uk Brexit Poll</caption>
   <tr>
     <th></th>
     <th>18-24</th>
@@ -32,14 +34,14 @@ One of the more popular theories in this debate is that the younger generation h
     <th>65+</th>
   </tr>
   <tr>
-    <td>Sample Size</td>
+    <td><strong>Sample Size</strong></td>
     <td>554</td>
     <td>2042</td>
     <td>1174</td>
     <td>1002</td>
   </tr>
   <tr>
-    <td>Pre Vote Day</td>
+    <td><strong>Pre Vote Day</strong></td>
     <td></td>
     <td></td>
     <td></td>
@@ -60,7 +62,7 @@ One of the more popular theories in this debate is that the younger generation h
     <td>61</td>
   </tr>
   <tr>
-    <td>After Voting Closed</td>
+    <td><strong>After Voting Closed</strong></td>
     <td></td>
     <td></td>
     <td></td>
