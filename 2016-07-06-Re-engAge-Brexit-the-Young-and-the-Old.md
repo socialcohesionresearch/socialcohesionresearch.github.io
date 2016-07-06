@@ -90,7 +90,7 @@ One of the more popular theories in this debate is that the younger generation h
     <td>2</td>
   </tr>
 </table>
-<p>So we decided to look into social media to investigate further.  Using Crimson Hexagon (link), we analysed 297,474,704 tweets, Facebook and Tumblr posts, blogs and forums originating from the UK in June 2016. This social media research approach affords us an intimate and uniquely honest view of the entire online conversation from public sources.</p>
+<p>So we decided to look into social media to investigate further.  Using <a href="http://www.crimsonhexagon.com/" target="_blank">Crimson Hexagon</a>, we analysed 297,474,704 tweets, Facebook and Tumblr posts, blogs and forums originating from the UK in June 2016. This social media research approach affords us an intimate and uniquely honest view of the entire online conversation from public sources.</p>
 <p style="text-align: center;" ><img src="images/blog-images/Caputo-tweet.png"></p>
 <p style="text-align: center;" ><img src="images/blog-images/shukat-tweet.png"></p>
 <h3>The Old vs The Young?</h3>
@@ -99,7 +99,7 @@ One of the more popular theories in this debate is that the younger generation h
 <p>And weighing up the decision based on life expectancy:</p>
 <p style="text-align: center;" ><img src="images/blog-images/tom-holder-tweet.png" width="65%"></p>
 <p>Social media analysis shows, though, that the youth were remarkably ambivalent about Brexit before the referendum.</p><p>
-From the 297 million posts generated during  June of 2016 in the UK, we identified 7 496 582 that discussed Brexit.  The Crimson Hexagon platform then used a complex algorithm to identity the age groups associated with those posts.  The platform was able to identify the age of over 22% of those posts.  This does not look at whether these posts were for or against leaving, but rather looks at the level of engagement of various age groups in the conversation.  This leaves us with 1 707 771 posts to analyse – a very healthy sample of public opinion on Brexit.
+From the 297 million posts generated during  June of 2016 in the UK, we identified 7 496 582 that discussed Brexit.  The <a href="http://www.crimsonhexagon.com/" target="_blank">Crimson Hexagon</a> platform then used a complex algorithm to identity the age groups associated with those posts.  The platform was able to identify the age of over 22% of those posts.  This does not look at whether these posts were for or against leaving, but rather looks at the level of engagement of various age groups in the conversation.  This leaves us with 1 707 771 posts to analyse – a very healthy sample of public opinion on Brexit.
 </p>
 <div id="prevote" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
   <div class='spacing'></div>
@@ -129,7 +129,7 @@ Politics shapes our lives, whether we like it or not, and until the generation t
 <p><a href="{{site.url}}" target="_blank">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p><p>
 We describe what we do as social research. This is research done in order to improve and expand on our knowledge of the world by providing decision makers in social policy and intervention projects with the best data possible.</p><p>
 We run primary face-to-face research - both quantitative and qualitative - in 54 countries in Africa and the Middle East. <a href="http://citizenresearchcentre.org/where-we-work.html">Click here</a> for a list of countries in which we run face-to-face research.</p><p>
-We run analytic research on social media globally through our partnership with Crimson Hexagon, arguably the best social media analysis platform in the world. This and other reports are generated through mining and reporting on our social media data base, which currently holds almost 1 trillion pieces of social media data.</p><p>
+We run analytic research on social media globally through our partnership with <a href="http://www.crimsonhexagon.com/" target="_blank">Crimson Hexagon</a>, arguably the best social media analysis platform in the world. This and other reports are generated through mining and reporting on our social media data base, which currently holds almost 1 trillion pieces of social media data.</p><p>
 We are committed to providing research on Citizens, and also research for Citizens – that reflect their own views back to them through social media analytics.
 </p>
 </div>
