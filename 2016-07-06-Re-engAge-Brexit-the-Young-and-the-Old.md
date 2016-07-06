@@ -104,7 +104,19 @@ From the 297 million posts generated during  June of 2016 in the UK, we identifi
 <div id="prevote" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
   <div class='spacing'></div>
 <div id="voteday" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
-
+<div class='spacing'></div>
+<div id="threevoteday" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
+<div class='spacing'></div>
+<div id="lastdaysjune" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
+<p>What we see above is a spectacular lack of engagement in the topic from the very people we would expect to engage – young, social media savvy voters, purportedly with a strong interest in staying in the EU.</p><p>
+Looking at the age band 18-35 collectively – at their height (23-26 June) contributed only 6.3% of the total conversation on Brexit.  And within days of the referendum (27-30 June) this had dropped to a lamentable 3.5% of the conversation.</p><p> 
+Between the 1 and the 22nd June, Britain’s youngest eligible voters (18-24 year olds) devoted only 0.27% of their online conversation to Brexit. This figure climbed to an unimposing high of 3.8 % of their total conversation on the weekend after the referendum, and then plummeted to only 0.69% for the remainder of June.</p><p>
+By contrast, the 35 plus group devoted 2.61% of their total online conversation to Brexit during the period 1-22 June (9 times as much as the youth), rose to a high of 7.99% on the day of the referendum (twice as much as the youth) and then continued at 9.94% (14 times as much as the youth) for the remainder of June.</p><p>
+Citizens under the legal voting age were considerably more engaged than those aged 18-24 and 25-35, but far less engaged than those aged over 35.</p><p>
+And in amongst all of this were the various sentiments. Before the referendum, resent towards the young:
+</p>
+<p style="text-align: center;" ><img src="images/blog-images/darren-dunbar-tweet.png" width="65%"></p>
+<p style="text-align: center;" ><img src="images/blog-images/the-brain-tweet.png" width="65%"></p>
 
 </div>
 <div class='medium-2 large-2 columns'>
@@ -220,6 +232,120 @@ From the 297 million posts generated during  June of 2016 in the UK, we identifi
                     name: '35 + (605 724  posts)',
                     color: '#F9A61C',
                     y: 78.9,
+                    sliced: true,
+                    selected: true
+                }]
+            }]
+        });
+    });
+});
+  </script>
+
+    <script>
+  $(function () {
+
+    $(document).ready(function () {
+
+        // Build the chart
+        $('#threevoteday').highcharts({
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
+            },
+            title: {
+                text: 'The three days after the referendum (24-26 June)'
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: true
+                    },
+                    showInLegend: false
+                }
+            },
+            series: [{
+                name: '% of Brexit Conversation',
+                colorByPoint: true,
+                data: [{
+                    name: 'Under 18 (86 551 posts)',
+                    color: '#26B8EB',
+                    y: 14.5
+                }, {
+                    name: '18-24 (20 014 posts)',
+                    color: '#333333',
+                    y: 3.4
+                }, {
+                    name: '25-34 (17 781 posts)',
+                    color: '#868686',
+                    y: 3
+                }, {
+                    name: '35 + (471 369  posts)',
+                    color: '#F9A61C',
+                    y: 79.1,
+                    sliced: true,
+                    selected: true
+                }]
+            }]
+        });
+    });
+});
+  </script>
+
+      <script>
+  $(function () {
+
+    $(document).ready(function () {
+
+        // Build the chart
+        $('#lastdaysjune').highcharts({
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
+            },
+            title: {
+                text: 'The last three days of June'
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: true
+                    },
+                    showInLegend: false
+                }
+            },
+            series: [{
+                name: '% of Brexit Conversation',
+                colorByPoint: true,
+                data: [{
+                    name: 'Under 18 (18 565 posts)',
+                    color: '#26B8EB',
+                    y: 6.2
+                }, {
+                    name: '18-24 (3772 posts)',
+                    color: '#333333',
+                    y: 1.3
+                }, {
+                    name: '25-34 (6705 posts)',
+                    color: '#868686',
+                    y: 2.2
+                }, {
+                    name: '35 + (269 335  posts)',
+                    color: '#F9A61C',
+                    y: 90.3,
                     sliced: true,
                     selected: true
                 }]
