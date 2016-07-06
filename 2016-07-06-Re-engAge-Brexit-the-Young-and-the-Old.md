@@ -119,8 +119,19 @@ And in amongst all of this were the various sentiments. Before the referendum, r
 <p>After the referendum, regret from the young:</p>
 <p style="text-align: center;" ><img src="images/blog-images/the-brain-tweet.png" width="65%"></p>
 <p>And after the referendum, older people defending themselves:</p>
-<p style="text-align: center;" ><img src="images/blog-images/the-brain-tweet.png" width="45%">      <img src="images/blog-images/the-brain-tweet.png" width="45%"></p>
-
+<p style="text-align: center;" ><img src="images/blog-images/sile-tweet.png" width="45%">      <img src="images/blog-images/briefcase-michael-twitter.png" width="45%"></p>
+<h3>The Implications</h3>
+<p>So what are we to read of this – are the youth so disinterested in politics that they chose to stay away from the Brexit vote?  Did they think it was a foregone conclusion? Almost certainly, if the youth had voted in greater numbers the UK would be staying in the EU.</p><p>
+How do we bring young people back into the voting booths?  How did the youth - who have always been at the forefront of political and social change - become so politically passive?  This is not just an issue in the UK, but around the world - and requires urgent attention from policy makers, political figures and leaders in all democracies.</p><p>
+Politics shapes our lives, whether we like it or not, and until the generation that has the most to lose from the decisions that their elders make on their behalf – from climate change to EU membership – becomes more engaged in the debate, politics will continue to be an establishment process. 
+</p>
+<h3>About The Citizen Research Centre</h3>
+<p><a href="{{site.url}}" target="_blank">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p><p>
+We describe what we do as social research. This is research done in order to improve and expand on our knowledge of the world by providing decision makers in social policy and intervention projects with the best data possible.</p><p>
+We run primary face-to-face research - both quantitative and qualitative - in 54 countries in Africa and the Middle East. Click here for a list of countries in which we run face-to-face research.</p><p>
+We run analytic research on social media globally through our partnership with Crimson Hexagon, arguably the best social media analysis platform in the world. This and other reports are generated through mining and reporting on our social media data base, which currently holds almost 1 trillion pieces of social media data.</p><p>
+We are committed to providing research on Citizens, and also research for Citizens – that reflect their own views back to them through social media analytics.
+</p>
 </div>
 <div class='medium-2 large-2 columns'>
     <div class='spacing'></div>
