@@ -158,6 +158,9 @@ h1, h2, h3, h4 {
 .bg-7 {
 	background: url(../images/debut_light.png) center center repeat;
 }
+.bg-8 {
+  background: url(../images/contact.jpg) center center repeat;
+}
 
 /*header */
 .top-bar .name h1 img {
