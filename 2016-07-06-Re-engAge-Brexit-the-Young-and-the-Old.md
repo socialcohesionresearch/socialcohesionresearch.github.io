@@ -105,7 +105,7 @@ From the 297 million posts generated during  June of 2016 in the UK, we identifi
   <div class='spacing'></div>
 <div id="voteday" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
-<div id="threevoteday" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
+<div id="threedaysafter" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
 <div id="lastdaysjune" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 <p>What we see above is a spectacular lack of engagement in the topic from the very people we would expect to engage – young, social media savvy voters, purportedly with a strong interest in staying in the EU.</p><p>
@@ -241,6 +241,62 @@ And in amongst all of this were the various sentiments. Before the referendum, r
 });
   </script>
 
+<script>
+  $(function () {
+
+    $(document).ready(function () {
+
+        // Build the chart
+        $('#threedaysafter').highcharts({
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
+            },
+            title: {
+                text: 'Three days after the referendum (24-26 June)'
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: true
+                    },
+                    showInLegend: false
+                }
+            },
+            series: [{
+                name: '% of Brexit Conversation',
+                colorByPoint: true,
+                data: [{
+                    name: 'Under 18 (86 551 posts)',
+                    color: '#26B8EB',
+                    y: 14.5
+                }, {
+                    name: '18-24 (20 014 posts)',
+                    color: '#333333',
+                    y: 3.4
+                }, {
+                    name: '25-34 (17 781 posts)',
+                    color: '#868686',
+                    y: 3
+                }, {
+                    name: '35 + (471 369   posts)',
+                    color: '#F9A61C',
+                    y: 79.1,
+                    sliced: true,
+                    selected: true
+                }]
+            }]
+        });
+    });
+});
+  </script>
    
 <script>
   $(function () {
