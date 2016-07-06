@@ -98,7 +98,10 @@ One of the more popular theories in this debate is that the younger generation h
 <p style="text-align: center;" ><img src="images/blog-images/luke-hawlet-tweet.png" width="45%">   <img src="images/blog-images/ellie-sadler-tweet.png" width="45%"></p>
 <p>And weighing up the decision based on life expectancy:</p>
 <p style="text-align: center;" ><img src="images/blog-images/tom-holder-tweet.png" width="65%"></p>
-<div id="language" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
+<p>Social media analysis shows, though, that the youth were remarkably ambivalent about Brexit before the referendum.</p><p>
+From the 297 million posts generated during  June of 2016 in the UK, we identified 7 496 582 that discussed Brexit.  The Crimson Hexagon platform then used a complex algorithm to identity the age groups associated with those posts.  The platform was able to identify the age of over 22% of those posts.  This does not look at whether these posts were for or against leaving, but rather looks at the level of engagement of various age groups in the conversation.  This leaves us with 1 707 771 posts to analyse – a very healthy sample of public opinion on Brexit.
+</p>
+<div id="prevote" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 
 
 </div>
@@ -108,131 +111,11 @@ One of the more popular theories in this debate is that the younger generation h
 </div>
 
 
-<script>
-$(function () {
-    $('#voltweets').highcharts({
-        chart: {
-            type: 'column'
-        },
-        title: {
-            text: 'Volume of Tweets - Top 4 Countries vs Rest of Africa'
-        },
-        xAxis: {
-            categories: [
-                'Countries'
-            ],
-            crosshair: true
-        },
-        yAxis: {
-            min: 0,
-            title: {
-                text: 'Volume of Tweets'
-            }
-        },
-        tooltip: {
-            valueSuffix: ''
-        },
-        plotOptions: {
-            column: {
-                pointPadding: 0.2,
-                borderWidth: 0
-            }
-        },
-        series: [{
-            name: 'Egypt',
-            data: [334497013],
-            color: '#F9A61C'
 
-        }, {
-            name: 'South Africa',
-            data: [250593472],
-            color: '#333333'
 
-        }, {
-            name: 'Nigeria',
-            data: [242840161],
-            color: '#26B8EB'
-
-        },
-        {
-            name: 'Kenya',
-            data: [173785414],
-            color: '#868686'
-
-        },
-        {
-            name: 'Rest of Africa (48 Countries)',
-            color: '#33ff71',
-            data: [232224419]
-
-        }]
-    });
-});
-</script>
-<script>
-$(function () {
-    $('#voltweetstop').highcharts({
-        chart: {
-            type: 'column'
-        },
-        title: {
-            text: 'Volume of Tweets - Top 5 Countries'
-        },
-        xAxis: {
-            categories: [
-                'Countries'
-            ],
-            crosshair: true
-        },
-        yAxis: {
-            min: 0,
-            title: {
-                text: 'Volume of Tweets'
-            }
-        },
-        tooltip: {
-            valueSuffix: ''
-        },
-        plotOptions: {
-            column: {
-                pointPadding: 0.2,
-                borderWidth: 0
-            }
-        },
-        series: [{
-            name: 'Egypt',
-            data: [334497013],
-            color: '#F9A61C'
-
-        }, {
-            name: 'South Africa',
-            data: [250593472],
-            color: '#333333'
-
-        }, {
-            name: 'Nigeria',
-            data: [242840161],
-            color: '#26B8EB'
-
-        },
-        {
-            name: 'Kenya',
-            data: [173785414],
-            color: '#868686'
-
-        },
-        {
-            name: 'Ghana',
-            color: '#33ff71',
-            data: [34719648]
-
-        }]
-    });
-});
-</script>
 <script>
   $(function () {
-    $('#language').highcharts({
+    $('#prevote').highcharts({
         chart: {
             plotBackgroundColor: null,
             plotBorderWidth: null,
@@ -240,7 +123,8 @@ $(function () {
             type: 'pie'
         },
         title: {
-            text: 'Breakdown of Language - Africa Twitter (2015)'
+            text: 'The period June 1- June 22nd (the day before the referendum) shows:
+Total: 677 900 posts of identifiable age'
         },
         tooltip: {
             pointFormat: '{series.name}: <b>{point.percentage:.2f}%</b>'
@@ -259,30 +143,26 @@ $(function () {
             }
         },
         series: [{
-            name: 'Languages',
+            name: 'Age Groups',
             colorByPoint: true,
             data: [{
                 color: '#F9A61C',
-                name: 'English',
-                y: 58
+                name: 'Under 18',
+                y: 7.6
             }, {
                 color: '#333333',
-                name: 'Arabic',
-                y: 29,
+                name: '18-24',
+                y: 1.2,
                 sliced: true,
                 selected: true
             }, {
                 color: '#26B8EB',
-                name: 'French',
-                y: 3.5
+                name: '25-34',
+                y: 1.8
             }, {
                 color: '#868686',
-                name: 'Portuguese',
-                y: 0.6
-            }, {
-                color: '#33ff71',
-                name: 'Indigenous or other languages',
-                y: 8.96
+                name: '35+',
+                y: 89.4
             }]
         }]
     });
