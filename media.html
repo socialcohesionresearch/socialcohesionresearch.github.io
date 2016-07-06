@@ -21,28 +21,28 @@ description: We are eager to expand our offering – especially reporting into t
   <div class='full_content_page' style='background: #ffffff' >
   <div class='row'>
     <div class='medium-6 large-6 columns'>
-      <p>Welcome to our media page. This online space is specifically for journalists and media corporations. We are looking to establish lasting relationships and partnerships with news outlets around the world and we are looking for your assistance to help us achieve this goal.  <a href="{{site.url}}">Browse our site</a> for more details of what we do and why is matters.</p><p>As a quick overview we produce media-worthy research for publication.  We use Crimson Hexagon, the world’s premier social media analytics platform to delve into issues of social interest.
-We are looking to set up partnerships with media outlets, and will be producing research that is newsworthy on global issues on an ongoing basis.  All our content is free to publish,</p></p> <strong>with the following provisos:</strong>
+      <p>Data has become a critical part of journalism in the 21st century. Readers are looking for an increasingly current, insightful and meaningful analysis of the world around them to help normalise, explain, expand and enrich their world. Concurrently, media business models are shifting and, while the industry is in transition, journalists are being asked to perform miracles to meet this growing consumer demand. Fewer hands to help, more demanding readers to appease. A difficult juggling act and the pressure really falls on the individuals.</p>
+ 
+<p>That's where we come in. We work with Crimson Hexagon (link) to conduct detailed Social Media led research into a broad range of social issues. We have several articles below which you are welcome to draw on for publishing, with the following provisos:</p>
 <ul><li>We are given forewarning of where and when publication is to occur</li>
 <li>If there is a digital link that can be provided, please do.  We will send these out as Facebook posts on our Facebook page, generating publicity for ourselves and your organisation.</li>
-<li>The Citizen Research Centre is to be credited in all articles</li>
-<li>A link to our website (www.citizenresearchcentre.org ) is to be published at the end of each article.</li>
-<li>Once a relationship is established we would like to link to your website on our website.</li></ul></p>
+<li>The Citizen Research Centre and Crimson Hexagon are to be credited in all articles, with links to our websites</li>
+</ul>
+</p>
       </div>
 	 
 	
 	<div class='medium-6 large-6 columns'>
-      <p>The work we have produced so far is below. New content will be added to this page as we grow and create more research. 
-Please drop us a mail and we will let you know each time we load new material onto the site.</p>
- 
-<p><strong>Currently we have:</strong>
-<ul>
-<li>Twitter analytics (<a href="{{site.url}}/africa-twitter-index.html">please also see our twitter index for Africa</a>)</li>
-<li><a href="{{site.url}}/public_research/2016/06/13/Boko-Haram-Fear-and-Funding-Report.html">Boko Haran Fear and Funding Study</a></li>
-<li>Brexit study (still to be added)</li>
-</ul>
-       </p>
-       <p> <img src="images/media.jpg" alt="media_image" align="center"></p>
+      <p>In essence, we are looking to establish lasting relationships and partnerships with media outlets around the world in an effort to raise the informed dialogue on global social issues. Browse our site for more details of what we do and why it matters. And if you have any ideas on topics you would like social media analysis on, do let us know!</p>
+<p>Current articles are:
+</p>
+ <div>
+    {% for post in site.posts %}
+      {% if forloop.index > 3 %}
+        {% break %}
+      {% endif %}
+            <a href="{{post.url}}">{{post.title}}</a>
+          {% endfor %}
       </div>
     </div>
     <div class='row'>
