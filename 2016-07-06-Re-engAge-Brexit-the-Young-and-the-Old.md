@@ -241,63 +241,7 @@ And in amongst all of this were the various sentiments. Before the referendum, r
 });
   </script>
 
-    <script>
-  $(function () {
-
-    $(document).ready(function () {
-
-        // Build the chart
-        $('#threevoteday').highcharts({
-            chart: {
-                plotBackgroundColor: null,
-                plotBorderWidth: null,
-                plotShadow: false,
-                type: 'pie'
-            },
-            title: {
-                text: 'The three days after the referendum (24-26 June)'
-            },
-            tooltip: {
-                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-            },
-            plotOptions: {
-                pie: {
-                    allowPointSelect: true,
-                    cursor: 'pointer',
-                    dataLabels: {
-                        enabled: true
-                    },
-                    showInLegend: false
-                }
-            },
-            series: [{
-                name: '% of Brexit Conversation',
-                colorByPoint: true,
-                data: [{
-                    name: 'Under 18 (86 551 posts)',
-                    color: '#26B8EB',
-                    y: 14.5
-                }, {
-                    name: '18-24 (20 014 posts)',
-                    color: '#333333',
-                    y: 3.4
-                }, {
-                    name: '25-34 (17 781 posts)',
-                    color: '#868686',
-                    y: 3
-                }, {
-                    name: '35 + (471 369  posts)',
-                    color: '#F9A61C',
-                    y: 79.1,
-                    sliced: true,
-                    selected: true
-                }]
-            }]
-        });
-    });
-});
-  </script>
-
+   
 <script>
   $(function () {
 
