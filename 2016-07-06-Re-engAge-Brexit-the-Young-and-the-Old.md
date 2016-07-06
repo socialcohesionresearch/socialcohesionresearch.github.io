@@ -137,9 +137,9 @@ From the 297 million posts generated during  June of 2016 in the UK, we identifi
                     allowPointSelect: true,
                     cursor: 'pointer',
                     dataLabels: {
-                        enabled: false
+                        enabled: true
                     },
-                    showInLegend: true
+                    showInLegend: false
                 }
             },
             series: [{
