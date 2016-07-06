@@ -95,7 +95,7 @@ One of the more popular theories in this debate is that the younger generation h
 <p style="text-align: center;" ><img src="images/blog-images/shukat-tweet.png"></p>
 <h3>The Old vs The Young?</h3>
 <p>Much has been made of the youth being angry at ‘old’ people voting against their interest, as tweets such as this show:</p>
-<p style="text-align: center;" ><img src="images/blog-images/shukat-tweet.png" width="45%">   <img src="images/blog-images/shukat-tweet.png" width="45%"></p>
+<p style="text-align: center;" ><img src="images/blog-images/luke-hawlet-tweet.png" width="45%">   <img src="images/blog-images/ellie-sadler-tweet.png" width="45%"></p>
 <div id="language" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 
 
