@@ -91,8 +91,11 @@ One of the more popular theories in this debate is that the younger generation h
   </tr>
 </table>
 <p>So we decided to look into social media to investigate further.  Using Crimson Hexagon (link), we analysed 297,474,704 tweets, Facebook and Tumblr posts, blogs and forums originating from the UK in June 2016. This social media research approach affords us an intimate and uniquely honest view of the entire online conversation from public sources.</p>
-<p style="text-align: center;" ><img src="images/blog-images/Caputo-tweet.png" widht="80%"></p>
-<p style="text-align: center;" ><img src="images/blog-images/shukat-tweet.png" widht="80%"></p>
+<p style="text-align: center;" ><img src="images/blog-images/Caputo-tweet.png"></p>
+<p style="text-align: center;" ><img src="images/blog-images/shukat-tweet.png"></p>
+<h3>The Old vs The Young?</h3>
+<p>Much has been made of the youth being angry at ‘old’ people voting against their interest, as tweets such as this show:</p>
+<p style="text-align: center;" ><img src="images/blog-images/shukat-tweet.png" width="45%">   <img src="images/blog-images/shukat-tweet.png" width="45%"></p>
 <div id="language" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 
 
