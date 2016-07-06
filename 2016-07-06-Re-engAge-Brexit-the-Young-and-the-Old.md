@@ -119,7 +119,7 @@ And in amongst all of this were the various sentiments. Before the referendum, r
 <p>After the referendum, regret from the young:</p>
 <p style="text-align: center;" ><img src="images/blog-images/the-brain-tweet.png" width="65%"></p>
 <p>And after the referendum, older people defending themselves:</p>
-<p style="text-align: center;" ><img src="images/blog-images/sile-tweet.png" width="45%">      <img src="images/blog-images/briefcase-michael-twitter.PNG" width="45%"></p>
+<p style="text-align: center;" ><img src="images/blog-images/sile-tweet.png" width="45%">      <img src="images/blog-images/briefcase-michael-twitter.png" width="45%"></p>
 <h3>The Implications</h3>
 <p>So what are we to read of this – are the youth so disinterested in politics that they chose to stay away from the Brexit vote?  Did they think it was a foregone conclusion? Almost certainly, if the youth had voted in greater numbers the UK would be staying in the EU.</p><p>
 How do we bring young people back into the voting booths?  How did the youth - who have always been at the forefront of political and social change - become so politically passive?  This is not just an issue in the UK, but around the world - and requires urgent attention from policy makers, political figures and leaders in all democracies.</p><p>
