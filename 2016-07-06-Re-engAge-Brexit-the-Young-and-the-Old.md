@@ -1,6 +1,6 @@
 ---
 layout: public_reports
-title: Re-engAge: Brexit, the Young and the Old
+title: Re-engAge | Brexit, the Young and the Old
 subtitle: Volume & Activity 
 date: "2016-05-19 20:37:53 +0800"
 author: The Citizen Research Centre
