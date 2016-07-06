@@ -23,80 +23,71 @@ One of the more popular theories in this debate is that the younger generation h
 <p style="text-align: center;" ><img src="images/blog-images/old_negative.png" widht="80%"></p>
 <p>According to a YouGov.co.uk poll of 554 registered voters aged of 18 to 24, 75% of the age group intended to vote to remain. Of interest to us was the 10% of these voters that didn’t vote - against only 2% of voters over the age of 65 that chose not to vote.  If these figures could be extrapolated out, would that 10% of voters have been enough to swing the vote to a decision to stay? Need attribution link</p>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-e3zv{font-weight:bold}
-.tg .tg-nvd0{background-color:#f8a102;vertical-align:top}
-.tg .tg-8e65{background-color:#f8a102}
-.tg .tg-yw4l{vertical-align:top}
-</style>
-<table class="tg">
+<table>
   <tr>
-    <th class="tg-031e"></th>
-    <th class="tg-031e">18-24</th>
-    <th class="tg-031e">25-49</th>
-    <th class="tg-031e">50-64</th>
-    <th class="tg-031e">65+</th>
+    <th></th>
+    <th>18-24</th>
+    <th>25-49</th>
+    <th>50-64</th>
+    <th>65+</th>
   </tr>
   <tr>
-    <td class="tg-031e">Sample Size</td>
-    <td class="tg-031e">554</td>
-    <td class="tg-031e">2042</td>
-    <td class="tg-031e">1174</td>
-    <td class="tg-031e">1002</td>
+    <td>Sample Size</td>
+    <td>554</td>
+    <td>2042</td>
+    <td>1174</td>
+    <td>1002</td>
   </tr>
   <tr>
-    <td class="tg-e3zv">Pre Vote Day</td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
+    <td>Pre Vote Day</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-031e">Remain</td>
-    <td class="tg-8e65">75</td>
-    <td class="tg-031e">56</td>
-    <td class="tg-031e">44</td>
-    <td class="tg-031e">39</td>
+    <td>Remain</td>
+    <td>75</td>
+    <td>56</td>
+    <td>44</td>
+    <td>39</td>
   </tr>
   <tr>
-    <td class="tg-031e">Leave</td>
-    <td class="tg-031e">25</td>
-    <td class="tg-031e">44</td>
-    <td class="tg-031e">56</td>
-    <td class="tg-8e65">61</td>
+    <td>Leave</td>
+    <td>25</td>
+    <td>44</td>
+    <td>56</td>
+    <td>61</td>
   </tr>
   <tr>
-    <td class="tg-e3zv">After Voting Closed</td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
-    <td class="tg-031e"></td>
+    <td>After Voting Closed</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-031e">Remain</td>
-    <td class="tg-031e">66</td>
-    <td class="tg-031e">52</td>
-    <td class="tg-031e">42</td>
-    <td class="tg-031e">38</td>
+    <td>Remain</td>
+    <td>66</td>
+    <td>52</td>
+    <td>42</td>
+    <td>38</td>
   </tr>
   <tr>
-    <td class="tg-031e">Leave</td>
-    <td class="tg-031e">23</td>
-    <td class="tg-031e">40</td>
-    <td class="tg-031e">53</td>
-    <td class="tg-031e">59</td>
+    <td>Leave</td>
+    <td>23</td>
+    <td>40</td>
+    <td>53</td>
+    <td>59</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Did not Vote</td>
-    <td class="tg-nvd0">10</td>
-    <td class="tg-yw4l">7</td>
-    <td class="tg-yw4l">5</td>
-    <td class="tg-yw4l">2</td>
+    <td>Did not Vote</td>
+    <td>10</td>
+    <td>7</td>
+    <td>5</td>
+    <td>2</td>
   </tr>
-</table> 
+</table>
 <div id="language" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 
 
