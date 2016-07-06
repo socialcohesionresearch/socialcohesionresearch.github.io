@@ -115,55 +115,57 @@ From the 297 million posts generated during  June of 2016 in the UK, we identifi
 
 <script>
   $(function () {
-    $('#prevote').highcharts({
-        chart: {
-            plotBackgroundColor: null,
-            plotBorderWidth: null,
-            plotShadow: false,
-            type: 'pie'
-        },
-        title: {
-            text: 'The period June 1- June 22nd (the day before the referendum)'
-        },
-        tooltip: {
-            pointFormat: '{series.name}: <b>{point.percentage:.2f}%</b>'
-        },
-        plotOptions: {
-            pie: {
-                allowPointSelect: true,
-                cursor: 'pointer',
-                dataLabels: {
-                    enabled: true,
-                    format: '<b>{point.name}</b>: {point.percentage:.1f} %',
-                    style: {
-                        color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
-                    }
+
+    $(document).ready(function () {
+
+        // Build the chart
+        $('#prevote').highcharts({
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
+            },
+            title: {
+                text: 'June 1- June 22nd (the days before the referendum) '
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: false
+                    },
+                    showInLegend: true
                 }
-            }
-        },
-        series: [{
-            name: 'Age Groups',
-            colorByPoint: true,
-            data: [{
-                color: '#F9A61C',
-                name: 'Under 18',
-                y: 7.6
-            }, {
-                color: '#333333',
-                name: '18-24',
-                y: 1.2,
-                sliced: true,
-                selected: true
-            }, {
-                color: '#26B8EB',
-                name: '25-34',
-                y: 1.8
-            }, {
-                color: '#868686',
-                name: '35+',
-                y: 89.4
+            },
+            series: [{
+                name: '% of Brexit Conversation',
+                colorByPoint: true,
+                data: [{
+                    name: 'Under 18 (51 365 posts)',
+                    color: '#26B8EB',
+                    y: 6.5
+                }, {
+                    name: '18-24 (8 407 posts)',
+                    color: '#333333',
+                    y: 1.2
+                }, {
+                    name: '25-34 (12 404 posts)',
+                    color: '#868686',
+                    y: 1.8
+                }, {
+                    name: '35 + (605 724 posts)',
+                    color: '#F9A61C',
+                    y: 89.4,
+                    sliced: true,
+                    selected: true
+                }]
             }]
-        }]
+        });
     });
 });
   </script>
