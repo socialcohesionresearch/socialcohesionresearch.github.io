@@ -102,6 +102,8 @@ One of the more popular theories in this debate is that the younger generation h
 From the 297 million posts generated during  June of 2016 in the UK, we identified 7 496 582 that discussed Brexit.  The Crimson Hexagon platform then used a complex algorithm to identity the age groups associated with those posts.  The platform was able to identify the age of over 22% of those posts.  This does not look at whether these posts were for or against leaving, but rather looks at the level of engagement of various age groups in the conversation.  This leaves us with 1 707 771 posts to analyse – a very healthy sample of public opinion on Brexit.
 </p>
 <div id="prevote" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
+  <div class='spacing'></div>
+<div id="voteday" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 
 
 </div>
@@ -169,148 +171,60 @@ From the 297 million posts generated during  June of 2016 in the UK, we identifi
     });
 });
   </script>
+
   <script>
-$(function () {
-    $('#voltweetstopnorth').highcharts({
-        chart: {
-            type: 'column'
-        },
-        title: {
-            text: 'Volume of Tweets - Top 5 North African Countries'
-        },
-        xAxis: {
-            categories: [
-                'Countries'
-            ],
-            crosshair: true
-        },
-        yAxis: {
-            min: 0,
+  $(function () {
+
+    $(document).ready(function () {
+
+        // Build the chart
+        $('#voteday').highcharts({
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
+            },
             title: {
-                text: 'Volume of Tweets'
-            }
-        },
-        tooltip: {
-            valueSuffix: ''
-        },
-        plotOptions: {
-            column: {
-                pointPadding: 0.2,
-                borderWidth: 0
-            }
-        },
-        series: [{
-            name: 'Egypt',
-            data: [334497013],
-            color: '#F9A61C'
-
-        }, {
-            name: 'Algeria',
-            data: [25532709],
-            color: '#333333'
-
-        }, {
-            name: 'Morocco',
-            data: [22610106],
-            color: '#26B8EB'
-
-        },
-        {
-            name: 'Libya',
-            data: [18566310],
-            color: '#868686'
-
-        },
-        {
-            name: 'Tunisia',
-            color: '#33ff71',
-            data: [11137350]
-
-        }]
+                text: 'The day of the referendum'
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: true
+                    },
+                    showInLegend: false
+                }
+            },
+            series: [{
+                name: '% of Brexit Conversation',
+                colorByPoint: true,
+                data: [{
+                    name: 'Under 18 (20 180 posts)',
+                    color: '#26B8EB',
+                    y: 14.9
+                }, {
+                    name: '18-24 (4 397 posts)',
+                    color: '#333333',
+                    y: 3.2
+                }, {
+                    name: '25-34 (12 404 posts)',
+                    color: '#868686',
+                    y: 3
+                }, {
+                    name: '35 + (605 724  posts)',
+                    color: '#F9A61C',
+                    y: 78.9,
+                    sliced: true,
+                    selected: true
+                }]
+            }]
+        });
     });
 });
-</script>
- <script>
-$(function () {
-    $('#top10activity').highcharts({
-        chart: {
-            type: 'column'
-        },
-        title: {
-            text: 'Twitter Activity per Person per Annum - Top 10 Africa Activity Index'
-        },
-        xAxis: {
-            categories: [
-                'Countries'
-            ],
-            crosshair: true
-        },
-        yAxis: {
-            min: 0,
-            title: {
-                text: 'Tweets per Person per Annum'
-            }
-        },
-        tooltip: {
-            valueSuffix: ''
-        },
-        plotOptions: {
-            column: {
-                pointPadding: 0.2,
-                borderWidth: 0
-            }
-        },
-        series: [{
-            name: 'South Africa',
-            data: [4.685],
-            color: '#F9A61C'
-
-        }, {
-            name: 'Egypt',
-            data: [3.95],
-            color: '#333333'
-
-        }, {
-            name: 'Kenya',
-            data: [3.717],
-            color: '#26B8EB'
-
-        },
-        {
-            name: 'Botswana',
-            data: [3.714],
-            color: '#868686'
-
-        },
-        {
-            name: 'Seychelles',
-            color: '#33ff71',
-            data: [3.173]
-
-        },
-        {
-            name: 'Libya',
-            data: [2.939]
-
-        }, {
-            name: 'Namibia',
-            data: [2.091]
-
-        }, {
-            name: 'Mauritius',
-            data: [1.597]
-
-        },
-        {
-            name: 'Nigeria',
-            data: [1.323]
-
-        },
-        {
-            name: 'Ghana',
-            data: [1.287]
-
-        }]
-    });
-});
-</script>
+  </script>
