@@ -116,7 +116,10 @@ Citizens under the legal voting age were considerably more engaged than those ag
 And in amongst all of this were the various sentiments. Before the referendum, resent towards the young:
 </p>
 <p style="text-align: center;" ><img src="images/blog-images/darren-dunbar-tweet.png" width="65%"></p>
+<p>After the referendum, regret from the young:</p>
 <p style="text-align: center;" ><img src="images/blog-images/the-brain-tweet.png" width="65%"></p>
+<p>And after the referendum, older people defending themselves:</p>
+<p style="text-align: center;" ><img src="images/blog-images/the-brain-tweet.png" width="45%">      <img src="images/blog-images/the-brain-tweet.png" width="45%"></p>
 
 </div>
 <div class='medium-2 large-2 columns'>
