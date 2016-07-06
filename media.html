@@ -40,9 +40,11 @@ description: We are eager to expand our offering – especially reporting into t
     {% for post in site.posts %}
       {% if forloop.index > 3 %}
         {% break %}
+       <ul>
       {% endif %}
-            <ul><li><a href="{{post.url}}">{{post.title}}</a></li><ul>
+           <li><a href="{{post.url}}">{{post.title}}</a></li>
           {% endfor %}
+          </ul>
       </div>
     </div>
     <div class='row'>
