@@ -268,7 +268,6 @@ We are committed to providing research on Citizens, and also research for Citize
                 plotBackgroundColor: null,
                 plotBorderWidth: null,
                 plotShadow: false,
-                size: '80%',
                 type: 'pie'
             },
             title: {
@@ -281,6 +280,7 @@ We are committed to providing research on Citizens, and also research for Citize
                 pie: {
                     allowPointSelect: true,
                     cursor: 'pointer',
+                     size: '80%',
                     dataLabels: {
                         enabled: true
                     },
