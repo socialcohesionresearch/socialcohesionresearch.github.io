@@ -110,7 +110,7 @@ From the 297 million posts generated during  June of 2016 in the UK, we identifi
 <div id="lastdaysjune" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 <p>What we see above is a spectacular lack of engagement in the topic from the very people we would expect to be engaged in it – young, social media savvy voters, purportedly with a strong interest in staying in the EU.</p><p>
 <p>Before the referendum, youth trying to get their peers to engage:</p>
-<p style="text-align: center;" ><img src="images/blog-images/the-brain-tweet.png" width="65%"></p>
+<p style="text-align: center;" ><img src="images/blog-images/the-brain-tweet.png" width="65%"></p><p>
 Looking at the age band 18-35 collectively – at their height (23-26 June) they contributed only 6.3% of the total conversation on Brexit. And within days of the referendum (27-30 June) this had dropped to a lamentable 3.5% of the conversation.</p><p> 
 Between the 1 and the 22nd June, Britain’s youngest eligible voters (18-24 year olds) devoted only 0.27% of their online conversation to Brexit. This figure climbed to an unimposing high of 3.8 % of their total conversation on the weekend after the referendum, and then plummeted to only 0.69% for the remainder of June.</p><p>
 By contrast, the 35 plus group devoted 2.61% of their total online conversation to Brexit during the period 1-22 June (9 times as much as the youth), rose to a high of 7.99% on the day of the referendum (twice as much as the youth) and then continued at 9.94% (14 times as much as the youth) for the remainder of June.</p><p>
