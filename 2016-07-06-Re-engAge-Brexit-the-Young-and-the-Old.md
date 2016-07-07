@@ -21,7 +21,7 @@ This paper examines what the young and the old were saying on social media befor
 One of the more popular theories in this debate is that the younger generation have been let down by an out of touch, disengaged older generation. That younger citizens desperately wanted to stay, but were voted down by their parents and grandparents; that the ambitions of the young and hopeful were eaten by the old and fearful.
 </p>
 <p style="text-align: center;" ><img src="images/blog-images/old_negative.png" widht="80%"></p>
-<p>According to a YouGov.co.uk poll of 554 registered voters aged of 18 to 24, 75% of the age group intended to vote to remain. Of interest to us was the 10% of these voters that didn’t vote - against only 2% of voters over the age of 65 that chose not to vote.  If these figures could be extrapolated out, would that 10% of voters have been enough to swing the vote to a decision to stay? Need attribution link</p>
+<p>According to a YouGov.co.uk poll of 554 registered voters aged of 18 to 24, 75% of the age group intended to vote to remain. Of interest to us was the 10% of these voters that didn’t vote - against only 2% of voters over the age of 65 that chose not to vote.  If these figures could be extrapolated out, would that 10% of voters have been enough to swing the vote to a decision to stay?</p>
 
 <table style="margin-left:auto; 
     margin-right:auto;">
@@ -99,7 +99,7 @@ One of the more popular theories in this debate is that the younger generation h
 <p>And weighing up the decision based on life expectancy:</p>
 <p style="text-align: center;" ><img src="images/blog-images/tom-holder-tweet.png" width="65%"></p>
 <p>Social media analysis shows, though, that the youth were remarkably ambivalent about Brexit before the referendum.</p><p>
-From the 297 million posts generated during  June of 2016 in the UK, we identified 7 496 582 that discussed Brexit.  The <a href="http://www.crimsonhexagon.com/" target="_blank">Crimson Hexagon</a> platform then used a complex algorithm to identity the age groups associated with those posts.  The platform was able to identify the age of over 22% of those posts.  This does not look at whether these posts were for or against leaving, but rather looks at the level of engagement of various age groups in the conversation.  This leaves us with 1 707 771 posts to analyse – a very healthy sample of public opinion on Brexit.
+From the 297 million posts generated during  June of 2016 in the UK, we identified 7 496 582 that discussed Brexit.  The <a href="http://www.crimsonhexagon.com/" target="_blank">Crimson Hexagon</a> platform then used a complex algorithm to identify the age groups associated with those posts.  The platform was able to identify the age of over 22% of those posts.  This does not look at whether these posts were for or against leaving, but rather looks at the level of engagement of various age groups in the conversation.  This leaves us with 1 707 771 posts to analyse – a very healthy sample of public opinion on Brexit.
 </p>
 <div id="prevote" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
   <div class='spacing'></div>
@@ -108,16 +108,18 @@ From the 297 million posts generated during  June of 2016 in the UK, we identifi
 <div id="threedaysafter" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
 <div id="lastdaysjune" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
-<p>What we see above is a spectacular lack of engagement in the topic from the very people we would expect to engage – young, social media savvy voters, purportedly with a strong interest in staying in the EU.</p><p>
-Looking at the age band 18-35 collectively – at their height (23-26 June) contributed only 6.3% of the total conversation on Brexit.  And within days of the referendum (27-30 June) this had dropped to a lamentable 3.5% of the conversation.</p><p> 
+<p>What we see above is a spectacular lack of engagement in the topic from the very people we would expect to be engaged in it – young, social media savvy voters, purportedly with a strong interest in staying in the EU.</p><p>
+<p>Before the referendum, youth trying to get their peers to engage:</p>
+<p style="text-align: center;" ><img src="images/blog-images/the-brain-tweet.png" width="65%"></p>
+Looking at the age band 18-35 collectively – at their height (23-26 June) they contributed only 6.3% of the total conversation on Brexit. And within days of the referendum (27-30 June) this had dropped to a lamentable 3.5% of the conversation.</p><p> 
 Between the 1 and the 22nd June, Britain’s youngest eligible voters (18-24 year olds) devoted only 0.27% of their online conversation to Brexit. This figure climbed to an unimposing high of 3.8 % of their total conversation on the weekend after the referendum, and then plummeted to only 0.69% for the remainder of June.</p><p>
 By contrast, the 35 plus group devoted 2.61% of their total online conversation to Brexit during the period 1-22 June (9 times as much as the youth), rose to a high of 7.99% on the day of the referendum (twice as much as the youth) and then continued at 9.94% (14 times as much as the youth) for the remainder of June.</p><p>
 Citizens under the legal voting age were considerably more engaged than those aged 18-24 and 25-35, but far less engaged than those aged over 35.</p><p>
-And in amongst all of this were the various sentiments. Before the referendum, resent towards the young:
+And in amongst all of this were the various sentiments. Before the referendum, resentment towards the young:
 </p>
 <p style="text-align: center;" ><img src="images/blog-images/darren-dunbar-tweet.png" width="65%"></p>
 <p>After the referendum, regret from the young:</p>
-<p style="text-align: center;" ><img src="images/blog-images/the-brain-tweet.png" width="65%"></p>
+<p style="text-align: center;" >New Tweet goes here</p>
 <p>And after the referendum, older people defending themselves:</p>
 <p style="text-align: center;" ><img src="images/blog-images/sile-tweet.png" width="45%">      <img src="images/blog-images/briefcase-michael-twitter.jpg" width="45%"></p>
 <h3>The Implications</h3>
