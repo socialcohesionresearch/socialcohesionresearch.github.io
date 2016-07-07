@@ -243,11 +243,11 @@ We are committed to providing research on Citizens, and also research for Citize
                     color: '#333333',
                     y: 3.2
                 }, {
-                    name: '25-34 (12 404 posts)',
+                    name: '25-34 (4036 posts)',
                     color: '#868686',
                     y: 3
                 }, {
-                    name: '35 + (605 724  posts)',
+                    name: '35 + (107 166  posts)',
                     color: '#F9A61C',
                     y: 78.9,
                     sliced: true,
