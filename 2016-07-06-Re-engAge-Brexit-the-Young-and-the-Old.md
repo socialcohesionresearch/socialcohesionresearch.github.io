@@ -164,7 +164,7 @@ We are committed to providing research on Citizens, and also research for Citize
                 pie: {
                     allowPointSelect: true,
                     cursor: 'pointer',
-                    size: 400,
+                    size: '80%',
                     dataLabels: {
                         enabled: true
                     },
