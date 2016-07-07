@@ -152,7 +152,9 @@ We are committed to providing research on Citizens, and also research for Citize
                 plotBackgroundColor: null,
                 plotBorderWidth: null,
                 plotShadow: false,
-                type: 'pie'
+                type: 'pie',
+                width: 80%,
+                height: 400
             },
             title: {
                 text: 'June 1- June 22nd (the days before the referendum) '
@@ -209,7 +211,9 @@ We are committed to providing research on Citizens, and also research for Citize
                 plotBackgroundColor: null,
                 plotBorderWidth: null,
                 plotShadow: false,
-                type: 'pie'
+                type: 'pie',
+                width: 80%,
+                height: 400
             },
             title: {
                 text: 'The day of the referendum'
@@ -266,7 +270,9 @@ We are committed to providing research on Citizens, and also research for Citize
                 plotBackgroundColor: null,
                 plotBorderWidth: null,
                 plotShadow: false,
-                type: 'pie'
+                type: 'pie',
+                width: 80%,
+                height: 400
             },
             title: {
                 text: 'Three days after the referendum (24-26 June)'
@@ -323,7 +329,10 @@ We are committed to providing research on Citizens, and also research for Citize
                 plotBackgroundColor: null,
                 plotBorderWidth: null,
                 plotShadow: false,
-                type: 'pie'
+                type: 'pie',
+                width: 80%,
+                height: 400
+
             },
             title: {
                 text: 'The last three days of June'
