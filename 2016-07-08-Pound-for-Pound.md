@@ -46,7 +46,7 @@ Those contributing to the Crypto Currency conversation were demonstrably more fo
 </p>
 <h3>Implications</h3>
 <p>As established currencies wax and wane, hedges emerge… Traditionally gold has been the hedge in turbulent times –now crypto currencies also play a role.</p><p>
-While this piece has focused on the pound, emerging market currencies and economies usually bear the brunt of political uncertainty and social upheaval. Strong, coherent policies that are supported by Citizens are the hallmark of a stable democracy. Brexit has shown us that even the most developed economies hide fractured societies, with disparate ambitions and goals for their future. Fear hides in the wings, and politicians need to beware of reducing complex decisions to binary options in referenda.
+While this piece has focused on the pound, emerging market currencies and economies usually bear the brunt of political uncertainty and social upheaval. Strong, coherent policies that are supported by citizens are the hallmark of a stable democracy. Brexit has shown us that even the most developed economies hide fractured societies, with disparate ambitions and goals for their future. Fear hides in the wings, and politicians need to beware of reducing complex decisions to binary options in referenda.
 </p>
 <h3>About The Citizen Research Centre</h3>
 <p><a href="{{site.url}}" target="_blank">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p><p>
