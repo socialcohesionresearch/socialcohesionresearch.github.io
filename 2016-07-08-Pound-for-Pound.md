@@ -1,7 +1,7 @@
 ---
 layout: public_reports
-title: Pound for Pound | Social Media Conversation on the Pound vs Crypto Currencies during Brexit
-subtitle: Unpacking Social Media data on Brexit 
+title: Pound for Pound
+subtitle: Social Media Conversation on the Pound vs Crypto Currencies during Brexit 
 date: "2016-07-06 20:37:53 +0800"
 author: The Citizen Research Centre
 excerpt: "The Brexit referendum result had a dramatic effect on currencies around the world, and on the pound in particular. It also impacted on crypto currencies, the most famous of which is Bitcoin."
