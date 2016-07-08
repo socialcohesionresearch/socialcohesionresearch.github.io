@@ -31,6 +31,8 @@ Most of the conversation took place around and after referendum day, with 46% of
 <p>Crypto Currency conversation by contrast was quite upbeat – with crypto currencies touted as an increasingly attractive option following the Brexit referendum.  Most of the conversation concerned the spike in the Bitcoin prices, with minor themes being the growth of Bitcoin in popularity after the referendum.</p><p>
 While this has since corrected, immediately following the vote, the Pound dropped as much as 9%, and the value of Bitcoin climbed by 8%.
 </p>
+<p style="text-align: center;" ><img src="images/blog-images/crypto_conversation.PNG"></p>
+<div class='spacing'></div>
 </div>
 <div class='medium-2 large-2 columns'>
     <div class='spacing'></div>
