@@ -84,7 +84,6 @@ published: true
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
-</div>
 
 <div class='medium-8 large-8 columns'>
 <div class='spacing'></div>
