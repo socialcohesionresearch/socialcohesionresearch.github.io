@@ -238,6 +238,33 @@ Groups like iStreetWatch.co.uk are urging people to act when they witness hate c
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
+<p>Social media has become, at least in part, a call-to-action platform in post referendum Britain. It has been used to promote ideals of solidarity and inclusiveness as well as sharing expressions on those ideals.
+</p>
+<p><img src="images/blog-images/cultural_diversity.jpg"></p>
+</div>
+<div class='medium-2 large-2 columns'>
+    <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
+<p>Brits countrywide are being urged to report what they see and to stand up against bigoted behaviour. Civilians and police are sharing information and advice.
+
+</p>
+<p><img src="images/blog-images/dilly_tweet.jpg"></p>
+</div>
+<div class='medium-2 large-2 columns'>
+    <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
 <div class='spacing'></div>
 <h3>About The Citizen Research Centre</h3>
 <p><a href="{{site.url}}" target="_blank">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p><p>
