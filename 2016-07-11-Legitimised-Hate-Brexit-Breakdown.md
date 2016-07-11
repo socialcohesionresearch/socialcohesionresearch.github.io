@@ -86,6 +86,22 @@ published: true
     </div>
 </div>
 <div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-4 columns'>
+<p>We looked at all UK conversation on the topic of xenophobia and found that the volume of conversation in the week after the referendum rose with 256%.
+</p><p>
+Although there was a substantial amount of xenophobic rhetoric leading up to the vote, the week of 23 June to 29 June saw social media engagement rise to a massive 749,975 on-topic contributions in comparison to 292,392 the week leading up to the vote.
+</p>
+
+</div>
+<div class='medium-6 large-6 columns'>
+
+ <p ><img src="images/blog-images/volume.jpg"></p>
+</div>
+</div>
+<div class="row">
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
