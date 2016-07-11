@@ -127,11 +127,10 @@ In the list of main themes, female conversation brought in topics such as Thinki
 Immigration barely features as a top issue for discussion among women compared to their male counterparts.
 </p><p>There was a small but significant increase in the percentage of conversation contributed by women up from 36% in the week pre-vote to 41% in the week following the vote.
 </p>
-<div id="gender" style="min-width: 310px; max-width: 100%; height: 400px; float: left; margin: 1%;"></div>
 </div>
 <div class='medium-6 large-6 columns'>
- <p><img src="images/blog-images/men_topics.jpg"></p>
-  <p><img src="images/blog-images/women_topics.jpg"></p>
+ <p><img src="images/blog-images/men_topics.jpg">   <img src="images/blog-images/women_topics.jpg"></p>
+ <div id="gender" style="min-width: 310px; max-width: 100%; height: 400px; float: left; margin: 1%;"></div>
 </div>
 </div>
 <div class="row">
