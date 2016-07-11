@@ -139,6 +139,24 @@ Immigration barely features as a top issue for discussion among women compared t
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
+</p>The conversation about post referendum racism has by no means been contained borders of the UK.</p><p>
+
+In the week leading up to the referendum, almost 63% of the global conversation referencing both the Brexit vote and xenophobia, racism or other migrant prejudice came from the UK, with close to 23% originating from the US. The next closest contributing country was Ireland with a mere 1.15%.</p><p>
+
+In the 7 days post vote, 38.08% of the global conversation came from the United States, rivalling the UK at 39.37%. Canada and Australia were the next most involved countries with Ireland’s increased contribution at 1.43% earning them the number 6 spot.
+</p>
+<p><img src="images/blog-images/map_origin.jpg"></p>
+
+</div>
+<div class='medium-2 large-2 columns'>
+    <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
 <div class='spacing'></div>
 <h3>About The Citizen Research Centre</h3>
 <p><a href="{{site.url}}" target="_blank">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p><p>
@@ -153,7 +171,6 @@ We are committed to providing research on Citizens, and also research for Citize
     <div class='spacing'></div>
     </div>
 </div>
-
 
 
 
