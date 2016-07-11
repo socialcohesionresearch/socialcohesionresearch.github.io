@@ -130,7 +130,7 @@ Immigration barely features as a top issue for discussion among women compared t
 </div>
 <div class='medium-6 large-6 columns'>
  <img src="images/blog-images/men_topics.jpg">   <img src="images/blog-images/women_topics.jpg">
- <div id="gender" style="min-width: 310px; max-width: 100%; height: 400px; float: left; margin: 1%;"></div>
+ <div id="gender" style="min-width: 310px; max-width: 100%; height: 310px; float: left; margin: 1%;"></div>
 </div>
 </div>
 <div class="row">
