@@ -78,7 +78,7 @@ published: true
 
 </div>
 <div class='medium-4 large-4 columns'>
-<div id="handle_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
+<div id="hashtag_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
 
 </div>
 </div><div class="row">
