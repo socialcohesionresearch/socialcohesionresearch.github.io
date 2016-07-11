@@ -120,7 +120,7 @@ Although there was a substantial amount of xenophobic rhetoric leading up to the
     <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
-<div class='medium-6 large-6 columns'>
+<div class='medium-4 large-4 columns'>
 <p>Women and men discussed the same topics on the issue however they do so with varying priority towards specific topics.</p><p>
 After the shared Racist and Racism topics the highest discussion points for men were around Brexit and the Vote.</p><p>
 In the list of main themes, female conversation brought in topics such as Thinking and Love.</p><p>
@@ -128,7 +128,7 @@ Immigration barely features as a top issue for discussion among women compared t
 </p><p>There was a small but significant increase in the percentage of conversation contributed by women up from 36% in the week pre-vote to 41% in the week following the vote.
 </p>
 </div>
-<div class='medium-6 large-6 columns'>
+<div class='medium-4 large-4 columns'>
  <p><img src="images/blog-images/men_topics.jpg"></p>
   <p><img src="images/blog-images/women_topics.jpg"></p>
 <div id="gender" style="min-width: 310px; max-width: 100%; height: 400px; float: left; margin: 1%;"></div>
