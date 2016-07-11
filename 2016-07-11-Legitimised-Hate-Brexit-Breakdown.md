@@ -64,7 +64,7 @@ published: true
 <div class='spacing'></div>
 <p>Facebook albums and Twitter accounts like Worrying Signs and PostRefRacism have become popular forums to discuss and share stories of hate crimes and intimidation. The @PostRefRacism Twitter handle has been mentioned over than 4,300 times since the referendum, more than any other.  #PostRefRacism has been used more than 34,000 times since the 23rd of June. The only on-topic hashtag that was used more is, unsurprisingly, #Brexit.
 </p>
-
+<div id="handle_mentions" style="min-width: 310px; max-width: 50%; height: 400px; margin: 0 auto"></div><div id="hashtag_mentions" style="min-width: 310px; max-width: 50%; height: 400px; margin: 0 auto"></div>
 <h3>About The Citizen Research Centre</h3>
 <p><a href="{{site.url}}" target="_blank">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p><p>
 We describe what we do as social research. This is research done in order to improve and expand on our knowledge of the world by providing decision makers in social policy and intervention projects with the best data possible.</p><p>
@@ -72,7 +72,7 @@ We run primary face-to-face research - both quantitative and qualitative - in 54
 We run analytic research on social media globally through our partnership with <a href="http://www.crimsonhexagon.com/" target="_blank">Crimson Hexagon</a>, arguably the best social media analysis platform in the world. This and other reports are generated through mining and reporting on our social media data base, which currently holds almost 1 trillion pieces of social media data.</p><p>
 We are committed to providing research on Citizens, and also research for Citizens – that reflect their own views back to them through social media analytics.
 </p>
-<div id="handle_mentions" style="min-width: 310px; max-width: 50%; height: 400px; margin: 0 auto"></div>
+
 </div>
 <div class='medium-2 large-2 columns'>
     <div class='spacing'></div>
@@ -140,6 +140,55 @@ $(function () {
         series: [{
             name: 'Mentions',
             data: [4300, 3800, 3500, 2500, 2000, 2000, 1900, 1800, 1800, 1600]
+        }]
+    });
+});
+</script>
+
+<script>
+$(function () {
+    $('#hashtag_mentions').highcharts({
+        chart: {
+            type: 'bar'
+        },
+        title: {
+            text: 'Hashtag Mentions - Hate Crimes & Intimidation Stories'
+        },
+        subtitle: {
+            text: 'Source: <a href="http://www.crimsonhexagon.com/">Crimson Hexagon</a>'
+        },
+        xAxis: {
+            categories: ['#Brexit', '#PostRefRacism', '#EURefResults', '#EUref', '#racism', '#safetypin', '#hatecrime', '#Remain', '#VoteLeave', '#Leave'],
+            title: {
+                text: null
+            }
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Mentions',
+                align: 'high'
+            },
+            labels: {
+                overflow: 'justify'
+            }
+        },
+        tooltip: {
+            valueSuffix: ' mentions'
+        },
+        plotOptions: {
+            bar: {
+                dataLabels: {
+                    enabled: true
+                }
+            }
+        },
+        credits: {
+            enabled: false
+        },
+        series: [{
+            name: 'Mentions',
+            data: [57000, 34000, 21000, 18000, 7700, 5000, 4500, 4300, 4100, 4000]
         }]
     });
 });
