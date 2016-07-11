@@ -188,7 +188,23 @@ The reality is that of that 23%, the vast majority of Leave voters are not extre
     <div class='spacing'></div>
     </div>
 </div>
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
+<div class='spacing'></div>
+<h3>PUBLIC PUSHBACK</h3>
+<p>Analysing the growth in volume of this conversation draws an outline around how important the issue is to social media users however, it does not tell us what the overall sentiment of the conversation is. Quantifying the feelings involved in this conversation is an overwhelmingly difficult task as opinions on such a highly politicised issue are complex and multifaceted.</p><p>
 
+That said, within the online conversation regarding intolerance, bigotry and racism, we note an initially high negative sentiment (as would be expected given the topic) but also a consistent growth in negativity - eventually exceeding 90% of the conversation. The more recent growth in negativity was directly the result of UK citizens directly opposing and condemning the behaviour of those enacting their prejudices.
+</p>
+<p style="text-align: center;"><img src="images/blog-images/pushback.jpg"></p>
+</div>
+<div class='medium-2 large-2 columns'>
+    <div class='spacing'></div>
+    </div>
+</div>
 <div class="row">
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
