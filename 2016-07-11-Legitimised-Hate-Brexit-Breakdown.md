@@ -36,13 +36,13 @@ published: true
     <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
-    <div class='medium-2 large-2 columns'>
+    <div class='medium-3 large-3 columns'>
         <p ><img src="images/blog-images/hate_tweet_1.jpg"></p>
     </div>
-    <div class='medium-1 large-1 columns'>
+    <div class='medium-2 large-2 columns'>
         <p ><img src="images/blog-images/hate_tweet_2.jpg"></p>
     </div>
-    <div class='medium-2 large-2 columns'>
+    <div class='medium-3 large-3 columns'>
         <p ><img src="images/blog-images/hate_tweet_3.jpg"></p>
     </div>
 <div class='medium-2 large-2 columns'>
