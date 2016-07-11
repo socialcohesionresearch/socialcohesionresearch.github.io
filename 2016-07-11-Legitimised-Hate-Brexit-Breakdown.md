@@ -84,27 +84,8 @@ published: true
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
-</div></div>
-    <div class="row">
-         <div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-4 large-4 columns'>
-    <p>We looked at all UK conversation on the topic of xenophobia and found that the volume of conversation in the week after the referendum rose with 256%.</p>
+</div>
 
-<p>Although there was a substantial amount of xenophobic rhetoric leading up to the vote, the week of 23 June to 29 June saw social media engagement rise to a massive 749,975 on-topic contributions in comparison to 292,392 the week leading up to the vote.
-</p>
-</div>
-<div class='medium-4 large-4 columns'>
-    <p><img src="images/blog-images/volume.jpg"></p>
-</div>
-<div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-</div><div class="row">
-    <div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
 <div class='medium-8 large-8 columns'>
 <div class='spacing'></div>
 <h3>About The Citizen Research Centre</h3>
