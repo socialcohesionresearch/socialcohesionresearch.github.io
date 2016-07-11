@@ -104,7 +104,7 @@ Although there was a substantial amount of xenophobic rhetoric leading up to the
 <div class="row">
     <div class='medium-6 large-6 columns'>
  <div class='spacing'></div>
- <p ><img src="images/blog-images/volume.jpg"></p>
+ <p ><img src="images/blog-images/basic_vol.jpg"></p>
 </div>
 <div class='medium-4 large-4 columns'>
 <p>Over the same time period overall negativity in the xenophobic conversation increased to over 90% (a jump of 10% in 10 days).
