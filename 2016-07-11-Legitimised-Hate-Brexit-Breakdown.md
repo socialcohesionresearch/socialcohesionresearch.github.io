@@ -163,7 +163,7 @@ In the 7 days post vote, 38.08% of the global conversation came from the United 
 <p><img src="images/blog-images/tanner_tweet.jpg" width="48%">   <img src="images/blog-images/park_tweet.jpg" width="48%"></p>
 <p>Racism, xenophobia and intolerance on the other hand are irrational and usually based in fear or ignorance. It is inevitable that every society, once it reaches a certain size, will have its share of people who hold these views. Ideally, the values of the rest of the community that these individuals find themselves in temper their actions and reduces how entitled they feel about their bigoted views.
 </p>
-<p style="align: center;"><img src="images/blog-images/joelle_tweet.jpg"></p>
+<p style="text-align: center;"><img src="images/blog-images/joelle_tweet.jpg"></p>
 </div>
 <div class='medium-2 large-2 columns'>
     <div class='spacing'></div>
