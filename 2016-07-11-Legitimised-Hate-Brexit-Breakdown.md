@@ -85,11 +85,9 @@ published: true
         <div class='spacing'></div>
     </div>
 </div>
-</div>
     <div class="row">
          <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
-    </div>
 <div class='medium-2 large-2 columns'>
     <p>We looked at all UK conversation on the topic of xenophobia and found that the volume of conversation in the week after the referendum rose with 256%.</p>
 
@@ -120,6 +118,7 @@ We are committed to providing research on Citizens, and also research for Citize
 <div class='medium-2 large-2 columns'>
     <div class='spacing'></div>
     </div>
+</div>
 </div>
 
 
