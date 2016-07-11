@@ -158,6 +158,24 @@ In the 7 days post vote, 38.08% of the global conversation came from the United 
     </div>
 <div class='medium-8 large-8 columns'>
 <div class='spacing'></div>
+<h3>EMBOLDENED MINORITY</h3>
+<p>Immigration is a complex issue, currently inflamed by the refugee crisis. Although no correlation has been found between those affected by immigration influx and Leave voters, it is a legitimate topic for conversation.</p>
+<p><img src="images/blog-images/tanner_tweet.jpg" width="48%">   <img src="images/blog-images/park_tweet.jpg" width="48%"></p>
+<p>Racism, xenophobia and intolerance on the other hand are irrational and usually based in fear or ignorance. It is inevitable that every society, once it reaches a certain size, will have its share of people who hold these views. Ideally, the values of the rest of the community that these individuals find themselves in temper their actions and reduces how entitled they feel about their bigoted views.
+</p>
+<p style="align: center;"><img src="images/blog-images/joelle_tweet.jpg"></p>
+</div>
+<div class='medium-2 large-2 columns'>
+    <div class='spacing'></div>
+    </div>
+</div>
+
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
+<div class='spacing'></div>
 <h3>About The Citizen Research Centre</h3>
 <p><a href="{{site.url}}" target="_blank">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p><p>
 We describe what we do as social research. This is research done in order to improve and expand on our knowledge of the world by providing decision makers in social policy and intervention projects with the best data possible.</p><p>
