@@ -33,30 +33,30 @@ published: true
     </div>
 </div>
 <div class="row">
-    <div class='medium-2 large-2 columns'>
+    <div class='medium-1 large-1 columns'>
         <div class='spacing'></div>
     </div>
-    <div class='medium-4 large-4 columns'>
+    <div class='medium-2 large-2 columns'>
         <p ><img src="images/blog-images/hate_tweet_1.jpg"></p>
     </div>
-    <div class='medium-4 large-4 columns'>
-        <p ><img src="images/blog-images/hate_tweet_3.jpg"></p>
-    </div>
-<div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-</div>
-<div class="row">
-    <div class='medium-4 large-4 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-4 large-4 columns'>
+     <div class='medium-2 large-2 columns'>
         <p ><img src="images/blog-images/hate_tweet_2.jpg"></p>
     </div>
-    <div class='medium-4 large-4 columns'>
+     <div class='medium-2 large-2 columns'>
+        <p ><img src="images/blog-images/hate_tweet_3.jpg"></p>
+    </div>
+     <div class='medium-2 large-2 columns'>
+        <p ><img src="images/blog-images/hate_tweet_4.jpg"></p>
+    </div>
+     <div class='medium-2 large-2 columns'>
+        <p ><img src="images/blog-images/hate_tweet_5.jpg"></p>
+    </div>
+    
+<div class='medium-1 large-1 columns'>
         <div class='spacing'></div>
     </div>
 </div>
+
 <div class='spacing'></div>
 <h3>Crypto Currency Centric Conversation Topic Waves</h3>
 <p>Crypto Currency conversation by contrast was quite upbeat – with crypto currencies touted as an increasingly attractive option following the Brexit referendum.  Most of the conversation concerned the spike in the Bitcoin prices, with minor themes being the growth of Bitcoin in popularity after the referendum.</p><p>
