@@ -179,8 +179,6 @@ In the 7 days post vote, 38.08% of the global conversation came from the United 
 The effect of the EU referendum result has been to embolden people like this. It has given them the confidence to gloat in public. The perception that 52% of the country agree with them has instilled them with a sense of national pride which they wield as a weapon to attack anyone they see as not 'english'. 
 </p>
 <p><img src="images/blog-images/siegel_tweet.jpg" width="48%">   <img src="images/blog-images/william_tweet.jpg" width="48%"></p>
-<p>Racism, xenophobia and intolerance on the other hand are irrational and usually based in fear or ignorance. It is inevitable that every society, once it reaches a certain size, will have its share of people who hold these views. Ideally, the values of the rest of the community that these individuals find themselves in temper their actions and reduces how entitled they feel about their bigoted views.
-</p>
 <p>The problem comes with extrapolating the 52%. Yes, 52% of voters on the day voted to leave but that would make up only about 23% of the British population and does not factor in the millions of non-citizen residents.</p><p> 
 
 The reality is that of that 23%, the vast majority of Leave voters are not extremists, most hold moderate albeit mostly right leaning, views. Although immigration has been turned into a hot topic by the Leave campaign, suggesting that this was a large factor in convincing the public to vote to Leave, the idea that more than half the country condone racist behaviour is a dangerous one.
