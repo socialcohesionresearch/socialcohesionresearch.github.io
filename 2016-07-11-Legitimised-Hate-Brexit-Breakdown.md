@@ -64,7 +64,7 @@ published: true
 <div class='spacing'></div>
 <p>Facebook albums and Twitter accounts like Worrying Signs and PostRefRacism have become popular forums to discuss and share stories of hate crimes and intimidation. The @PostRefRacism Twitter handle has been mentioned over than 4,300 times since the referendum, more than any other.  #PostRefRacism has been used more than 34,000 times since the 23rd of June. The only on-topic hashtag that was used more is, unsurprisingly, #Brexit.
 </p>
-<div id="handle_mentions" style="min-width: 310px; max-width: 50%; height: 400px; margin: 0 auto"></div><div id="hashtag_mentions" style="min-width: 310px; max-width: 50%; height: 400px; margin: 0 auto"></div>
+<div id="handle_mentions" style="min-width: 310px; max-width: 48%; height: 400px; margin: 0 auto"></div><div id="hashtag_mentions" style="min-width: 310px; max-width: 48%; height: 400px; margin: 0 auto"></div>
 <h3>About The Citizen Research Centre</h3>
 <p><a href="{{site.url}}" target="_blank">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p><p>
 We describe what we do as social research. This is research done in order to improve and expand on our knowledge of the world by providing decision makers in social policy and intervention projects with the best data possible.</p><p>
