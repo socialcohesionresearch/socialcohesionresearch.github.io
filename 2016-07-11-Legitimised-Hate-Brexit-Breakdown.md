@@ -117,6 +117,29 @@ Although there was a substantial amount of xenophobic rhetoric leading up to the
 
 </div>
 <div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-6 large-6 columns'>
+<p>Women and men discussed the same topics on the issue however they do so with varying priority towards specific topics.</p><p>
+After the shared Racist and Racism topics the highest discussion points for men were around Brexit and the Vote.</p><p>
+In the list of main themes, female conversation brought in topics such as Thinking and Love.</p><p>
+Immigration barely features as a top issue for discussion among women compared to their male counterparts.
+</p><p>There was a small but significant increase in the percentage of conversation contributed by women up from 36% in the week pre-vote to 41% in the week following the vote.
+</p>
+
+</div>
+<div class='medium-6 large-6 columns'>
+ <div class='spacing'></div>
+ <p ><img src="images/blog-images/men_topics.jpg"></p>
+  <p ><img src="images/blog-images/women_topics.jpg"></p>
+<div id="gender" style="min-width: 310px; max-width: 100%; height: 400px; float: left; margin: 1%;"></div>
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
@@ -236,6 +259,52 @@ $(function () {
             name: 'Mentions',
             data: [57000, 34000, 21000, 18000, 7700, 5000, 4500, 4300, 4100, 4000]
         }]
+    });
+});
+</script>
+<script>
+$(function () {
+
+    $(document).ready(function () {
+
+        // Build the chart
+        $('#gender').highcharts({
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
+            },
+            title: {
+                text: '16 - 29 June - 61% of posts had identifiable gender'
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: false
+                    },
+                    showInLegend: true
+                }
+            },
+            series: [{
+                name: 'Gender',
+                colorByPoint: true,
+                data: [{
+                    name: 'Male',
+                    y: 56.33
+                }, {
+                    name: 'Female',
+                    y: 24.03,
+                    sliced: true,
+                    selected: true
+                }]
+            }]
+        });
     });
 });
 </script>
