@@ -97,9 +97,24 @@ Although there was a substantial amount of xenophobic rhetoric leading up to the
 
 </div>
 <div class='medium-6 large-6 columns'>
-
+ <div class='spacing'></div>
  <p ><img src="images/blog-images/volume.jpg"></p>
 </div>
+</div>
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+    <div class='medium-6 large-6 columns'>
+ <div class='spacing'></div>
+ <p ><img src="images/blog-images/volume.jpg"></p>
+</div>
+<div class='medium-4 large-4 columns'>
+<p>Over the same time period overall negativity in the xenophobic conversation increased to over 90% (a jump of 10% in 10 days).
+</p>
+
+</div>
+
 </div>
 <div class="row">
 <div class='medium-2 large-2 columns'>
