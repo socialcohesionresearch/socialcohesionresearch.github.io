@@ -56,7 +56,11 @@ published: true
         <div class='spacing'></div>
     </div>
 </div>
-
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
 <div class='spacing'></div>
 <h3>Crypto Currency Centric Conversation Topic Waves</h3>
 <p>Crypto Currency conversation by contrast was quite upbeat – with crypto currencies touted as an increasingly attractive option following the Brexit referendum.  Most of the conversation concerned the spike in the Bitcoin prices, with minor themes being the growth of Bitcoin in popularity after the referendum.</p><p>
