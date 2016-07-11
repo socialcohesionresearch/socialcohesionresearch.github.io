@@ -62,9 +62,7 @@ published: true
     </div>
 <div class='medium-8 large-8 columns'>
 <div class='spacing'></div>
-<h3>Crypto Currency Centric Conversation Topic Waves</h3>
-<p>Crypto Currency conversation by contrast was quite upbeat – with crypto currencies touted as an increasingly attractive option following the Brexit referendum.  Most of the conversation concerned the spike in the Bitcoin prices, with minor themes being the growth of Bitcoin in popularity after the referendum.</p><p>
-While this has since corrected, immediately following the vote, the Pound dropped as much as 9%, and the value of Bitcoin climbed by 8%.
+<p>Facebook albums and Twitter accounts like Worrying Signs and PostRefRacism have become popular forums to discuss and share stories of hate crimes and intimidation. The @PostRefRacism Twitter handle has been mentioned over than 4,300 times since the referendum, more than any other.  #PostRefRacism has been used more than 34,000 times since the 23rd of June. The only on-topic hashtag that was used more is, unsurprisingly, #Brexit.
 </p>
 <p style="text-align: center;" ><img src="images/blog-images/crypto_conversation.PNG"></p>
 <div class='spacing'></div>
