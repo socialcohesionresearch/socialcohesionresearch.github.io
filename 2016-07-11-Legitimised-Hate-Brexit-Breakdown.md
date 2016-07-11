@@ -178,7 +178,7 @@ In the 7 days post vote, 38.08% of the global conversation came from the United 
 <p>Since the affinities and views of these people are most often represented by the right, it stands to reason that the majority of prejudice, anti-immigrant or outright racist voters would have voted Leave.</p><p>
 The effect of the EU referendum result has been to embolden people like this. It has given them the confidence to gloat in public. The perception that 52% of the country agree with them has instilled them with a sense of national pride which they wield as a weapon to attack anyone they see as not 'english'. 
 </p>
-<p><img src="images/blog-images/seigel_tweet.jpg" width="48%">   <img src="images/blog-images/williams_tweet.jpg" width="48%"></p>
+<p><img src="images/blog-images/siegel_tweet.jpg" width="48%">   <img src="images/blog-images/william_tweet.jpg" width="48%"></p>
 <p>Racism, xenophobia and intolerance on the other hand are irrational and usually based in fear or ignorance. It is inevitable that every society, once it reaches a certain size, will have its share of people who hold these views. Ideally, the values of the rest of the community that these individuals find themselves in temper their actions and reduces how entitled they feel about their bigoted views.
 </p>
 <p style="text-align: center;"><img src="images/blog-images/joelle_tweet.jpg"></p>
