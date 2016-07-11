@@ -210,6 +210,19 @@ That said, within the online conversation regarding intolerance, bigotry and rac
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
+<p>We have found a track record of pre-emptive counter narrative as well as a large outpouring of support for victims, and calls for unity. Brits from both camps are standing up to, or at least speaking out against, bigoted, racist and prejudice behaviour from their fellow countrymen.
+</p>
+<p><img src="images/blog-images/jamie_tweet.jpg" width="48%">   <img src="images/blog-images/kevin_tweet.jpg" width="48%"></p>
+</div>
+<div class='medium-2 large-2 columns'>
+    <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
 <div class='spacing'></div>
 <h3>About The Citizen Research Centre</h3>
 <p><a href="{{site.url}}" target="_blank">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p><p>
