@@ -152,7 +152,7 @@ In the week leading up to the referendum, almost 63% of the global conversation 
         <div class='spacing'></div>
     </div>
 <div class='medium-4 large-4 columns'>
-In the 7 days post vote, 38.08% of the global conversation came from the United States, rivalling the UK at 39.37%. Canada and Australia were the next most involved countries with Ireland’s increased contribution at 1.43% earning them the number 6 spot.
+<p>In the 7 days post vote, 38.08% of the global conversation came from the United States, rivalling the UK at 39.37%. Canada and Australia were the next most involved countries with Ireland’s increased contribution at 1.43% earning them the number 6 spot.
 </p>
 </div>
 <div class='medium-4 large-4 columns'>
