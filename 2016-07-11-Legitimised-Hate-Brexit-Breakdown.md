@@ -81,6 +81,8 @@ published: true
 <div id="hashtag_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
 
 </div>
+</div>
+<div class="row">
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
