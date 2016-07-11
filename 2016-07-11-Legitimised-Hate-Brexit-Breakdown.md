@@ -64,6 +64,16 @@ published: true
 <div class='spacing'></div>
 <p>Facebook albums and Twitter accounts like Worrying Signs and PostRefRacism have become popular forums to discuss and share stories of hate crimes and intimidation. The @PostRefRacism Twitter handle has been mentioned over than 4,300 times since the referendum, more than any other.  #PostRefRacism has been used more than 34,000 times since the 23rd of June. The only on-topic hashtag that was used more is, unsurprisingly, #Brexit.
 </p>
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
 <div id="handle_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div><div id="hashtag_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
 <div class='spacing'></div>
 <h3>About The Citizen Research Centre</h3>
