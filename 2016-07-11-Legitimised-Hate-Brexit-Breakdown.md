@@ -36,18 +36,27 @@ published: true
     <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
-    <div class='medium-3 large-3 columns'>
+    <div class='medium-4 large-4 columns'>
         <p ><img src="images/blog-images/hate_tweet_1.jpg"></p>
     </div>
-    <div class='medium-2 large-2 columns'>
-        <p ><img src="images/blog-images/hate_tweet_2.jpg"></p>
-    </div>
-    <div class='medium-3 large-3 columns'>
+    <div class='medium-4 large-4 columns'>
         <p ><img src="images/blog-images/hate_tweet_3.jpg"></p>
     </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
+</div>
+<div class="row">
+    <div class='medium-4 large-4 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-2 columns'>
+        <p ><img src="images/blog-images/hate_tweet_2.jpg"></p>
+    </div>
+    <div class='medium-4 large-4 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
 </div>
 <div class='spacing'></div>
 <h3>Crypto Currency Centric Conversation Topic Waves</h3>
