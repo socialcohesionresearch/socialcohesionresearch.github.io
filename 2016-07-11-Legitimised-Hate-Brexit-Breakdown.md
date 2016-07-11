@@ -50,13 +50,12 @@ published: true
     <div class='medium-4 large-4 columns'>
         <div class='spacing'></div>
     </div>
-<div class='medium-4 large-2 columns'>
+<div class='medium-4 large-4 columns'>
         <p ><img src="images/blog-images/hate_tweet_2.jpg"></p>
     </div>
     <div class='medium-4 large-4 columns'>
         <div class='spacing'></div>
     </div>
-</div>
 </div>
 <div class='spacing'></div>
 <h3>Crypto Currency Centric Conversation Topic Waves</h3>
