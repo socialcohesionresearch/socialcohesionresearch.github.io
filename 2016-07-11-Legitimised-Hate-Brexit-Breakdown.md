@@ -223,6 +223,21 @@ That said, within the online conversation regarding intolerance, bigotry and rac
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
+<p>There is an underwhelmingly amount of the on-topic conversation which in itself is racist or xenophobic, much of it is actively speaking out against this kind of behaviour.  On-line petition sites like Change.org are hosting various petitions like the “Prosecute Nigel Farage under the Racial and Religious Hatred Act 2006” petition which to date has almost 40,000 signatures.</p><p>
+
+Groups like iStreetWatch.co.uk are urging people to act when they witness hate crimes and harrasment and to report them to police. To date almost 3000 people have taken their pledge to help end street harassment.
+</p>
+<p><img src="images/blog-images/hate_posts_month.jpg"></p>
+</div>
+<div class='medium-2 large-2 columns'>
+    <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
 <div class='spacing'></div>
 <h3>About The Citizen Research Centre</h3>
 <p><a href="{{site.url}}" target="_blank">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p><p>
