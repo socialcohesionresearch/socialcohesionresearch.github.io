@@ -102,9 +102,6 @@ Although there was a substantial amount of xenophobic rhetoric leading up to the
 </div>
 </div>
 <div class="row">
-    <div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
     <div class='medium-6 large-6 columns'>
  <div class='spacing'></div>
  <p ><img src="images/blog-images/volume.jpg"></p>
@@ -114,6 +111,9 @@ Although there was a substantial amount of xenophobic rhetoric leading up to the
 </p>
 
 </div>
+ <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
 
 </div>
 <div class="row">
