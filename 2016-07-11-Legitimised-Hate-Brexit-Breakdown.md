@@ -64,23 +64,7 @@ published: true
 <div class='spacing'></div>
 <p>Facebook albums and Twitter accounts like Worrying Signs and PostRefRacism have become popular forums to discuss and share stories of hate crimes and intimidation. The @PostRefRacism Twitter handle has been mentioned over than 4,300 times since the referendum, more than any other.  #PostRefRacism has been used more than 34,000 times since the 23rd of June. The only on-topic hashtag that was used more is, unsurprisingly, #Brexit.
 </p>
-<p style="text-align: center;" ><img src="images/blog-images/crypto_conversation.PNG"></p>
-<div class='spacing'></div>
-<h3>Topics of Conversation</h3>
-<p>This trend continued in the topic wheels of the conversations. The Pound conversation was largely doom and gloom…</p>
-<p style="text-align: center;" ><img src="images/blog-images/pound_wheel.PNG"></p>
-<p>While the Crypto Currency conversation was more hopeful:</p>
-<p style="text-align: center;" ><img src="images/blog-images/crypto_wheel.PNG"></p>
-<div class='spacing'></div>
-<h3>Affinities</h3>
-<p>A powerful tool in Crimson Hexagon’s social media analysis box is affinities analysis. Here we were able to match the interests of the people contributing to the Pound conversation against the rest of twitter, so the same for the members of the Crypto Currency conversation and then look at the variances of each against each other.</p><p>
-Those contributing to the Pound conversation tended to be more ‘establishment’ – interested in stock markets, forex, David Cameron and finance.</p><p>
-Those contributing to the Crypto Currency conversation were demonstrably more forward thinking – and tended to be interested in Noam Chomsky, P2P (sharing services), Bitcoin and Reddit. 
-</p>
-<h3>Implications</h3>
-<p>As established currencies wax and wane, hedges emerge… Traditionally gold has been the hedge in turbulent times –now crypto currencies also play a role.</p><p>
-While this piece has focused on the pound, emerging market currencies and economies usually bear the brunt of political uncertainty and social upheaval. Strong, coherent policies that are supported by citizens are the hallmark of a stable democracy. Brexit has shown us that even the most developed economies hide fractured societies, with disparate ambitions and goals for their future. Fear hides in the wings, and politicians need to beware of reducing complex decisions to binary options in referenda.
-</p>
+
 <h3>About The Citizen Research Centre</h3>
 <p><a href="{{site.url}}" target="_blank">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p><p>
 We describe what we do as social research. This is research done in order to improve and expand on our knowledge of the world by providing decision makers in social policy and intervention projects with the best data possible.</p><p>
@@ -88,6 +72,7 @@ We run primary face-to-face research - both quantitative and qualitative - in 54
 We run analytic research on social media globally through our partnership with <a href="http://www.crimsonhexagon.com/" target="_blank">Crimson Hexagon</a>, arguably the best social media analysis platform in the world. This and other reports are generated through mining and reporting on our social media data base, which currently holds almost 1 trillion pieces of social media data.</p><p>
 We are committed to providing research on Citizens, and also research for Citizens – that reflect their own views back to them through social media analytics.
 </p>
+<div id="handle_mentions" style="min-width: 310px; max-width: 50%; height: 400px; margin: 0 auto"></div>
 </div>
 <div class='medium-2 large-2 columns'>
     <div class='spacing'></div>
@@ -97,234 +82,65 @@ We are committed to providing research on Citizens, and also research for Citize
 
 
 
-<script>
-  $(function () {
 
-    $(document).ready(function () {
 
-        // Build the chart
-        $('#prevote').highcharts({
-            chart: {
-                plotBackgroundColor: null,
-                plotBorderWidth: null,
-                plotShadow: false,
-                type: 'pie'
-            },
-            title: {
-                text: 'June 1- June 22nd (the days before the referendum) '
-            },
-            tooltip: {
-                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-            },
-            plotOptions: {
-                pie: {
-                    allowPointSelect: true,
-                    cursor: 'pointer',
-                    size: '80%',
-                    dataLabels: {
-                        enabled: true
-                    },
-                    showInLegend: false
-                }
-            },
-            series: [{
-                name: '% of Brexit Conversation',
-                colorByPoint: true,
-                data: [{
-                    name: 'Under 18 (51 365 posts)',
-                    color: '#26B8EB',
-                    y: 6.5
-                }, {
-                    name: '18-24 (8 407 posts)',
-                    color: '#333333',
-                    y: 1.2
-                }, {
-                    name: '25-34 (12 404 posts)',
-                    color: '#868686',
-                    y: 1.8
-                }, {
-                    name: '35 + (605 724 posts)',
-                    color: '#F9A61C',
-                    y: 89.4,
-                    sliced: true,
-                    selected: true
-                }]
-            }]
-        });
-    });
-});
-  </script>
-
-  <script>
-  $(function () {
-
-    $(document).ready(function () {
-
-        // Build the chart
-        $('#voteday').highcharts({
-            chart: {
-                plotBackgroundColor: null,
-                plotBorderWidth: null,
-                plotShadow: false,
-                type: 'pie'
-            },
-            title: {
-                text: 'The day of the referendum'
-            },
-            tooltip: {
-                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-            },
-            plotOptions: {
-                pie: {
-                    allowPointSelect: true,
-                    cursor: 'pointer',
-                     size: '80%',
-                    dataLabels: {
-                        enabled: true
-                    },
-                    showInLegend: false
-                }
-            },
-            series: [{
-                name: '% of Brexit Conversation',
-                colorByPoint: true,
-                data: [{
-                    name: 'Under 18 (20 180 posts)',
-                    color: '#26B8EB',
-                    y: 14.9
-                }, {
-                    name: '18-24 (4 397 posts)',
-                    color: '#333333',
-                    y: 3.2
-                }, {
-                    name: '25-34 (4036 posts)',
-                    color: '#868686',
-                    y: 3
-                }, {
-                    name: '35 + (107 166  posts)',
-                    color: '#F9A61C',
-                    y: 78.9,
-                    sliced: true,
-                    selected: true
-                }]
-            }]
-        });
-    });
-});
-  </script>
 
 <script>
-  $(function () {
-
-    $(document).ready(function () {
-
-        // Build the chart
-        $('#threedaysafter').highcharts({
-            chart: {
-                plotBackgroundColor: null,
-                plotBorderWidth: null,
-                plotShadow: false,
-                type: 'pie'
-            },
+$(function () {
+    $('#handle_mentions').highcharts({
+        chart: {
+            type: 'bar'
+        },
+        title: {
+            text: 'Handle Mentions - Hate Crimes & Intimidation Stories'
+        },
+        subtitle: {
+            text: 'Source: <a href="http://www.crimsonhexagon.com/">Crimson Hexagon</a>'
+        },
+        xAxis: {
+            categories: ['@PostRefRacism','@Nigel_Farage', '@jeremycorbyn', '@LBC', '@BBCNews', '@SkyNews', '@Guardian', '@BorisJohnson', '@HuffPostUK', '@posklondon'],
             title: {
-                text: 'Three days after the referendum (24-26 June)'
+                text: null
+            }
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Mentions',
+                align: 'high'
             },
-            tooltip: {
-                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-            },
-            plotOptions: {
-                pie: {
-                    allowPointSelect: true,
-                    cursor: 'pointer',
-                     size: '80%',
-                    dataLabels: {
-                        enabled: true
-                    },
-                    showInLegend: false
+            labels: {
+                overflow: 'justify'
+            }
+        },
+        tooltip: {
+            valueSuffix: ' mentions'
+        },
+        plotOptions: {
+            bar: {
+                dataLabels: {
+                    enabled: true
                 }
-            },
-            series: [{
-                name: '% of Brexit Conversation',
-                colorByPoint: true,
-                data: [{
-                    name: 'Under 18 (86 551 posts)',
-                    color: '#26B8EB',
-                    y: 14.5
-                }, {
-                    name: '18-24 (20 014 posts)',
-                    color: '#333333',
-                    y: 3.4
-                }, {
-                    name: '25-34 (17 781 posts)',
-                    color: '#868686',
-                    y: 3
-                }, {
-                    name: '35 + (471 369   posts)',
-                    color: '#F9A61C',
-                    y: 79.1,
-                    sliced: true,
-                    selected: true
-                }]
-            }]
-        });
+            }
+        },
+        legend: {
+            layout: 'vertical',
+            align: 'right',
+            verticalAlign: 'top',
+            x: -40,
+            y: 80,
+            floating: true,
+            borderWidth: 1,
+            backgroundColor: ((Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'),
+            shadow: true
+        },
+        credits: {
+            enabled: false
+        },
+        series: [{
+            name: 'Mentions',
+            data: [4300, 3800, 3500, 2500, 2000, 2000, 1900, 1800, 1800, 1600]
+        }]
     });
 });
-  </script>
-   
-<script>
-  $(function () {
-
-    $(document).ready(function () {
-
-        // Build the chart
-        $('#lastdaysjune').highcharts({
-            chart: {
-                plotBackgroundColor: null,
-                plotBorderWidth: null,
-                plotShadow: false,
-                type: 'pie'
-            },
-            title: {
-                text: 'The last three days of June'
-            },
-            tooltip: {
-                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-            },
-            plotOptions: {
-                pie: {
-                    allowPointSelect: true,
-                    cursor: 'pointer',
-                    size: '80%',
-                    dataLabels: {
-                        enabled: true
-                    },
-                    showInLegend: false
-                }
-            },
-            series: [{
-                name: '% of Brexit Conversation',
-                colorByPoint: true,
-                data: [{
-                    name: 'Under 18 (18 565 posts)',
-                    color: '#26B8EB',
-                    y: 6.2
-                }, {
-                    name: '18-24 (3772 posts)',
-                    color: '#333333',
-                    y: 1.3
-                }, {
-                    name: '25-34 (6705 posts)',
-                    color: '#868686',
-                    y: 2.2
-                }, {
-                    name: '35 + (269 335  posts)',
-                    color: '#F9A61C',
-                    y: 90.3,
-                    sliced: true,
-                    selected: true
-                }]
-            }]
-        });
-    });
-});
-  </script>
+</script>
