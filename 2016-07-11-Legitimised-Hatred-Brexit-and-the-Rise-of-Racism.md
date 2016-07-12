@@ -243,9 +243,9 @@ And while racism certainly rose after Brexit, it has always been there. In our U
 <div class='medium-4 large-4 columns'>
 <p style="text-align: center;" ><img src="images/blog-images/wilks_tweet.jpg"></p>
 <p style="text-align: center;" ><img src="images/blog-images/kapona_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="images/blog-images/shazia_tweet.jpg"></p>
 </div>
 <div class='medium-4 large-4 columns'>
-<p style="text-align: center;" ><img src="images/blog-images/shazia_tweet.jpg"></p>
 <p style="text-align: center;" ><img src="images/blog-images/draven_tweet.jpg"></p>
 <p style="text-align: center;" ><img src="images/blog-images/lammy_tweet.jpg"></p>
 
