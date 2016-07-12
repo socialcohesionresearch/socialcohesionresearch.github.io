@@ -270,7 +270,7 @@ And while racism certainly rose after Brexit, it has always been there. In our U
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
-    <h3>In closing - (strong language warning!)</h3>
+    <h3>In closing… (strong language warning!)</h3>
     <p style="text-align: center;" ><img src="images/blog-images/farage_tweet.jpg"></p>
         <p style="text-align: center;" ><img src="images/blog-images/betty_tweet.jpg"></p>
             <p style="text-align: center;" ><img src="images/blog-images/traynor_tweet.jpg"></p>
@@ -278,6 +278,19 @@ And while racism certainly rose after Brexit, it has always been there. In our U
 
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
+<div class='spacing'></div>
+<h3>About The Citizen Research Centre</h3>
+<p>test</p>
+</div>
+<div class='medium-2 large-2 columns'>
+    <div class='spacing'></div>
     </div>
 </div>
 <script>
