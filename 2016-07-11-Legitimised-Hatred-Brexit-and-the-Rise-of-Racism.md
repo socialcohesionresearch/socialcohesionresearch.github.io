@@ -225,7 +225,7 @@ And while racism certainly rose after Brexit, it has always been there. In our U
 <p style="text-align: center;" ><img src="images/blog-images/chicken_tweet.jpg"></p>
 <h3>Does Rhetoric Matter?</h3>
 <p>Both in the USA and in the UK, we have seen a rise in hate crimes and racism off the back of ugly political campaigns that have focused on division. We looked at the top 10 twitter handles for 2016 in the UK, and we see that politicians dominate, with Donald Trump the top twitter handle. Even Donald Trump Jnr is in the top ten!  And Nigel Farage is fifth.  So what these politicians say is certainly having an impact on public discourse. </p>
-<div id="topten" style="min-width: 310px; max-width: 80%; height: 400px; float: left; margin: 10%;"></div>
+<div id="topten" style="min-width: 310px; max-width: 800px; height: 400px; float: left;"></div>
 </div>
 
 <div class='medium-2 large-2 columns'>
