@@ -132,6 +132,19 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
     <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
+<div class='medium-8 large-8 columns'>
+    <p>The backlash against this racism can be most clearly seen in a sentiment chart (below). On the 7th June over 20% of the conversation was defined as being positive (in favour of) racist speech on social media, by the 26th of June this had fallen to under 10% of conversation.</p>
+    <p style="text-align: center;" ><img src="images/blog-images/backlash.jpg"></p>
+    <p>So if there is a silver lining to this, it is that social media began to correct itself, with a host of Facebook albums and Twitter accounts set up as forums to discuss and share stories of hate crimes and intimidation. The @PostRefRacism Twitter handle has been mentioned over than 4,300 times since the referendum, more than any other.  #PostRefRacism has been used more than 34,000 times since the 23rd of June. The only on-topic hashtag that was used more is, unsurprisingly, #Brexit.</p>
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
 <div class='medium-4 large-4 columns'>
 <div id="handle_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
 
