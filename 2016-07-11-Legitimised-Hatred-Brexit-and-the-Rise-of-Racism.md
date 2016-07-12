@@ -203,6 +203,28 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
     </div>
 </div>
 <div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
+    <h3>Immigration: Genuine Concern or an excuse for racists?</h3>
+    <p>A recent Oxford paper found that "EU migrants are less likely to claim out-of-work benefits, such as Jobseekers’ Allowance and incapacity benefit, compared to their UK counterparts," It goes on to state that "In February 2015, people who were EU nationals when they registered for a National Insurance Number made up 2.2% of the total [Department for Work and Pensions] working-age benefits caseload, but were about 6% of the working-age population."
+British hostility to immigrants predates the recent spate of mass immigration. An Oxford University study by Scott Blinder, looking at historical polling data spanning decades found that Brits believed there were “too many immigrants” long before the net immigration could have any appreciable effect on the British economy.</p><p>
+
+Along with the perceived tax on the UK’s social services, immigrants taking British job was a hot topic during campaigning so you would expect hostility about immigration to be correlated to the actual level of immigration. But it’s not.</p><p>
+
+A paper by Torsten Bell, director of the UK economic think tank Resolution Foundation, found no correlation at all between the share of votes for Leave in the referendum and the areas where wages have fallen since 2002 - theoretically the areas hardest hit by the financial crisis, or those where migration is said to have held down wages.</p><p>
+Although pro-Brexit voters weren’t primarily from areas which had become poorer since the immigration wave, they did come from historically poor areas, dating back to the late 70’s. The status quo is enough to understand their anger and immigrants are tried and tested scapegoat.</p><p>
+
+And while racism certainly rose after Brexit, it has always been there. In our UK data for the first 5 months of 2016 we found an average of 23,949 posts per day referencing xenophobia, racism, and other hate crimes.  </p>
+<p style="text-align: center;" ><img src="images/blog-images/year_mentions.jpg"></p>
+<p style="text-align: center;" ><img src="images/blog-images/june_july.jpg"></p>
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
