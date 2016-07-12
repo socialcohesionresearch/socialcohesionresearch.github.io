@@ -31,7 +31,7 @@ And Labour seems fairly well trusted across the board with only 3% of conversati
 <h3>The people behind the numbers: 1 January to 9 July 2016</h3>
 <p>So who told the most lies, according to opinion expressed on social media in the UK?</p><p>
 We carefully trained a monitor on Crimson Hexagon to find out.</p><p>
-Over the total research period (1 January to 9 July 2016), here’s roll call of mistrust. Perhaps it’s just a Prime Ministers lot, but David Cameron was the least trusted politician with 21% of the conversation dedicated to him. The Conservatives (19%) as a whole were far less trusted than Labour (only 3%), with key Leave campaigners Nigel Farage (13%) and Boris Johnson (10%) right up there in the lack of trust stakes. :</p>
+Over the total research period (1 January to 9 July 2016), here’s roll call of mistrust. Perhaps it’s just a Prime Ministers lot, but David Cameron was the least trusted politician with 21% of the conversation dedicated to him. The Conservatives (19%) as a whole were far less trusted than Labour (only 3%), with key Leave campaigners Nigel Farage (13%) and Boris Johnson (10%) right up there in the lack of trust stakes. :
 </p>
 <div id="mostlies"></div>
 <h3>The people behind the numbers: 1-22 June vs 23 June-9 July 2016.</h3>
@@ -42,7 +42,7 @@ Nigel Farage remained pretty steady at 22% before and after – presumably socia
 Michael Gove tripled his score from 3% to 9% in the wake of the Brexit vote.</p><p>
 The Conservatives rise from 6 to 10 percent, as the fallout hits the party.  And Labour also rises from less than 1% to 4% as they are also plunged into crisis.
 </p>
-<div>
+<div id="beforeafter"></div>
 </div>
 <div class='medium-2 large-2 columns'>
     <div class='spacing'></div>
@@ -74,7 +74,7 @@ $(function () {
             type: 'bar'
         },
         title: {
-            text: 'Who told the most lies according to Social Media'
+            text: '% of Conversations around Who told the most lies according to Social Media'
         },
         xAxis: {
             categories: ['Leave Campaign','Remain Campaign','Boris Johnson', 'Nigel Farage', 'Micahel Gove', 'David Cameron', 'George Osborne', 'Conservatives', 'Labour', 'UKIP', 'Other'],
@@ -108,6 +108,54 @@ $(function () {
         series: [{
             name: '% of Conversation',
             data: [3, 4, 10, 13, 4, 21, 2, 19, 3, 8, 12 ]
+        }]
+    });
+});
+</script>
+<script>
+$(function () {
+    $('#beforeafter').highcharts({
+        chart: {
+            type: 'bar'
+        },
+        title: {
+            text: '% of Conversations around who told the most lies according to Social Media before and after the Brexit Vote'
+        },
+        xAxis: {
+            categories: ['Leave Campaign','Remain Campaign','Boris Johnson', 'Nigel Farage', 'Micahel Gove', 'David Cameron', 'George Osborne', 'Conservatives', 'Labour', 'UKIP', 'Other'],
+            title: {
+                text: null
+            }
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Percent of total mistrust conversation',
+                align: 'high'
+            },
+            labels: {
+                overflow: 'justify'
+            }
+        },
+        tooltip: {
+            valueSuffix: ' %'
+        },
+        plotOptions: {
+            bar: {
+                dataLabels: {
+                    enabled: false
+                }
+            }
+        },
+        credits: {
+            enabled: false
+        },
+        series: [{
+            name: '% Conversation Before',
+            data: [7, 10, 8, 22, 3, 21, 4, 6, 1, 8, 9 ]
+        }, {
+            name: '% Conversation After',
+            data: [3, 2, 24, 22, 9, 4, 1, 10, 4, 2, 19 ]
         }]
     });
 });
