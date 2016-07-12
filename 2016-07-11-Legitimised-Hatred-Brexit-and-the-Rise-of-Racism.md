@@ -15,18 +15,23 @@ published: true
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
-<p>In the wake of the Brexit vote, mainstream media has been reporting on the rise in hate crimes committed across the UK.</p>
+    <h3>Overview</h3>
+<p>In the wake of the Brexit vote, mainstream media has been reporting on the rise in hate crimes committed across the UK.</p><p>
+According to the National Police Chiefs Council, hate crimes reported to them rose by 57% between Thursday 23rd and Sunday 26th, compared to the corresponding days four weeks prior. </p><p>
+The police online hate-crime reporting site, True Vision, tells an ever starker tale, stating that reports to the site have increased by 500% between the 23rd and the 30th of June when compared with a weekly average for 2016.</p><p>
+While traditional sources can provide statistics regarding the rate of reported incidents, this can only give us a partial picture. Many incidents are not reported for a variety of reasons, and these reports also do not tell us anything about the sentiment of the general public on the issue.</p><p>
+Using <a href="http://crimsonhexagon.com" target="_blank">Crimson Hexagon</a>, a premier social media analytics platform, we looked at almost 5 and a half million posts, tweets, blogs and forum entries from the UK. This was the volume of posts that, between the 1st January and the 9th July 2016 related to xenophobia, racism and prejudice against either immigrants or minority groups.</p><p>
+This in-depth look at what Britons are actually saying and sharing paints a much richer picture of how the UK is reacting to the issue of rising post (and pre!) referendum displays of hate and intolerance.
+</p>
+<h3>Massive Increase in Social Media Hate Speech</h3>
+<p>The timeline below shows the dramatic rise in online hate posts after the Brexit vote.</p><p>
+In the week 16-22 June there were 292,392 bigoted posts online – while a disturbingly large number, this rose to a staggering 749,975 in the week 23 June to 29 June 2016. This represents a rise of 256% in a single week.
+</p>
 
-<p>According to the National Police Chiefs Council, hate crimes reported to them rose with 57% between Thursday 23rd and Sunday 26th, compared to the corresponding days four weeks prior. The police online hate-crime reporting site, True Vision, tells an ever starker tale, stating the reports to the site have increased by 500% between the 23rd and the 30th of June when compared with a weekly average for 2016.</p>
-
-<p>While traditional sources can provide statistics regarding the rate of reported incidents, this can only give us a partial picture. Many incidents are not reported for a variety of reasons, from the victim not realising that a crime has indeed occurred to a mistrust in the efficacy of the police. These reports also do not tell us anything about the sentiment of the general public on the issue.</p>
-
-<p>Our social media analysis looked at almost 5 and a half million posts, tweets, blogs and forum entries from the UK, dating back to the 1st of January 2016, all relating to xenophobia, racism and prejudice against  either immigrants or minority groups. This in-depth look at what Britons are actually saying and sharing paints a much richer picture of how the UK is reacting to the issue of rising post (and pre!) referendum displays of hate and intolerance.</p>
-
-<p style="text-align: center;" ><img src="images/blog-images/hate_tweets.jpg"></p>
-<div class='spacing'></div>
-<h3>RISE IN PUBLIC DISPLAYS OF INTOLERANCE</h3>
-<p>Personal accounts of post-referendum racism have flooded social media and, by extension, mainstream media with European citizens in England as well as non-white Britons falling victim to emboldened bigoted </p>
+<p style="text-align: center;" ><img src="images/blog-images/hatespeech_volume.jpg"></p>
+<p>Emboldened by a perception that 52% of the country now agree with them, racist abuse on social media has become disturbingly commonplace. </p>
+<p style="text-align: center;" ><img src="images/blog-images/singh_tweet.jpg"></p>
+<p>Personal accounts of post-referendum racism have flooded social media and, by extension, mainstream media with European citizens in England as well as non-white Britons falling victim to emboldened bigoted individuals.</p>
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
