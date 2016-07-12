@@ -43,6 +43,51 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
         <div class='spacing'></div>
     </div>
 <div class='medium-4 large-4 columns'>
+<p style="text-align: center;" ><img src="images/blog-images/eveningstandard_tweet.jpg"></p>
+
+</div>
+<div class='medium-4 large-4 columns'>
+<p style="text-align: center;" ><img src="images/blog-images/roberts_tweet.jpg"></p>
+
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-4 columns'>
+<p style="text-align: center;" ><img src="images/blog-images/krupa_tweet.jpg"></p>
+
+</div>
+<div class='medium-4 large-4 columns'>
+<p style="text-align: center;" ><img src="images/blog-images/assed_tweet.jpg"></p>
+
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
+<p style="text-align: center;" ><img src="images/blog-images/melville.jpg"></p>
+
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-4 columns'>
 <div id="handle_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
 
 </div>
