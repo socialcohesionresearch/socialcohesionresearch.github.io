@@ -226,8 +226,30 @@ And while racism certainly rose after Brexit, it has always been there. In our U
 <h3>Does Rhetoric Matter?</h3>
 <p>Both in the USA and in the UK, we have seen a rise in hate crimes and racism off the back of ugly political campaigns that have focused on division. We looked at the top 10 twitter handles for 2016 in the UK, and we see that politicians dominate, with Donald Trump the top twitter handle. Even Donald Trump Jnr is in the top ten!  And Nigel Farage is fifth.  So what these politicians say is certainly having an impact on public discourse. </p>
 <div id="topten" style="max-width: 800px; height: 400px; float: left;"></div>
+<p>And the media of course weighs in as well, spitting its fury at migrants…: </p>
+<p style="text-align: center;" ><img src="images/blog-images/cullen_tweet.jpg"></p>
+<h3>And after the vote, the fallout…</h3>
+<p>By legitimising extremist views, politicians hand a blank cheque to bigoted individuals, and significantly stoke the flames of racism and hatred. But when they are exposed society tends to fight back – and we can only hope that tolerance and empathy win over narrow bigotry. </p>
 </div>
 
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-4 columns'>
+<p style="text-align: center;" ><img src="images/blog-images/wilks_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="images/blog-images/kapona_tweet.jpg"></p>
+</div>
+<div class='medium-4 large-4 columns'>
+<p style="text-align: center;" ><img src="images/blog-images/shazia_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="images/blog-images/draven_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="images/blog-images/lammy_tweet.jpg"></p>
+
+</div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
@@ -315,7 +337,7 @@ $(function () {
             type: 'bar'
         },
         title: {
-            text: 'Top 10 Twitter Handles (UK)'
+            text: 'Top 10 Twitter Handles Mentions (UK)'
         },
         subtitle: {
             text: 'Source: <a href="http://www.crimsonhexagon.com/">Crimson Hexagon</a>'
