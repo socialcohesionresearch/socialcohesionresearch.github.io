@@ -28,7 +28,9 @@ published: true
 <h3>RISE IN PUBLIC DISPLAYS OF INTOLERANCE</h3>
 <p>Personal accounts of post-referendum racism have flooded social media and, by extension, mainstream media with European citizens in England as well as non-white Britons falling victim to emboldened bigoted </p>
 </div>
-
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
 
 <div class="row">
     <div class='medium-2 large-2 columns'>
