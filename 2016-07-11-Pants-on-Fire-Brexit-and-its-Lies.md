@@ -119,7 +119,7 @@ $(function () {
             type: 'bar'
         },
         title: {
-            text: '% of Conversations around who told the most lies according to Social Media before and after the Brexit Vote'
+            text: 'Percentage of total mistrust conversations before and after the Brexit Vote'
         },
         xAxis: {
             categories: ['Leave Campaign','Remain Campaign','Boris Johnson', 'Nigel Farage', 'Micahel Gove', 'David Cameron', 'George Osborne', 'Conservatives', 'Labour', 'UKIP', 'Other'],
@@ -151,10 +151,10 @@ $(function () {
             enabled: false
         },
         series: [{
-            name: '% Conversation Before',
+            name: '% Conversation Before Brexit Vote',
             data: [7, 10, 8, 22, 3, 21, 4, 6, 1, 8, 9 ]
         }, {
-            name: '% Conversation After',
+            name: '% Conversation After Brexit Vote',
             data: [3, 2, 24, 22, 9, 4, 1, 10, 4, 2, 19 ]
         }]
     });
