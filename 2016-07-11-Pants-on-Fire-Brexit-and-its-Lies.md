@@ -43,6 +43,35 @@ Michael Gove tripled his score from 3% to 9% in the wake of the Brexit vote.</p>
 The Conservatives rise from 6 to 10 percent, as the fallout hits the party.  And Labour also rises from less than 1% to 4% as they are also plunged into crisis.
 </p>
 <div id="beforeafter"></div>
+<h3>In Detail: The Political Parties 1-22 June vs 23 June-9 July 2016.</h3>
+<p>How did the political parties fare before and after the vote? UKIP (8%) out-porkered the Conservatives  (6%) largely off the back of a very popular tweet comparing Farage’s lies to the Nazis. Labour was lily white at less than 1 % of conversation…</p>
+<p style="text-align: center;" ><img src="images/blog-images/june_lies.jpg"></p>
+<p>After the vote, UKIP slides off the scale (down to 2%) – this is only because the public’s vitriol is redirected at Farage himself rather than at the party.  Conservatives rise to 6% and Labour, wracked by division, rises to 4% of the conversation.</p>
+<p style="text-align: center;" ><img src="images/blog-images/post_brexi_lies.jpg"></p>
+<h3>In Detail: The Politicians</h3>
+<p>Individual politicians were identified and blamed in 50% of the total lies and deceit conversation since the beginning of 2016. Of this, David Cameron received 21% of the discussion (almost exclusively prior to the vote) and Nigel Farage followed at 13%.</p>
+<p style="text-align: center;" ><img src="images/blog-images/politicians.jpg"></p>
+<p>In the pre (1 June- 22 June) and Brexit period, we see Cameron (21%) and Farage (22%) neck and neck in the dishonesty stakes, with Boris Johnson still a distant 3rd at 8% of the conversation.</p>
+<p style="text-align: center;" ><img src="images/blog-images/politicians_june.jpg"></p>
+<p>This changes dramatically in the post Brexit period (23 June-9 July), as Cameron drops to 4% - his resignation being well received as an honourable, even honest expression of guilt. Boris Johnson rises to a whopping 24% of conversation and Farage holds onto second at 22%. Gove also climbs from 3 to 9%.</p>
+<p style="text-align: center;" ><img src="images/blog-images/politicians_postvote.jpg"></p>
+<h3>Gender Analysis: 1 January to 9 July 2016</h3>
+<p>Crimson Hexagon was able to identify the gender of 64% of the posts analysed.</p><p>
+Throughout the conversation, male contributors are more focused on individuals and accountability, and women on a wide variety of topics.</p><p>
+In the period 1 June to 22 June 2016, the conversation was overwhelmingly male driven, with men contributing 72% of the conversation.  The male topic wheel is as follows:
+</p>
+<p style="text-align: center;" ><img src="images/blog-images/lies_conversation.jpg"></p>
+<p>During the same period, the female topic wheel is as follows:</p>
+<p style="text-align: center;" ><img src="images/blog-images/lies_conversation2.jpg"></p>
+<p>After the vote (23 June-9 July), women, while still underrepresented, rise to 36% of the conversation. The post Brexit male topic wheel is as follows:</p>
+<p style="text-align: center;" ><img src="images/blog-images/post_brexit_maleconversations"></p>
+<p>The post Brexit female topic wheel is as follows:</p>
+<p style="text-align: center;" ><img src="images/blog-images/post_brexit_fermaleconversations"></p>
+<h3>Implications</h3>
+<p>While lying is a fairly accepted part of the political process, the toxicity of the Brexit campaign was unprecedented in modern UK politics.  In this age of multiple 24 hour news channels and relentless social media comment, dishonesty is reported on and disseminated more than ever before.</p><p>
+Brexit exposed the desperation of both sides – though the leave campaign certainly seems guiltier than the stay campaign.  And it is really these lies that have assisted in throwing politics on all fronts into crisis after the vote.  All the major parties are experiencing seismic fault lines, and in the near future the political map is likely to be redrawn.  At least we have the satisfaction of seeing politicians that lied or otherwise slipped up falling on their metaphorical swords!</p><p>
+What will the implications at the next general election – barring an early election only due in 2020 -be? Certainly by then social media will be even more widespread and advanced – and social media analysis with it. Politicians would do well to think before they speak, and avoid the double speak and outright dishonesty that has marked the Brexit campaign.
+</p>
 </div>
 <div class='medium-2 large-2 columns'>
     <div class='spacing'></div>
