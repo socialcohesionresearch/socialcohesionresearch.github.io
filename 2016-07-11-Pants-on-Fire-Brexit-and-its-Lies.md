@@ -103,7 +103,7 @@ $(function () {
             type: 'bar'
         },
         title: {
-            text: '% of Social Media Conversations around Who told the most lies'
+            text: '% of Social Media Conversations around who told the most lies'
         },
         xAxis: {
             categories: ['Leave Campaign','Remain Campaign','Boris Johnson', 'Nigel Farage', 'Micahel Gove', 'David Cameron', 'George Osborne', 'Conservatives', 'Labour', 'UKIP', 'Other'],
