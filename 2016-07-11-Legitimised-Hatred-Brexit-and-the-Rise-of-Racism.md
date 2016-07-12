@@ -258,8 +258,24 @@ And while racism certainly rose after Brexit, it has always been there. In our U
 <div class='medium-4 large-4 columns'>
 <p style="text-align: center;" ><img src="images/blog-images/draven_tweet.jpg"></p>
 <p style="text-align: center;" ><img src="images/blog-images/lammy_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="images/blog-images/smith_tweet.jpg"></p>
 
 </div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
+    <h3>In closing… (strong language warning!)</h3>
+    <p style="text-align: center;" ><img src="images/blog-images/farage_tweet.jpg"></p>
+        <p style="text-align: center;" ><img src="images/blog-images/betty_tweet.jpg"></p>
+            <p style="text-align: center;" ><img src="images/blog-images/traynor_tweet.jpg"></p>
+</div>
+
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
