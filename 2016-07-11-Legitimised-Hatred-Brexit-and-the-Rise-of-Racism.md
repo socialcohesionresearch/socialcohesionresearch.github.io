@@ -27,7 +27,6 @@ This in-depth look at what Britons are actually saying and sharing paints a much
 <p>The timeline below shows the dramatic rise in online hate posts after the Brexit vote.</p><p>
 In the week 16-22 June there were 292,392 bigoted posts online – while a disturbingly large number, this rose to a staggering 749,975 in the week 23 June to 29 June 2016. This represents a rise of 256% in a single week.
 </p>
-
 <p style="text-align: center;" ><img src="images/blog-images/hatespeech_volume.jpg"></p>
 <p>Emboldened by a perception that 52% of the country now agree with them, racist abuse on social media has become disturbingly commonplace. </p>
 <p style="text-align: center;" ><img src="images/blog-images/singh_tweet.jpg"></p>
@@ -37,18 +36,15 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
         <div class='spacing'></div>
     </div>
 </div>
-
 <div class="row">
     <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
 <div class='medium-4 large-4 columns'>
 <p style="text-align: center;" ><img src="images/blog-images/eveningstandard_tweet.jpg"></p>
-
 </div>
 <div class='medium-4 large-4 columns'>
 <p style="text-align: center;" ><img src="images/blog-images/roberts_tweet.jpg"></p>
-
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
@@ -60,11 +56,9 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
     </div>
 <div class='medium-4 large-4 columns'>
 <p style="text-align: center;" ><img src="images/blog-images/krupa_tweet.jpg"></p>
-
 </div>
 <div class='medium-4 large-4 columns'>
 <p style="text-align: center;" ><img src="images/blog-images/assed_tweet.jpg"></p>
-
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
@@ -76,7 +70,6 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
     </div>
 <div class='medium-4 large-4 columns'>
 <p style="text-align: center;" ><img src="images/blog-images/melville.jpg"></p>
-
 </div>
 <div class='medium-4 large-4 columns'>
         <div class='spacing'></div>
@@ -104,7 +97,6 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
 <div class='medium-4 large-4 columns'>
 <p style="text-align: center;" ><img src="images/blog-images/park_tweet.jpg"></p>    
 <p style="text-align: center;" ><img src="images/blog-images/gallon_tweet.jpg"></p>
-
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
@@ -122,7 +114,6 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
 <div class='medium-4 large-4 columns'>
     
 <p style="text-align: center;" ><img src="images/blog-images/siegel_tweet.jpg"></p>
-
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
@@ -147,11 +138,9 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
     </div>
 <div class='medium-4 large-4 columns'>
 <div id="handle_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
-
 </div>
 <div class='medium-4 large-4 columns'>
 <div id="hashtag_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
-
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
@@ -196,7 +185,6 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
 <p style="text-align: center;" ><img src="images/blog-images/dubyu_tweet.jpg"></p>
 <p style="text-align: center;" ><img src="images/blog-images/conner_tweet.jpg"></p>
 <p style="text-align: center;" ><img src="images/blog-images/dilly_tweet.jpg"></p>
-
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
@@ -273,7 +261,6 @@ And while racism certainly rose after Brexit, it has always been there. In our U
         <p style="text-align: center;" ><img src="images/blog-images/betty_tweet.jpg"></p>
             <p style="text-align: center;" ><img src="images/blog-images/traynor_tweet.jpg"></p>
 </div>
-
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
@@ -296,8 +283,6 @@ The nature of social media analysis is such that any topic can be rigorously exp
     <div class='spacing'></div>
     </div>
 </div>
-
-
 <script>
 $(function () {
     $('#handle_mentions').highcharts({
