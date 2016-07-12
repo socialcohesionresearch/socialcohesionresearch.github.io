@@ -64,9 +64,9 @@ In the period 1 June to 22 June 2016, the conversation was overwhelmingly male d
 <p>During the same period, the female topic wheel is as follows:</p>
 <p style="text-align: center;" ><img src="images/blog-images/lies_conversation2.jpg"></p>
 <p>After the vote (23 June-9 July), women, while still underrepresented, rise to 36% of the conversation. The post Brexit male topic wheel is as follows:</p>
-<p style="text-align: center;" ><img src="images/blog-images/post_brexit_maleconversations"></p>
+<p style="text-align: center;" ><img src="images/blog-images/post_brexit_maleconversations.jpg"></p>
 <p>The post Brexit female topic wheel is as follows:</p>
-<p style="text-align: center;" ><img src="images/blog-images/post_brexit_fermaleconversations"></p>
+<p style="text-align: center;" ><img src="images/blog-images/post_brexit_fermaleconversations.jpg"></p>
 <h3>Implications</h3>
 <p>While lying is a fairly accepted part of the political process, the toxicity of the Brexit campaign was unprecedented in modern UK politics.  In this age of multiple 24 hour news channels and relentless social media comment, dishonesty is reported on and disseminated more than ever before.</p><p>
 Brexit exposed the desperation of both sides – though the leave campaign certainly seems guiltier than the stay campaign.  And it is really these lies that have assisted in throwing politics on all fronts into crisis after the vote.  All the major parties are experiencing seismic fault lines, and in the near future the political map is likely to be redrawn.  At least we have the satisfaction of seeing politicians that lied or otherwise slipped up falling on their metaphorical swords!</p><p>
