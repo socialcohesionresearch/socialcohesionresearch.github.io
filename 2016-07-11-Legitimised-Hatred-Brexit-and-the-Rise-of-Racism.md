@@ -71,18 +71,63 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
     </div>
 </div>
 <div class="row">
+    <div class='medium-4 large-4 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-4 columns'>
+<p style="text-align: center;" ><img src="images/blog-images/melville.jpg"></p>
+
+</div>
+<div class='medium-4 large-4 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
     <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
-<p style="text-align: center;" ><img src="images/blog-images/melville.jpg"></p>
+    <h3>Legitimising Hatred: The Backlash</h3>
+<p>While not all Leave campaigners campaigned on a racist platform, there is clear and startling evidence that the success of the Leave campaign has led to racists feeling justified in their bigotry.  This theme was picked up on before the Brexit vote, in which some Leave supporters felt obliged to defend their position, saying it wasn’t based on racism.</p>
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-4 columns'>
+<p style="text-align: center;" ><img src="images/blog-images/tanner_tweet.jpg"></p>
+</div>
+<div class='medium-4 large-4 columns'>
+<p style="text-align: center;" ><img src="images/blog-images/park_tweet.jpg"></p>    
+<p style="text-align: center;" ><img src="images/blog-images/gallon_tweet.jpg"></p>
 
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
 </div>
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-4 columns'>
+    <p>It was also extensively discussed after the vote:</p>
+<p style="text-align: center;" ><img src="images/blog-images/joelle_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="images/blog-images/lewis_tweet.jpg"></p>
+</div>
+<div class='medium-4 large-4 columns'>
+    
+<p style="text-align: center;" ><img src="images/blog-images/siegel_tweet.jpg"></p>
 
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
 <div class="row">
     <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
