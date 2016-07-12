@@ -48,20 +48,29 @@ Those contributing to the Crypto Currency conversation were demonstrably more fo
 <p>As established currencies wax and wane, hedges emerge… Traditionally gold has been the hedge in turbulent times –now crypto currencies also play a role.</p><p>
 While this piece has focused on the pound, emerging market currencies and economies usually bear the brunt of political uncertainty and social upheaval. Strong, coherent policies that are supported by citizens are the hallmark of a stable democracy. Brexit has shown us that even the most developed economies hide fractured societies, with disparate ambitions and goals for their future. Fear hides in the wings, and politicians need to beware of reducing complex decisions to binary options in referenda.
 </p>
-<h3>About The Citizen Research Centre</h3>
-<p><a href="{{site.url}}" target="_blank">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p><p>
-We describe what we do as social research. This is research done in order to improve and expand on our knowledge of the world by providing decision makers in social policy and intervention projects with the best data possible.</p><p>
-We run primary face-to-face research - both quantitative and qualitative - in 54 countries in Africa and the Middle East. <a href="http://citizenresearchcentre.org/where-we-work.html">Click here</a> for a list of countries in which we run face-to-face research.</p><p>
-We run analytic research on social media globally through our partnership with <a href="http://www.crimsonhexagon.com/" target="_blank">Crimson Hexagon</a>, arguably the best social media analysis platform in the world. This and other reports are generated through mining and reporting on our social media data base, which currently holds almost 1 trillion pieces of social media data.</p><p>
-We are committed to providing research on Citizens, and also research for Citizens – that reflect their own views back to them through social media analytics.
-</p>
 </div>
 <div class='medium-2 large-2 columns'>
     <div class='spacing'></div>
     </div>
 </div>
-
-
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
+<div class='spacing'></div>
+<h3>About The Citizen Research Centre</h3>
+<p><a href="{{site.url}}" target="_blank">The Citizen Research Centre</a> is an organisation dedicated to investigating our societies and providing accurate, meaningful data that can be used to effect change – through knowledge, understanding of ourselves and ‘the other’ and through policy.</p><p>
+We describe what we do as social research. This is research done in order to improve and expand on our knowledge of the world by providing decision makers in social policy and intervention projects with the best data possible.</p><p>
+We run primary face-to-face research - both quantitative and qualitative - in 54 countries in Africa and the Middle East. <a href="where-we-work.html" target="_blank">Click here</a> for a list of countries in which we run face-to-face research.</p><p>
+We run analytic research on social media globally through our partnership with <a href="http://www.crimsonhexagon.com/" target="_blank">Crimson Hexagon</a>, arguably the best social media analysis platform in the world. This and other reports are generated through mining and reporting on our social media data base, which currently holds almost 1 trillion pieces of social media data.</p><p>
+We are committed to providing research on Citizens, and also research for Citizens – that reflect their own views back to them through social media analytics.
+The nature of social media analysis is such that any topic can be rigorously explored.  If you would like to purchase in depth reporting on this or any other topic, please contact us</p>  <h3 style="text-align: center;"><a href="mailto:info@citizenresearchcentre.org">info@citizenresearchcentre.org</a></h3>
+</div>
+<div class='medium-2 large-2 columns'>
+    <div class='spacing'></div>
+    </div>
+</div>
 
 
 <script>
