@@ -219,6 +219,10 @@ Although pro-Brexit voters weren’t primarily from areas which had become poore
 And while racism certainly rose after Brexit, it has always been there. In our UK data for the first 5 months of 2016 we found an average of 23,949 posts per day referencing xenophobia, racism, and other hate crimes.  </p>
 <p style="text-align: center;" ><img src="images/blog-images/year_mentions.jpg"></p>
 <p style="text-align: center;" ><img src="images/blog-images/june_july.jpg"></p>
+<p style="text-align: center;" ><img src="images/blog-images/nova_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="images/blog-images/cooper_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="images/blog-images/david_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="images/blog-images/chicken_tweet.jpg"></p>
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
