@@ -1,6 +1,6 @@
 ---
 layout: public_reports
-title: Legitimised Hatred: Brexit and the Rise of Racism
+title: Legitimised Hatred | Brexit and the Rise of Racism
 subtitle: Unpacking hate in the aftermath of post-brexit Britain. 
 date: "2016-07-06 20:37:53 +0800"
 author: The Citizen Research Centre
