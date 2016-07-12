@@ -5,9 +5,9 @@ subtitle: Unpacking Social Media data on Brexit
 date: "2016-07-06 20:37:53 +0800"
 author: The Citizen Research Centre
 excerpt: "This paper examines what the young and the old were saying on social media before and after the Brexit vote, and attempts to answer the question on the lips of Remain supporters – how did it come to this?"
-images: "images/sky.jpg"
+images: "images/youth.jpg"
 categories: public_research
-ogimage: sky.jpg
+ogimage: youth.jpg
 published: true
 ---
 <div class="row">
