@@ -1,10 +1,10 @@
 ---
 layout: public_reports
-title: Legitimised Hate? Brexit Breakdown
+title: Legitimised Hatred: Brexit and the Rise of Racism
 subtitle: Unpacking hate in the aftermath of post-brexit Britain. 
 date: "2016-07-06 20:37:53 +0800"
 author: The Citizen Research Centre
-excerpt: "In the wake of the Brexit vote, mainstream media has been reporting on the rise in hate crimes committed across the UK."
+excerpt: "In the wake of the Brexit vote, mainstream media has been reporting on the rise in hate crimes committed across the UK. We find out more about what is going on on Social Media."
 images: "images/hate.jpg"
 categories: public_research
 ogimage: hate.jpg
@@ -28,47 +28,8 @@ published: true
 <h3>RISE IN PUBLIC DISPLAYS OF INTOLERANCE</h3>
 <p>Personal accounts of post-referendum racism have flooded social media and, by extension, mainstream media with European citizens in England as well as non-white Britons falling victim to emboldened bigoted </p>
 </div>
-<div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-</div>
-<div class="row">
-    <div class='medium-1 large-1 columns'>
-        <div class='spacing'></div>
-    </div>
-    <div class='medium-2 large-2 columns'>
-        <p ><img src="images/blog-images/hate_tweet_1.jpg"></p>
-    </div>
-     <div class='medium-2 large-2 columns'>
-        <p ><img src="images/blog-images/hate_tweet_2.jpg"></p>
-    </div>
-     <div class='medium-2 large-2 columns'>
-        <p ><img src="images/blog-images/hate_tweet_3.jpg"></p>
-    </div>
-     <div class='medium-2 large-2 columns'>
-        <p ><img src="images/blog-images/hate_tweet_4.jpg"></p>
-    </div>
-     <div class='medium-2 large-2 columns'>
-        <p ><img src="images/blog-images/hate_tweet_5.jpg"></p>
-    </div>
-    
-<div class='medium-1 large-1 columns'>
-        <div class='spacing'></div>
-    </div>
-</div>
-<div class="row">
-    <div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-8 large-8 columns'>
-<div class='spacing'></div>
-<p>Facebook albums and Twitter accounts like Worrying Signs and PostRefRacism have become popular forums to discuss and share stories of hate crimes and intimidation. The @PostRefRacism Twitter handle has been mentioned over than 4,300 times since the referendum, more than any other.  #PostRefRacism has been used more than 34,000 times since the 23rd of June. The only on-topic hashtag that was used more is, unsurprisingly, #Brexit.
-</p>
-</div>
-<div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-</div>
+
+
 <div class="row">
     <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
@@ -85,181 +46,7 @@ published: true
         <div class='spacing'></div>
     </div>
 </div>
-<div class="row">
-    <div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-4 large-4 columns'>
-<p>We looked at all UK conversation on the topic of xenophobia and found that the volume of conversation in the week after the referendum rose with 256%.
-</p><p>
-Although there was a substantial amount of xenophobic rhetoric leading up to the vote, the week of 23 June to 29 June saw social media engagement rise to a massive 749,975 on-topic contributions in comparison to 292,392 the week leading up to the vote.
-</p>
 
-</div>
-<div class='medium-6 large-6 columns'>
- <div class='spacing'></div>
- <p ><img src="images/blog-images/volume.jpg"></p>
-</div>
-</div>
-<div class="row">
-    <div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-    <div class='medium-4 large-4 columns'>
-     <div class='spacing'></div>
-<p>Over the same time period overall negativity in the xenophobic conversation increased to over 90% (a jump of 10% in 10 days).
-</p>
-
-</div>
-    <div class='medium-6 large-6 columns'>
- <p><img src="images/blog-images/basic_vol.jpg"></p>
-</div>
-
-
-</div>
-<div class="row">
-    <div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-4 large-4 columns'>
-<p>Women and men discussed the same topics on the issue however they do so with varying priority towards specific topics.</p><p>
-After the shared Racist and Racism topics the highest discussion points for men were around Brexit and the Vote.</p><p>
-In the list of main themes, female conversation brought in topics such as Thinking and Love.</p><p>
-Immigration barely features as a top issue for discussion among women compared to their male counterparts.
-</p><p>There was a small but significant increase in the percentage of conversation contributed by women up from 36% in the week pre-vote to 41% in the week following the vote.
-</p>
-</div>
-<div class='medium-6 large-6 columns'>
- <img src="images/blog-images/men_topics.jpg">   <img src="images/blog-images/women_topics.jpg">
- <div id="gender" style="min-width: 310px; max-width: 100%; height: 310px; float: left; margin: 1%;"></div>
-</div>
-</div>
-<div class="row">
-<div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-8 large-8 columns'>
-<p>The conversation about post referendum racism has by no means been contained borders of the UK.</p><p>
-
-In the week leading up to the referendum, almost 63% of the global conversation referencing both the Brexit vote and xenophobia, racism or other migrant prejudice came from the UK, with close to 23% originating from the US. The next closest contributing country was Ireland with a mere 1.15%.</p><p>
-
-In the 7 days post vote, 38.08% of the global conversation came from the United States, rivalling the UK at 39.37%. Canada and Australia were the next most involved countries with Ireland’s increased contribution at 1.43% earning them the number 6 spot.
-</p>
-<p style="text-align: center;"><img src="images/blog-images/map_origin.jpg"></p>
-
-</div>
-<div class='medium-2 large-2 columns'>
-    <div class='spacing'></div>
-    </div>
-</div>
-<div class="row">
-<div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-8 large-8 columns'>
-<div class='spacing'></div>
-<h3>EMBOLDENED MINORITY</h3>
-<p>Immigration is a complex issue, currently inflamed by the refugee crisis. Although no correlation has been found between those affected by immigration influx and Leave voters, it is a legitimate topic for conversation.</p>
-<p><img src="images/blog-images/tanner_tweet.jpg" width="48%">   <img src="images/blog-images/park_tweet.jpg" width="48%"></p>
-<p>Racism, xenophobia and intolerance on the other hand are irrational and usually based in fear or ignorance. It is inevitable that every society, once it reaches a certain size, will have its share of people who hold these views. Ideally, the values of the rest of the community that these individuals find themselves in temper their actions and reduces how entitled they feel about their bigoted views.
-</p>
-<p style="text-align: center;"><img src="images/blog-images/joelle_tweet.jpg"></p>
-</div>
-<div class='medium-2 large-2 columns'>
-    <div class='spacing'></div>
-    </div>
-</div>
-
-<div class="row">
-<div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-8 large-8 columns'>
-<p>Since the affinities and views of these people are most often represented by the right, it stands to reason that the majority of prejudice, anti-immigrant or outright racist voters would have voted Leave.</p><p>
-The effect of the EU referendum result has been to embolden people like this. It has given them the confidence to gloat in public. The perception that 52% of the country agree with them has instilled them with a sense of national pride which they wield as a weapon to attack anyone they see as not 'english'. 
-</p>
-<p><img src="images/blog-images/siegel_tweet.jpg" width="48%">   <img src="images/blog-images/william_tweet.jpg" width="48%"></p>
-<p>The problem comes with extrapolating the 52%. Yes, 52% of voters on the day voted to leave but that would make up only about 23% of the British population and does not factor in the millions of non-citizen residents.</p><p> 
-
-The reality is that of that 23%, the vast majority of Leave voters are not extremists, most hold moderate albeit mostly right leaning, views. Although immigration has been turned into a hot topic by the Leave campaign, suggesting that this was a large factor in convincing the public to vote to Leave, the idea that more than half the country condone racist behaviour is a dangerous one.
-</p>
-</div>
-<div class='medium-2 large-2 columns'>
-    <div class='spacing'></div>
-    </div>
-</div>
-<div class="row">
-<div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-8 large-8 columns'>
-<div class='spacing'></div>
-<h3>PUBLIC PUSHBACK</h3>
-<p>Analysing the growth in volume of this conversation draws an outline around how important the issue is to social media users however, it does not tell us what the overall sentiment of the conversation is. Quantifying the feelings involved in this conversation is an overwhelmingly difficult task as opinions on such a highly politicised issue are complex and multifaceted.</p><p>
-
-That said, within the online conversation regarding intolerance, bigotry and racism, we note an initially high negative sentiment (as would be expected given the topic) but also a consistent growth in negativity - eventually exceeding 90% of the conversation. The more recent growth in negativity was directly the result of UK citizens directly opposing and condemning the behaviour of those enacting their prejudices.
-</p>
-<p style="text-align: center;"><img src="images/blog-images/pushback.jpg"></p>
-</div>
-<div class='medium-2 large-2 columns'>
-    <div class='spacing'></div>
-    </div>
-</div>
-<div class="row">
-<div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-8 large-8 columns'>
-<p>We have found a track record of pre-emptive counter narrative as well as a large outpouring of support for victims, and calls for unity. Brits from both camps are standing up to, or at least speaking out against, bigoted, racist and prejudice behaviour from their fellow countrymen.
-</p>
-<p><img src="images/blog-images/jamie_tweet.jpg" width="48%">   <img src="images/blog-images/kevin_tweet.jpg" width="48%"></p>
-</div>
-<div class='medium-2 large-2 columns'>
-    <div class='spacing'></div>
-    </div>
-</div>
-<div class="row">
-<div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-8 large-8 columns'>
-<p>There is an underwhelmingly amount of the on-topic conversation which in itself is racist or xenophobic, much of it is actively speaking out against this kind of behaviour.  On-line petition sites like Change.org are hosting various petitions like the “Prosecute Nigel Farage under the Racial and Religious Hatred Act 2006” petition which to date has almost 40,000 signatures.</p><p>
-
-Groups like iStreetWatch.co.uk are urging people to act when they witness hate crimes and harrasment and to report them to police. To date almost 3000 people have taken their pledge to help end street harassment.
-</p>
-<p><img src="images/blog-images/hate_posts_month.jpg"></p>
-</div>
-<div class='medium-2 large-2 columns'>
-    <div class='spacing'></div>
-    </div>
-</div>
-<div class="row">
-<div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-8 large-8 columns'>
-<p>Social media has become, at least in part, a call-to-action platform in post referendum Britain. It has been used to promote ideals of solidarity and inclusiveness as well as sharing expressions on those ideals.
-</p>
-<p><img src="images/blog-images/cultural_diversity.jpg"></p>
-</div>
-<div class='medium-2 large-2 columns'>
-    <div class='spacing'></div>
-    </div>
-</div>
-<div class="row">
-<div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-8 large-8 columns'>
-<p>Brits countrywide are being urged to report what they see and to stand up against bigoted behaviour. Civilians and police are sharing information and advice.
-
-</p>
-<p><img src="images/blog-images/dilly_tweet.jpg"></p>
-</div>
-<div class='medium-2 large-2 columns'>
-    <div class='spacing'></div>
-    </div>
-</div>
 <div class="row">
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
