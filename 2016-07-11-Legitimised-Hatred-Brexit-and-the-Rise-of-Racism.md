@@ -157,7 +157,22 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
         <div class='spacing'></div>
     </div>
 </div>
-
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-4 columns'>
+    <p>And supporters of both camps started to speak out strongly against racism:</p>
+<p style="text-align: center;" ><img src="images/blog-images/pohotsky_tweet.jpg"></p>
+</div>
+<div class='medium-4 large-4 columns'>
+<p style="text-align: center;" ><img src="images/blog-images/larkin_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="images/blog-images/lewis_tweet2.jpg"></p>
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
 <div class="row">
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
