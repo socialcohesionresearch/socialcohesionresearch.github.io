@@ -22,7 +22,12 @@ We used Crimson Hexagon (link), a leading social media analytics platform, to id
 The conversation peaks in April, when the Panama Papers were released, and shows enormous growth around the time of the Brexit referendum. It peaks on the day of the vote with 37,170 number of posts.</p><p>
 Note the timeline volume below, with the peak on the 24th largely related to the 350 million pound NHS porker perpetrated by the Leave campaign in general, and by Nigel Farage in particular…</p>
 <p style="text-align: center;" ><img src="images/blog-images/lies_month.jpg"></p>
-
+<h3>The Political Parties: 1 January to 9 July 2016</h3>
+<p>If we look at the data, by political party, across the research period, we find the following.</p><p>
+The conservatives handed us a textbook case of what happens when your part is not only divided over an issue but opposing camps campaign fiercely for their respective positions. They garnered 19% of the total conversation over the period. UKIP of course is divisive by its nature, but unified by its goal – they received 8% of conversation.</p><p>
+And Labour seems fairly well trusted across the board with only 3% of conversation dedicated to its fabrications.
+</p>
+<p style="text-align: center;" ><img src="images/blog-images/parties.jpg"></p>
 </div>
 <div class='medium-2 large-2 columns'>
     <div class='spacing'></div>
