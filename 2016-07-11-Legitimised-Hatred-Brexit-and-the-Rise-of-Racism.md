@@ -191,11 +191,11 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
 <div class='medium-4 large-4 columns'>
 <p style="text-align: center;" ><img src="images/blog-images/cultural_diversity.jpg"></p>
 <p style="text-align: center;" ><img src="images/blog-images/mccoy_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/dilly_tweet.jpg"></p>
 </div>
 <div class='medium-4 large-4 columns'>
 <p style="text-align: center;" ><img src="images/blog-images/dubyu_tweet.jpg"></p>
 <p style="text-align: center;" ><img src="images/blog-images/conner_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="images/blog-images/dilly_tweet.jpg"></p>
 
 </div>
 <div class='medium-2 large-2 columns'>
