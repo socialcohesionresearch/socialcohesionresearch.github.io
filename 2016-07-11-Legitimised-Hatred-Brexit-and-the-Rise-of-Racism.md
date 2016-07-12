@@ -223,7 +223,10 @@ And while racism certainly rose after Brexit, it has always been there. In our U
 <p style="text-align: center;" ><img src="images/blog-images/cooper_tweet.jpg"></p>
 <p style="text-align: center;" ><img src="images/blog-images/david_tweet.jpg"></p>
 <p style="text-align: center;" ><img src="images/blog-images/chicken_tweet.jpg"></p>
+<h3>Does Rhetoric Matter?</h3>
+<p>Both in the USA and in the UK, we have seen a rise in hate crimes and racism off the back of ugly political campaigns that have focused on division. We looked at the top 10 twitter handles for 2016 in the UK, and we see that politicians dominate, with Donald Trump the top twitter handle. Even Donald Trump Jnr is in the top ten!  And Nigel Farage is fifth.  So what these politicians say is certainly having an impact on public discourse. </p>
 </div>
+<div id="topten" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
@@ -297,6 +300,57 @@ $(function () {
         series: [{
             name: 'Mentions',
             data: [4300, 3800, 3500, 2500, 2000, 2000, 1900, 1800, 1800, 1600]
+        }]
+    });
+});
+</script>
+
+
+
+<script>
+$(function () {
+    $('#topten').highcharts({
+        chart: {
+            type: 'bar'
+        },
+        title: {
+            text: 'Top 10 Twitter Handles (UK)'
+        },
+        subtitle: {
+            text: 'Source: <a href="http://www.crimsonhexagon.com/">Crimson Hexagon</a>'
+        },
+        xAxis: {
+            categories: ['@realDonaldTrump', '@Youtube', '@SadiqKhan', '@LBC', '@Nigel_Farage', '@ZacGoldsmith', '@BBCNews', '@guardian', '@DonaldTrumpjnr', '@SkyNews'],
+            title: {
+                text: null
+            }
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Mentions',
+                align: 'high'
+            },
+            labels: {
+                overflow: 'justify'
+            }
+        },
+        tooltip: {
+            valueSuffix: ' mentions'
+        },
+        plotOptions: {
+            bar: {
+                dataLabels: {
+                    enabled: true
+                }
+            }
+        },
+        credits: {
+            enabled: false
+        },
+        series: [{
+            name: 'Mentions',
+            data: [15000, 15000, 10000, 10000, 9500, 7700, 6700, 6600, 6300, 6300]
         }]
     });
 });
