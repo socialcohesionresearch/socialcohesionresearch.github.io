@@ -28,6 +28,21 @@ The conservatives handed us a textbook case of what happens when your part is no
 And Labour seems fairly well trusted across the board with only 3% of conversation dedicated to its fabrications.
 </p>
 <p style="text-align: center;" ><img src="images/blog-images/parties.jpg"></p>
+<h3>The people behind the numbers: 1 January to 9 July 2016</h3>
+<p>So who told the most lies, according to opinion expressed on social media in the UK?</p><p>
+We carefully trained a monitor on Crimson Hexagon to find out.</p><p>
+Over the total research period (1 January to 9 July 2016), here’s roll call of mistrust. Perhaps it’s just a Prime Ministers lot, but David Cameron was the least trusted politician with 21% of the conversation dedicated to him. The Conservatives (19%) as a whole were far less trusted than Labour (only 3%), with key Leave campaigners Nigel Farage (13%) and Boris Johnson (10%) right up there in the lack of trust stakes. :</p>
+</p>
+<div id="mostlies"></div>
+<h3>The people behind the numbers: 1-22 June vs 23 June-9 July 2016.</h3>
+<p>Of course the lying peaked right around the Brexit campaign! So who was most reviled on social media before and after the vote?</p><p>
+Interestingly, David Cameron dropped from 21% of the conversation to just 4% after the vote, perhaps due to his honourable resignation.</p><p>
+Boris Johnson took a while to step down from his ambitions, and shot up from 8% to 24% after the Brexit vote! This massive rise in bad sentiment was fueled by purported lies he told, and also by his decision to step down from his campaign to lead the Tories. </p><p>
+Nigel Farage remained pretty steady at 22% before and after – presumably social media didn’t have very high expectations of him.</p><p>
+Michael Gove tripled his score from 3% to 9% in the wake of the Brexit vote.</p><p>
+The Conservatives rise from 6 to 10 percent, as the fallout hits the party.  And Labour also rises from less than 1% to 4% as they are also plunged into crisis.
+</p>
+<div>
 </div>
 <div class='medium-2 large-2 columns'>
     <div class='spacing'></div>
@@ -52,237 +67,48 @@ The nature of social media analysis is such that any topic can be rigorously exp
     </div>
 </div>
 
-
-
-
 <script>
-  $(function () {
-
-    $(document).ready(function () {
-
-        // Build the chart
-        $('#prevote').highcharts({
-            chart: {
-                plotBackgroundColor: null,
-                plotBorderWidth: null,
-                plotShadow: false,
-                type: 'pie'
-            },
+$(function () {
+    $('#mostlies').highcharts({
+        chart: {
+            type: 'bar'
+        },
+        title: {
+            text: 'Who told the most lies according to Social Media'
+        },
+        xAxis: {
+            categories: ['Leave Campaign','Remain Campaign','Boris Johnson', 'Nigel Farage', 'Micahel Gove', 'David Cameron', 'George Osborne', 'Conservatives', 'Labour', 'UKIP', 'Other'],
             title: {
-                text: 'June 1- June 22nd (the days before the referendum) '
+                text: null
+            }
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: '% Conversation',
+                align: 'high'
             },
-            tooltip: {
-                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-            },
-            plotOptions: {
-                pie: {
-                    allowPointSelect: true,
-                    cursor: 'pointer',
-                    size: '80%',
-                    dataLabels: {
-                        enabled: true
-                    },
-                    showInLegend: false
+            labels: {
+                overflow: 'justify'
+            }
+        },
+        tooltip: {
+            valueSuffix: ' %'
+        },
+        plotOptions: {
+            bar: {
+                dataLabels: {
+                    enabled: false
                 }
-            },
-            series: [{
-                name: '% of Brexit Conversation',
-                colorByPoint: true,
-                data: [{
-                    name: 'Under 18 (51 365 posts)',
-                    color: '#26B8EB',
-                    y: 6.5
-                }, {
-                    name: '18-24 (8 407 posts)',
-                    color: '#333333',
-                    y: 1.2
-                }, {
-                    name: '25-34 (12 404 posts)',
-                    color: '#868686',
-                    y: 1.8
-                }, {
-                    name: '35 + (605 724 posts)',
-                    color: '#F9A61C',
-                    y: 89.4,
-                    sliced: true,
-                    selected: true
-                }]
-            }]
-        });
+            }
+        },
+        credits: {
+            enabled: false
+        },
+        series: [{
+            name: '% of Conversation',
+            data: [3, 4, 10, 13, 4, 21, 2, 19, 3, 8, 12 ]
+        }]
     });
 });
-  </script>
-
-  <script>
-  $(function () {
-
-    $(document).ready(function () {
-
-        // Build the chart
-        $('#voteday').highcharts({
-            chart: {
-                plotBackgroundColor: null,
-                plotBorderWidth: null,
-                plotShadow: false,
-                type: 'pie'
-            },
-            title: {
-                text: 'The day of the referendum'
-            },
-            tooltip: {
-                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-            },
-            plotOptions: {
-                pie: {
-                    allowPointSelect: true,
-                    cursor: 'pointer',
-                     size: '80%',
-                    dataLabels: {
-                        enabled: true
-                    },
-                    showInLegend: false
-                }
-            },
-            series: [{
-                name: '% of Brexit Conversation',
-                colorByPoint: true,
-                data: [{
-                    name: 'Under 18 (20 180 posts)',
-                    color: '#26B8EB',
-                    y: 14.9
-                }, {
-                    name: '18-24 (4 397 posts)',
-                    color: '#333333',
-                    y: 3.2
-                }, {
-                    name: '25-34 (4036 posts)',
-                    color: '#868686',
-                    y: 3
-                }, {
-                    name: '35 + (107 166  posts)',
-                    color: '#F9A61C',
-                    y: 78.9,
-                    sliced: true,
-                    selected: true
-                }]
-            }]
-        });
-    });
-});
-  </script>
-
-<script>
-  $(function () {
-
-    $(document).ready(function () {
-
-        // Build the chart
-        $('#threedaysafter').highcharts({
-            chart: {
-                plotBackgroundColor: null,
-                plotBorderWidth: null,
-                plotShadow: false,
-                type: 'pie'
-            },
-            title: {
-                text: 'Three days after the referendum (24-26 June)'
-            },
-            tooltip: {
-                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-            },
-            plotOptions: {
-                pie: {
-                    allowPointSelect: true,
-                    cursor: 'pointer',
-                     size: '80%',
-                    dataLabels: {
-                        enabled: true
-                    },
-                    showInLegend: false
-                }
-            },
-            series: [{
-                name: '% of Brexit Conversation',
-                colorByPoint: true,
-                data: [{
-                    name: 'Under 18 (86 551 posts)',
-                    color: '#26B8EB',
-                    y: 14.5
-                }, {
-                    name: '18-24 (20 014 posts)',
-                    color: '#333333',
-                    y: 3.4
-                }, {
-                    name: '25-34 (17 781 posts)',
-                    color: '#868686',
-                    y: 3
-                }, {
-                    name: '35 + (471 369   posts)',
-                    color: '#F9A61C',
-                    y: 79.1,
-                    sliced: true,
-                    selected: true
-                }]
-            }]
-        });
-    });
-});
-  </script>
-   
-<script>
-  $(function () {
-
-    $(document).ready(function () {
-
-        // Build the chart
-        $('#lastdaysjune').highcharts({
-            chart: {
-                plotBackgroundColor: null,
-                plotBorderWidth: null,
-                plotShadow: false,
-                type: 'pie'
-            },
-            title: {
-                text: 'The last three days of June'
-            },
-            tooltip: {
-                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-            },
-            plotOptions: {
-                pie: {
-                    allowPointSelect: true,
-                    cursor: 'pointer',
-                    size: '80%',
-                    dataLabels: {
-                        enabled: true
-                    },
-                    showInLegend: false
-                }
-            },
-            series: [{
-                name: '% of Brexit Conversation',
-                colorByPoint: true,
-                data: [{
-                    name: 'Under 18 (18 565 posts)',
-                    color: '#26B8EB',
-                    y: 6.2
-                }, {
-                    name: '18-24 (3772 posts)',
-                    color: '#333333',
-                    y: 1.3
-                }, {
-                    name: '25-34 (6705 posts)',
-                    color: '#868686',
-                    y: 2.2
-                }, {
-                    name: '35 + (269 335  posts)',
-                    color: '#F9A61C',
-                    y: 90.3,
-                    sliced: true,
-                    selected: true
-                }]
-            }]
-        });
-    });
-});
-  </script>
+</script>
