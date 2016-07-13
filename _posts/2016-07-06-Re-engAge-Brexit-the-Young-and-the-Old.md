@@ -20,7 +20,7 @@ published: true
 This paper examines what the British public, young and the old, were saying on social media before and after the Brexit vote, and attempts to answer the question on the lips of Remain supporters – how did it come to this?</p><p>
 One of the more popular theories in this debate is that the younger generation have been let down by an out-of-touch, disengaged older generation; that younger citizens desperately wanted to stay, but were voted down by their parents and grandparents; that the ambitions of the young and hopeful were eaten by the old and fearful.
 </p>
-<p style="text-align: centBefore the referendum, youth tryinger;" ><img src="images/blog-images/old_negative.png" widht="80%"></p>
+<p style="text-align: centBefore the referendum, youth tryinger;" ><img src="../images/blog-images/old_negative.png" widht="80%"></p>
 <p>According to a YouGov.co.uk poll of 554 registered voters aged of 18 to 24, 75% of the age group intended to vote to remain. Of interest to us was the 10% of these voters that didn’t vote - against only 2% of voters over the age of 65 that chose not to vote.  If these figures could be extrapolated out, would that 10% of voters have been enough to swing the vote to a decision to stay?</p>
 
 <table style="margin-left:auto; 
