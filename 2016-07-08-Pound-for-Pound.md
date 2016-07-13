@@ -45,7 +45,7 @@ Those contributing to the Pound conversation tended to be more ‘establishment�
 Those contributing to the Crypto Currency conversation were demonstrably more forward thinking – and tended to be interested in Noam Chomsky, P2P (sharing services), Bitcoin and Reddit. 
 </p>
 <h3>Implications</h3>
-<p>As established currencies wax and wane, hedges emerge… Traditionally gold has been the hedge in turbulent times –now crypto currencies also play a role.</p><p>
+<p>As established currencies wax and wane, hedges emerge… Traditionally gold has been the hedge in turbulent times – now crypto currencies also play a role.</p><p>
 While this piece has focused on the pound, emerging market currencies and economies usually bear the brunt of political uncertainty and social upheaval. Strong, coherent policies that are supported by citizens are the hallmark of a stable democracy. Brexit has shown us that even the most developed economies hide fractured societies, with disparate ambitions and goals for their future. Fear hides in the wings, and politicians need to beware of reducing complex decisions to binary options in referenda.
 </p>
 </div>
