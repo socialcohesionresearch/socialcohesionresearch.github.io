@@ -113,8 +113,6 @@ From the 297 million posts generated during  June of 2016 in the UK, we identifi
 Between the 1 and the 22nd June, Britain’s youngest eligible voters (18-24 year olds) devoted only 0.27% of their online conversation to Brexit. This figure climbed to an unimposing high of 3.8 % of their total conversation on the weekend after the referendum, and then plummeted to only 0.69% for the remainder of June.</p><p>
 By contrast, the 35 plus group devoted 2.61% of their total online conversation to Brexit during the period 1-22 June (9 times as much as the youth), rose to 7.99% on the day of the referendum (twice as much as the youth) and then continued at 9.94% (14 times as much as the youth) for the remainder of June.</p><p>
 Citizens under the legal voting age were considerably more engaged than those aged 18-24 and 25-35, but far less engaged than those aged over 35.
-</p><p>
-And in amongst all of this were the various sentiments. Before the referendum, resentment towards the young:
 </p>
 <h3>The Implications</h3>
 <p>So what are we to read of this – are the youth so disinterested in politics that they chose to stay away from the Brexit vote?  Did they think it was a foregone conclusion? Almost certainly, if the youth had voted in greater numbers the UK would be staying in the EU.</p><p>
