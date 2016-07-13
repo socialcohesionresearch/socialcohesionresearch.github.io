@@ -20,7 +20,7 @@ published: true
 This paper examines what the British public, young and the old, were saying on social media before and after the Brexit vote, and attempts to answer the question on the lips of Remain supporters – how did it come to this?</p><p>
 One of the more popular theories in this debate is that the younger generation have been let down by an out-of-touch, disengaged older generation; that younger citizens desperately wanted to stay, but were voted down by their parents and grandparents; that the ambitions of the young and hopeful were eaten by the old and fearful.
 </p>
-<p style="text-align: centBefore the referendum, youth tryinger;" ><img src="../images/blog-images/old_negative.png" widht="80%"></p>
+<p style="text-align: centBefore the referendum, youth tryinger;" ><img src="{{site.url}}/images/blog-images/old_negative.png" widht="80%"></p>
 <p>According to a YouGov.co.uk poll of 554 registered voters aged of 18 to 24, 75% of the age group intended to vote to remain. Of interest to us was the 10% of these voters that didn’t vote - against only 2% of voters over the age of 65 that chose not to vote.  If these figures could be extrapolated out, would that 10% of voters have been enough to swing the vote to a decision to stay?</p>
 
 <table style="margin-left:auto; 
@@ -91,13 +91,13 @@ One of the more popular theories in this debate is that the younger generation h
   </tr>
 </table>
 <p>So we decided to look at social media data to investigate further.  Using <a href="http://www.crimsonhexagon.com/" target="_blank">Crimson Hexagon</a>, we analysed 297,474,704 tweets, Facebook and Tumblr posts, blogs and forums originating from the UK in June 2016. This social media research approach affords us an intimate and uniquely honest view of the entire online conversation published on public platforms.</p>
-<p style="text-align: center;" ><img src="images/blog-images/Caputo-tweet.png"></p>
-<p style="text-align: center;" ><img src="images/blog-images/shukat-tweet.png"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/Caputo-tweet.png"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/shukat-tweet.png"></p>
 <h3>The Old vs The Young?</h3>
 <p>Much has been made of the youth being angry at ‘old’ people voting against their interest, as tweets such as this show:</p>
-<p style="text-align: center;" ><img src="images/blog-images/luke-hawlet-tweet.png" width="45%">   <img src="images/blog-images/ellie-sadler-tweet.png" width="45%"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/luke-hawlet-tweet.png" width="45%">   <img src="{{site.url}}/images/blog-images/ellie-sadler-tweet.png" width="45%"></p>
 <p>And weighing up the decision based on life expectancy:</p>
-<p style="text-align: center;" ><img src="images/blog-images/tom-holder-tweet.png" width="65%"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/tom-holder-tweet.png" width="65%"></p>
 <p>Social media analysis shows, though, that the youth were remarkably ambivalent about Brexit before the referendum.</p><p>
 From the 297 million posts generated during  June of 2016 in the UK, we identified 7 496 582 that discussed Brexit.  The <a href="http://www.crimsonhexagon.com/" target="_blank">Crimson Hexagon</a> platform then used a complex algorithm to identify the age groups associated with those posts.  The platform was able to identify the age of over 22% of those posts.  This does not look at whether these posts were for or against leaving, but rather looks at the level of engagement of various age groups in the conversation.  This leaves us with 1 707 771 posts to analyse – a very healthy sample of public opinion on Brexit.
 </p>
