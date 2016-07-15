@@ -15,7 +15,7 @@ published: true
 		<div class='spacing'></div>
 	</div>
 <div class='medium-8 large-8 columns'>
-<p>The Citizen Research Centre has just released its 2015 Africa Twitter Activity Index – studying twitter volume and activity levels in 52 of the 54 African states. The Index has been compiled in collaboration with Crimson Hexagon, a world leading social media monitoring platform.</p>
+<p>The Citizen Research Centre has just released its 2015 Africa Twitter Activity Index – studying twitter volume and activity levels in 52 of the 54 African states. The Index has been compiled in collaboration with <a href="http://www.crimsonhexagon.com/">Crimson Hexagon</a>, a world leading social media monitoring platform.</p>
 
 <h3>Volume</h3>
 
