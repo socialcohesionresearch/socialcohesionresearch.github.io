@@ -18,7 +18,7 @@ published: true
 <h3>Overview: 1 January to 9 July 2016</h3>
 <p>These days it seems politicians are practically expected to lie – and no more so than in the debates pre and post the Brexit vote.</p><p>
 Who do people think told the biggest whoppers? This research looked at social media activity in the UK from the 1st January to the 9th July 2016 to find out…</p><p>
-We used Crimson Hexagon (link), a leading social media analytics platform, to identify 694,154 pieces of social media data referring to politicians and their lies between 1 January and 9 July 2016.</p><p>
+We used <a href="http://www.crimsonhexagon.com/">Crimson Hexagon</a>, a leading social media analytics platform, to identify 694,154 pieces of social media data referring to politicians and their lies between 1 January and 9 July 2016.</p><p>
 The conversation peaks in April, when the Panama Papers were released, and shows enormous growth around the time of the Brexit referendum. It peaks on the day of the vote with 37,170 number of posts.</p><p>
 Note the timeline volume below, with the peak on the 24th largely related to the 350 million pound NHS porker perpetrated by the Leave campaign in general, and by Nigel Farage in particular…</p>
 <p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/lies_month.jpg"></p>
