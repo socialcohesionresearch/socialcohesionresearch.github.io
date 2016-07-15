@@ -1,6 +1,6 @@
 ---
 layout: public_reports
-title: Pants on Fire | Brexit and it’s Lies
+title: Pants on Fire | Brexit and its Lies
 subtitle: Dissecting political lies in the build up and aftermath of the Brexit vote. 
 date: "2016-07-06 20:37:53 +0800"
 author: The Citizen Research Centre
