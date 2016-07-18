@@ -117,7 +117,7 @@ Citizens under the legal voting age were considerably more engaged than those ag
 <h3>The Implications</h3>
 <p>So what are we to read of this – are the youth so disinterested in politics that they chose to stay away from the Brexit vote?  Did they think it was a foregone conclusion? Almost certainly, if the youth had voted in greater numbers the UK would be staying in the EU.</p><p>
 How do we bring young people back into the voting booths?  How did the youth - who have always been at the forefront of political and social change - become so politically passive?  This is not just an issue in the UK, but around the world - and requires urgent attention from policy makers, political figures and leaders in all democracies.</p><p>
-Politics shapes our lives, whether we like it or not, and until the generation that has the most to lose becomes more engaged in the topics of debate – from climate change to EU membership –  – becomes more engaged in the debate, politics will continue to be an establishment process manipulated by entrenched interests. 
+Politics shapes our lives, whether we like it or not, and until the generation that has the most to lose becomes more engaged in the topics of debate – from climate change to EU membership – politics will continue to be an establishment process manipulated by entrenched interests. 
 </p>
 </div>
 <div class='medium-2 large-2 columns'>
