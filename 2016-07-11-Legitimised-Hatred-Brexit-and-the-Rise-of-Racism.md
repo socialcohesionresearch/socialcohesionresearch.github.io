@@ -17,20 +17,36 @@ published: true
 <div class='medium-8 large-8 columns'>
     <h3>Overview</h3>
 <p>In the wake of the Brexit vote, mainstream media has been reporting on the rise in hate crimes committed across the UK.</p><p>
-According to the National Police Chiefs Council, hate crimes reported to them rose by 57% between Thursday 23rd and Sunday 26th, compared to the corresponding days four weeks prior. </p><p>
+
+According to the National Police Chiefs Council, hate crimes reported to them rose by 57% between Thursday 23rd and Sunday 26th of June 2016, compared to the corresponding days four weeks prior.</p><p>
+
 The police online hate-crime reporting site, True Vision, tells an ever starker tale, stating that reports to the site have increased by 500% between the 23rd and the 30th of June when compared with a weekly average for 2016.</p><p>
-While traditional sources can provide statistics regarding the rate of reported incidents, this can only give us a partial picture. Many incidents are not reported for a variety of reasons, and these reports also do not tell us anything about the sentiment of the general public on the issue.</p><p>
+
+While using these types of traditional sources can provide statistics regarding the rate of reported incidents, this can only give us a partial picture. Many incidents are not reported for a variety of reasons, and these reports also do not tell us anything about the opinion of the general public on the issue.</p><p>
+
 Using <a href="http://crimsonhexagon.com" target="_blank">Crimson Hexagon</a>, a premier social media analytics platform, we looked at almost 5 and a half million posts, tweets, blogs and forum entries from the UK. This was the volume of posts that, between the 1st January and the 9th July 2016 related to xenophobia, racism and prejudice against either immigrants or minority groups.</p><p>
-This in-depth look at what Britons are actually saying and sharing paints a much richer picture of how the UK is reacting to the issue of rising post (and pre!) referendum displays of hate and intolerance.
-</p>
-<h3>Massive Increase in Social Media Hate Speech</h3>
-<p>The timeline below shows the dramatic rise in online hate posts after the Brexit vote.</p><p>
-In the week 16-22 June there were 292,392 bigoted posts online – while a disturbingly large number, this rose to a staggering 749,975 in the week 23 June to 29 June 2016. This represents a rise of 256% in a single week.
-</p>
+This in-depth look at what Britons are actually saying and sharing, paints a rich picture of how the UK is reacting to the issue of rising post (and pre!) referendum displays of hate and intolerance.</p>
+
+<h3>Hot Topics</h3>
+<p>The timeline below shows the dramatic rise in online conversation on the topic of xenophobia after the Brexit vote. It is important to point out that this is all conversation on the topic including direct hate speech, discussion of the issue or advocacy against it.</p><p>
+In the week of 16-22 June there was already a significant number of posts - 292,392 - relating to xenophobia and prejudice against immigrants and minorities, about a tenfold increase on the weekly average over the first 5 months of 2016.</p><p>
+The volume of this conversation rose to a staggering 749,975 in the week of 23-29 June 2016, a 256% increase in a single week.</p>
 <p style="text-align: center;" ><img src="images/blog-images/hatespeech_volume.jpg"></p>
-<p>Emboldened by a perception that 52% of the country now agree with them, racist abuse on social media has become disturbingly commonplace. </p>
-<p style="text-align: center;" ><img src="images/blog-images/singh_tweet.jpg"></p>
-<p>Personal accounts of post-referendum racism have flooded social media and, by extension, mainstream media with European citizens in England as well as non-white Britons falling victim to emboldened bigoted individuals.</p>
+<p>The @PostRefRacism Twitter handle has been mentioned over than 4,300 times since the referendum, more than any other.  #PostRefRacism has been used more than 34,000 times since the 23rd of June. The only on-topic hashtag that was used more is, unsurprisingly, #Brexit.</p>
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-4 columns'>
+<div id="handle_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
+</div>
+<div class='medium-4 large-4 columns'>
+<div id="hashtag_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
@@ -132,20 +148,7 @@ In the week 16-22 June there were 292,392 bigoted posts online – while a distu
         <div class='spacing'></div>
     </div>
 </div>
-<div class="row">
-    <div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-<div class='medium-4 large-4 columns'>
-<div id="handle_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
-</div>
-<div class='medium-4 large-4 columns'>
-<div id="hashtag_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
-</div>
-<div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-</div>
+
 <div class="row">
     <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
