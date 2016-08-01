@@ -111,7 +111,7 @@ Racism, xenophobia and intolerance, on the other hand, are irrational and usuall
 <p style="text-align: center;" ><img src="images/blog-images/chicken_tweet.jpg"></p>
 <h3>DOES RHETORIC REALLY MATTER?</h3>
 <p>Both in the USA and in the UK, we have seen a rise in hate crimes and racism off the back of ugly political campaigns that have focused on division. We looked at the top 10 twitter handles mentioned in conversation around xenophobia and racial prejudice for 2016 in the UK, and we see that politicians dominate.</p>
-<div id="topten" style="max-width: 900px; height: 400px; float: left;"></div>
+<div id="topten" style="height: 400px; float: left;"></div>
 <p>All the way from across the pond, American Republican candidate @realDonaldTrump takes top spot and even @DonaldJTrumpJr, his son, makes it into the top ten! @Nigel_Farage, the face of UKIP, and @ZacGoldsmith, a British Conservative politician held the number 5 and 6 spot respectively for 2016 year-to-date. @SadiqKhan - the mayor of London - ties in third with @LBC - a London based call in Radio which held call in shows for politicians Nick Clegg, Nigel Farage, Boris Johnson and Alex Salmond. </p><p>
 
 If we take into consideration that our study was not specific to Brexit conversation, it becomes clear that these figures have become intrinsically linked, at least in the minds of the social media community, with the topic of racism and xenophobia. We should also not underestimate the influence of mainstream media – with agendas that remain murky, and are inclined towards populism.
