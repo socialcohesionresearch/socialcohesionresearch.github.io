@@ -43,7 +43,7 @@ The volume of this conversation rose to a staggering 749,975 in the week of 23-2
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
-<div id="handle_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
+<div id="handle_mentions" style="min-width: 310px; height: 400px; float: left; margin: 1%;"></div>
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
@@ -54,7 +54,7 @@ The volume of this conversation rose to a staggering 749,975 in the week of 23-2
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
-<div id="hashtag_mentions" style="min-width: 310px; max-width: 49%; height: 400px; float: left; margin: 1%;"></div>
+<div id="hashtag_mentions" style="min-width: 310px; height: 400px; float: left; margin: 1%;"></div>
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
