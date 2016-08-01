@@ -5,9 +5,9 @@ subtitle: Unpacking hate in the aftermath of post-brexit Britain.
 date: "2016-07-11 20:37:53 +0800"
 author: The Citizen Research Centre
 excerpt: "In the wake of the Brexit vote, mainstream media has been reporting on the rise in hate crimes committed across the UK. We find out more about what is going on on Social Media."
-images: "images/hate.jpg"
+images: "images/hateshout.jpg"
 categories: public_research
-ogimage: hate.jpg
+ogimage: hateshout.jpg
 published: true
 ---
 <div class="row">
