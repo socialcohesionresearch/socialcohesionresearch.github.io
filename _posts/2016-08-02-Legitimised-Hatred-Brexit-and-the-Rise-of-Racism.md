@@ -2,7 +2,7 @@
 layout: public_reports
 title: Legitimised Hatred | Brexit and the Rise of Racism
 subtitle: Unpacking hate in the aftermath of post-brexit Britain. 
-date: "2016-07-11 20:37:53 +0800"
+date: "2016-08-02 20:37:53 +0800"
 author: The Citizen Research Centre
 excerpt: "In the wake of the Brexit vote, mainstream media has been reporting on the rise in hate crimes committed across the UK. We find out more about what is going on on Social Media."
 images: "images/hateshout.jpg"
