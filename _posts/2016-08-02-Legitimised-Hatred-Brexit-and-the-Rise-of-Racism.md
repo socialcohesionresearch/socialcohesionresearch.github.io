@@ -31,7 +31,7 @@ This in-depth look at what Britons are actually saying and sharing, paints a ric
 <p>The timeline below shows the dramatic rise in online conversation on the topic of xenophobia after the Brexit vote. It is important to point out that this is all conversation on the topic including direct hate speech, discussion of the issue or advocacy against it.</p><p>
 In the week of 16-22 June there was already a significant number of posts - 292,392 - relating to xenophobia and prejudice against immigrants and minorities, about a tenfold increase on the weekly average over the first 5 months of 2016.</p><p>
 The volume of this conversation rose to a staggering 749,975 in the week of 23-29 June 2016, a 256% increase in a single week.</p>
-<p style="text-align: center;" ><img src="images/blog-images/hatespeech_volume.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/hatespeech_volume.jpg"></p>
 <p>The @PostRefRacism Twitter handle has been mentioned over than 4,300 times since the referendum, more than any other.  #PostRefRacism has been used more than 34,000 times since the 23rd of June. The only on-topic hashtag that was used more is, unsurprisingly, #Brexit.</p>
 </div>
 <div class='medium-2 large-2 columns'>
@@ -67,18 +67,18 @@ The volume of this conversation rose to a staggering 749,975 in the week of 23-2
 <div class='medium-8 large-8 columns'>
     <h3>LEGITIMISING HATRED:</h3>
 <p>Immediately following the referendum, personal accounts of post-referendum racism flooded social media, with European citizens in England as well as non-white Britons falling victim to emboldened, bigoted individuals.</p>
-<p style="text-align: center;" ><img src="images/blog-images/assed_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/roberts_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/krupa_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/assed_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/roberts_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/krupa_tweet.jpg"></p>
 <p>The perception that 52% of the country agree with them has instilled racists with a sense of national pride, which they wield as a weapon to attack anyone they see as not 'English'.</p><p>
 
 Of course extrapolating the 52% of the vote is problematic on several levels.  Firstly, this only represents 23% of the total British population.  Secondly, it excludes millions of non-citizen residents. And lastly, it’s clear that citizens did not vote to leave the EU purely because they were xenophobic or anti-immigrant. 
 The belief that more than half the UK condones racist behaviour is both profoundly untrue and decidedly dangerous.  
 </p>
-<p style="text-align: center;" ><img src="images/blog-images/david_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/joelle_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/lewis_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/siegel_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/david_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/joelle_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/lewis_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/siegel_tweet.jpg"></p>
 
 <h3>IS IMMIGRATION A LEGITIMATE THREAT TO BRITAIN?</h3>
 <p>A recent Oxford paper found that "EU migrants are less likely to claim out-of-work benefits, such as Jobseekers’ Allowance and incapacity benefit, compared to their UK counterparts," It goes on to state that "In February 2015, people who were EU nationals when they registered for a National Insurance Number made up 2.2% of the total [Department for Work and Pensions] working-age benefits caseload, but were about 6% of the working-age population." British hostility to immigrants predates the recent spate of mass immigration. An Oxford University study by Scott Blinder, looking at historical polling data spanning decades found that Brits believed there were “too many immigrants” long before the net immigration could have any appreciable effect on the British economy.</p><p>
@@ -96,19 +96,19 @@ Immigration is a complicated issue, currently inflamed by the refugee crisis. Al
 
 Racism, xenophobia and intolerance, on the other hand, are irrational and usually based in fear or ignorance. It is inevitable that every society will have its share of people who hold these views. Ideally, the values of the rest of the community temper their actions and reduce how entitled they feel to hold and express their views.
 </p>
-<p style="text-align: center;" ><img src="images/blog-images/tanner_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/park_tweet.jpg"></p>    
-<p style="text-align: center;" ><img src="images/blog-images/gallon_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/tanner_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/park_tweet.jpg"></p>    
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/gallon_tweet.jpg"></p>
 <p>We have found a track record of pre-emptive counter narrative as well as a large outpouring of support for victims, and calls for unity. Brits from both camps are standing up to, or at least speaking out against, bigotry, racism and prejudice from their fellow countrymen.</p>
-<p style="text-align: center;" ><img src="images/blog-images/pohotsky_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/larkin_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/lewis_tweet2.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/pohotsky_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/larkin_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/lewis_tweet2.jpg"></p>
 <h3>OLD NEWS</h3>
 <p>Racism and xenophobia is not a new post-Brexit phenomenon and neither is online conversation about it. In our UK data for the first 5 months of 2016 we found an average of 23,949 posts per day referencing xenophobia, racism, and other hate crimes.</p>
-<p style="text-align: center;" ><img src="images/blog-images/year_mentions.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/nova_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/cooper_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/chicken_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/year_mentions.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/nova_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/cooper_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/chicken_tweet.jpg"></p>
 <h3>DOES RHETORIC REALLY MATTER?</h3>
 <p>Both in the USA and in the UK, we have seen a rise in hate crimes and racism off the back of ugly political campaigns that have focused on division. We looked at the top 10 twitter handles mentioned in conversation around xenophobia and racial prejudice for 2016 in the UK, and we see that politicians dominate.</p>
 <div id="topten" style="height: 400px; float: left;"></div>
@@ -116,27 +116,27 @@ Racism, xenophobia and intolerance, on the other hand, are irrational and usuall
 
 If we take into consideration that our study was not specific to Brexit conversation, it becomes clear that these figures have become intrinsically linked, at least in the minds of the social media community, with the topic of racism and xenophobia. We should also not underestimate the influence of mainstream media – with agendas that remain murky, and are inclined towards populism.
 </p>
-<p style="text-align: center;" ><img src="images/blog-images/cullen_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/cullen_tweet.jpg"></p>
 <h3>TUG OF WAR</h3>
 <p>In using their public platform to stoke the fires of hatred, community leaders, politicians, and those in positions of authority legitimise extremist views and fertilise the seeds of division. Luckily there are fewer places to hide in the age of the internet and once the veil is lifted, society tends to fight back.</p>
-<p style="text-align: center;" ><img src="images/blog-images/wilks_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/kapona_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/shazia_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/draven_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/lammy_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/smith_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/wilks_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/kapona_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/shazia_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/draven_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/lammy_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/smith_tweet.jpg"></p>
 <p>Social media has become, at least in part, a call-to-action platform in post referendum Britain. It has been used to promote ideals of solidarity and inclusiveness as well as sharing expressions on those ideals. Brits countrywide are being urged to report what they see and to stand up against bigoted behaviour. Civilians and police are sharing information and advice.</p>
-<p style="text-align: center;" ><img src="images/blog-images/cultural_diversity.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/mccoy_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/conner_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/dubyu_tweet.jpg"></p>
-<p style="text-align: center;" ><img src="images/blog-images/dilly_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/cultural_diversity.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/mccoy_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/conner_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/dubyu_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/dilly_tweet.jpg"></p>
 <p>Social media is a powerful tool - where free speech reigns supreme. The stage belongs to anyone with an opinion but even in cyberspace those who shout the loudest, with a unified voice, get to direct the play. Creating communities online that reflect the values we hold offline will shape our collective future. Will we build it on empathy or let it be guided by fear?</p>
-<p style="text-align: center;" ><img src="images/blog-images/singh_tweet.jpg"></p>
+<p style="text-align: center;" ><img src="{{site.url}}/images/blog-images/singh_tweet.jpg"></p>
 <h3 style="color: red;">(STRONG LANGUAGE WARNING!)</h3>
-<p style="text-align: center;"><img src="images/blog-images/farage_tweet.jpg"></p>
-<p style="text-align: center;"><img src="images/blog-images/betty_tweet.jpg"></p>
-<p style="text-align: center;"><img src="images/blog-images/traynor_tweet.jpg"></p>
+<p style="text-align: center;"><img src="{{site.url}}/images/blog-images/farage_tweet.jpg"></p>
+<p style="text-align: center;"><img src="{{site.url}}/images/blog-images/betty_tweet.jpg"></p>
+<p style="text-align: center;"><img src="{{site.url}}/images/blog-images/traynor_tweet.jpg"></p>
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
