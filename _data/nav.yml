@@ -29,8 +29,3 @@
 - name: Contact Us
   path: contact.html
   section_id: Contact Us
-  children:
-    - name: Contact Us
-      path: contact.html
-    - name: Bespoke Research
-      path: bespoke-research.html
