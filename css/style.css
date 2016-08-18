@@ -37,11 +37,11 @@ h1, h2, h3, h4 {
   background: #F9A61C;
 }
 .yellow a {
-  color: #333;
+  color: #fff;
   margin-top: 200px;
 }
 .yellow a:hover {
-  color: #fff;
+  color: #333;
 }
 
 .dark-blue {
