@@ -1,6 +1,3 @@
-- name: Home
-  path: index.html
-  section_id: home
 - name: Projects
   path: what-we-do.html
   section_id: projects
@@ -11,18 +8,18 @@
       path: how-we-do-it.html
     - name: Where we work
       path: where-we-work.html    
-- name: Africa Twitter Index
+- name: Twitter Index
   path: africa-twitter-index.html
   section_id: twitter index
 - name: Social Cohesion Index
   path: social-cohesion-index.html
   section_id: social cohesion index
+- name: Digital advocacy for social change
+  path: digital-advocacy-for-social-change.html
+  section_id: Digital Advocacy
 - name: Public Reports
   path: public-reports.html
   section_id: Public Reports
-  children:
-    - name: Publicly Available Reports
-      path: public-reports.html
 - name: Funding
   path: funding.html
   section_id: Funding
