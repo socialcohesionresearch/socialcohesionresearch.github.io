@@ -869,3 +869,19 @@ ul.share-buttons {
 ul.share-buttons li {
   display: inline;
 }
+@media screen and (min-width: 700px) {
+    #show_image {
+        display: initial;
+    }
+    #show_text {
+      display: none;
+    }
+}
+@media screen and (max-width: 699px) {
+    #show_image {
+        display: none;
+    }
+    #show_text {
+      display: initial;
+    }
+}
