@@ -9,7 +9,7 @@ images: "images/youth.jpg"
 categories: public_research
 ogimage: youth.jpg
 published: true
-alt-image: British Youth
+alt-image: "British Youth"
 ---
 <div class="row">
     <div class='medium-2 large-2 columns'>

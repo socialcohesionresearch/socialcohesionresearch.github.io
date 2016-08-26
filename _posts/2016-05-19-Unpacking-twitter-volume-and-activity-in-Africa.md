@@ -9,7 +9,7 @@ images: "images/sky.jpg"
 categories: public_research
 ogimage: sky.jpg
 published: true
-alt-image: Lady on Mobile Phone
+alt-image: "Lady on Mobile Phone"
 ---
 <div class="row">
 	<div class='medium-2 large-2 columns'>

@@ -9,7 +9,7 @@ images: "images/crypto.jpg"
 categories: public_research
 ogimage: crypto.jpg
 published: true
-alt-image: Crypto Currency Image
+alt-image: "Crypto Currency Image"
 ---
 <div class="row">
     <div class='medium-2 large-2 columns'>

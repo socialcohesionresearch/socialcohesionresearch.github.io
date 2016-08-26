@@ -9,6 +9,7 @@ images: "images/hateshout.jpg"
 categories: public_research
 ogimage: hateshout.jpg
 published: true
+alt-image: "Hate Speech Image"
 ---
 <div class="row">
     <div class='medium-2 large-2 columns'>
