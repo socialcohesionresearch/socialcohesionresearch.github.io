@@ -9,6 +9,7 @@ images: "images/lies.jpg"
 categories: public_research
 ogimage: lies.jpg
 published: true
+alt-image: Brexit Lies Image
 ---
 <div class="row">
     <div class='medium-2 large-2 columns'>

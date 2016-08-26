@@ -9,6 +9,7 @@ images: "images/boko.jpg"
 categories: public_research
 ogimage: boko.jpg
 published: true
+alt-image: Boko Haram
 ---
 <div class="row">
 	<div class='medium-2 large-2 columns'>
