@@ -31,7 +31,7 @@
     <div class='two spacing'></div>
     <a href="public-reports.html" class='button boxed'>Read Research Reports</a>
 - image: home-slide/protest.jpg
-alternative: protest
+  alternative: protest
   desc_location: left
   desc:
     <h2>Understanding Conflict</h2>
