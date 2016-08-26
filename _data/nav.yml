@@ -1,19 +1,23 @@
-- name: Projects
+- name: About Us
   path: what-we-do.html
-  section_id: projects
+  section_id: about us
   children:
     - name: What we do
       path: what-we-do.html
     - name: How we do it
       path: how-we-do-it.html
     - name: Where we work
-      path: where-we-work.html    
-- name: Twitter Index
-  path: africa-twitter-index.html
-  section_id: twitter index
-- name: Social Cohesion Index
-  path: social-cohesion-index.html
-  section_id: social cohesion index
+      path: where-we-work.html
+- name: Projects
+  path: projects.html
+  section_id: projects
+  children:    
+    - name: Twitter Index
+      path: africa-twitter-index.html
+      section_id: twitter index
+    - name: Social Cohesion Index
+      path: social-cohesion-index.html
+      section_id: social cohesion index
 - name: Digital Advocacy
   path: digital-advocacy-for-social-change.html
   section_id: Digital Advocacy
