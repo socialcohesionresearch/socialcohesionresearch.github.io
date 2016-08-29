@@ -881,13 +881,13 @@ ul.share-buttons li {
       display: initial;
     }
 }
-.full_content_page p {
+.row p {
   text-align: justify;
 }
 .special-title p {
   text-align: center;
 }
 
-.centered-text p img h2 h3 h4 h5 h6 h1 a {
+.centered-text p {
   text-align: center;
 }
