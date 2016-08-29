@@ -15,9 +15,7 @@ h1, h2, h3, h4 {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
-.full_content_page p {
-  text-align: justify;
-}
+
 .full {
   padding: 60px 0;
   background-size: cover;
@@ -886,4 +884,7 @@ ul.share-buttons li {
     #show_text {
       display: initial;
     }
+}
+.full_content_page p {
+  text-align: justify;
 }
