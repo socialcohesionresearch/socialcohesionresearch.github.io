@@ -69,6 +69,40 @@ Citizens under the legal voting age were considerably more engaged than those ag
 <p>Here we took a look at the lies that were told around the Brexit referendum. We isolated all conversation related to lying on social media in the UK from January to June 2016.</p><p>
 Here is a timeline of the conversation:
 </p>
+<img src="{{site.url}}/images/blog-images/lies_month.jpg" alt="Brexit Lies Overview">
+<p>If we look at the data related to lying and political parties across the research period, we find the following:</p><p>
+The conservatives suffered textbook fall out of a party which is not only divided but where opposing camps campaign fiercely for their respective positions. They garnered 19% of the total conversation over the period.  
+UKIP were arguably the expected front runner in the devisiveness stakes, but they were unified in their goal and their message – 8% of conversation referencing lies and political parties were UKIP related.</p><p>
+And Labour seems fairly well trusted across the board with only 3% of conversation linked to their fabrications.
+In the below graph the Conservatives are represented by the yellow line; Labour the purple and UKIP the turquoise.
+</p>
+<img src="{{site.url}}/images/blog-images/parties.jpg" alt="Brexit Political Party Lies">
+<p>We did a similar categorisation with individual politicians:</p>
+<img src="{{site.url}}/images/blog-images/politicians.jpg" alt="Brexit Politician Lies">
+<p>Here we looked at what percentage of the conversation on lying referenced various politicians, before and after the referendum:</p><p>
+Of course the lying peaked right around the Brexit campaign! So who was most reviled on social media before and after the vote?</p><p>
+Interestingly, David Cameron dropped from 21% of the conversation to just 4% after the vote, perhaps due to his honourable resignation.</p><p>
+Boris Johnson took a while to step down from his ambitions, and shot up from 8% to 24% after the Brexit vote! This massive rise in bad sentiment was fueled by purported lies he told, and also by his decision to step down from his campaign to lead the Tories.</p><p>
+Nigel Farage remained pretty steady at 22% before and after – presumably social media didn’t have very high expectations of him.</p><p>
+Michael Gove tripled his score from 3% to 9% in the wake of the Brexit vote.</p><p>
+The Conservatives rise from 6 to 10 percent, as the fallout hits the party.  And Labour also rises from less than 1% to 4% as they are also plunged into crisis.</p><p>
+Crucially we are able to categorise and then look at the conversation before and after a certain date.  Bear in mind that we are able to do this to any data going back to 2010.</p><p>
+We can also provide topic wheels on the conversation, and deep dive them for bespoke studies:
+</p>
+<p style="text-align: center;"><img src="/images/blog-images/lies_conversation.jpg" width="80%"></p>
+<h3>Case Study 3: Affinities, drawn from Pound for Pound: Cryptocurrencies</h3>
+<p>In this piece we isolated the discussion around crypto currencies vs the pound in relation to Brexit.</p><p>
+Affinities analysis allows us to match the interests of the people contributing to the Pound conversation against the rest of twitter, do the same for the members of the Crypto Currency conversation and then compare the variances of each.</p><p>
+What we found was that those contributing to the Pound conversation tended to be more ‘establishment’ oriented – with much higher than average interest in stock markets, forex, David Cameron and finance.</p><p>
+Those contributing to the Crypto Currency conversation were demonstrably more forward thinking – and tended to be relatively more interested in Noam Chomsky, peer-to-peer sharing services(P2P), Bitcoin and Reddit that the global Twitter average.</p>
+<h3>Case Study 4: Boko Haram and the rise of fear</h3>
+<p>In this study we looked at various socio economic concerns in Nigeria with the aim of determining the impact the rise of Boko Haram had on how citizens perceived their personal threat levels.</p><p>
+We analysed over 1 BILLION posts over a 5 year study period, starting in January 1st 2010. Below is an overview categorisation of that data set:
+</p>
+<div id="concerns" style="width: 80%; height: 400px; margin: 0 auto"></div>
+<div class='spacing'></div>
+<div id="concerns_increase" style="width: 80%; height: 400px; margin: 0 auto"></div>
+<div class='spacing'></div>
     </div>
     <div class='medium-1 large-1 columns'>
          <div class='spacing'></div>
@@ -311,3 +345,208 @@ Here is a timeline of the conversation:
     });
 });
   </script>
+<script>
+$(function() {
+  $('#concerns').highcharts({
+    chart: {
+      type: 'column'
+    },
+    title: {
+      text: 'Socio-Economic Concerns'
+    },
+    subtitle: {
+      text: 'Source: Crimson Hexagon'
+    },
+    xAxis: {
+      categories: [
+        'Socio-economic Concerns'
+
+      ],
+      crosshair: true
+    },
+    yAxis: {
+      min: 0,
+      title: {
+        text: '% of Socio-economic Concerns'
+      }
+    },
+    tooltip: {
+      headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+      pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+        '<td style="padding:0"><b>{point.y:.1f} %</b></td></tr>',
+      footerFormat: '</table>',
+      shared: false,
+      useHTML: true
+    },
+    plotOptions: {
+      column: {
+        pointPadding: 0.2,
+        borderWidth: 0
+      }
+    },
+    series: [{
+      name: 'Education',
+      data: [8]
+
+    }, {
+      name: 'Threat',
+      data: [11]
+
+    },
+    {
+      name: 'Water',
+      data: [13]
+
+    },
+    {
+      name: 'Poverty/Money',
+      data: [10]
+
+    },
+    {
+      name: 'Addiction',
+      data: [18]
+
+    },
+     {
+      name: 'Fuel (Petrol, Diesel, Gas)',
+      data: [18]
+
+    },
+     {
+      name: 'Electricity',
+      data: [3]
+
+    },
+     {
+      name: 'Communication',
+      data: [6]
+
+    },
+     {
+      name: 'Corruption',
+      data: [1]
+
+    },
+     {
+      name: 'Government',
+      data: [2]
+
+    },
+     {
+      name: 'Employment',
+      data: [4]
+
+    },
+     {
+      name: 'Ebola',
+      data: [8],
+      color: '#FFAE19'
+
+    },]
+  });
+});
+
+</script>
+<script>
+$(function() {
+  $('#concerns_increase').highcharts({
+    chart: {
+      type: 'column'
+    },
+    title: {
+      text: 'Change in Socio-Economic Concerns from 2009-2015'
+    },
+    subtitle: {
+      text: 'Source: Crimson Hexagon'
+    },
+    xAxis: {
+      categories: [
+        'Socio-economic Concerns'
+
+      ],
+      crosshair: true
+    },
+    yAxis: {
+      title: {
+        text: '% Change in Socio-economic concerns'
+      }
+    },
+    tooltip: {
+      headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+      pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+        '<td style="padding:0"><b>{point.y:.1f} %</b></td></tr>',
+      footerFormat: '</table>',
+      shared: false,
+      useHTML: true
+    },
+    plotOptions: {
+      column: {
+        pointPadding: 0.2,
+        borderWidth: 0
+      }
+    },
+    series: [{
+      name: 'Education',
+      data: [24]
+
+    }, {
+      name: 'Threat',
+      data: [47]
+
+    },
+    {
+      name: 'Water',
+      data: [-18]
+
+    },
+    {
+      name: 'Poverty/Money',
+      data: [-11]
+
+    },
+    {
+      name: 'Addiction',
+      data: [-23]
+
+    },
+     {
+      name: 'Fuel (Petrol, Diesel, Gas)',
+      data: [-4]
+
+    },
+     {
+      name: 'Electricity',
+      data: [-2]
+
+    },
+     {
+      name: 'Communication',
+      data: [-15]
+
+    },
+     {
+      name: 'Corruption',
+      data: [2]
+
+    },
+     {
+      name: 'Government',
+      data: [2]
+
+    },
+     {
+      name: 'Employment',
+      data: [4]
+
+    },
+     {
+      name: 'Ebola',
+      data: [25],
+      color: '#FFAE19'
+
+    },]
+  });
+});
+
+</script>
