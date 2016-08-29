@@ -15,8 +15,8 @@ h1, h2, h3, h4 {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
-.ull_content_page p {
-  font-align: justify;
+.full_content_page p {
+  text-align: justify;
 }
 .full {
   padding: 60px 0;
