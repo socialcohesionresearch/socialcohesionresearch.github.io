@@ -103,6 +103,20 @@ We analysed over 1 BILLION posts over a 5 year study period, starting in January
 <div class='spacing'></div>
 <div id="concerns_increase" style="width: 80%; height: 400px; margin: 0 auto"></div>
 <div class='spacing'></div>
+<p>Over the 5 year period, conversation pertaining to “Threat” comprised 11% of the conversation – the growth over that time period tells a more interesting story.</p><p>
+Grouping the data into two time periods - January 1st 2010 to the end of 2013 (before the rise of Boko Haram) and  January 1st 2014 to October 31st 2015 (end of our study period).</p><p>
+What we found was that, prior to 2014, Threat constituted less  than 1% of the conversation.</p>
+<p>In comparison, post 2014 data shows that the percentage of conversation dedicated to Threat rose to a staggering 22% – eclipsing all other socio economic concerns over that period.</p><p>
+We have effectively shown that threat to personal safety as expressed on social media in Nigeria has grown over 22 fold since Boko haram rose to prominence. </p>
+<h3>Case Study 4: Boko Haram and sources of funding</h3>
+<p>Our final case study shows how we trained a monitor to isolate and then analyse social media posts related to funding for Boko Haram – resulting in a quantitative breakdown of who Nigerians perceive to be funding Boko Haram. There are many applications for this kind of research but strategically this information can allow policymakers to engage citizens in an impactful way.</p><p>
+We identified over 47 000 posts related to the topic over the 5 year period, and found that fully 54% of all Nigerian social media opinion points the finger at various levels of government or official power. This is split between Nigerian Government, State Leaders and Wealthy Nigerians(a term often referring to men of power).
+</p>
+<div id="funders" style="width: 80%; height: 400px; margin: 0 auto"></div>
+<p>These examples are intended to show some of the ways in which we can use the Opinion platform to deliver multiple reports on advocacy or educational issues, with the ability to dissect the data from many different angles.</p><p>
+As you can see, we tailor the tools we use to the data we uncover – and direct the research to an advocacy goal.
+We are then able to deliver this research to hundreds of thousands of people in the targeted demographic or geographic areas.
+</p>
     </div>
     <div class='medium-1 large-1 columns'>
          <div class='spacing'></div>
@@ -546,6 +560,88 @@ $(function() {
       color: '#FFAE19'
 
     },]
+  });
+});
+
+</script>
+<script>
+$(function() {
+  $('#funders').highcharts({
+    chart: {
+      type: 'column'
+    },
+    title: {
+      text: 'Public Belief On Who Is Funding Boko Haram'
+    },
+    subtitle: {
+      text: 'Source: Crimson Hexagon'
+    },
+    xAxis: {
+      categories: [
+        'Funders'
+
+      ],
+      crosshair: true
+    },
+    yAxis: {
+      min: 0,
+      title: {
+        text: '% of Belief around Funders'
+      }
+    },
+    tooltip: {
+      headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+      pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+        '<td style="padding:0"><b>{point.y:.1f} %</b></td></tr>',
+      footerFormat: '</table>',
+      shared: false,
+      useHTML: true
+    },
+    plotOptions: {
+      column: {
+        pointPadding: 0.2,
+        borderWidth: 0
+      }
+    },
+    series: [{
+      name: 'Wealthy Nigerians',
+      data: [8]
+
+    }, {
+      name: 'Nigerian Government',
+      data: [30]
+
+    },
+    {
+      name: 'Borno State Leaders (Elrufai)',
+      data: [16]
+
+    },
+    {
+      name: 'Banks and Prisons',
+      data: [14]
+
+    },
+    {
+      name: 'Oil',
+      data: [9]
+
+    },
+     {
+      name: 'Kidnapping',
+      data: [7]
+
+    },
+     {
+      name: 'The West',
+      data: [9]
+
+    },
+     {
+      name: 'Other Terror Groups',
+      data: [8]
+
+    }]
   });
 });
 
