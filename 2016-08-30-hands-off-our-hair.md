@@ -73,7 +73,7 @@ alt-image: "Lady on Mobile Phone"
 <div id="hashtag_mentions" style="height: 400px; float: left; margin: 1%;"></div>
 <h3>Gender Participation</h3>
 <p>The gender split in the conversation is - perhaps surprisingly - very balanced.</p>
-<div id="gender" style="height: 400px; float: left; margin: 1%;"></div>
+<p><div id="gender" style="height: 400px; float: left; margin: 1%;"></div></p>
 <p>There was very little discernable difference topics of discussion and the content shared by men and women. 
 </p>
 </div>
@@ -194,6 +194,9 @@ $(function () {
             plotBorderWidth: null,
             plotShadow: false,
             type: 'pie'
+        },
+        title: {
+            text: 'Gender Participation'
         },
         tooltip: {
             pointFormat: '{series.name}: <b>{point.percentage:.2f}%</b>'
