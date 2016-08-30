@@ -39,7 +39,10 @@ alt-image: "Lady on Mobile Phone"
     <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
-<div class='medium-8 large-8 columns'>
+<div class='medium-4 large-4 columns'>
+    <p>text holder</p>
+</div>
+<div class='medium-4 large-4 columns'>
     <p>text holder</p>
 </div>
 <div class='medium-2 large-2 columns'>
