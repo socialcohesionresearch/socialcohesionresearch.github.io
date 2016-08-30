@@ -19,14 +19,14 @@ alt-image: "Lady on Mobile Phone"
     <h3>Overview</h3>
 <p>On Saturday, 27 August, high school students from Pretoria Girls held a peaceful protest during the school’s annual Spring Fair. The march was organised by some of the year 8 students but was joined by Tuks students, old-girls from Pretoria Girls High and members of the public. In response, the school called on armed police, private security and a K9 unit - which saw the situation receive considerable traditional media and social media attention.
 </p>
-<p><img src="{{site.url}}/images/blog-images/ptagirls_volume.jpeg" alt="Pretoria Girls Growth In Social Media Volume"></p>
+<p><img src="{{site.url}}/images/blog-images/ptagirls_volume.jpg" alt="Pretoria Girls Growth In Social Media Volume"></p>
 <p>We analysed all South African social media from Friday 26 August to Monday 29 August and found 71,048 pieces of content related to the StopRacismAtPretoriaGirlsHigh issue - more than 99% of which were tweets.
 </p>
 <h3>Growth in Engagement</h3>
 <p>The engagement was at it’s lowest on the day of the protest with only 94 tweets, compared to 185 the day before. The issue quickly drew and the volumes increased on Sunday to 16,673 and again on Monday with 54,096.
 </p>
 <div id="growth" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
-<p><img src="{{site.url}}/images/blog-images/sentiment.jpeg" alt="Sentiment towards Pretoria Girls Protest on Social Media"></p>
+<p><img src="{{site.url}}/images/blog-images/sentiment.jpg" alt="Sentiment towards Pretoria Girls Protest on Social Media"></p>
 <p>The sentiment on Friday was mostly neutral, with only 16% being expressly positive and 27% negative. By Monday 29 August, the sentiment had shifted quite significantly to 22% positive and 44% negative.
 </p>
 <h3>Most Shared Tweets</h3>
@@ -37,18 +37,18 @@ alt-image: "Lady on Mobile Phone"
     </div>
     <div class="row">
     <div class='medium-6 large-6 columns'>
-        <img src="{{site.url}}/images/blog-images/sentiment.jpeg" alt="Sentiment towards Pretoria Girls Protest on Social Media">
+        <img src="{{site.url}}/images/blog-images/sentiment.jpg" alt="Sentiment towards Pretoria Girls Protest on Social Media">
     </div>
      <div class='medium-6 large-6 columns'>
-        <img src="{{site.url}}/images/blog-images/sentiment.jpeg" alt="Sentiment towards Pretoria Girls Protest on Social Media">
+        <img src="{{site.url}}/images/blog-images/sentiment.jpg" alt="Sentiment towards Pretoria Girls Protest on Social Media">
     </div>
 </div>
 <div class="row">
     <div class='medium-6 large-6 columns'>
-        <img src="{{site.url}}/images/blog-images/sentiment.jpeg" alt="Sentiment towards Pretoria Girls Protest on Social Media">
+        <img src="{{site.url}}/images/blog-images/sentiment.jpg" alt="Sentiment towards Pretoria Girls Protest on Social Media">
     </div>
      <div class='medium-6 large-6 columns'>
-        <img src="{{site.url}}/images/blog-images/sentiment.jpeg" alt="Sentiment towards Pretoria Girls Protest on Social Media">
+        <img src="{{site.url}}/images/blog-images/sentiment.jpg" alt="Sentiment towards Pretoria Girls Protest on Social Media">
     </div>
 </div>
 
