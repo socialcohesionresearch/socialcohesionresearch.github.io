@@ -71,6 +71,11 @@ alt-image: "Lady on Mobile Phone"
     <p>The most popular hashtags over the 4 day period was #StopRacismAtPretoriaGirlsHigh with more that 65,000 mentions. #ZulaikhaPatel - the girl who became the icon of the day, standing with crossed fists in the air in front of a greying, white, male superior - was mentioned more than 650 times.This would likely have been higher if she was not a minor as many individuals did not feel right about naming her for fear of backlash against her.
 </p>
 <div id="hashtag_mentions" style="height: 400px; float: left; margin: 1%;"></div>
+<h3>Gender Participation</h3>
+<p>The gender split in the conversation is - perhaps surprisingly - very balanced.</p>
+<div id="gender" style="height: 400px; float: left; margin: 1%;"></div>
+<p>There was very little discernable difference topics of discussion and the content shared by men and women. 
+</p>
 </div>
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
@@ -181,3 +186,46 @@ $(function () {
     });
 });
 </script>
+<script>
+  $(function () {
+    $('#gender').highcharts({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+        },
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.2f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    style: {
+                        color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                    }
+                }
+            }
+        },
+        series: [{
+            name: 'Gender',
+            colorByPoint: true,
+            data: [{
+                color: '#F9A61C',
+                name: 'Male',
+                y: 43
+            }, {
+                color: '#333333',
+                name: 'Female',
+                y: 57,
+                sliced: true,
+                selected: true
+            }]
+        }]
+    });
+});
+  </script>
