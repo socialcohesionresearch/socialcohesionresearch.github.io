@@ -85,15 +85,24 @@ alt-image: "Lady on Mobile Phone"
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
-<div class='medium-3 large-3 columns'>
+<div class='medium-4 large-3 columns'>
+    <h4>Topics from Female Content</h4>
     <p><img src="{{site.url}}/images/blog-images/women_topics.jpg" alt="women topics Pretoria Girls Protest"></p>
     </div>
-    <div class='medium-2 large-2 columns'>
-        <p>This issue, although focussed on girls (and their hair) seems to be equally understood and important to both sexes
-</p>
-    </div>
-    <div class='medium-3 large-3 columns'>
+    <div class='medium-4 large-3 columns'>
+        <h4>Topics from Male Content</h4>
     <p><img src="{{site.url}}/images/blog-images/men_topics.jpg" alt="women topics Pretoria Girls Protest"></p>
+    </div>
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
+    <p>This issue, although focussed on girls (and their hair) seems to be equally understood and important to both sexes</p>
     </div>
     <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
