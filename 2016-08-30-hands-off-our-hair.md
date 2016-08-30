@@ -48,19 +48,6 @@ alt-image: "Lady on Mobile Phone"
     <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
 </div>
-<div class="row">
-    <div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
-    <div class='medium-4 large-4 columns'>
-        <img src="{{site.url}}/images/blog-images/sentiment.jpg" alt="Sentiment towards Pretoria Girls Protest on Social Media">
-    </div>
-     <div class='medium-4 large-4 columns'>
-        <img src="{{site.url}}/images/blog-images/sentiment.jpg" alt="Sentiment towards Pretoria Girls Protest on Social Media">
-    </div>
-    <div class='medium-2 large-2 columns'>
-        <div class='spacing'></div>
-    </div>
 </div>
 <div class="row">
     <div class='medium-2 large-2 columns'>
