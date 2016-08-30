@@ -85,11 +85,11 @@ alt-image: "Lady on Mobile Phone"
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
-<div class='medium-4 large-3 columns'>
+<div class='medium-4 large-4 columns'>
     <h4>Topics from Female Content</h4>
     <p><img src="{{site.url}}/images/blog-images/women_topics.jpg" alt="women topics Pretoria Girls Protest"></p>
     </div>
-    <div class='medium-4 large-3 columns'>
+    <div class='medium-4 large-4 columns'>
         <h4>Topics from Male Content</h4>
     <p><img src="{{site.url}}/images/blog-images/men_topics.jpg" alt="women topics Pretoria Girls Protest"></p>
     </div>
