@@ -40,10 +40,10 @@ alt-image: "Lady on Mobile Phone"
         <div class='spacing'></div>
     </div>
 <div class='medium-4 large-4 columns'>
-    <p>text holder</p>
+    <p><img src="{{site.url}}/images/blog-images/dailvox.jpg" alt="Daily Vox Tweet"></p>
 </div>
 <div class='medium-4 large-4 columns'>
-    <p>text holder</p>
+    <p><img src="{{site.url}}/images/blog-images/dailvox.jpg" alt="Daily Vox Tweet"></p>
 </div>
 <div class='medium-2 large-2 columns'>
 	<div class='spacing'></div>
