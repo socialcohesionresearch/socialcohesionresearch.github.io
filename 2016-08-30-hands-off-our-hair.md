@@ -25,7 +25,7 @@ alt-image: "Lady on Mobile Phone"
 <h3>Growth in Engagement</h3>
 <p>The engagement was at it’s lowest on the day of the protest with only 94 tweets, compared to 185 the day before. The issue quickly drew and the volumes increased on Sunday to 16,673 and again on Monday with 54,096.
 </p>
-<div id="growth" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
+<div id="growth" class="centered-text" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 <p><img src="{{site.url}}/images/blog-images/sentiment.jpg" alt="Sentiment towards Pretoria Girls Protest on Social Media"></p>
 <p>The sentiment on Friday was mostly neutral, with only 16% being expressly positive and 27% negative. By Monday 29 August, the sentiment had shifted quite significantly to 22% positive and 44% negative.
 </p>
@@ -70,10 +70,10 @@ alt-image: "Lady on Mobile Phone"
 <div class='medium-8 large-8 columns'>
     <p>The most popular hashtags over the 4 day period was #StopRacismAtPretoriaGirlsHigh with more that 65,000 mentions. #ZulaikhaPatel - the girl who became the icon of the day, standing with crossed fists in the air in front of a greying, white, male superior - was mentioned more than 650 times.This would likely have been higher if she was not a minor as many individuals did not feel right about naming her for fear of backlash against her.
 </p>
-<div id="hashtag_mentions" style="height: 400px; float: left; margin: 1%;"></div>
+<div id="hashtag_mentions" class="centered-text" style="height: 400px; float: left; margin: 1%;"></div>
 <h3>Gender Participation</h3>
 <p>The gender split in the conversation is - perhaps surprisingly - very balanced.</p>
-<p><div id="gender" style="height: 400px; float: left; margin: 1%;"></div></p>
+<p><div id="gender" class="centered-text" style="height: 400px; float: left; margin: 1%;"></div></p>
 <p>There was very little discernable difference topics of discussion and the content shared by men and women. 
 </p>
 </div>
