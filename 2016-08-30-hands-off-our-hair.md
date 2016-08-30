@@ -43,11 +43,25 @@ alt-image: "Lady on Mobile Phone"
     <p><img src="{{site.url}}/images/blog-images/dailyvox.jpg" alt="Daily Vox Tweet"></p>
 </div>
 <div class='medium-4 large-4 columns'>
-    <p><img src="{{site.url}}/images/blog-images/dailyvox.jpg" alt="Daily Vox Tweet"></p>
+    <p><img src="{{site.url}}/images/blog-images/karabo_mokgoko.jpg" alt="Daily Vox Tweet"></p>
 </div>
 <div class='medium-2 large-2 columns'>
 	<div class='spacing'></div>
 	</div>
+</div>
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-4 columns'>
+    <p><img src="{{site.url}}/images/blog-images/dailyvox.jpg" alt="Daily Vox Tweet"></p>
+</div>
+<div class='medium-4 large-4 columns'>
+    <p><img src="{{site.url}}/images/blog-images/karabo_mokgoko.jpg" alt="Daily Vox Tweet"></p>
+</div>
+<div class='medium-2 large-2 columns'>
+    <div class='spacing'></div>
+    </div>
 </div>
 <div class="row">
 <div class='medium-2 large-2 columns'>
