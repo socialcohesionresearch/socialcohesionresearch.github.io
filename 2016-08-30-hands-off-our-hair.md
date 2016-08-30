@@ -51,7 +51,11 @@ alt-image: "Lady on Mobile Phone"
         <img src="{{site.url}}/images/blog-images/sentiment.jpg" alt="Sentiment towards Pretoria Girls Protest on Social Media">
     </div>
 </div>
-
+<div class="row">
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
 
 
 <p>According to the Citizen Research Centre, the top 4 countries in Africa accounted for 81% of all twitter volume on the continent.</p> 
