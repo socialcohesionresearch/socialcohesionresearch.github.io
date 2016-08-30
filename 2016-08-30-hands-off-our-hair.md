@@ -54,13 +54,26 @@ alt-image: "Lady on Mobile Phone"
         <div class='spacing'></div>
     </div>
 <div class='medium-4 large-4 columns'>
-    <p><img src="{{site.url}}/images/blog-images/dailyvox.jpg" alt="Daily Vox Tweet"></p>
+    <p><img src="{{site.url}}/images/blog-images/flo_letsoaba.jpg" alt="Daily Vox Tweet"></p>
 </div>
 <div class='medium-4 large-4 columns'>
-    <p><img src="{{site.url}}/images/blog-images/karabo_mokgoko.jpg" alt="Daily Vox Tweet"></p>
+    <p><img src="{{site.url}}/images/blog-images/khanya_dlanga.jpg" alt="Daily Vox Tweet"></p>
 </div>
 <div class='medium-2 large-2 columns'>
     <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
+    <p>The most popular hashtags over the 4 day period was #StopRacismAtPretoriaGirlsHigh with more that 65,000 mentions. #ZulaikhaPatel - the girl who became the icon of the day, standing with crossed fists in the air in front of a greying, white, male superior - was mentioned more than 650 times.This would likely have been higher if she was not a minor as many individuals did not feel right about naming her for fear of backlash against her.
+</p>
+<div id="hashtag_mentions" style="height: 400px; float: left; margin: 1%;"></div>
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
     </div>
 </div>
 <div class="row">
@@ -116,6 +129,54 @@ $(function () {
         series: [{
             name: 'Mentions',
             data: [185, 94, 16673, 54096],
+        }]
+    });
+});
+</script>
+<script>
+$(function () {
+    $('#hashtag_mentions').highcharts({
+        chart: {
+            type: 'bar'
+        },
+        title: {
+            text: 'Hashtag Mentions'
+        },
+        subtitle: {
+            text: 'Source: <a href="http://www.crimsonhexagon.com/">Crimson Hexagon</a>'
+        },
+        xAxis: {
+            categories: ['#StopRacismAtPretoriaGirlsHigh', '#PretoriaGirlsHigh', '#ZulaikhaPatel', '#FeesMustFall', '#VK', '#RacismMustFall', '#Biko', '#Mbokodo', '#SABCSNews', '#PTAGirlsHigh'],
+            title: {
+                text: null
+            }
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Mentions',
+                align: 'high'
+            },
+            labels: {
+                overflow: 'justify'
+            }
+        },
+        tooltip: {
+            valueSuffix: ' mentions'
+        },
+        plotOptions: {
+            bar: {
+                dataLabels: {
+                    enabled: true
+                }
+            }
+        },
+        credits: {
+            enabled: false
+        },
+        series: [{
+            name: 'Mentions',
+            data: [65000, 4700, 650, 500, 370, 350, 270, 200, 160, 140]
         }]
     });
 });
