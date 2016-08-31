@@ -116,6 +116,7 @@ alt-image: "Lady on Mobile Phone"
     </div>
 <div class='medium-4 large-4 columns'>
     <p><strong>Top contributors (cities & towns)</strong></p>
+    <p><img src="{{site.url}}/images/blog-images/cities.jpg" alt="women topics Pretoria Girls Protest"></p>
     <table>
   <tr>
     <th>City or Town</th>
@@ -186,6 +187,7 @@ alt-image: "Lady on Mobile Phone"
     </div>
     <div class='medium-4 large-4 columns'>
         <p><strong>Mentions per Province</strong></p>
+        <p><img src="{{site.url}}/images/blog-images/provinces.jpg" alt="women topics Pretoria Girls Protest"></p>
         <table>
   <tr>
     <th>Province</th>
@@ -243,6 +245,30 @@ alt-image: "Lady on Mobile Phone"
         <div class='spacing'></div>
     </div>
 </div>
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
+    <h3>Sentiment</h3>
+    <p>Joy and Disgust were the two main emotions conveyed on Friday 26th and Saturday 27th. Anger and Sadness play a minor role on Friday however by Saturday Joy is the most prevalent emotion - people were inspired and impressed by the actions of these youths.
+</p>
+<p><strong>Sentiment - 26th August</strong></p>
+<p><img src="{{site.url}}/images/blog-images/26AugSentiment.jpg" alt="26 August Sentiment Pretoria Girls Protest"></p>
+<p><strong>Sentiment - 27th August</strong></p>
+<p><img src="{{site.url}}/images/blog-images/27augsentiment.jpg" alt="27 August Sentiment Pretoria Girls Protest"></p>
+<p>This inspiration was however trumped in the following two days - 28 and 29 August - by disgust, anger, sadness and fear.</p><p>
+Although people were still discussing the bravery and power of the individuals involved, the conversation moved to the bigger issue of the pervasiveness of racism (subconscious, institutionalised or outright) in our schooling system.
+</p>
+<p><strong>Sentiment - 28th August</strong></p>
+<p><img src="{{site.url}}/images/blog-images/28augsentiment.jpg" alt="28 August Sentiment Pretoria Girls Protest"></p>
+<p><strong>Sentiment - 29th August</strong></p>
+<p><img src="{{site.url}}/images/blog-images/29augsentiment.jpg" alt="29 August Sentiment Pretoria Girls Protest"></p>
+    <div>
+        <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+    </div>
 <div class="row">
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
