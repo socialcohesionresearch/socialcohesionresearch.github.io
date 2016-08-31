@@ -105,6 +105,17 @@ alt-image: "Lady on Mobile Phone"
     <p>This issue, although focussed on girls (and their hair) seems to be equally understood and important to both sexes</p>
     <h3>Location</h3>
     <p>Gauteng residents were by far the most active with 69.33% of all conversation about the protest originated from that province. Western Cape comes in second with only 11.77%</p><p>Only 22.24% came from Pretoria itself - Johannesburg posted 45.8% of the content.</p><p>Benoni makes the top 10 list, coming in at number 7 with 2.22%.</p>
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-4 columns'>
+    <p><strong>Top contributors (cities & towns)</strong></p>
     <table>
   <tr>
     <th>City or Town</th>
@@ -125,6 +136,11 @@ alt-image: "Lady on Mobile Phone"
     <td>Cape Town</td>
     <td>11.23%</td>
     <td>5146</td>
+  </tr>
+  <tr>
+    <td>Durban</td>
+    <td>5.20%</td>
+    <td>2383</td>
   </tr>
   <tr>
     <td>Port Elizabeth</td>
@@ -165,6 +181,61 @@ alt-image: "Lady on Mobile Phone"
     <td>Pietermaritzburg</td>
     <td>0.63%</td>
     <td>288</td>
+  </tr>
+</table>
+    </div>
+    <div class='medium-4 large-4 columns'>
+        <p><strong>Mentions per Province</strong></p>
+        <table>
+  <tr>
+    <th>Province</th>
+    <th>% of Total Mentions</th>
+    <th>Number of Mentions</th>
+  </tr>
+  <tr>
+    <td>Gauteng</td>
+    <td>69.33%</td>
+    <td>34447</td>
+  </tr>
+  <tr>
+    <td>Western Cape</td>
+    <td>11.77%</td>
+    <td>5848</td>
+  </tr>
+  <tr>
+    <td>KwaZulu-Natal</td>
+    <td>6.14%</td>
+    <td>3052</td>
+  </tr>
+  <tr>
+    <td>Eastern Cape</td>
+    <td>5.59%</td>
+    <td>2775</td>
+  </tr>
+  <tr>
+    <td>Free State</td>
+    <td>2.28%</td>
+    <td>1134</td>
+  </tr>
+  <tr>
+    <td>Mpumalanga</td>
+    <td>1.50%</td>
+    <td>743</td>
+  </tr>
+  <tr>
+    <td>Limpopo</td>
+    <td>1.49%</td>
+    <td>738</td>
+  </tr>
+  <tr>
+    <td>North West</td>
+    <td>1.40%</td>
+    <td>698</td>
+  </tr>
+  <tr>
+    <td>Northern Cape</td>
+    <td>0.50%</td>
+    <td>247</td>
   </tr>
 </table>
     </div>
