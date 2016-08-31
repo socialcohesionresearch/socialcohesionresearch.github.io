@@ -86,11 +86,11 @@ alt-image: "Lady on Mobile Phone"
         <div class='spacing'></div>
     </div>
 <div class='medium-4 large-4 columns'>
-    <h4>Topics from Female Content</h4>
+    <p><strong>Topics from Female Content</strong></p>
     <p><img src="{{site.url}}/images/blog-images/women_topics.jpg" alt="women topics Pretoria Girls Protest"></p>
     </div>
     <div class='medium-4 large-4 columns'>
-        <h4>Topics from Male Content</h4>
+        <p><strong>Topics from Male Content</strong></p>
     <p><img src="{{site.url}}/images/blog-images/men_topics.jpg" alt="women topics Pretoria Girls Protest"></p>
     </div>
     <div class='medium-2 large-2 columns'>
@@ -103,6 +103,70 @@ alt-image: "Lady on Mobile Phone"
     </div>
 <div class='medium-8 large-8 columns'>
     <p>This issue, although focussed on girls (and their hair) seems to be equally understood and important to both sexes</p>
+    <h3>Location</h3>
+    <p>Gauteng residents were by far the most active with 69.33% of all conversation about the protest originated from that province. Western Cape comes in second with only 11.77%</p><p>Only 22.24% came from Pretoria itself - Johannesburg posted 45.8% of the content.</p><p>Benoni makes the top 10 list, coming in at number 7 with 2.22%.</p>
+    <table>
+  <tr>
+    <th>City or Town</th>
+    <th>% of Total Mentions</th>
+    <th>Number of Mentions</th>
+  </tr>
+  <tr>
+    <td>Johannesburg</td>
+    <td>45.80%</td>
+    <td>20985</td>
+  </tr>
+  <tr>
+    <td>Pretoria</td>
+    <td>22.24%</td>
+    <td>10192</td>
+  </tr>
+  <tr>
+    <td>Cape Town</td>
+    <td>11.23%</td>
+    <td>5146</td>
+  </tr>
+  <tr>
+    <td>Port Elizabeth</td>
+    <td>3.09%</td>
+    <td>1416</td>
+  </tr>
+  <tr>
+    <td>Bloemfontein</td>
+    <td>2.25%</td>
+    <td>1033</td>
+  </tr>
+  <tr>
+    <td>Benoni</td>
+    <td>2.22%</td>
+    <td>1019</td>
+  </tr>
+  <tr>
+    <td>Grahamstown</td>
+    <td>1.10%</td>
+    <td>506</td>
+  </tr>
+  <tr>
+    <td>Polokwane</td>
+    <td>1.07%</td>
+    <td>490</td>
+  </tr>
+  <tr>
+    <td>East London</td>
+    <td>0.82%</td>
+    <td>377</td>
+  </tr>
+  <tr>
+    <td>Vereeniging</td>
+    <td>0.81%</td>
+    <td>370</td>
+  </tr>
+  <tr>
+    <td>Pietermaritzburg</td>
+    <td>0.63%</td>
+    <td>288</td>
+  </tr>
+</table>
     </div>
     <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
