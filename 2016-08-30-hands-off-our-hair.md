@@ -264,6 +264,9 @@ Although people were still discussing the bravery and power of the individuals i
 <p><img src="{{site.url}}/images/blog-images/28augsentiment.jpg" alt="28 August Sentiment Pretoria Girls Protest"></p>
 <p><strong>Sentiment - 29th August</strong></p>
 <p><img src="{{site.url}}/images/blog-images/29augsentiment.jpg" alt="29 August Sentiment Pretoria Girls Protest"></p>
+
+<h3>Conclusion</h3>
+<p>Questions for debate etc? Call to action to engage with us through Social Media channels?</p>
     </div>
         <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
