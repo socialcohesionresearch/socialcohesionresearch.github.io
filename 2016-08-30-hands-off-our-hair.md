@@ -270,8 +270,29 @@ Although people were still discussing the bravery and power of the individuals i
 The gender split in this conversation is even more equally distributed between the sexes with 51% of the conversation being driven by women.
 </p>
 <p><img src="{{site.url}}/images/blog-images/afterglow_traffic.jpg" alt="Afterglow of protests"></p>
-<h3>Conclusion</h3>
-<p>Questions for debate etc? Call to action to engage with us through Social Media channels?</p>
+<h3>Support</h3>
+<p>This rapid decline in conversation is typical of  social media - the world moves fast and there is a lot to be outraged about. This however does not necessarily spell the end of the saga.</p><p>
+Social media needs to act as the catalyst to sustained action.</p><p>
+Ministers and politicians have weighed in on the issue. Learners around the country have displayed their solidarity and wish to be included in the discussion. 
+</p>
+</div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-4 columns'>
+<div class='spacing'></div>
+<p><img src="{{site.url}}/images/blog-images/afterglow_traffic.jpg" alt="Afterglow of protests"></p>
+<p><img src="{{site.url}}/images/blog-images/afterglow_traffic.jpg" alt="Afterglow of protests"></p>
+    </div>
+    <div class='medium-4 large-4 columns'>
+<div class='spacing'></div>
+<p><img src="{{site.url}}/images/blog-images/afterglow_traffic.jpg" alt="Afterglow of protests"></p>
+<p><img src="{{site.url}}/images/blog-images/afterglow_traffic.jpg" alt="Afterglow of protests"></p>
     </div>
         <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
