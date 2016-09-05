@@ -22,7 +22,6 @@ alt-image: "Pretoria Girls"
 <p><img src="{{site.url}}/images/blog-images/ptagirls_volume.jpg" alt="Pretoria Girls Growth In Social Media Volume"></p>
 <p>We analysed all South African social media from Friday 26 August to Monday 29 August and found 71,048 pieces of content related to the StopRacismAtPretoriaGirlsHigh issue - more than 99% of which were tweets.
 </p>
-<h3>Growth in Engagement</h3>
 <p>The engagement was at it’s lowest on the day of the protest with only 94 tweets, compared to 185 the day before. The issue quickly grew and the volumes increased on Sunday to 16,673 and again on Monday with 54,096.
 </p>
 <p class="centered-text"><div id="growth" style="min-width: 275px; width: 100%; margin: 0 auto"></div></p>
@@ -68,10 +67,11 @@ alt-image: "Pretoria Girls"
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
+    <h3>Hashtags</h3>
     <p>The most popular hashtag over the 4 day period was #StopRacismAtPretoriaGirlsHigh with more that 65,000 mentions. #ZulaikhaPatel - the girl who became the icon of the day, standing with crossed fists in the air - was mentioned more than 650 times.This would likely have been higher if she was not a minor - many individuals did not name her for fear of backlash against her.
 </p>
 <div id="hashtag_mentions" style="width: 100%; float: left; margin: 1%;"></div>
-<h3>Gender Participation</h3>
+<h3>Gender Demographics</h3>
 <p>The gender split in the conversation is - perhaps surprisingly - very balanced.</p>
 <p class="centered-text"><div id="gender" style="width: 100%; float: left; margin: 1%;"></div></p>
 <p>There was very little discernable difference topics of discussion and the content shared by men and women. 
@@ -103,7 +103,7 @@ alt-image: "Pretoria Girls"
     </div>
 <div class='medium-8 large-8 columns'>
     <p>This issue, although focused on girls (and their hair) seems to be equally understood and important to both sexes</p>
-    <h3>Location</h3>
+    <h3>Geographical Demographics</h3>
     <p>Gauteng residents were by far the most active with 69.33% of all conversation about the protest originated from that province. Western Cape comes in second with only 11.77%</p><p>Only 22.24% came from Pretoria itself - Johannesburg posted 45.8% of the content.</p><p>Benoni makes the top 10 list, coming in at number 7 with 2.22%.</p>
 </div>
 <div class='medium-2 large-2 columns'>
