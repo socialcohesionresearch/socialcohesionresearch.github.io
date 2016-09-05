@@ -269,7 +269,7 @@ Although people were still discussing the bravery and power of the individuals i
 
 The gender split in this conversation is even more equally distributed between the sexes with 51% of the conversation being driven by women.
 </p>
-<p><img src="{{site.url}}/images/blog-images/afterglow.jpg" alt="Afterglow of protests"></p>
+<p><img src="{{site.url}}/images/blog-images/afterglow_traffic.jpg" alt="Afterglow of protests"></p>
 <h3>Conclusion</h3>
 <p>Questions for debate etc? Call to action to engage with us through Social Media channels?</p>
     </div>
