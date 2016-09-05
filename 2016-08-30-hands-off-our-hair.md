@@ -17,13 +17,13 @@ alt-image: "Pretoria Girls"
 	</div>
 <div class='medium-8 large-8 columns'>
     <h3>Overview</h3>
-<p>On Saturday, 27 August, high school students from Pretoria Girls held a peaceful protest during the school’s annual Spring Fair. The march was organised by some of the year 8 students but was joined by Tuks students, old-girls from Pretoria Girls High and members of the public. In response, the school called on armed police, private security and a K9 unit - which saw the situation receive considerable traditional media and social media attention.
+<p>On Saturday, 27 August, high school students from Pretoria Girls held a peaceful protest during the school’s annual Spring Fair. The march was organised by some of the grade 8 students but was joined by Tuks students, old-girls from Pretoria Girls High and members of the public. In response, the school called on armed police, private security and a K9 unit - which saw the situation receive considerable traditional media and social media attention.
 </p>
 <p><img src="{{site.url}}/images/blog-images/ptagirls_volume.jpg" alt="Pretoria Girls Growth In Social Media Volume"></p>
 <p>We analysed all South African social media from Friday 26 August to Monday 29 August and found 71,048 pieces of content related to the StopRacismAtPretoriaGirlsHigh issue - more than 99% of which were tweets.
 </p>
 <h3>Growth in Engagement</h3>
-<p>The engagement was at it’s lowest on the day of the protest with only 94 tweets, compared to 185 the day before. The issue quickly drew and the volumes increased on Sunday to 16,673 and again on Monday with 54,096.
+<p>The engagement was at it’s lowest on the day of the protest with only 94 tweets, compared to 185 the day before. The issue quickly grew and the volumes increased on Sunday to 16,673 and again on Monday with 54,096.
 </p>
 <p class="centered-text"><div id="growth" style="min-width: 275px; width: 100%; margin: 0 auto"></div></p>
 <p><img src="{{site.url}}/images/blog-images/sentiment.jpg" alt="Sentiment towards Pretoria Girls Protest on Social Media"></p>
@@ -68,7 +68,7 @@ alt-image: "Pretoria Girls"
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
-    <p>The most popular hashtags over the 4 day period was #StopRacismAtPretoriaGirlsHigh with more that 65,000 mentions. #ZulaikhaPatel - the girl who became the icon of the day, standing with crossed fists in the air in front of a greying, white, male superior - was mentioned more than 650 times.This would likely have been higher if she was not a minor as many individuals did not feel right about naming her for fear of backlash against her.
+    <p>The most popular hashtag over the 4 day period was #StopRacismAtPretoriaGirlsHigh with more that 65,000 mentions. #ZulaikhaPatel - the girl who became the icon of the day, standing with crossed fists in the air - was mentioned more than 650 times.This would likely have been higher if she was not a minor - many individuals did not name her for fear of backlash against her.
 </p>
 <div id="hashtag_mentions" style="width: 100%; float: left; margin: 1%;"></div>
 <h3>Gender Participation</h3>
@@ -102,7 +102,7 @@ alt-image: "Pretoria Girls"
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
-    <p>This issue, although focussed on girls (and their hair) seems to be equally understood and important to both sexes</p>
+    <p>This issue, although focused on girls (and their hair) seems to be equally understood and important to both sexes</p>
     <h3>Location</h3>
     <p>Gauteng residents were by far the most active with 69.33% of all conversation about the protest originated from that province. Western Cape comes in second with only 11.77%</p><p>Only 22.24% came from Pretoria itself - Johannesburg posted 45.8% of the content.</p><p>Benoni makes the top 10 list, coming in at number 7 with 2.22%.</p>
 </div>
@@ -250,21 +250,26 @@ alt-image: "Pretoria Girls"
         <div class='spacing'></div>
     </div>
 <div class='medium-8 large-8 columns'>
-    <h3>Sentiment</h3>
-    <p>Joy and Disgust were the two main emotions conveyed on Friday 26th and Saturday 27th. Anger and Sadness play a minor role on Friday however by Saturday Joy is the most prevalent emotion - people were inspired and impressed by the actions of these youths.
+    <h3>Emotion</h3>
+    <p>Joy and Disgust were the two main emotions conveyed on Friday 26th and Saturday 27th. Anger and Sadness play a minor role on Friday but by Saturday Joy is the most prevalent emotion - people were inspired and impressed by the actions of these youths.
 </p>
-<p><strong>Sentiment - 26th August</strong></p>
+<p><strong>Emotion - 26th August</strong></p>
 <p><img src="{{site.url}}/images/blog-images/26AugSentiment.jpg" alt="26 August Sentiment Pretoria Girls Protest"></p>
-<p><strong>Sentiment - 27th August</strong></p>
+<p><strong>Emotion - 27th August</strong></p>
 <p><img src="{{site.url}}/images/blog-images/27augsentiment.jpg" alt="27 August Sentiment Pretoria Girls Protest"></p>
 <p>This inspiration was however trumped in the following two days - 28 and 29 August - by disgust, anger, sadness and fear.</p><p>
 Although people were still discussing the bravery and power of the individuals involved, the conversation moved to the bigger issue of the pervasiveness of racism (subconscious, institutionalised or outright) in our schooling system.
 </p>
-<p><strong>Sentiment - 28th August</strong></p>
+<p><strong>Emotion - 28th August</strong></p>
 <p><img src="{{site.url}}/images/blog-images/28augsentiment.jpg" alt="28 August Sentiment Pretoria Girls Protest"></p>
-<p><strong>Sentiment - 29th August</strong></p>
+<p><strong>Emotion - 29th August</strong></p>
 <p><img src="{{site.url}}/images/blog-images/29augsentiment.jpg" alt="29 August Sentiment Pretoria Girls Protest"></p>
+<h3>Afterglow</h3>
+<p>We saw a 79% drop off in conversation volume from the 30th to the 31st of August with only 6,854 posts in total on the topic - 5,663 of which were posted on Tuesday the 30th.</p><p>
 
+The gender split in this conversation is even more equally distributed between the sexes with 51% of the conversation being driven by women.
+</p>
+<p><img src="{{site.url}}/images/blog-images/afterglow.jpg" alt="Afterglow of protests"></p>
 <h3>Conclusion</h3>
 <p>Questions for debate etc? Call to action to engage with us through Social Media channels?</p>
     </div>
