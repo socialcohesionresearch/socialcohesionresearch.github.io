@@ -298,7 +298,7 @@ Ministers and politicians have weighed in on the issue. Learners around the coun
         <div class='spacing'></div>
     </div>
     </div>
-    <div class="row">
+<div class="row">
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
