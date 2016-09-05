@@ -286,18 +286,60 @@ Ministers and politicians have weighed in on the issue. Learners around the coun
     </div>
 <div class='medium-4 large-4 columns'>
 <div class='spacing'></div>
-<p><img src="{{site.url}}/images/blog-images/afterglow_traffic.jpg" alt="Afterglow of protests"></p>
-<p><img src="{{site.url}}/images/blog-images/afterglow_traffic.jpg" alt="Afterglow of protests"></p>
+<p><img src="{{site.url}}/images/blog-images/webster-tweet.jpg" alt="Webster Tweet"></p>
+<p><img src="{{site.url}}/images/blog-images/solidarity-tweet.jpg" alt="Solidarity Tweet"></p>
     </div>
     <div class='medium-4 large-4 columns'>
 <div class='spacing'></div>
-<p><img src="{{site.url}}/images/blog-images/afterglow_traffic.jpg" alt="Afterglow of protests"></p>
-<p><img src="{{site.url}}/images/blog-images/afterglow_traffic.jpg" alt="Afterglow of protests"></p>
+<p><img src="{{site.url}}/images/blog-images/julius-tweet.jpg" alt="Julius Tweet"></p>
+<p><img src="{{site.url}}/images/blog-images/patel-tweet.jpg" alt="Patel Tweet"></p>
     </div>
         <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
     </div>
     </div>
+    <div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-4 large-4 columns'>
+<h3>The Bigger Issue</h3>
+<p>On face value, this protest was about dress codes and hair styles. Scratch the surface and it is clear that the politics of hair are the politics of race.</p><p>
+
+The deeper issue here lies with old institutions that are loathe to change outdated policies - policies that do not reflect the reality of our multicultural society.</p><p>
+
+Acknowledging difference, however minor, is essential to a functioning, inclusive democracy.</p><p>
+
+These girls are not asking to be above the rules, they are not protesting for their right to wear their hair the way they want, they are not asking to be allowed to be “untidy”. They are asking for recognition of the difference between black African hair and white African hair and for school policies that reflect that.
+</p>
+</div>
+<div class='medium-4 large-4 columns'>
+    <p><img src="{{site.url}}/images/blog-images/sk-tweet.jpg" alt="Sk Tweet"></p>
+    <p><img src="{{site.url}}/images/blog-images/nkoli-tweet.jpg" alt="Nkoli Tweet"></p>
+    <p><img src="{{site.url}}/images/blog-images/kendra-tweet.jpg" alt="Kendra Tweet"></p>
+    </div>
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
+<div class="row">
+<div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+<div class='medium-8 large-8 columns'>
+    <h3>Conclusion</h3>
+    <p>What this data really shows is the power of protest and the ability of South Africans to recognise the deeper issues. We saw emotions expressed on social media move from inspiration to anger, as the  arena of protest broadened.</p><p>
+
+Very quickly, it became about the racism of privilege and entitlement – structural and institutionalised racism.  It also became about pride, about African pride – pride in our hair, pride in our languages, pride in ourselves. 
+</p>
+ <p><img src="{{site.url}}/images/blog-images/zapiro.jpg" alt="Zapiro Pretoria Girls Cartoon"></p>
+ <p>And so the actions of a few brave schoolgirls have opened up crucial debates about who we are as Africans. We salute them!
+</p>
+    </div>
+    <div class='medium-2 large-2 columns'>
+        <div class='spacing'></div>
+    </div>
+</div>
 <div class="row">
 <div class='medium-2 large-2 columns'>
         <div class='spacing'></div>
