@@ -21,6 +21,10 @@
 - name: Digital Advocacy
   path: digital-advocacy-for-social-change.html
   section_id: Digital Advocacy
+  children:    
+    - name: Case Studies
+      path: digital-advocacy/digital-advocacy-case-studies.html
+      section_id: Case Studies
 - name: Public Reports
   path: public-reports.html
   section_id: Public Reports
