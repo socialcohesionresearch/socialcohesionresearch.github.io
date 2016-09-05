@@ -1,10 +1,10 @@
 ---
 layout: public_reports
 title: Hands Off Our Hair
-subtitle: Detangling Social Media data on the Pretoria Girls High School Protest
+subtitle: Detangling Social Media data on the Pretoria Girls' High School Protest
 date: "2016-09-05 20:37:53 +0800"
 author: The Citizen Research Centre
-excerpt: "Detangling Social Media data on the Pretoria Girls High School Protest"
+excerpt: "Detangling Social Media data on the Pretoria Girls' High School Protest"
 images: "images/pretoriagirls.jpg"
 categories: public_research
 ogimage: pretoriagirls.jpg
