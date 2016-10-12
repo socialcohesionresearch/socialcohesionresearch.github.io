@@ -892,3 +892,9 @@ p {
 .centered-text  {
   text-align: center;
 }
+@media only screen and (min-width: 60.063em)
+.contain-to-grid .top-bar {
+    max-width: 70rem;
+    margin: 0 auto;
+    margin-bottom: 0;
+}
