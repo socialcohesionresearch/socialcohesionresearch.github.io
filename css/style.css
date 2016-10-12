@@ -15,7 +15,10 @@ h1, h2, h3, h4 {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
-
+#half-width-header {
+  text-align: center;
+  width: 70%;
+}
 .full {
   padding: 60px 0;
   background-size: cover;
