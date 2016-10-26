@@ -892,3 +892,9 @@ p {
 .centered-text  {
   text-align: center;
 }
+#media-logo img {
+  filter: grayscale(100%);
+}
+#media-logo img:hover {
+  filter: grayscale(0%);
+}
