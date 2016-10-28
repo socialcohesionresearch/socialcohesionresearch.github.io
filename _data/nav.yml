@@ -8,6 +8,9 @@
       path: how-we-do-it.html
     - name: Where we work
       path: where-we-work.html
+- name: Media
+  path: media.html
+  section_id: Media
 - name: Projects
   path: projects.html
   section_id: projects
