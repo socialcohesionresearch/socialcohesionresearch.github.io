@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html class='no-js' lang='en'>
+    <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>
+  {% if page.title %}
+    {{ page.title }}
+  {% else %}
+    Citizen Research Centre
+  {% endif %}
+</title>
+      <meta content='width=device-width, initial-scale=1.0' name='viewport'>
+      {% if page.description %}
+  <meta name="description" content="{{page.description}}" />
+{% endif %}
+<meta name="keywords" content="Citizen Research Centre, Citizen, social media, research, data">
+
+            <script src="https://code.jquery.com/jquery-1.12.3.js"></script>
+      <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic|Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+      <link href='{{site.url}}/css/framework.css' rel='stylesheet'>
+      <link href='{{site.url}}/css/syntax.css' rel='stylesheet'>
+      <link href='{{site.url}}/css/style.css' rel='stylesheet'>
+      <link href='{{site.url}}/css/fontello.css' rel='stylesheet'>
+      <link href="https://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.css" rel="stylesheet">
+      <link href='{{site.url}}/css/footable.standalone.css' rel='stylesheet'>
+      <link href='{{site.url}}/css/tooltip.css' rel='stylesheet'>
+      <link rel="stylesheet" href="{{site.url}}/js/jvectormap/css/jquery-jvectormap-2.0.3.css" type="text/css" media="screen"/>
+  <script src="{{site.url}}/js/jvectormap/jquery-jvectormap-2.0.3.min.js"></script>
+  <script src="{{site.url}}/js/jvectormap/maps/africamap.js"></script>
+  <script src="{{site.url}}/js/jvectormap/data/africatweetdata.js"></script>
+  
+    <link rel='shortcut icon' href='{{ site.url }}/images/favicon.ico' type='image/x-icon'/ >
+      <script src='{{ site.url }}/js/modernizr.js'></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/string.js/3.3.1/string.min.js"></script>
+<meta property="og:title" content="{{page.title}}" />
+<meta property="og:type"   content="website" /> 
+<meta property="og:url" content="{{page.url}}" />
+<meta property="og:image" content="http://citizenresearchcentre.org/images/pageimage/{{page.ogimage}}" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@CRCEngage">
+<meta name="twitter:creator" content="@CRCEngage">
+<meta name="twitter:title" content="{{page.title}}">
+<meta name="twitter:description" content="{{page.description}}">
+<meta name="twitter:image" content="http://citizenresearchcentre.org/images/pageimage/{{page.ogimage}}">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-78200413-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84811065-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '990113427753673');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=990113427753673&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+    </head>
+    <body>
+      <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=1547518952146523";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</script>
+<script>window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
+ 
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
+ 
+  return t;
+}(document, "script", "twitter-wjs"));</script>
+</script>
+      
+      <div class='contain-to-grid sticky'>
+        <nav class='top-bar' data-options='sticky_on: large' data-topbar=''>
+          <ul class='title-area'>
+            <li class='name'>
+              <h1>
+                <a href="{{site.url}}/index.html"><img src='{{site.url}}/images/logo.jpg' alt="Citizen Research Centre" width="185"></a>
+              </h1>
+            </li>
+            <li class='toggle-topbar menu-icon'>
+              <a href='#'>Menu</a>
+            </li>
+          </ul>
+          <section class='top-bar-section'>
+            <ul class="right">
+              {% for item in site.data.nav %}
+                {% if item.section_id == page.section_id %}
+                  {% assign active_class = "active" %}
+                {% else %}
+                  {% assign active_class = "" %}
+                {% endif %}
+
+                {% if item.children %}
+                  <li class="has-dropdown {{active_class}}">
+                    <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>
+                    <ul class='dropdown'>
+                      {% for child in item.children %}
+                        <li>
+                          <a href="{{site.url}}/{{ child.path }}">{{ child.name }}</a>
+                        </li>
+                      {% endfor %}
+                    </ul>
+                  </li>
+                {% else %}
+                  <li class="{{active_class}}">
+                    <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </section>
+        </nav>
+      </div>
+
+
+      {{ content }}
+<div class='full_content_page' style='background: #ffffff' >
+<div class='row centered-text' >
+<a style="align: center;" href="https://www.facebook.com/Citizen-Research-Centre-906640619455065/?ref=br_rs" class='button_dark boxed' target="_blank"><i class='icon-facebook'></i>Like our Facebook page</a>
+</div></div>
+      <div class='footer centered-text'>
+        <div class='spacing'></div>
+        <div class='row'>
+          <div class='large-12 columns'></div>
+            <img src='{{site.url}}/images/footer_logo.png' alt='Citizen Research Centre' width="50">
+            <h3><a href="mailto:info@citizenresearchcentre.org">info@citizenresearchcentre.org</a></h3>
+            <br>
+          <p class='copyright'>Copyright 2016 Citizen Research Centre</p><p class='copyright' style="font-size: 9px; color: #fff;">Developed by <a href="http://thebrandconsultant.co.za">The Brand Consultant</a></p>
+        </div>
+      </div>
+
+
+      <script src='{{ site.url }}/js/foundation.min.js'></script>
+      <script src='{{ site.url }}/js/jquery.countTo.js'></script>
+      <script src='{{ site.url }}/js/jquery.appear.js'></script>
+      <script src='{{ site.url }}/js/app.js'></script>
+            <script src='{{ site.url }}/js/footable.min.js'></script>
+      <script src='{{ site.url }}/js/footable.js'></script>
+      <script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+ <script src='{{ site.url }}/js/animate.js'></script>
+    </body>
+</html>
