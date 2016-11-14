@@ -21,13 +21,10 @@
     - name: Social Cohesion Index
       path: social-cohesion-index.html
       section_id: social cohesion index
-- name: Digital Advocacy
-  path: 
+- name: Digital Advocacy for Social Change
+  path: digital-advocacy-for-social-change.html
   section_id: Digital Advocacy
   children:    
-    - name: Overview of Digital Advocacy for Social Change
-      path: digital-advocacy-for-social-change.html
-      section_id: Digital Advocacy
     - name: Case Studies
       path: digital-advocacy/digital-advocacy-case-studies.html
       section_id: Case Studies
