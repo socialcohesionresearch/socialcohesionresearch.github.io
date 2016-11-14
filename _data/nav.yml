@@ -21,7 +21,7 @@
     - name: Social Cohesion Index
       path: social-cohesion-index.html
       section_id: social cohesion index
-- name: Digital Advocacy for Social Change
+- name: Digital Advocacy
   path: digital-advocacy-for-social-change.html
   section_id: Digital Advocacy
   children:    
