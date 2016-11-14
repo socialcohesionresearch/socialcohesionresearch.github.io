@@ -22,7 +22,7 @@
       path: social-cohesion-index.html
       section_id: social cohesion index
 - name: Digital Advocacy
-  path: digital-advocacy-for-social-change.html
+  path: 
   section_id: Digital Advocacy
   children:    
     - name: Overview of Digital Advocacy for Social Change
