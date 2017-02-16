@@ -67,16 +67,56 @@ text-align: center;
     margin-right: 25%;
     width: 50%;
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 700px) {
     h1 {
         font-size: 15px;
     }
     #largescreen {
         display:none;
     }
+    #smallerscreen {
+        display:none;
+    }
+    #smallestscreen {
+        display:none;
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    h1 {
+        font-size: 15px;
+    }
+    #largescreen {
+        display:none;
+    }
+     #smallscreen {
+        display:none;
+    }
+    #smallestscreen {
+        display:none;
+    }
+  }
+  @media only screen and (max-width: 300px) {
+    h1 {
+        font-size: 15px;
+    }
+    #largescreen {
+        display:none;
+    }
+     #smallscreen {
+        display:none;
+    }
+    #smallerscreen {
+        display:none;
+    }
   }
   @media only screen and (min-width: 500px) {
     #smallscreen {
+        display:none;
+    }
+    #smallerscreen {
+        display:none;
+    }
+    #smallestscreen {
         display:none;
     }
   }
@@ -232,6 +272,12 @@ The following are pertinent with regard to Implementation and moving from Implem
 </div>
 <div id="smallscreen">
 <iframe src="https://docs.google.com/presentation/d/1ULjmLVdgKARG1zbeklbKB-uYVK24uYwdc5pWvLa5-zo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+<div id="smallerscreen">
+<iframe src="https://docs.google.com/presentation/d/1ULjmLVdgKARG1zbeklbKB-uYVK24uYwdc5pWvLa5-zo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+<div id="smallestscreen">
+<iframe src="https://docs.google.com/presentation/d/1ULjmLVdgKARG1zbeklbKB-uYVK24uYwdc5pWvLa5-zo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="200" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 <br><br>
 <h3>Cost and Considerations:</h3>
