@@ -454,7 +454,7 @@ Our search showed the following:
 <img src="https://lh5.googleusercontent.com/8fYzIyre4__Cp2CYDpDtNx7OmyBXIlTXy-7bte5pudiL5FysqhPmPJtZCibN6iIyx4owsmypDz5MsIE=w1366-h638-rw">
  <div class='two spacing'></div>
 <strong>The Mexican Wall: Anti Wall Gender, Age and State Breakdown</strong>
-<div id="gender" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+<div id="gender" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
 <h3><strong>Monitoring and Evaluation:</strong></h3>
 <p>The Monitoring and Evaluation Phase is Ongoing
 </p>
@@ -589,44 +589,50 @@ We are reliably informed by Crimson Hexagon themselves that we are the only orga
 
 
 
-
-
 <script>
-Highcharts.chart('gender', {
-    chart: {
-        plotBackgroundColor: null,
-        plotBorderWidth: null,
-        plotShadow: false,
-        type: 'pie'
-    },
-    title: {
-        text: 'Gender (4m Posts - 50% have indentifiable gender.)'
-    },
-    tooltip: {
-        pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
-    },
-    plotOptions: {
-        pie: {
-            allowPointSelect: true,
-            cursor: 'pointer',
-            dataLabels: {
-                enabled: true,
-                format: '<b>{point.name}</b>: {point.percentage:.1f} %',
-                style: {
-                    color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+  $(function () {
+
+    $(document).ready(function () {
+
+        // Build the chart
+        $('#gender').highcharts({
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
+            },
+            title: {
+                text: 'Gender (4m Posts - 50% have indentifiable gender.) '
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    size: '80%',
+                    dataLabels: {
+                        enabled: true
+                    },
+                    showInLegend: false
                 }
-            }
-        }
-    },
-    series: [{
-        name: 'Brands',
-        colorByPoint: true,
-        data: [{
-            name: 'Male',
-            y: 53
-        }, {
-            name: 'Female',
-            y: 47
-        }]
-    }]
-});</script>
+            },
+            series: [{
+                name: '% of Brexit Conversation',
+                colorByPoint: true,
+                data: [{
+                    name: 'Male',
+                    color: '#26B8EB',
+                    y: 53
+                }, {
+                    name: 'Female',
+                    color: '#333333',
+                    y: 47
+                }]
+            }]
+        });
+    });
+});
+  </script>
