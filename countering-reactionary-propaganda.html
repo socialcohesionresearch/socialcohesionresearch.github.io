@@ -453,8 +453,12 @@ Our search showed the following:
       <strong>The Mexican Wall: Anti Wall Timeline and Word Wheel</strong>
 <img src="https://lh5.googleusercontent.com/8fYzIyre4__Cp2CYDpDtNx7OmyBXIlTXy-7bte5pudiL5FysqhPmPJtZCibN6iIyx4owsmypDz5MsIE=w1366-h638-rw">
  <div class='two spacing'></div>
+  <div class='two spacing'></div>
 <strong>The Mexican Wall: Anti Wall Gender, Age and State Breakdown</strong>
 <div id="gender" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
+ <div class='two spacing'></div>
+<div id="volage" style="min-width: 275px; height: 400px; margin: 0 auto"></div>
+
 <h3><strong>Monitoring and Evaluation:</strong></h3>
 <p>The Monitoring and Evaluation Phase is Ongoing
 </p>
@@ -627,7 +631,7 @@ We are reliably informed by Crimson Hexagon themselves that we are the only orga
                     color: '#26B8EB',
                     y: 53
                 }, {
-                    name: 'Female *47%)',
+                    name: 'Female (47%)',
                     color: '#333333',
                     y: 47
                 }]
@@ -636,3 +640,58 @@ We are reliably informed by Crimson Hexagon themselves that we are the only orga
     });
 });
   </script>
+  <script>
+$(function () {
+    $('#volage').highcharts({
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: 'Age'
+        },
+        xAxis: {
+            categories: [
+                'Age Groups'
+            ],
+            crosshair: true
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Volume of Tweets'
+            }
+        },
+        tooltip: {
+            valueSuffix: ''
+        },
+        plotOptions: {
+            column: {
+                pointPadding: 0.2,
+                borderWidth: 0
+            }
+        },
+        series: [{
+            name: '17 & below',
+            data: [30000],
+            color: '#F9A61C'
+
+        }, {
+            name: '18-24',
+            data: [70000],
+            color: '#333333'
+
+        }, {
+            name: '25-34',
+            data: [34000],
+            color: '#26B8EB'
+
+        },
+        {
+            name: '35 & above',
+            data: [950000],
+            color: '#868686'
+
+        }]
+    });
+});
+</script>
