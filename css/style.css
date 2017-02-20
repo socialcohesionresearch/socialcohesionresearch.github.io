@@ -898,6 +898,9 @@ p {
 #media-logo img:hover {
   filter: grayscale(0%);
 }
-#blueheader {
-  color: #2e74b5;
+#blueheader h3 {
+  color: #2e74b5!important;
+}
+#orange-ul {
+
 }
