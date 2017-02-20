@@ -902,7 +902,7 @@ p {
   color: #2e74b5!important;
 }
 #report ul {list-style: none}
-#report li::before {content: "◉"; color: #f9a61a}
-#report li::before {content: "◉"; color: #f9a61a;
+#report ul li::before {content: "•"; color: #f9a61a}
+#report ul li::before {content: "•"; color: #f9a61a;
   display: inline-block; width: 2em;
   margin-left: -2em}
