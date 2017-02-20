@@ -901,6 +901,8 @@ p {
  h3.blueheader  {
   color: #2e74b5!important;
 }
-#orange-ul {
-
-}
+#report ul {list-style: none}
+#report li::before {content: "•"; color: red}
+#report li::before {content: "•"; color: red;
+  display: inline-block; width: 1em;
+  margin-left: -1em}
