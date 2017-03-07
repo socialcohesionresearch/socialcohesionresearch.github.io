@@ -906,3 +906,24 @@ p {
 #report ul li::before {content: "•"; color: #f9a61a;
   display: inline-block; width: 2em;
   margin-left: -2em}
+
+  @media screen and (max-width: 600px) {
+  #pressiediv {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
+  @media screen and (min-width: 600px) {
+  #pressiediv2 {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
