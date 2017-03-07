@@ -923,14 +923,14 @@ p {
   #xmed { display: none; }
   #xsmall { display: block; }
 }
-#pressie {
+.pressie {
     position: relative;
     padding-bottom: 56.25%;
     padding-top: 35px;
     height: 0;
     overflow: hidden;
 }
-#pressie iframe {
+.pressie iframe {
     position: absolute;
     top:0;
     left: 0;
