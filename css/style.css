@@ -915,7 +915,7 @@ p {
 
 }
 
-@media all and (max-width: 720px) {
+@media all and (min-width: 479px) and (max-width: 720px) {
 
     .contentpressie .xlarge{display:none;}
     .contentpressie .xmed{display:block;}
