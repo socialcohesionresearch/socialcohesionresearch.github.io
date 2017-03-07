@@ -909,24 +909,24 @@ p {
 
 @media all and (min-width: 959px) {
 
-    .contentpressie .x700{display:block;}
-    .contentpressie .x490{display:none;}
-    .contentpressie .x290{display:none;}
+    .contentpressie .xlarge{display:block;}
+    .contentpressie .xmed{display:none;}
+    .contentpressie .xsmall{display:none;}
 
 }
 
 @media all and (max-width: 720px) {
 
-    .contentpressie .x700{display:none;}
-    .contentpressie .x490{display:block;}
-    .contentpressie .x290{display:none;}
+    .contentpressie .xlarge{display:none;}
+    .contentpressie .xmed{display:block;}
+    .contentpressie .xsmall{display:none;}
 
 }
 
 @media all and (max-width: 479px) {
 
-    .contentpressie .x700{display:none;}
-    .contentpressie .x490{display:none;}
-    .contentpressie .x290{display:block;}
+    .contentpressie .xlarge{display:none;}
+    .contentpressie .xmed{display:none;}
+    .contentpressie .xsmall{display:block;}
 
 }
