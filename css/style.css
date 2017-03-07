@@ -907,7 +907,7 @@ p {
   display: inline-block; width: 2em;
   margin-left: -2em}
 
-@media all and (min-width: 959px) {
+@media all and (min-width: 721px) {
 
     .contentpressie .xlarge{display:block;}
     .contentpressie .xmed{display:none;}
