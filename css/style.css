@@ -907,7 +907,7 @@ p {
   display: inline-block; width: 2em;
   margin-left: -2em}
 
-  @media screen and (max-width: 600px) {
+  @media (max-width: 600px) {
   #pressiediv {
     visibility: hidden;
     clear: both;
@@ -917,7 +917,7 @@ p {
     display: none;
   }
 }
-  @media screen and (min-width: 600px) {
+  @media (min-width: 600px) {
   #pressiediv2 {
     visibility: hidden;
     clear: both;
