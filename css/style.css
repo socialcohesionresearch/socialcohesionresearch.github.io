@@ -909,21 +909,11 @@ p {
 
   @media (max-width: 600px) {
   #pressiediv {
-    visibility: hidden;
-    clear: both;
-    float: left;
-    margin: 10px auto 5px 20px;
-    width: 28%;
     display: none;
   }
 }
   @media (min-width: 600px) {
   #pressiediv2 {
-    visibility: hidden;
-    clear: both;
-    float: left;
-    margin: 10px auto 5px 20px;
-    width: 28%;
     display: none;
   }
 }
