@@ -907,13 +907,26 @@ p {
   display: inline-block; width: 2em;
   margin-left: -2em}
 
-  @media (max-width: 600px) {
-  #pressiediv {
-    display: none;
-  }
+@media all and (max-width: 959px) {
+
+    .contentpressie .x700{display:block;}
+    .contentpressie .x490{display:none;}
+    .contentpressie .x290{display:none;}
+
 }
-  @media (min-width: 600px) {
-  #pressiediv2 {
-    display: none;
-  }
+
+@media all and (max-width: 720px) {
+
+    .contentpressie .x700{display:none;}
+    .contentpressie .x490{display:block;}
+    .contentpressie .x290{display:none;}
+
+}
+
+@media all and (max-width: 479px) {
+
+    .contentpressie .x700{display:none;}
+    .contentpressie .x490{display:none;}
+    .contentpressie .x290{display:block;}
+
 }
