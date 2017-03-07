@@ -907,18 +907,18 @@ p {
   display: inline-block; width: 2em;
   margin-left: -2em}
 
-  @media all and (min-width: 721px) {
+  @media (min-width: 721px) {
   #xlarge  { display: block; }
   #xmed { display: none; }
   #xsmall { display: none; }
 }
 
-  @media all and (min-width: 479px) and (max-width: 720px) {
+  @media (min-width: 479px) and (max-width: 720px) {
   #xlarge  { display: none; }
   #xmed { display: block; }
   #xsmall { display: none; }
 }
-  @media all and (max-width: 479px) {
+  @media (max-width: 479px) {
   #xlarge  { display: none; }
   #xmed { display: none; }
   #xsmall { display: block; }
