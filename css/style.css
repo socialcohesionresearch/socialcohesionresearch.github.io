@@ -907,7 +907,7 @@ p {
   display: inline-block; width: 2em;
   margin-left: -2em}
 
-@media all and (min-width: 721px) {
+@media (min-width: 721px) {
 
     .contentpressie .xlarge{display:block;}
     .contentpressie .xmed{display:none;}
@@ -915,7 +915,7 @@ p {
 
 }
 
-@media all and (min-width: 479px) and (max-width: 720px) {
+@media (min-width: 479px) and (max-width: 720px) {
 
     .contentpressie .xlarge{display:none;}
     .contentpressie .xmed{display:block;}
@@ -923,7 +923,7 @@ p {
 
 }
 
-@media all and (max-width: 479px) {
+@media (max-width: 479px) {
 
     .contentpressie .xlarge{display:none;}
     .contentpressie .xmed{display:none;}
