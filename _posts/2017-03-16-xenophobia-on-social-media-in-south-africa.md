@@ -22,7 +22,7 @@ This is a work in progress – we intend releasing our Xenophobia on Social Medi
 </p><p>
 Our method is discussed at the end of this document, and a full PowerPoint version of this report is available here:
 </p><p>
-&lt;add link&gt;
+<a class="button_dark" href="http://citizenresearchcentre.org/Xenophobia-on-Social-Media-public-report.pdf"></a>
 </p><p>
 We provided the following:
 </p><p>
