@@ -2,7 +2,7 @@
 layout: public_reports
 title: Xenophobia on Social Media in South Africa
 subtitle: Unpacking Social Media data on Xenophobia in South Africa
-date: "2016-09-05 20:37:53 +0800"
+date: "2017-03-16 05:37:53 +0800"
 author: The Citizen Research Centre
 excerpt: "Unpacking Social Media data on Xenophobia in South Africa"
 images: "images/xenophobe.png"
