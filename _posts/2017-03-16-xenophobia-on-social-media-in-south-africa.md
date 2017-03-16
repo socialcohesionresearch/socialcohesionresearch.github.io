@@ -20,9 +20,9 @@ alt-image: "Xenophobia Research South Africa"
 </p><p>
 This is a work in progress – we intend releasing our Xenophobia on Social Media Monitor shortly – this will provide year by year view of xenophobia on social media in SA – from 2011-2016.
 </p><p>
-Our method is discussed at the end of this document, and a full PowerPoint version of this report is available here:
+Our method is discussed at the end of this document, and a full PDF version of this report is available here:
 </p><p>
-<a class="button_dark" href="http://citizenresearchcentre.org/Xenophobia-on-Social-Media-public-report.pdf"></a>
+<a style="text-align: center;" class="button_dark" href="http://citizenresearchcentre.org/Xenophobia-on-Social-Media-public-report.pdf">View Full Report</a>
 </p><p>
 We provided the following:
 </p><p>
