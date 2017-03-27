@@ -15,6 +15,9 @@
   path: projects.html
   section_id: projects
   children:    
+    - name: Xenophobia on Social Media in South Africa
+      path: xenophobia-on-social-media-in-south-africa.html
+      section_id: Xenophobia report
     - name: Twitter Index
       path: africa-twitter-index.html
       section_id: twitter index
