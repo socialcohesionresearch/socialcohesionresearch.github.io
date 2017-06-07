@@ -1,0 +1,37 @@
+---
+layout: default
+title: Shout-it-now
+section_id: Shout it Now
+ogimage: digital_advocate.jpg
+description: Shout it now ---
+
+<div class='full_content_page bg-7' >
+  <div class='row'>
+    <div class='special-title centered-text'>
+      <i class='icon-cog'></i>
+      <h2>Shout-it-Now</h2>
+      <p>Phase 1: Understanding the macro-context</p>
+      <p class='shortline'></p>
+    </div>
+    <div class='spacing'></div>
+    <div class='spacing'></div>
+  </div>
+  </div>
+  <div class='full_content_page' style='background: #ffffff' >
+  <div class='row'>
+  <div class='two spacing'></div> 
+    <div class='medium-2 large-2 columns'>
+       <div class='two spacing'></div> 
+    </div>
+    <div class='medium-8 large-8 columns'>
+    </div>
+<div class='medium-2 large-2 columns'>
+       <div class='two spacing'></div> 
+    </div>
+    </div>
+<div class='row'>
+      <div class='medium-12 large-12 columns centered-text'>
+<h3>Get in contact with us for more information:</h3><h3><a class='button_dark boxed' href="{{site.url}}/contact.html">Drop us an email</a></h3>
+    </div>
+  </div>
+</div>
